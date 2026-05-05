@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CACI
-*Generated: 2026-05-04 06:53 | Price: $513.29 | Mkt Cap: $11B*
+*Generated: 2026-05-05 06:35 | Price: $513.58 | Mkt Cap: $11B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -36,7 +36,7 @@ Technology / Information Technology Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Information Technology Services
-- **Margin of Safety**: -6% — ABSENT ($513 > IV $485 at 20x for 18% growth)
+- **Margin of Safety**: -6% — ABSENT ($514 > IV $485 at 20x for 18% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.3% insider ownership
 - **Mr. Market**: Neutral

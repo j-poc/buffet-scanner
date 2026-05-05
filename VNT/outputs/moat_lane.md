@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VNT
-*Generated: 2026-05-04 06:55 | Price: $35.16 | Mkt Cap: $5B*
+*Generated: 2026-05-05 06:31 | Price: $34.79 | Mkt Cap: $5B*
 
 ## Sector Context
 Technology / Scientific & Technical Instruments
@@ -23,7 +23,7 @@ Technology / Scientific & Technical Instruments
 | Quality | 3.7/10 | 30% | 1.1 | Avg ROIC: 14.2% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 54% (moderate cyclicality); FCF/NI: 90% (strong); Gross margin: 47% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 47% — moderate moat for Technology; Operating margin 19% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.3x — deep value; Near 52w low (14% of range) — Mr. Market fearful; Owner earnings yield: 7.0% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.2x — deep value; Near 52w low (11% of range) — Mr. Market fearful; Owner earnings yield: 7.1% (>5%) | - |
 | **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
 ## Buffett Score: 5.7 / 10

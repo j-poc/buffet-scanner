@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: T
-*Generated: 2026-05-04 06:46 | Price: $26.12 | Mkt Cap: $181B*
+*Generated: 2026-05-05 06:23 | Price: $26.1 | Mkt Cap: $181B*
 
 ## Sector Context
 Communication Services / Telecom Services

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TFSL
-*Generated: 2026-05-04 06:58 | Price: $15.03 | Mkt Cap: $4B*
+*Generated: 2026-05-05 06:33 | Price: $14.92 | Mkt Cap: $4B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -23,11 +23,11 @@ Financial Services / Banks - Regional
 | Quality | 3.5/10 | 30% | 1.1 | ROE: 4.9% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 43% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 82.0% of shares (SBC concern) | - |
 | Moat | 5.5/10 | 25% | 1.4 | ROE 5% — weak (Financial Services); Operating margin 39% — durable for Financial Services | Weak pricing |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 40.6x — expensive; Near 52w high (86% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 40.3x — expensive; 52w range position: 78%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
-## Buffett Score: 3.8 / 10
-## Alpha Adjustment: -0.22
+## Buffett Score: 4.0 / 10
+## Alpha Adjustment: -0.20
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -39,7 +39,7 @@ Financial Services / Banks - Regional
 - **Margin of Safety**: -56% — ABSENT ($15 > IV $7 at 20x for 14% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (0 forces only: none)
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.22 applied to composite alpha score
+Buffett Premium: -0.20 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

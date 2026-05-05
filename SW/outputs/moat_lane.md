@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SW
-*Generated: 2026-05-04 06:50 | Price: $39.43 | Mkt Cap: $21B*
+*Generated: 2026-05-05 06:34 | Price: $37.97 | Mkt Cap: $20B*
 
 ## Sector Context
 Consumer Cyclical / Packaging & Containers
@@ -21,9 +21,9 @@ Consumer Cyclical / Packaging & Containers
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 7.7% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 69% from prior peak; 5y price drawdown: 55% (moderate cyclicality); FCF/NI: 76%; Gross margin: 19% (below Consumer Cyclical norm) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 19% — below Consumer Cyclical moderate cutoff 30%; Operating margin 7% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.5x — deep value; 52w range position: 34%; Owner earnings yield: 6.6% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.0x — deep value; Near 52w low (26% of range) — Mr. Market fearful; Owner earnings yield: 6.8% (>5%) | - |
 | **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
 ## Buffett Score: 4.0 / 10
@@ -36,10 +36,10 @@ Consumer Cyclical / Packaging & Containers
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Packaging & Containers
-- **Margin of Safety**: -73% — ABSENT ($39 > IV $11 at 15x for -84% growth)
+- **Margin of Safety**: -73% — ABSENT ($38 > IV $10 at 15x for -84% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

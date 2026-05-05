@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: H
-*Generated: 2026-05-04 06:55 | Price: $163.73 | Mkt Cap: N/A*
+*Generated: 2026-05-05 06:30 | Price: $159.12 | Mkt Cap: $15B*
 
 ## Sector Context
 Consumer Cyclical / Lodging
@@ -21,9 +21,9 @@ Consumer Cyclical / Lodging
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 104% from prior peak; 5y price drawdown: 37% (stable); FCF/NI: 27% (weak conversion); Gross margin: 43% | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.3% (low); Insider activity: 0B/0S last 6m | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.8% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 43% — moderate moat for Consumer Cyclical; Operating margin 17% — durable for Consumer Cyclical | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 34.8x — expensive; 52w range position: 72%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 34.3x — expensive; 52w range position: 64%; Owner earnings yield: 2.3%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
 ## Buffett Score: 4.0 / 10

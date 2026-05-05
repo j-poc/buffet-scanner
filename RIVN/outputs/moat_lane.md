@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RIVN
-*Generated: 2026-05-04 07:00 | Price: $15.02 | Mkt Cap: $20B*
+*Generated: 2026-05-05 06:35 | Price: $14.51 | Mkt Cap: $19B*
 
 ## Sector Context
 Consumer Cyclical / Auto Manufacturers
@@ -23,7 +23,7 @@ Consumer Cyclical / Auto Manufacturers
 | Quality | 1.0/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: -31.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 95% (severe cyclicality); FCF/NI: 83% (strong); Gross margin: 1% (below Consumer Cyclical norm) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 33.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 36.8% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 1% — below Consumer Cyclical moderate cutoff 30%; Operating margin -64% — thin for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -7.9x — deep value; 52w range position: 31% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -7.7x — deep value; Near 52w low (26% of range) — Mr. Market fearful | - |
 | **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
 ## Buffett Score: 5.3 / 10
@@ -39,7 +39,7 @@ Consumer Cyclical / Auto Manufacturers
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 33.2% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

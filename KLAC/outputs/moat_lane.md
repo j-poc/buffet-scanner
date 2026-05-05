@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KLAC
-*Generated: 2026-05-04 06:49 | Price: $1726.26 | Mkt Cap: $227B*
+*Generated: 2026-05-05 06:25 | Price: $1713.32 | Mkt Cap: $224B*
 
 ## Sector Context
 Technology / Semiconductor Equipment & Materials
@@ -21,9 +21,9 @@ Technology / Semiconductor Equipment & Materials
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 34.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 40% (moderate cyclicality); FCF/NI: 98% (strong); Gross margin: 61% (pricing power for Technology) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 61% vs sector strong cutoff 60% — strong pricing power; Operating margin 41% — durable for Technology | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 34.8x — expensive; 52w range position: 83%; Owner earnings yield: 1.3%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 34.5x — expensive; 52w range position: 82%; Owner earnings yield: 1.3%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
 ## Buffett Score: 6.5 / 10
@@ -36,7 +36,7 @@ Technology / Semiconductor Equipment & Materials
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductor Equipment & Materials
-- **Margin of Safety**: -59% — ABSENT ($1726 > IV $708 at 20x for 12% growth)
+- **Margin of Safety**: -59% — ABSENT ($1713 > IV $702 at 20x for 12% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

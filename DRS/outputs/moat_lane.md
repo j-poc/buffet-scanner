@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DRS
-*Generated: 2026-05-04 07:01 | Price: $40.03 | Mkt Cap: $11B*
+*Generated: 2026-05-05 06:37 | Price: $40.0 | Mkt Cap: $11B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -36,7 +36,7 @@ Industrials / Aerospace & Defense
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Aerospace & Defense
-- **Margin of Safety**: -49% — ABSENT ($40 > IV $21 at 20x for 12% growth)
+- **Margin of Safety**: -48% — ABSENT ($40 > IV $21 at 20x for 12% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Aligned — 71.7% insider ownership
 - **Mr. Market**: Neutral

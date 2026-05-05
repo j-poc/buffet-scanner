@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NXST
-*Generated: 2026-05-04 06:55 | Price: $202.37 | Mkt Cap: $6B*
+*Generated: 2026-05-05 06:31 | Price: $199.19 | Mkt Cap: $6B*
 
 > ⚠ DATA: yfinance misclassified Dimensional Fund Advisors LP (4.6% inst.) as insider
 
@@ -23,9 +23,9 @@ Communication Services / Broadcasting
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.9/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 9.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 89% from prior peak; 5y price drawdown: 36% (stable); FCF/NI: 302% (strong); Gross margin: 55% (pricing power for Communication Services) | ROIC declining |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.1% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.7% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 55% vs sector strong cutoff 55% — strong pricing power; Operating margin 20% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.3x — deep value; 52w range position: 50%; Owner earnings yield: 15.3% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.1x — deep value; 52w range position: 46%; Owner earnings yield: 15.5% (>5%) | - |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
 ## Buffett Score: 5.1 / 10
@@ -38,7 +38,7 @@ Communication Services / Broadcasting
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Broadcasting
-- **Margin of Safety**: -78% — ABSENT ($202 > IV $45 at 15x for -13% growth)
+- **Margin of Safety**: -78% — ABSENT ($199 > IV $44 at 15x for -13% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

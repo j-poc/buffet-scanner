@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PCTY
-*Generated: 2026-05-04 07:00 | Price: $109.6 | Mkt Cap: $6B*
+*Generated: 2026-05-05 06:31 | Price: $109.03 | Mkt Cap: $6B*
 
 ## Sector Context
 Technology / Software - Application
@@ -36,7 +36,7 @@ Technology / Software - Application
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Application
-- **Margin of Safety**: -3% — ABSENT ($110 > IV $106 at 25x for 25% growth)
+- **Margin of Safety**: -3% — ABSENT ($109 > IV $106 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 19.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

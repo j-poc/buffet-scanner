@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BRO
-*Generated: 2026-05-04 06:46 | Price: $57.63 | Mkt Cap: $20B*
+*Generated: 2026-05-05 06:24 | Price: $57.64 | Mkt Cap: $20B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (11.1% inst.) as insider
 
@@ -25,7 +25,7 @@ Financial Services / Insurance Brokers
 | Quality | 6.0/10 | 30% | 1.8 | ROE: 11.9% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 53% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 13.8% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 12% — adequate (Financial Services); Operating margin 47% — durable for Financial Services; Rev growth 36% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.8x — deep value; Near 52w low (0% of range) — Mr. Market fearful; Owner earnings yield: 7.8% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.8x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 7.8% (>5%) | - |
 | **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
 ## Buffett Score: 6.5 / 10

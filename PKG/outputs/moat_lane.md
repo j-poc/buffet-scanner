@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PKG
-*Generated: 2026-05-04 06:50 | Price: $218.06 | Mkt Cap: $19B*
+*Generated: 2026-05-05 06:26 | Price: $218.06 | Mkt Cap: $19B*
 
 ## Sector Context
 Consumer Cyclical / Packaging & Containers

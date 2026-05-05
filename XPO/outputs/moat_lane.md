@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: XPO
-*Generated: 2026-05-04 06:59 | Price: $215.28 | Mkt Cap: $25B*
+*Generated: 2026-05-05 06:28 | Price: $199.95 | Mkt Cap: $23B*
 
 ## Sector Context
 Industrials / Trucking
@@ -23,11 +23,11 @@ Industrials / Trucking
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: 9.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 72% from prior peak; 5y price drawdown: 53% (moderate cyclicality); FCF/NI: -74% (weak conversion); Gross margin: 19% (below Industrials norm) | - |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 2.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 11.8% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 19% — below Industrials moderate cutoff 22%; Operating margin 9% | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 36.3x — expensive; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 1.3%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **2.8/10** | **100%** | **2.8** | | |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 33.7x — expensive; 52w range position: 75%; Owner earnings yield: 1.4%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **3.0/10** | **100%** | **3.0** | | |
 
-## Buffett Score: 2.8 / 10
-## Alpha Adjustment: -0.29
+## Buffett Score: 3.0 / 10
+## Alpha Adjustment: -0.28
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -36,10 +36,10 @@ Industrials / Trucking
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Trucking
-- **Margin of Safety**: -66% — ABSENT ($215 > IV $73 at 25x for 25% growth)
+- **Margin of Safety**: -66% — ABSENT ($200 > IV $68 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 2.0% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (0 forces only: none)
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.29 applied to composite alpha score
+Buffett Premium: -0.28 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

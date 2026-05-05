@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: QSR
-*Generated: 2026-05-04 06:52 | Price: $80.03 | Mkt Cap: $37B*
+*Generated: 2026-05-05 06:28 | Price: $80.05 | Mkt Cap: $37B*
 
 ## Sector Context
 Consumer Cyclical / Restaurants

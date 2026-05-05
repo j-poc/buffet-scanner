@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CLX
-*Generated: 2026-05-04 06:47 | Price: $87.11 | Mkt Cap: $11B*
+*Generated: 2026-05-05 06:24 | Price: $86.48 | Mkt Cap: $10B*
 
 ## Sector Context
 Consumer Defensive / Household & Personal Products
@@ -20,10 +20,10 @@ Consumer Defensive / Household & Personal Products
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 18.3% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 68% from prior peak; 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 252% (strong); Gross margin: 44% | - |
+| Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 18.3% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 68% from prior peak; 5y price drawdown: 46% (moderate cyclicality); FCF/NI: 252% (strong); Gross margin: 44% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 44% — moderate moat for Consumer Defensive; Operating margin 17% — durable for Consumer Defensive | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.8x — deep value; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 0.7% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.7x — deep value; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 0.6% | - |
 | **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
 
 ## Buffett Score: 6.7 / 10

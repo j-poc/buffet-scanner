@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NU
-*Generated: 2026-05-04 06:51 | Price: $14.44 | Mkt Cap: $70B*
+*Generated: 2026-05-05 06:28 | Price: $14.16 | Mkt Cap: $69B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.9% inst.) as insider
 
@@ -25,7 +25,7 @@ Financial Services / Banks - Regional
 | Quality | 5.5/10 | 30% | 1.6 | ROE: 30.3% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 72% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.1% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | ROE 30% — strong franchise (Financial Services); Operating margin 52% — durable for Financial Services; Rev growth 44% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.6x — deep value; 52w range position: 38% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.3x — deep value; 52w range position: 34% | - |
 | **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
 
 ## Buffett Score: 6.8 / 10
@@ -38,7 +38,7 @@ Financial Services / Banks - Regional
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Regional
-- **Margin of Safety**: 0% — thin (IV $14 at 25x)
+- **Margin of Safety**: 1% — thin (IV $14 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

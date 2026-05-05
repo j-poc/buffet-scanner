@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DAR
-*Generated: 2026-05-04 06:53 | Price: $63.77 | Mkt Cap: $10B*
+*Generated: 2026-05-05 06:35 | Price: $64.38 | Mkt Cap: $10B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods
@@ -23,7 +23,7 @@ Consumer Defensive / Packaged Foods
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 6.8% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 91% from prior peak; 5y price drawdown: 68% (severe cyclicality); FCF/NI: 343% (strong); Gross margin: 25% (below Consumer Defensive norm) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.4% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 25% — below Consumer Defensive moderate cutoff 30%; Operating margin 8% | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 13.2x — deep value; Near 52w high (97% of range) — Mr. Market greedy | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 13.3x — deep value; Near 52w high (99% of range) — Mr. Market greedy | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10

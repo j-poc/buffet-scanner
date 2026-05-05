@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALLY
-*Generated: 2026-05-04 07:00 | Price: $43.41 | Mkt Cap: $13B*
+*Generated: 2026-05-05 06:35 | Price: $43.03 | Mkt Cap: $13B*
 
 ## Sector Context
 Financial Services / Credit Services
@@ -23,7 +23,7 @@ Financial Services / Credit Services
 | Quality | 2.3/10 | 30% | 0.7 | ROE: 9.4% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 58% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 10.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 10.1% of shares (SBC concern) | - |
 | Moat | 4.5/10 | 25% | 1.1 | ROE 9% — weak (Financial Services); Operating margin 21% | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.7x — deep value; 52w range position: 74% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.7x — deep value; 52w range position: 72% | - |
 | **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
 ## Buffett Score: 5.9 / 10

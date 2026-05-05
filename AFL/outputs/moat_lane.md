@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AFL
-*Generated: 2026-05-04 06:46 | Price: $112.88 | Mkt Cap: $58B*
+*Generated: 2026-05-05 06:23 | Price: $113.33 | Mkt Cap: $58B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (11.1% inst.) as insider
 
@@ -25,7 +25,7 @@ Financial Services / Insurance - Life
 | Quality | 6.6/10 | 30% | 2.0 | ROE: 16.5% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 20% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | ROE 16% — strong franchise (Financial Services); Operating margin 30%; Rev growth 28% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.7x — deep value; 52w range position: 71%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.8x — deep value; 52w range position: 73%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
 
 ## Buffett Score: 7.0 / 10

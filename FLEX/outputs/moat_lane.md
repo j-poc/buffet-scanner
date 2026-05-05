@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FLEX
-*Generated: 2026-05-04 06:52 | Price: $91.7 | Mkt Cap: $34B*
+*Generated: 2026-05-05 06:28 | Price: $91.84 | Mkt Cap: $34B*
 
 ## Sector Context
 Technology / Electronic Components
@@ -23,11 +23,11 @@ Technology / Electronic Components
 | Quality | 1.1/10 | 30% | 0.3 | Avg ROIC: 9.8% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 40% (stable); FCF/NI: 77%; Gross margin: 9% (below Technology norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 9% — below Technology moderate cutoff 40%; Operating margin 6% — thin for Technology | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 25.0x — growth premium; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 2.8%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **3.2/10** | **100%** | **3.2** | | |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 25.0x — growth premium; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 2.8%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **3.1/10** | **100%** | **3.1** | | |
 
-## Buffett Score: 3.2 / 10
-## Alpha Adjustment: -0.26
+## Buffett Score: 3.1 / 10
+## Alpha Adjustment: -0.27
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.26 applied to composite alpha score
+Buffett Premium: -0.27 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

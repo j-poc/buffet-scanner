@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SATS
-*Generated: 2026-05-04 06:47 | Price: $123.18 | Mkt Cap: $36B*
+*Generated: 2026-05-05 06:24 | Price: $120.34 | Mkt Cap: $35B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (12.5% inst.) as insider
 
@@ -23,9 +23,9 @@ Communication Services / Telecom Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -10.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 685% from prior peak; 5y price drawdown: 68% (severe cyclicality); FCF/NI: 213% (strong); Gross margin: 26% (below Communication Services norm) | ROIC declining |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 13.7% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 14.2% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 26% — below Communication Services moderate cutoff 40%; Operating margin 10% — thin for Communication Services | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E -83.8x — deep value; Near 52w high (88% of range) — Mr. Market greedy | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E -81.9x — deep value; Near 52w high (86% of range) — Mr. Market greedy | - |
 | **TOTAL** | **3.5/10** | **100%** | **3.5** | | |
 
 ## Buffett Score: 3.5 / 10

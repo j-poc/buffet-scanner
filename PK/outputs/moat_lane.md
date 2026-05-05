@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PK
-*Generated: 2026-05-04 07:01 | Price: $11.35 | Mkt Cap: $2B*
+*Generated: 2026-05-05 06:37 | Price: $11.04 | Mkt Cap: $2B*
 
 > ⚠ DATA: yfinance misclassified Donald Smith & Co., Inc. (7.3% inst.) as insider
 
@@ -22,10 +22,10 @@ Real Estate / REIT - Hotel & Motel
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 233% from prior peak; 5y price drawdown: 51% (moderate cyclicality); FCF/NI: 108% (strong); Gross margin: 30% (below Real Estate norm) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 233% from prior peak; 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 108% (strong); Gross margin: 30% (below Real Estate norm) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.9% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 30% — below Real Estate moderate cutoff 35%; Operating margin 11% — thin for Real Estate | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.9x — growth premium; 52w range position: 59%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.8x — growth premium; 52w range position: 47%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **3.0/10** | **100%** | **3.0** | | |
 
 ## Buffett Score: 3.0 / 10

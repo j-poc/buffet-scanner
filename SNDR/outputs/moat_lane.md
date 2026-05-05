@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SNDR
-*Generated: 2026-05-04 06:57 | Price: $31.47 | Mkt Cap: $6B*
+*Generated: 2026-05-05 06:33 | Price: $29.96 | Mkt Cap: $5B*
 
 ## Sector Context
 Industrials / Trucking
@@ -21,34 +21,34 @@ Industrials / Trucking
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 7.9% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 77% from prior peak; 5y price drawdown: 39% (stable); FCF/NI: 71%; Gross margin: 16% (below Industrials norm) | ROIC declining |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 50.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 26.9% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 50.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 26.8% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 16% — below Industrials moderate cutoff 22%; Operating margin 2% — thin for Industrials | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 21.1x — growth premium; Near 52w high (86% of range) — Mr. Market greedy; Owner earnings yield: 3.3%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.9x — fair price; 52w range position: 74%; Owner earnings yield: 3.5%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
-## Buffett Score: 4.0 / 10
-## Alpha Adjustment: -0.20
-## Conviction: AVOID
-## Verdict: Avoid
+## Buffett Score: 4.7 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Trucking
-- **Margin of Safety**: -73% — ABSENT ($31 > IV $8 at 15x for -22% growth)
-- **Lollapalooza Effect**: No (0 forces only: none)
+- **Margin of Safety**: -73% — ABSENT ($30 > IV $8 at 15x for -22% growth)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 50.2% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (0 forces only: none)
+No (1 forces only: attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.20 applied to composite alpha score
-Conviction Gate: AVOID — Do not initiate position
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
 Half-life adjustment: N/A
 ```

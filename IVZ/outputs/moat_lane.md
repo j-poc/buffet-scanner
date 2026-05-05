@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IVZ
-*Generated: 2026-05-04 06:48 | Price: $25.89 | Mkt Cap: $11B*
+*Generated: 2026-05-05 06:25 | Price: $26.04 | Mkt Cap: $12B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -23,7 +23,7 @@ Financial Services / Asset Management
 | Quality | 1.5/10 | 30% | 0.4 | ROE: -1.5% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 53% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 19.3% of shares (SBC concern) | - |
 | Moat | 4.5/10 | 25% | 1.1 | ROE -2% — weak (Financial Services); Operating margin 19% | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.7x — deep value; 52w range position: 76% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.8x — deep value; 52w range position: 77% | - |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
 ## Buffett Score: 4.5 / 10

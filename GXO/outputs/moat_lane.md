@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GXO
-*Generated: 2026-05-04 06:55 | Price: $56.22 | Mkt Cap: $6B*
+*Generated: 2026-05-05 06:30 | Price: $46.27 | Mkt Cap: $5B*
 
 ## Sector Context
 Industrials / Integrated Freight & Logistics
@@ -23,11 +23,11 @@ Industrials / Integrated Freight & Logistics
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 4.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 86% from prior peak; 5y price drawdown: 70% (severe cyclicality); FCF/NI: 178% (strong); Gross margin: 15% (below Industrials norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 1.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.4% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 15% — below Industrials moderate cutoff 22%; Operating margin 4% — thin for Industrials | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 16.2x — fair price; 52w range position: 65%; Owner earnings yield: 6.1% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.3x — deep value; 52w range position: 32%; Owner earnings yield: 7.4% (>5%) | - |
+| **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 
-## Buffett Score: 3.8 / 10
-## Alpha Adjustment: -0.22
+## Buffett Score: 3.9 / 10
+## Alpha Adjustment: -0.21
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -36,7 +36,7 @@ Industrials / Integrated Freight & Logistics
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Integrated Freight & Logistics
-- **Margin of Safety**: -93% — ABSENT ($56 > IV $4 at 15x for -56% growth)
+- **Margin of Safety**: -93% — ABSENT ($46 > IV $3 at 15x for -56% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.0% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.22 applied to composite alpha score
+Buffett Premium: -0.21 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

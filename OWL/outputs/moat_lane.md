@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OWL
-*Generated: 2026-05-04 06:55 | Price: $9.98 | Mkt Cap: $16B*
+*Generated: 2026-05-05 06:31 | Price: $10.12 | Mkt Cap: $16B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -11,7 +11,7 @@ Financial Services / Asset Management
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.1x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.5x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.1%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,10 +20,10 @@ Financial Services / Asset Management
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.5/10 | 30% | 0.4 | ROE: 0.0% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 67% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.5% of shares (SBC concern) | - |
-| Moat | 4.5/10 | 25% | 1.1 | ROE 0% — weak (Financial Services); Operating margin 28% | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.0x — deep value; Near 52w low (15% of range) — Mr. Market fearful | - |
+| Quality | 1.7/10 | 30% | 0.5 | ROE: 5.7% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 67% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.1% of shares (SBC concern) | - |
+| Moat | 4.5/10 | 25% | 1.1 | ROE 6% — weak (Financial Services); Operating margin 28% | Weak pricing |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.1x — deep value; Near 52w low (17% of range) — Mr. Market fearful; Owner earnings yield: 9.1% (>5%) | - |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
 ## Buffett Score: 4.5 / 10

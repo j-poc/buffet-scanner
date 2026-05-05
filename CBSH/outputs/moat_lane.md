@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CBSH
-*Generated: 2026-05-04 06:55 | Price: $52.03 | Mkt Cap: $8B*
+*Generated: 2026-05-05 06:30 | Price: $51.74 | Mkt Cap: $8B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -23,7 +23,7 @@ Financial Services / Banks - Regional
 | Quality | 5.7/10 | 30% | 1.7 | ROE: 14.9% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 41% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 2.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 8.8% of shares (SBC concern) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 15% — adequate (Financial Services); Operating margin 43% — durable for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.0x — deep value; 52w range position: 31% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.0x — deep value; Near 52w low (29% of range) — Mr. Market fearful | - |
 | **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
 
 ## Buffett Score: 6.7 / 10
@@ -39,7 +39,7 @@ Financial Services / Banks - Regional
 - **Margin of Safety**: 17% — thin (IV $61 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 2.4% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

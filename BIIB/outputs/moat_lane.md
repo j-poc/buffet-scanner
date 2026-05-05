@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BIIB
-*Generated: 2026-05-04 06:46 | Price: $187.06 | Mkt Cap: $28B*
+*Generated: 2026-05-05 06:24 | Price: $187.21 | Mkt Cap: $28B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General
@@ -23,7 +23,7 @@ Healthcare / Drug Manufacturers - General
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 62% from prior peak; 5y price drawdown: 73% (severe cyclicality); FCF/NI: 113% (strong); Gross margin: 79% (pricing power for Healthcare) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 79% vs sector strong cutoff 55% — strong pricing power; Operating margin 23% — durable for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.7x — deep value; 52w range position: 82%; Owner earnings yield: 6.9% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.3x — deep value; 52w range position: 83%; Owner earnings yield: 6.9% (>5%) | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
 ## Buffett Score: 5.2 / 10

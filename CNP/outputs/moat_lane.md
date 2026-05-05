@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CNP
-*Generated: 2026-05-04 06:47 | Price: $43.35 | Mkt Cap: $28B*
+*Generated: 2026-05-05 06:24 | Price: $43.32 | Mkt Cap: $28B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric
@@ -23,7 +23,7 @@ Utilities / Utilities - Regulated Electric
 | Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 5.2% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 23% (stable); FCF/NI: -191% (weak conversion); Gross margin: 46% (pricing power for Utilities) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 46% vs sector strong cutoff 40% — strong pricing power; Operating margin 22% — durable for Utilities | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 20.8x — growth premium; Near 52w high (88% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 20.8x — growth premium; Near 52w high (87% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
 ## Buffett Score: 5.3 / 10

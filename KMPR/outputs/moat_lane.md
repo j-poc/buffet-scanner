@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KMPR
-*Generated: 2026-05-04 06:57 | Price: $34.15 | Mkt Cap: $2B*
+*Generated: 2026-05-05 06:37 | Price: $33.55 | Mkt Cap: $2B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty
@@ -23,7 +23,7 @@ Financial Services / Insurance - Property & Casualty
 | Quality | 1.5/10 | 30% | 0.4 | ROE: 4.9% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 59% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 1.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | ROE 5% — weak (Financial Services); Operating margin 0% — thin for Financial Services | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.6x — deep value; Near 52w low (15% of range) — Mr. Market fearful; Owner earnings yield: 129.8% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.5x — deep value; Near 52w low (14% of range) — Mr. Market fearful; Owner earnings yield: 132.1% (>5%) | - |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
 ## Buffett Score: 4.5 / 10
