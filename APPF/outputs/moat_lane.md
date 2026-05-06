@@ -1,7 +1,7 @@
 # Buffett/Munger Moat Lane: APPF
-*Generated: 2026-05-04 07:01 | Price: $173.1 | Mkt Cap: $6B*
+*Generated: 2026-05-06 06:49 | Price: $172.76 | Mkt Cap: $6B*
 
-> ⚠ DATA: yfinance misclassified Principal Financial Group, Inc. (5.2% inst.) as insider
+> ⚠ DATA: yfinance misclassified Principal Financial Group, Inc. (6.3% inst.) as insider
 
 ## Sector Context
 Technology / Software - Application
@@ -25,7 +25,7 @@ Technology / Software - Application
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 5.4% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 31% from prior peak; 5y price drawdown: 55% (severe cyclicality); FCF/NI: 492% (strong); Gross margin: 64% (pricing power for Technology) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 4.6% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 64% vs sector strong cutoff 60% — strong pricing power; Operating margin 19%; Rev growth 20% — demand pull | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 21.0x — growth premium; Near 52w low (17% of range) — Mr. Market fearful; Owner earnings yield: 2.9%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 21.0x — growth premium; Near 52w low (16% of range) — Mr. Market fearful; Owner earnings yield: 2.9%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10

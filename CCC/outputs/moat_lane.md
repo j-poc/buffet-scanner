@@ -1,7 +1,7 @@
 # Buffett/Munger Moat Lane: CCC
-*Generated: 2026-05-05 06:37 | Price: $5.34 | Mkt Cap: $3B*
+*Generated: 2026-05-06 06:49 | Price: $5.32 | Mkt Cap: $3B*
 
-> ⚠ DATA: yfinance misclassified Principal Financial Group, Inc. (5.9% inst.) as insider
+> ⚠ DATA: yfinance misclassified Principal Financial Group, Inc. (6.1% inst.) as insider
 
 ## Sector Context
 Technology / Software - Application
@@ -38,7 +38,7 @@ Technology / Software - Application
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Application
-- **Margin of Safety**: -78% — ABSENT ($5 > IV $1 at 20x for 12% growth)
+- **Margin of Safety**: -77% — ABSENT ($5 > IV $1 at 20x for 12% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FND
-*Generated: 2026-05-05 06:31 | Price: $48.22 | Mkt Cap: $5B*
+*Generated: 2026-05-06 06:43 | Price: $48.3 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Cyclical / Home Improvement Retail
@@ -36,7 +36,7 @@ Consumer Cyclical / Home Improvement Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Home Improvement Retail
-- **Margin of Safety**: -45% — ABSENT ($48 > IV $26 at 15x for -18% growth)
+- **Margin of Safety**: -43% — ABSENT ($48 > IV $28 at 15x for -18% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 1.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

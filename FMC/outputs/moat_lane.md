@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FMC
-*Generated: 2026-05-05 06:33 | Price: $14.56 | Mkt Cap: $2B*
+*Generated: 2026-05-06 06:45 | Price: $14.87 | Mkt Cap: $2B*
 
 ## Sector Context
 Basic Materials / Agricultural Inputs
@@ -23,7 +23,7 @@ Basic Materials / Agricultural Inputs
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 0.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 269% from prior peak; 5y price drawdown: 90% (severe cyclicality); FCF/NI: 51%; Gross margin: 32% (pricing power for Basic Materials) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 1.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 32% vs sector strong cutoff 30% — strong pricing power; Operating margin -1% — thin for Basic Materials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.6x — deep value; Near 52w low (7% of range) — Mr. Market fearful; Owner earnings yield: 1.3% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.7x — deep value; Near 52w low (8% of range) — Mr. Market fearful; Owner earnings yield: 1.2% | - |
 | **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
 ## Buffett Score: 4.9 / 10

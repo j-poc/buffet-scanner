@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SRPT
-*Generated: 2026-05-05 06:37 | Price: $22.04 | Mkt Cap: $2B*
+*Generated: 2026-05-06 06:45 | Price: $21.79 | Mkt Cap: $2B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -23,7 +23,7 @@ Healthcare / Biotechnology
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -15.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 403% from prior peak; 5y price drawdown: 93% (severe cyclicality); FCF/NI: 14% (weak conversion); Gross margin: -7% (below Healthcare norm) | ROIC declining |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 4.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 12.0% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin -7% — below Healthcare moderate cutoff 35%; Operating margin -93% — thin for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.3x — deep value; Near 52w low (21% of range) — Mr. Market fearful; Owner earnings yield: 4.1% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.3x — deep value; 52w range position: 34%; Owner earnings yield: 4.2% | - |
 | **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
 
 ## Buffett Score: 4.1 / 10
@@ -39,7 +39,7 @@ Healthcare / Biotechnology
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 4.1% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

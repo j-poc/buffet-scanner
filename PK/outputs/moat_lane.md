@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PK
-*Generated: 2026-05-05 06:37 | Price: $11.04 | Mkt Cap: $2B*
+*Generated: 2026-05-06 06:49 | Price: $11.37 | Mkt Cap: $2B*
 
 > ⚠ DATA: yfinance misclassified Donald Smith & Co., Inc. (7.3% inst.) as insider
 
@@ -13,7 +13,7 @@ Real Estate / REIT - Hotel & Motel
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 7.0x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 7.1x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -25,11 +25,11 @@ Real Estate / REIT - Hotel & Motel
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 233% from prior peak; 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 108% (strong); Gross margin: 30% (below Real Estate norm) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.9% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 30% — below Real Estate moderate cutoff 35%; Operating margin 11% — thin for Real Estate | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.8x — growth premium; 52w range position: 47%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **3.0/10** | **100%** | **3.0** | | |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 23.4x — growth premium; 52w range position: 60%; Owner earnings yield: 45.4% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **3.2/10** | **100%** | **3.2** | | |
 
-## Buffett Score: 3.0 / 10
-## Alpha Adjustment: -0.28
+## Buffett Score: 3.2 / 10
+## Alpha Adjustment: -0.26
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -50,7 +50,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.28 applied to composite alpha score
+Buffett Premium: -0.26 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

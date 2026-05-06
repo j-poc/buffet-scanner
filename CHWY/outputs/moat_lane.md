@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CHWY
-*Generated: 2026-05-05 06:31 | Price: $24.56 | Mkt Cap: $10B*
+*Generated: 2026-05-06 06:43 | Price: $24.54 | Mkt Cap: $10B*
 
 ## Sector Context
 Consumer Cyclical / Internet Retail
@@ -36,7 +36,7 @@ Consumer Cyclical / Internet Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Internet Retail
-- **Margin of Safety**: -49% — ABSENT ($25 > IV $12 at 25x for 25% growth)
+- **Margin of Safety**: -47% — ABSENT ($25 > IV $13 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 3.1% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: P
-*Generated: 2026-05-05 06:28 | Price: $72.75 | Mkt Cap: $24B*
+*Generated: 2026-05-06 06:40 | Price: $74.63 | Mkt Cap: $25B*
 
 ## Sector Context
 Technology / Computer Hardware
@@ -12,7 +12,7 @@ Technology / Computer Hardware
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Computer Hardware | 25% | -35% | YES |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.5x | 15% | -25% | No |
-| 3 | Management / Governance Failure | Insider ownership 5.8%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 5.1%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -21,9 +21,9 @@ Technology / Computer Hardware
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 8.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 49% (moderate cyclicality); FCF/NI: 610% (strong); Gross margin: 70% (pricing power for Technology) | - |
-| Management | 6.5/10 | 25% | 1.6 | Insider ownership: 5.8%; Insider activity: 0B/0S last 6m; Restricted stock: 5.8% of shares (SBC concern) | - |
+| Management | 6.5/10 | 25% | 1.6 | Insider ownership: 5.1%; Insider activity: 0B/0S last 6m; Restricted stock: 5.8% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 70% vs sector strong cutoff 60% — strong pricing power; Operating margin -18% — thin for Technology | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.6x — growth premium; 52w range position: 49%; Owner earnings yield: 1.6%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 26.3x — growth premium; 52w range position: 52%; Owner earnings yield: 1.5%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
 ## Buffett Score: 5.9 / 10
@@ -36,9 +36,9 @@ Technology / Computer Hardware
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Computer Hardware
-- **Margin of Safety**: -88% — ABSENT ($73 > IV $8 at 15x for 0% growth)
+- **Margin of Safety**: -89% — ABSENT ($75 > IV $8 at 15x for 0% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
-- **Incentive-Caused Bias**: Aligned — 5.8% insider ownership
+- **Incentive-Caused Bias**: Aligned — 5.1% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

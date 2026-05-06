@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: QGEN
-*Generated: 2026-05-05 06:30 | Price: $33.96 | Mkt Cap: $7B*
+*Generated: 2026-05-06 06:43 | Price: $34.0 | Mkt Cap: $7B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research
@@ -36,7 +36,7 @@ Healthcare / Diagnostics & Research
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Diagnostics & Research
-- **Margin of Safety**: 49% — PRESENT (IV $50 vs $34 at 25x)
+- **Margin of Safety**: 50% — PRESENT (IV $51 vs $34 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

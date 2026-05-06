@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: L
-*Generated: 2026-05-05 06:26 | Price: $105.15 | Mkt Cap: $22B*
+*Generated: 2026-05-06 06:38 | Price: $106.19 | Mkt Cap: $22B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty
@@ -11,7 +11,7 @@ Financial Services / Insurance - Property & Casualty
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.0x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 18.9%; key-man / succession risk | 8% | -15% | No |
 
 ---
@@ -20,13 +20,13 @@ Financial Services / Insurance - Property & Casualty
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.9/10 | 30% | 1.5 | ROE: 9.4% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 26% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Quality | 3.0/10 | 30% | 0.9 | ROE: 0.0% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 26% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 18.9% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 18.8% of shares (SBC concern) | - |
-| Moat | 4.0/10 | 25% | 1.0 | ROE 9% — weak (Financial Services); Operating margin 13% — thin for Financial Services | Weak pricing |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 36.3x — expensive; 52w range position: 67%; Owner earnings yield: 7.1% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
+| Moat | 4.0/10 | 25% | 1.0 | ROE 0% — weak (Financial Services); Operating margin 10% — thin for Financial Services | Weak pricing |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 36.6x — expensive; 52w range position: 69%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
-## Buffett Score: 5.5 / 10
+## Buffett Score: 4.7 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Financial Services / Insurance - Property & Casualty
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Property & Casualty
-- **Margin of Safety**: 79% — PRESENT (IV $188 vs $105 at 25x)
+- **Margin of Safety**: 11% — thin (IV $118 at 15x)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Aligned — 18.9% insider ownership
 - **Mr. Market**: Neutral

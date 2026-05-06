@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OLN
-*Generated: 2026-05-05 06:37 | Price: $28.69 | Mkt Cap: $3B*
+*Generated: 2026-05-06 06:49 | Price: $28.71 | Mkt Cap: $3B*
 
 ## Sector Context
 Basic Materials / Chemicals

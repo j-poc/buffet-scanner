@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FAF
-*Generated: 2026-05-05 06:30 | Price: $68.31 | Mkt Cap: $7B*
+*Generated: 2026-05-06 06:43 | Price: $68.38 | Mkt Cap: $7B*
 
 ## Sector Context
 Financial Services / Insurance - Specialty
@@ -36,7 +36,7 @@ Financial Services / Insurance - Specialty
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Specialty
-- **Margin of Safety**: 137% — PRESENT (IV $162 vs $68 at 25x)
+- **Margin of Safety**: 138% — PRESENT (IV $162 vs $68 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 3.5% insider ownership
 - **Mr. Market**: Neutral

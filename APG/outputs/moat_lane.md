@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APG
-*Generated: 2026-05-05 06:28 | Price: $44.67 | Mkt Cap: $19B*
+*Generated: 2026-05-06 06:41 | Price: $45.59 | Mkt Cap: $20B*
 
 ## Sector Context
 Industrials / Engineering & Construction
@@ -23,7 +23,7 @@ Industrials / Engineering & Construction
 | Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 6.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 244% (strong); Gross margin: 31% | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 17.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 14.2% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 31% — moderate moat for Industrials; Operating margin 7% — thin for Industrials | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 23.1x — growth premium; 52w range position: 76%; Owner earnings yield: 3.7%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 23.6x — growth premium; 52w range position: 80%; Owner earnings yield: 3.6%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
 ## Buffett Score: 6.2 / 10

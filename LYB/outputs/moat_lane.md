@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LYB
-*Generated: 2026-05-05 06:26 | Price: $76.04 | Mkt Cap: $25B*
+*Generated: 2026-05-06 06:38 | Price: $77.76 | Mkt Cap: $25B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals
@@ -23,10 +23,10 @@ Basic Materials / Specialty Chemicals
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.1% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 119% from prior peak; 5y price drawdown: 55% (severe cyclicality); FCF/NI: 91% (strong); Gross margin: 9% (below Basic Materials norm) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 20.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 20.2% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 9% — below Basic Materials moderate cutoff 18%; Operating margin 3% — thin for Basic Materials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.7x — deep value; 52w range position: 81%; Owner earnings yield: 4.0% | - |
-| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 10.6x — deep value; Near 52w high (85% of range) — Mr. Market greedy; Owner earnings yield: 3.9% | - |
+| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
-## Buffett Score: 5.0 / 10
+## Buffett Score: 4.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -39,7 +39,7 @@ Basic Materials / Specialty Chemicals
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 20.2% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

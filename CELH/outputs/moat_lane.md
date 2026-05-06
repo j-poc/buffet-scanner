@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CELH
-*Generated: 2026-05-05 06:31 | Price: $33.57 | Mkt Cap: $9B*
+*Generated: 2026-05-06 06:43 | Price: $33.52 | Mkt Cap: $9B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (27.1% inst.) as insider
 

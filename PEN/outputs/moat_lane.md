@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PEN
-*Generated: 2026-05-05 06:35 | Price: $324.65 | Mkt Cap: $13B*
+*Generated: 2026-05-06 06:47 | Price: $323.86 | Mkt Cap: $13B*
 
 ## Sector Context
 Healthcare / Medical Devices
@@ -36,7 +36,7 @@ Healthcare / Medical Devices
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Devices
-- **Margin of Safety**: -65% — ABSENT ($325 > IV $113 at 25x for 25% growth)
+- **Margin of Safety**: -65% — ABSENT ($324 > IV $113 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 2.9% insider ownership
 - **Mr. Market**: Neutral

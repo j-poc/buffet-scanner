@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EWBC
-*Generated: 2026-05-05 06:28 | Price: $123.42 | Mkt Cap: $17B*
+*Generated: 2026-05-06 06:41 | Price: $123.55 | Mkt Cap: $17B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -36,7 +36,7 @@ Financial Services / Banks - Regional
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Regional
-- **Margin of Safety**: 99% — PRESENT (IV $246 vs $123 at 25x)
+- **Margin of Safety**: 103% — PRESENT (IV $250 vs $124 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

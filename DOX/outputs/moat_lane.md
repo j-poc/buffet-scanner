@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DOX
-*Generated: 2026-05-05 06:30 | Price: $65.3 | Mkt Cap: $7B*
+*Generated: 2026-05-06 06:43 | Price: $65.44 | Mkt Cap: $7B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -36,7 +36,7 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: 36% — PRESENT (IV $89 vs $65 at 17x)
+- **Margin of Safety**: 34% — PRESENT (IV $88 vs $65 at 17x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

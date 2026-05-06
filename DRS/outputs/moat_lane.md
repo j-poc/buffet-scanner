@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DRS
-*Generated: 2026-05-05 06:37 | Price: $40.0 | Mkt Cap: $11B*
+*Generated: 2026-05-06 06:49 | Price: $39.7 | Mkt Cap: $11B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -11,7 +11,7 @@ Industrials / Aerospace & Defense
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.1x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.3x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 71.7%; key-man / succession risk | 8% | -15% | No |
 
 ---
@@ -22,8 +22,8 @@ Industrials / Aerospace & Defense
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.7/10 | 30% | 0.2 | ROIC declining trend; Avg ROIC: 10.2% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 59% from prior peak; 5y price drawdown: 53% (moderate cyclicality); FCF/NI: 62%; Gross margin: 24% | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 71.7% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 71.7% of shares (SBC concern) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 24% — moderate moat for Industrials; Operating margin 12% | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 28.4x — growth premium; 52w range position: 45%; Owner earnings yield: 1.9%; Earnings yield < 4% — worse than bonds | - |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 24% — moderate moat for Industrials; Operating margin 9% | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 28.2x — growth premium; 52w range position: 43%; Owner earnings yield: 2.8%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
 ## Buffett Score: 5.1 / 10
@@ -36,7 +36,7 @@ Industrials / Aerospace & Defense
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Aerospace & Defense
-- **Margin of Safety**: -48% — ABSENT ($40 > IV $21 at 20x for 12% growth)
+- **Margin of Safety**: -33% — ABSENT ($40 > IV $27 at 25x for 22% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Aligned — 71.7% insider ownership
 - **Mr. Market**: Neutral

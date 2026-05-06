@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TMUS
-*Generated: 2026-05-05 06:34 | Price: $194.42 | Mkt Cap: $210B*
+*Generated: 2026-05-06 06:47 | Price: $194.31 | Mkt Cap: $210B*
 
 ## Sector Context
 Communication Services / Telecom Services
@@ -36,7 +36,7 @@ Communication Services / Telecom Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Telecom Services
-- **Margin of Safety**: -28% — ABSENT ($194 > IV $140 at 15x for -12% growth)
+- **Margin of Safety**: -27% — ABSENT ($194 > IV $141 at 15x for -12% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 56.8% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
