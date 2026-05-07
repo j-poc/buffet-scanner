@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BROS
-*Generated: 2026-05-06 06:43 | Price: $57.17 | Mkt Cap: $9B*
+*Generated: 2026-05-07 06:51 | Price: $59.06 | Mkt Cap: $10B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (8.7% inst.) as insider
 
@@ -25,7 +25,7 @@ Consumer Cyclical / Restaurants
 | Quality | 1.7/10 | 30% | 0.5 | Avg ROIC: 8.7% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 70% (severe cyclicality); FCF/NI: -581% (weak conversion); Gross margin: 26% (below Consumer Cyclical norm) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 8.6% of shares (SBC concern) | - |
 | Moat | 4.5/10 | 25% | 1.1 | Gross margin 26% — below Consumer Cyclical moderate cutoff 30%; Operating margin 8%; Rev growth 29% — demand pull | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 47.5x — expensive; 52w range position: 38%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 49.0x — expensive; 52w range position: 43%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.2/10** | **100%** | **3.2** | | |
 
 ## Buffett Score: 3.2 / 10
@@ -38,7 +38,7 @@ Consumer Cyclical / Restaurants
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Restaurants
-- **Margin of Safety**: -72% — ABSENT ($57 > IV $16 at 25x for 25% growth)
+- **Margin of Safety**: -73% — ABSENT ($59 > IV $16 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

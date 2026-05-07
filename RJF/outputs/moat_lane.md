@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RJF
-*Generated: 2026-05-06 06:46 | Price: $158.87 | Mkt Cap: $31B*
+*Generated: 2026-05-07 06:47 | Price: $159.37 | Mkt Cap: $31B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (11.0% inst.) as insider
 
@@ -25,7 +25,7 @@ Financial Services / Asset Management
 | Quality | 4.0/10 | 30% | 1.2 | ROE: 0.0% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 32% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.6% of shares (SBC concern) | - |
 | Moat | 4.5/10 | 25% | 1.1 | ROE 0% — weak (Financial Services); Operating margin 20% | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.9x — deep value; 52w range position: 52% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.9x — deep value; 52w range position: 53% | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
 ## Buffett Score: 5.2 / 10

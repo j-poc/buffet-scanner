@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MSTR
-*Generated: 2026-05-06 06:40 | Price: $186.9 | Mkt Cap: $65B*
+*Generated: 2026-05-07 06:55 | Price: $186.82 | Mkt Cap: $65B*
 
 ## Sector Context
 Technology / Software - Application
@@ -11,7 +11,7 @@ Technology / Software - Application
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Software - Application | 25% | -35% | YES |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: -1.5x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: -0.6x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.2%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,13 +20,13 @@ Technology / Software - Application
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: -16.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 997% from prior peak; 5y price drawdown: 84% (severe cyclicality); FCF/NI: 516% (strong); Gross margin: 69% (pricing power for Technology) | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.0% of shares (SBC concern) | - |
-| Moat | 7.5/10 | 25% | 1.9 | Gross margin 69% vs sector strong cutoff 60% — strong pricing power; Operating margin -4402% — thin for Technology | - |
+| Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: -16.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 997% from prior peak; 5y price drawdown: 84% (severe cyclicality); FCF/NI: 516% (strong); Gross margin: 68% (pricing power for Technology) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.5% (low) | - |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 68% vs sector strong cutoff 60% — strong pricing power; Operating margin -11642% — thin for Technology | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.1x — deep value; Near 52w low (23% of range) — Mr. Market fearful | - |
-| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
+| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
-## Buffett Score: 5.0 / 10
+## Buffett Score: 5.2 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

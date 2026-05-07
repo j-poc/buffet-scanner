@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FOXA
-*Generated: 2026-05-06 06:37 | Price: $62.23 | Mkt Cap: $26B*
+*Generated: 2026-05-07 06:45 | Price: $62.21 | Mkt Cap: $26B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -23,7 +23,7 @@ Communication Services / Entertainment
 | Quality | 5.5/10 | 30% | 1.6 | Avg ROIC: 11.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 35% (stable); FCF/NI: 120% (strong); Gross margin: 35% (below Communication Services norm) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: -66.9% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 35% — below Communication Services moderate cutoff 40%; Operating margin 11% — thin for Communication Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.1x — deep value; 52w range position: 47%; Owner earnings yield: 6.7% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.1x — deep value; 52w range position: 46%; Owner earnings yield: 6.7% (>5%) | - |
 | **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
 ## Buffett Score: 5.9 / 10

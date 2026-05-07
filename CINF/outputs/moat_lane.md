@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CINF
-*Generated: 2026-05-06 06:36 | Price: $160.35 | Mkt Cap: $25B*
+*Generated: 2026-05-07 06:44 | Price: $160.43 | Mkt Cap: $25B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty
@@ -21,7 +21,7 @@ Financial Services / Insurance - Property & Casualty
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 8.0/10 | 30% | 2.4 | ROE: 18.7% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 36% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.8% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.9% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 19% — strong franchise (Financial Services); Operating margin 12% — thin for Financial Services | - |
 | Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 17.5x — fair price; 52w range position: 55%; Owner earnings yield: 11.1% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.4/10** | **100%** | **7.4** | | |

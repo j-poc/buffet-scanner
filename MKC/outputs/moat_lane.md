@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MKC
-*Generated: 2026-05-06 06:38 | Price: $48.49 | Mkt Cap: $13B*
+*Generated: 2026-05-07 06:46 | Price: $48.49 | Mkt Cap: $13B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods

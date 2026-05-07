@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SEB
-*Generated: 2026-05-06 06:45 | Price: $5687.09 | Mkt Cap: $5B*
+*Generated: 2026-05-07 06:53 | Price: $4903.82 | Mkt Cap: $5B*
 
 ## Sector Context
 Industrials / Conglomerates
@@ -11,7 +11,7 @@ Industrials / Conglomerates
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.4x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.1x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 74.6%; key-man / succession risk | 8% | -15% | No |
 
 ---
@@ -20,13 +20,13 @@ Industrials / Conglomerates
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 5.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 85% from prior peak; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 34% (weak conversion); Gross margin: 7% (below Industrials norm) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 5.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 85% from prior peak; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 34% (weak conversion); Gross margin: 8% (below Industrials norm) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 74.6% (>10%); No insider transaction data; Restricted stock: 74.4% of shares (SBC concern) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 7% — below Industrials moderate cutoff 22%; Operating margin 3% — thin for Industrials | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 11.0x — deep value; Near 52w high (91% of range) — Mr. Market greedy | - |
-| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 8% — below Industrials moderate cutoff 22%; Operating margin 4% — thin for Industrials | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.1x — deep value; 52w range position: 69% | - |
+| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
-## Buffett Score: 4.8 / 10
+## Buffett Score: 5.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Industrials / Conglomerates
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Conglomerates
-- **Margin of Safety**: 126% — PRESENT (IV $12867 vs $5687 at 25x)
+- **Margin of Safety**: 209% — PRESENT (IV $15140 vs $4904 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 74.6% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BWXT
-*Generated: 2026-05-06 06:40 | Price: $206.15 | Mkt Cap: $19B*
+*Generated: 2026-05-07 06:48 | Price: $215.2 | Mkt Cap: $20B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -11,7 +11,7 @@ Industrials / Aerospace & Defense
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.6x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.3x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.4%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,12 +21,12 @@ Industrials / Aerospace & Defense
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.8/10 | 30% | 1.1 | ROIC declining trend; Avg ROIC: 13.1% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 34% (stable); FCF/NI: 72%; Gross margin: 23% | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 23% — moderate moat for Industrials; Operating margin 9% | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 39.9x — expensive; 52w range position: 74%; Owner earnings yield: 0.7%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Moat | 7.0/10 | 25% | 1.8 | Gross margin 23% — moderate moat for Industrials; Operating margin 10%; Rev growth 26% — demand pull | - |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 41.5x — expensive; 52w range position: 81%; Owner earnings yield: 0.8%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
-## Buffett Score: 4.5 / 10
+## Buffett Score: 4.6 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,13 +36,13 @@ Industrials / Aerospace & Defense
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Aerospace & Defense
-- **Margin of Safety**: -55% — ABSENT ($206 > IV $94 at 25x for 25% growth)
-- **Lollapalooza Effect**: No (0 forces only: none)
+- **Margin of Safety**: -57% — ABSENT ($215 > IV $94 at 25x for 21% growth)
+- **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (0 forces only: none)
+No (1 forces only: secular growth)
 
 ---
 

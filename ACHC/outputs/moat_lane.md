@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ACHC
-*Generated: 2026-05-06 06:49 | Price: $25.27 | Mkt Cap: $2B*
+*Generated: 2026-05-07 06:58 | Price: $25.3 | Mkt Cap: $2B*
 
 ## Sector Context
 Healthcare / Medical Care Facilities

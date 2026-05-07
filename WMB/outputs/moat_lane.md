@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WMB
-*Generated: 2026-05-06 06:47 | Price: $76.12 | Mkt Cap: $93B*
+*Generated: 2026-05-07 06:55 | Price: $73.76 | Mkt Cap: $90B*
 
 ## Sector Context
 Energy / Oil & Gas Midstream
@@ -20,13 +20,13 @@ Energy / Oil & Gas Midstream
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 9.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 30% from prior peak; 5y price drawdown: 23% (stable); FCF/NI: 93% (strong); Gross margin: 63% (pricing power for Energy) | - |
+| Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 9.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 30% from prior peak; 5y price drawdown: 23% (stable); FCF/NI: 93% (strong); Gross margin: 64% (pricing power for Energy) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 63% vs sector strong cutoff 30% — strong pricing power; Operating margin 38% — durable for Energy | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 29.4x — growth premium; Near 52w high (94% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 64% vs sector strong cutoff 30% — strong pricing power; Operating margin 34% — durable for Energy | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 28.5x — growth premium; 52w range position: 83%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
-## Buffett Score: 5.6 / 10
+## Buffett Score: 5.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Energy / Oil & Gas Midstream
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Midstream
-- **Margin of Safety**: -25% — ABSENT ($76 > IV $57 at 25x for 25% growth)
+- **Margin of Safety**: -23% — ABSENT ($74 > IV $57 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: strong moat)

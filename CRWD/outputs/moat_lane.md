@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CRWD
-*Generated: 2026-05-06 06:37 | Price: $476.53 | Mkt Cap: $121B*
+*Generated: 2026-05-07 06:44 | Price: $468.07 | Mkt Cap: $119B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -21,9 +21,9 @@ Technology / Software - Infrastructure
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: -0.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 325% from prior peak; 5y price drawdown: 68% (severe cyclicality); FCF/NI: -1713% (weak conversion); Gross margin: 75% (pricing power for Technology) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.8% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.2% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 75% vs sector strong cutoff 60% — strong pricing power; Operating margin 1% — thin for Technology; Rev growth 23% — demand pull | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 77.3x — extreme premium; 52w range position: 60%; Owner earnings yield: 1.3%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 75.9x — extreme premium; 52w range position: 56%; Owner earnings yield: 1.3%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.7/10** | **100%** | **3.7** | | |
 
 ## Buffett Score: 3.7 / 10

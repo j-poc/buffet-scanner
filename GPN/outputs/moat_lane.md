@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GPN
-*Generated: 2026-05-06 06:37 | Price: $69.47 | Mkt Cap: $19B*
+*Generated: 2026-05-07 06:45 | Price: $69.63 | Mkt Cap: $19B*
 
 ## Sector Context
 Industrials / Specialty Business Services
@@ -11,7 +11,7 @@ Industrials / Specialty Business Services
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 6.5x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 6.8x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.9%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,13 +20,13 @@ Industrials / Specialty Business Services
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 3.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 67% (severe cyclicality); FCF/NI: 487% (strong); Gross margin: 73% (pricing power for Industrials) | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 14.9% of shares (SBC concern) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 73% vs sector strong cutoff 35% — strong pricing power; Operating margin 28% — durable for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.3x — deep value; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 9.1% (>5%) | - |
-| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
+| Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 3.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 67% (severe cyclicality); FCF/NI: 487% (strong); Gross margin: 67% (pricing power for Industrials) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 16.4% of shares (SBC concern) | - |
+| Moat | 8.0/10 | 25% | 2.0 | Gross margin 67% vs sector strong cutoff 35% — strong pricing power; Operating margin -1% — thin for Industrials; Rev growth 64% — demand pull | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.3x — deep value; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 35.7% (>5%) | - |
+| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
-## Buffett Score: 6.0 / 10
+## Buffett Score: 5.9 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,13 +36,13 @@ Industrials / Specialty Business Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Business Services
-- **Margin of Safety**: -4% — ABSENT ($69 > IV $66 at 15x for -59% growth)
-- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
+- **Margin of Safety**: -13% — ABSENT ($70 > IV $60 at 25x for 25% growth)
+- **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-No (2 forces only: strong moat, attractive valuation)
+YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 
 ---
 

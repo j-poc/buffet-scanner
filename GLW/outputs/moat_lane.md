@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GLW
-*Generated: 2026-05-06 06:37 | Price: $162.1 | Mkt Cap: $140B*
+*Generated: 2026-05-07 06:44 | Price: $181.57 | Mkt Cap: $156B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.4% inst.) as insider
 
@@ -25,7 +25,7 @@ Technology / Electronic Components
 | Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: 7.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 62% from prior peak; 5y price drawdown: 38% (stable); FCF/NI: 116% (strong); Gross margin: 36% (below Technology norm) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 8.3% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 36% — below Technology moderate cutoff 40%; Operating margin 16% — thin for Technology | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 40.1x — expensive; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 0.4%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 44.9x — expensive; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 0.4%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **2.5/10** | **100%** | **2.5** | | |
 
 ## Buffett Score: 2.5 / 10
@@ -38,7 +38,7 @@ Technology / Electronic Components
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Electronic Components
-- **Margin of Safety**: -68% — ABSENT ($162 > IV $52 at 25x for 25% growth)
+- **Margin of Safety**: -71% — ABSENT ($182 > IV $52 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

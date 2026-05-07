@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FLO
-*Generated: 2026-05-06 06:45 | Price: $8.64 | Mkt Cap: $2B*
+*Generated: 2026-05-07 06:53 | Price: $8.62 | Mkt Cap: $2B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (10.0% inst.) as insider
 

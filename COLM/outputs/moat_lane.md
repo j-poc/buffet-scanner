@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COLM
-*Generated: 2026-05-06 06:45 | Price: $60.5 | Mkt Cap: $3B*
+*Generated: 2026-05-07 06:53 | Price: $63.45 | Mkt Cap: $3B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Manufacturing
@@ -23,11 +23,11 @@ Consumer Cyclical / Apparel Manufacturing
 | Quality | 2.0/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 13.5% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 43% from prior peak; 5y price drawdown: 52% (moderate cyclicality); FCF/NI: 130% (strong); Gross margin: 50% (pricing power for Consumer Cyclical) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 58.1% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 50.8% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 50% vs sector strong cutoff 45% — strong pricing power; Operating margin 5% — thin for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.5x — deep value; 52w range position: 54%; Owner earnings yield: 4.0%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.2x — fair price; 52w range position: 66%; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
 
-## Buffett Score: 6.6 / 10
-## Alpha Adjustment: +0.16
+## Buffett Score: 6.3 / 10
+## Alpha Adjustment: +0.13
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Consumer Cyclical / Apparel Manufacturing
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Apparel Manufacturing
-- **Margin of Safety**: -22% — ABSENT ($60 > IV $47 at 15x for -13% growth)
+- **Margin of Safety**: -26% — ABSENT ($63 > IV $47 at 15x for -13% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 58.1% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.16 applied to composite alpha score
+Buffett Premium: +0.13 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MCK
-*Generated: 2026-05-06 06:38 | Price: $801.01 | Mkt Cap: $98B*
+*Generated: 2026-05-07 06:46 | Price: $743.67 | Mkt Cap: $91B*
 
 ## Sector Context
 Healthcare / Medical Distribution
@@ -20,26 +20,26 @@ Healthcare / Medical Distribution
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 7.5/10 | 30% | 2.2 | Avg ROIC: 84.6% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 24% (stable); FCF/NI: 190% (strong); Gross margin: 3% (below Healthcare norm) | - |
+| Quality | 7.5/10 | 30% | 2.2 | Avg ROIC: 84.6% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 25% (stable); FCF/NI: 190% (strong); Gross margin: 3% (below Healthcare norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 3% — below Healthcare moderate cutoff 35%; Operating margin 2% — thin for Healthcare | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 18.2x — fair price; 52w range position: 45%; Owner earnings yield: 9.3% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.9x — fair price; Near 52w low (29% of range) — Mr. Market fearful; Owner earnings yield: 10.1% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
 
-## Buffett Score: 6.0 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 6.1 / 10
+## Alpha Adjustment: +0.11
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Distribution
-- **Margin of Safety**: 8% — thin (IV $867 at 25x)
+- **Margin of Safety**: 17% — thin (IV $866 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
-Half-life adjustment: N/A
+Buffett Premium: +0.11 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KHC
-*Generated: 2026-05-06 06:38 | Price: $22.54 | Mkt Cap: $27B*
+*Generated: 2026-05-07 06:46 | Price: $23.07 | Mkt Cap: $27B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods
@@ -11,7 +11,7 @@ Consumer Defensive / Packaged Foods
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.8x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.7x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 27.8%; key-man / succession risk | 8% | -15% | No |
 
 ---
@@ -20,10 +20,10 @@ Consumer Defensive / Packaged Foods
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 1.5% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 305% from prior peak; 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 54%; Gross margin: 33% | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 1.5% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 305% from prior peak; 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 54%; Gross margin: 34% | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 27.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 27.8% of shares (SBC concern) | - |
-| Moat | 7.5/10 | 25% | 1.9 | Gross margin 33% — moderate moat for Consumer Defensive; Operating margin 17% — durable for Consumer Defensive | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.5x — deep value; Near 52w low (18% of range) — Mr. Market fearful; Owner earnings yield: 10.4% (>5%) | - |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 34% — moderate moat for Consumer Defensive; Operating margin 19% — durable for Consumer Defensive | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.8x — deep value; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 11.6% (>5%) | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

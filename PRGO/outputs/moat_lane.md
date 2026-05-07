@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PRGO
-*Generated: 2026-05-06 06:45 | Price: $11.64 | Mkt Cap: $2B*
+*Generated: 2026-05-07 06:53 | Price: $12.26 | Mkt Cap: $2B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - Specialty & Generic
@@ -20,16 +20,16 @@ Healthcare / Drug Manufacturers - Specialty & Generic
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -2.7% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 78% (severe cyclicality); FCF/NI: -674% (weak conversion); Gross margin: 35% | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -2.7% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 78% (severe cyclicality); FCF/NI: -674% (weak conversion); Gross margin: 34% (below Healthcare norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 35% — moderate moat for Healthcare; Operating margin 10% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.9x — deep value; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 1.8% | - |
-| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 34% — below Healthcare moderate cutoff 35%; Operating margin 4% — thin for Healthcare | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.1x — deep value; Near 52w low (16% of range) — Mr. Market fearful; Owner earnings yield: 7.9% (>5%) | - |
+| **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 
-## Buffett Score: 4.6 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 3.9 / 10
+## Alpha Adjustment: -0.21
+## Conviction: AVOID
+## Verdict: Avoid
 
 ---
 
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
+Buffett Premium: -0.21 applied to composite alpha score
+Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

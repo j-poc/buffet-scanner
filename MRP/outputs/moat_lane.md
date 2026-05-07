@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MRP
-*Generated: 2026-05-04 07:00 | Price: $30.37 | Mkt Cap: $5B*
+*Generated: 2026-05-07 06:51 | Price: $28.19 | Mkt Cap: $5B*
 
 ## Sector Context
 Real Estate / REIT - Residential
@@ -22,12 +22,12 @@ Real Estate / REIT - Residential
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: -55245226.3% (3y); Earnings: 1 down-year in 2 transitions; 5y price drawdown: 21% (stable); FCF/NI: 584% (strong); Gross margin: 85% (pricing power for Real Estate) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 1.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 85% vs sector strong cutoff 55% — strong pricing power; Operating margin 85% — durable for Real Estate | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.6x — deep value; 52w range position: 48% | - |
-| **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
+| Moat | 9.5/10 | 25% | 2.4 | Gross margin 85% vs sector strong cutoff 55% — strong pricing power; Operating margin 85% — durable for Real Estate; Rev growth 136% — demand pull | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.9x — deep value; Near 52w low (28% of range) — Mr. Market fearful | - |
+| **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
 
-## Buffett Score: 6.8 / 10
-## Alpha Adjustment: +0.18
+## Buffett Score: 6.9 / 10
+## Alpha Adjustment: +0.19
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,19 +36,19 @@ Real Estate / REIT - Residential
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Residential
-- **Margin of Safety**: 21% — thin (IV $37 at 15x)
-- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
+- **Margin of Safety**: 116% — PRESENT (IV $61 vs $28 at 25x)
+- **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 1.0% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-No (2 forces only: strong moat, attractive valuation)
+YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.18 applied to composite alpha score
+Buffett Premium: +0.19 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

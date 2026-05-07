@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SOLV
-*Generated: 2026-05-06 06:46 | Price: $69.04 | Mkt Cap: $12B*
+*Generated: 2026-05-07 06:54 | Price: $70.99 | Mkt Cap: $12B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies
@@ -11,7 +11,7 @@ Healthcare / Medical Instruments & Supplies
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.5x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.7x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 15.0%; key-man / succession risk | 8% | -15% | No |
 
 ---
@@ -22,8 +22,8 @@ Healthcare / Medical Instruments & Supplies
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.7/10 | 30% | 1.4 | Avg ROIC: 11.5% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 64% from prior peak; 5y price drawdown: 40% (stable); FCF/NI: 99% (strong); Gross margin: 54% | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 15.0% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 15.1% of shares (SBC concern) | - |
-| Moat | 6.0/10 | 25% | 1.5 | Gross margin 54% — moderate moat for Healthcare; Operating margin 7% — thin for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.9x — deep value; Near 52w low (26% of range) — Mr. Market fearful; Owner earnings yield: 5.3% (>5%) | - |
+| Moat | 6.0/10 | 25% | 1.5 | Gross margin 54% — moderate moat for Healthcare; Operating margin 6% — thin for Healthcare | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.2x — deep value; 52w range position: 33%; Owner earnings yield: 3.1% | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,10 +36,10 @@ Healthcare / Medical Instruments & Supplies
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Instruments & Supplies
-- **Margin of Safety**: 196% — PRESENT (IV $204 vs $69 at 25x)
+- **Margin of Safety**: 73% — PRESENT (IV $123 vs $71 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 15.0% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

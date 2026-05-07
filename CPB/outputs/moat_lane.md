@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CPB
-*Generated: 2026-05-06 06:36 | Price: $20.91 | Mkt Cap: $6B*
+*Generated: 2026-05-07 06:44 | Price: $20.96 | Mkt Cap: $6B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods

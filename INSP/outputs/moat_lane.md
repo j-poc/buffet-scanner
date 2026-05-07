@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: INSP
-*Generated: 2026-05-06 06:45 | Price: $48.25 | Mkt Cap: $1B*
+*Generated: 2026-05-07 06:53 | Price: $45.7 | Mkt Cap: $1B*
 
 ## Sector Context
 Healthcare / Medical Devices
@@ -20,10 +20,10 @@ Healthcare / Medical Devices
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 1.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 85% (severe cyclicality); FCF/NI: 53%; Gross margin: 86% (pricing power for Healthcare) | - |
+| Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 1.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 86% (severe cyclicality); FCF/NI: 53%; Gross margin: 86% (pricing power for Healthcare) | - |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 6.6% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 86% vs sector strong cutoff 55% — strong pricing power; Operating margin -1% — thin for Healthcare | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 34.9x — expensive; Near 52w low (3% of range) — Mr. Market fearful; Owner earnings yield: 6.2% (>5%); Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 34.7x — expensive; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 6.5% (>5%); Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
 ## Buffett Score: 5.4 / 10
@@ -36,7 +36,7 @@ Healthcare / Medical Devices
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Devices
-- **Margin of Safety**: 37% — PRESENT (IV $66 vs $48 at 15x)
+- **Margin of Safety**: 44% — PRESENT (IV $66 vs $46 at 15x)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 1.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

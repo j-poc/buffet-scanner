@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: REYN
-*Generated: 2026-05-06 06:45 | Price: $21.29 | Mkt Cap: $4B*
+*Generated: 2026-05-07 06:53 | Price: $21.91 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Cyclical / Packaging & Containers
@@ -11,7 +11,7 @@ Consumer Cyclical / Packaging & Containers
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.5x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.4x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 74.1%; key-man / succession risk | 8% | -15% | No |
 
 ---
@@ -22,12 +22,12 @@ Consumer Cyclical / Packaging & Containers
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.3/10 | 30% | 1.3 | Avg ROIC: 10.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 33% (stable); FCF/NI: 107% (strong); Gross margin: 25% (below Consumer Cyclical norm) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 74.1% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 74.3% of shares (SBC concern) | - |
-| Moat | 5.0/10 | 25% | 1.2 | Gross margin 25% — below Consumer Cyclical moderate cutoff 30%; Operating margin 18% — durable for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.5x — deep value; Near 52w low (15% of range) — Mr. Market fearful; Owner earnings yield: 6.5% (>5%) | - |
-| **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
+| Moat | 4.0/10 | 25% | 1.0 | Gross margin 25% — below Consumer Cyclical moderate cutoff 30%; Operating margin 11% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.9x — deep value; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 6.0% (>5%) | - |
+| **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
-## Buffett Score: 6.7 / 10
-## Alpha Adjustment: +0.17
+## Buffett Score: 6.4 / 10
+## Alpha Adjustment: +0.14
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Consumer Cyclical / Packaging & Containers
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Packaging & Containers
-- **Margin of Safety**: 1% — thin (IV $21 at 15x)
+- **Margin of Safety**: 78% — PRESENT (IV $39 vs $22 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 74.1% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.17 applied to composite alpha score
+Buffett Premium: +0.14 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

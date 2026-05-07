@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DVA
-*Generated: 2026-05-06 06:37 | Price: $157.04 | Mkt Cap: $10B*
+*Generated: 2026-05-07 06:45 | Price: $193.88 | Mkt Cap: $12B*
 
 ## Sector Context
 Healthcare / Medical Care Facilities
@@ -21,9 +21,9 @@ Healthcare / Medical Care Facilities
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.2/10 | 30% | 1.6 | Avg ROIC: 14.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 51% (moderate cyclicality); FCF/NI: 180% (strong); Gross margin: 32% (below Healthcare norm) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 51.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 47.2% of shares (SBC concern) | - |
-| Moat | 4.0/10 | 25% | 1.0 | Gross margin 32% — below Healthcare moderate cutoff 35%; Operating margin 15% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.6x — deep value; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 10.2% (>5%) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 51.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 47.9% of shares (SBC concern) | - |
+| Moat | 4.0/10 | 25% | 1.0 | Gross margin 32% — below Healthcare moderate cutoff 35%; Operating margin 14% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.6x — deep value; Near 52w high (100% of range) — Mr. Market greedy; Owner earnings yield: 8.0% (>5%) | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,7 +36,7 @@ Healthcare / Medical Care Facilities
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Care Facilities
-- **Margin of Safety**: 3% — thin (IV $162 at 17x)
+- **Margin of Safety**: 34% — PRESENT (IV $259 vs $194 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 51.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution

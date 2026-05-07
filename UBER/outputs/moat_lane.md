@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UBER
-*Generated: 2026-05-06 06:47 | Price: $72.95 | Mkt Cap: $150B*
+*Generated: 2026-05-07 06:55 | Price: $79.17 | Mkt Cap: $163B*
 
 ## Sector Context
 Technology / Software - Application
@@ -23,10 +23,10 @@ Technology / Software - Application
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: -1.5% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 60% (severe cyclicality); FCF/NI: 85% (strong); Gross margin: 38% (below Technology norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.5% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 38% — below Technology moderate cutoff 40%; Operating margin 12% — thin for Technology; Rev growth 20% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.9x — fair price; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 4.2%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.4x — fair price; 52w range position: 32%; Owner earnings yield: 3.9%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
-## Buffett Score: 4.9 / 10
+## Buffett Score: 4.6 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Technology / Software - Application
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Application
-- **Margin of Safety**: -3% — ABSENT ($73 > IV $71 at 15x for -96% growth)
+- **Margin of Safety**: -10% — ABSENT ($79 > IV $71 at 15x for -96% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (2 forces only: attractive valuation, secular growth)

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EQR
-*Generated: 2026-05-06 06:37 | Price: $66.25 | Mkt Cap: $26B*
+*Generated: 2026-05-07 06:45 | Price: $66.16 | Mkt Cap: $26B*
 
 ## Sector Context
 Real Estate / REIT - Residential
@@ -23,7 +23,7 @@ Real Estate / REIT - Residential
 | Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 5.3% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 39% (stable); FCF/NI: 134% (strong); Gross margin: 63% (pricing power for Real Estate) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.0% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 63% vs sector strong cutoff 55% — strong pricing power; Operating margin 27% | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 43.6x — expensive; 52w range position: 61%; Owner earnings yield: 5.5% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 43.5x — expensive; 52w range position: 60%; Owner earnings yield: 5.5% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
 ## Buffett Score: 5.6 / 10

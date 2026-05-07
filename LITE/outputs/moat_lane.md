@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LITE
-*Generated: 2026-05-06 06:38 | Price: $994.56 | Mkt Cap: $71B*
+*Generated: 2026-05-07 06:46 | Price: $944.28 | Mkt Cap: $73B*
 
 ## Sector Context
 Technology / Communication Equipment
@@ -21,13 +21,13 @@ Technology / Communication Equipment
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -1.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 375% from prior peak; 5y price drawdown: 66% (severe cyclicality); FCF/NI: -59% (weak conversion); Gross margin: 37% (below Technology norm) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 9.0% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 37% — below Technology moderate cutoff 40%; Operating margin 11% — thin for Technology; Rev growth 66% — demand pull | - |
-| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 59.8x — extreme premium; Near 52w high (97% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **2.1/10** | **100%** | **2.1** | | |
+| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 52.3x — extreme premium; Near 52w high (92% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **2.0/10** | **100%** | **2.0** | | |
 
-## Buffett Score: 2.1 / 10
-## Alpha Adjustment: -0.34
+## Buffett Score: 2.0 / 10
+## Alpha Adjustment: -0.35
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -36,7 +36,7 @@ Technology / Communication Equipment
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Communication Equipment
-- **Margin of Safety**: -86% — ABSENT ($995 > IV $142 at 25x for 25% growth)
+- **Margin of Safety**: -85% — ABSENT ($944 > IV $142 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Greedy — exercise caution
@@ -48,7 +48,7 @@ No (1 forces only: secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.34 applied to composite alpha score
+Buffett Premium: -0.35 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

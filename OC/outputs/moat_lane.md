@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OC
-*Generated: 2026-05-05 06:35 | Price: $116.89 | Mkt Cap: $9B*
+*Generated: 2026-05-07 06:56 | Price: $123.03 | Mkt Cap: $10B*
 
 ## Sector Context
 Industrials / Building Products & Equipment
@@ -11,7 +11,7 @@ Industrials / Building Products & Equipment
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.5x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.0x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 1.0%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -20,10 +20,10 @@ Industrials / Building Products & Equipment
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 11.7% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 142% from prior peak; 5y price drawdown: 52% (moderate cyclicality); FCF/NI: 53%; Gross margin: 29% | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 11.7% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 142% from prior peak; 5y price drawdown: 52% (moderate cyclicality); FCF/NI: 53%; Gross margin: 27% | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
-| Moat | 6.0/10 | 25% | 1.5 | Gross margin 29% — moderate moat for Industrials; Operating margin 8% — thin for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.1x — deep value; 52w range position: 31%; Owner earnings yield: 7.6% (>5%) | - |
+| Moat | 6.0/10 | 25% | 1.5 | Gross margin 27% — moderate moat for Industrials; Operating margin 5% — thin for Industrials | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.6x — deep value; 52w range position: 41%; Owner earnings yield: 6.3% (>5%) | - |
 | **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
 ## Buffett Score: 4.9 / 10

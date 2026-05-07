@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FWONA
-*Generated: 2026-05-06 06:45 | Price: $80.31 | Mkt Cap: $20B*
+*Generated: 2026-05-07 06:58 | Price: $81.67 | Mkt Cap: $20B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -23,10 +23,10 @@ Communication Services / Entertainment
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 3.4% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 371% from prior peak; 5y price drawdown: 26% (stable); FCF/NI: 94% (strong); Gross margin: 34% (below Communication Services norm) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: -900.5% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 34% — below Communication Services moderate cutoff 40%; Operating margin 13% — thin for Communication Services | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 26.1x — growth premium; Near 52w low (26% of range) — Mr. Market fearful; Owner earnings yield: 3.3%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 26.6x — growth premium; 52w range position: 31%; Owner earnings yield: 3.2%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
-## Buffett Score: 4.5 / 10
+## Buffett Score: 4.2 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Communication Services / Entertainment
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Entertainment
-- **Margin of Safety**: -57% — ABSENT ($80 > IV $35 at 15x for 0% growth)
+- **Margin of Safety**: -58% — ABSENT ($82 > IV $35 at 15x for 0% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 1.8% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (0 forces only: none)

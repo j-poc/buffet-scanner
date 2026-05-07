@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BLD
-*Generated: 2026-05-06 06:47 | Price: $428.78 | Mkt Cap: $12B*
+*Generated: 2026-05-07 06:55 | Price: $438.93 | Mkt Cap: $12B*
 
 ## Sector Context
 Industrials / Engineering & Construction
@@ -11,7 +11,7 @@ Industrials / Engineering & Construction
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.0x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.1x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.5%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,9 +21,9 @@ Industrials / Engineering & Construction
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.3/10 | 30% | 1.3 | ROIC declining trend; Avg ROIC: 17.2% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 49% (moderate cyclicality); FCF/NI: 113% (strong); Gross margin: 29% | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 29% — moderate moat for Industrials; Operating margin 12% | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.5x — growth premium; 52w range position: 54%; Owner earnings yield: 3.4%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.9x — growth premium; 52w range position: 58%; Owner earnings yield: 3.2%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
 ## Buffett Score: 5.1 / 10
@@ -36,7 +36,7 @@ Industrials / Engineering & Construction
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Engineering & Construction
-- **Margin of Safety**: -38% — ABSENT ($429 > IV $267 at 15x for -12% growth)
+- **Margin of Safety**: -39% — ABSENT ($439 > IV $267 at 15x for -12% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral

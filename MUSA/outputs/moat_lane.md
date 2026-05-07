@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MUSA
-*Generated: 2026-05-05 06:35 | Price: $592.81 | Mkt Cap: $11B*
+*Generated: 2026-05-07 06:56 | Price: $576.37 | Mkt Cap: $11B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.9% inst.) as insider
 
@@ -25,10 +25,10 @@ Consumer Cyclical / Specialty Retail
 | Quality | 3.4/10 | 30% | 1.0 | ROIC declining trend; Avg ROIC: 24.6% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 30% from prior peak; 5y price drawdown: 36% (stable); FCF/NI: 85% (strong); Gross margin: 8% (thin by design for Specialty Retail) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.0% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROA 11% / ROE 80% — scale moat (Specialty Retail); Operating margin 5% — thin for Consumer Cyclical | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 20.3x — growth premium; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.7x — fair price; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 3.9%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
-## Buffett Score: 4.8 / 10
+## Buffett Score: 5.3 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,7 +38,7 @@ Consumer Cyclical / Specialty Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Specialty Retail
-- **Margin of Safety**: 20% — thin (IV $714 at 25x)
+- **Margin of Safety**: 25% — thin (IV $719 at 25x)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

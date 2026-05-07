@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PSX
-*Generated: 2026-05-06 06:38 | Price: $180.26 | Mkt Cap: $72B*
+*Generated: 2026-05-07 06:46 | Price: $171.72 | Mkt Cap: $69B*
 
 ## Sector Context
 Energy / Oil & Gas Refining & Marketing
@@ -23,23 +23,23 @@ Energy / Oil & Gas Refining & Marketing
 | Quality | 0.9/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 14.7% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 81% from prior peak; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 81% (strong); Gross margin: 13% (below Energy norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 13% — below Energy moderate cutoff 15%; Operating margin 1% — thin for Energy | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 11.5x — deep value; Near 52w high (88% of range) — Mr. Market greedy | - |
-| **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.0x — deep value; 52w range position: 78% | - |
+| **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
 
-## Buffett Score: 3.9 / 10
-## Alpha Adjustment: -0.21
-## Conviction: AVOID
-## Verdict: Avoid
+## Buffett Score: 4.1 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Refining & Marketing
-- **Margin of Safety**: -16% — ABSENT ($180 > IV $152 at 15x for -57% growth)
+- **Margin of Safety**: -12% — ABSENT ($172 > IV $152 at 15x for -57% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.21 applied to composite alpha score
-Conviction Gate: AVOID — Do not initiate position
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
 Half-life adjustment: N/A
 ```

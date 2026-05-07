@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ADM
-*Generated: 2026-05-06 06:36 | Price: $79.19 | Mkt Cap: $38B*
+*Generated: 2026-05-07 06:44 | Price: $78.02 | Mkt Cap: $38B*
 
 ## Sector Context
 Consumer Defensive / Farm Products
@@ -11,7 +11,7 @@ Consumer Defensive / Farm Products
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.9x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.2x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.7%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,13 +21,13 @@ Consumer Defensive / Farm Products
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 9.3% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 75% from prior peak; 5y price drawdown: 54% (moderate cyclicality); FCF/NI: 148% (strong); Gross margin: 6% (below Consumer Defensive norm) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 6% — below Consumer Defensive moderate cutoff 30%; Operating margin 2% — thin for Consumer Defensive | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.1x — fair price; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 5.6% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **3.6/10** | **100%** | **3.6** | | |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 6% — below Consumer Defensive moderate cutoff 30%; Operating margin 1% — thin for Consumer Defensive | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 15.1x — fair price; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 4.2%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **3.4/10** | **100%** | **3.4** | | |
 
-## Buffett Score: 3.6 / 10
-## Alpha Adjustment: -0.23
+## Buffett Score: 3.4 / 10
+## Alpha Adjustment: -0.25
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -36,19 +36,19 @@ Consumer Defensive / Farm Products
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Farm Products
-- **Margin of Safety**: -58% — ABSENT ($79 > IV $34 at 15x for -20% growth)
-- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
+- **Margin of Safety**: -57% — ABSENT ($78 > IV $34 at 15x for 1% growth)
+- **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
-No (1 forces only: attractive valuation)
+No (0 forces only: none)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.23 applied to composite alpha score
+Buffett Premium: -0.25 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

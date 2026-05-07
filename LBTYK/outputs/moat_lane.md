@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LBTYK
-*Generated: 2026-05-06 06:45 | Price: $11.75 | Mkt Cap: $4B*
+*Generated: 2026-05-07 06:58 | Price: $12.0 | Mkt Cap: $4B*
 
 > ⚠ DATA: yfinance misclassified BAUPOST GROUP LLC/MA (14.2% inst.) as insider
 
@@ -25,7 +25,7 @@ Communication Services / Telecom Services
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -6.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 550% from prior peak; 5y price drawdown: 46% (moderate cyclicality); FCF/NI: 44% (weak conversion); Gross margin: 66% (pricing power for Communication Services) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -83.2% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 66% vs sector strong cutoff 55% — strong pricing power; Operating margin 4% — thin for Communication Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -3.5x — deep value; 52w range position: 64% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -3.6x — deep value; 52w range position: 71% | - |
 | **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
 ## Buffett Score: 4.9 / 10

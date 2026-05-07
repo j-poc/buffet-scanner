@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AWI
-*Generated: 2026-05-06 06:43 | Price: $164.38 | Mkt Cap: $7B*
+*Generated: 2026-05-07 06:51 | Price: $166.23 | Mkt Cap: $7B*
 
 ## Sector Context
 Industrials / Building Products & Equipment
@@ -20,26 +20,26 @@ Industrials / Building Products & Equipment
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.7/10 | 30% | 2.6 | Avg ROIC: 22.8% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 0% (stable); FCF/NI: 67%; Gross margin: 40% (pricing power for Industrials) | - |
+| Quality | 8.2/10 | 30% | 2.5 | Avg ROIC: 22.8% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 46% (moderate cyclicality); FCF/NI: 67%; Gross margin: 40% (pricing power for Industrials) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.7% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 40% vs sector strong cutoff 35% — strong pricing power; Operating margin 17% — durable for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 17.5x — fair price; Near 52w low (28% of range) — Mr. Market fearful; Owner earnings yield: 3.1%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **8.2/10** | **100%** | **8.2** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.7x — fair price; 52w range position: 30%; Owner earnings yield: 3.1%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **7.8/10** | **100%** | **7.8** | | |
 
-## Buffett Score: 8.2 / 10
-## Alpha Adjustment: +0.40
-## Conviction: HIGH
-## Verdict: Own Forever
+## Buffett Score: 7.8 / 10
+## Alpha Adjustment: +0.28
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Building Products & Equipment
-- **Margin of Safety**: -36% — ABSENT ($164 > IV $106 at 15x for -2% growth)
+- **Margin of Safety**: -36% — ABSENT ($166 > IV $106 at 15x for -2% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
 - **Incentive-Caused Bias**: Weak alignment — only 1.5% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 YES — 3 forces aligning: high quality, strong moat, attractive valuation
@@ -48,7 +48,7 @@ YES — 3 forces aligning: high quality, strong moat, attractive valuation
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.40 applied to composite alpha score
-Conviction Gate: HIGH — Proceed
-Half-life adjustment: None
+Buffett Premium: +0.28 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

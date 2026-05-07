@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BFAM
-*Generated: 2026-05-04 07:00 | Price: $81.55 | Mkt Cap: $4B*
+*Generated: 2026-05-07 06:51 | Price: $66.36 | Mkt Cap: $4B*
 
 ## Sector Context
 Consumer Cyclical / Personal Services
@@ -11,7 +11,7 @@ Consumer Cyclical / Personal Services
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.9x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.1x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 1.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,12 +21,12 @@ Consumer Cyclical / Personal Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 7.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 67% (severe cyclicality); FCF/NI: 168% (strong); Gross margin: 25% (below Consumer Cyclical norm) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 1.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -3.3% (low) | - |
-| Moat | 5.0/10 | 25% | 1.2 | Gross margin 25% — below Consumer Cyclical moderate cutoff 30%; Operating margin 12% — durable for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.2x — deep value; Near 52w low (26% of range) — Mr. Market fearful; Owner earnings yield: 5.9% (>5%) | - |
-| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 1.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -1.9% (low) | - |
+| Moat | 4.0/10 | 25% | 1.0 | Gross margin 25% — below Consumer Cyclical moderate cutoff 30%; Operating margin 9% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.6x — deep value; Near 52w low (4% of range) — Mr. Market fearful; Owner earnings yield: 7.9% (>5%) | - |
+| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
-## Buffett Score: 4.8 / 10
+## Buffett Score: 4.6 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Consumer Cyclical / Personal Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Personal Services
-- **Margin of Safety**: -38% — ABSENT ($82 > IV $50 at 15x for -24% growth)
+- **Margin of Safety**: -25% — ABSENT ($66 > IV $50 at 15x for -6% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

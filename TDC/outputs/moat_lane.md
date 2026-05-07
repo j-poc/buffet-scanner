@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TDC
-*Generated: 2026-05-06 06:49 | Price: $30.08 | Mkt Cap: $3B*
+*Generated: 2026-05-07 06:57 | Price: $30.28 | Mkt Cap: $3B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -11,7 +11,7 @@ Technology / Software - Infrastructure
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Software - Infrastructure | 25% | -35% | YES |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.9x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.7x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 1.1%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -20,14 +20,14 @@ Technology / Software - Infrastructure
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.6/10 | 30% | 2.0 | Avg ROIC: 19.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 67% (severe cyclicality); FCF/NI: 564% (strong); Gross margin: 60% | - |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 13.7% of shares (SBC concern) | - |
-| Moat | 6.0/10 | 25% | 1.5 | Gross margin 60% — moderate moat for Technology; Operating margin 14% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.6x — deep value; 52w range position: 47%; Owner earnings yield: 9.6% (>5%) | - |
-| **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
+| Quality | 7.6/10 | 30% | 2.3 | Avg ROIC: 19.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 67% (severe cyclicality); FCF/NI: 564% (strong); Gross margin: 61% (pricing power for Technology) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 13.0% of shares (SBC concern) | - |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 61% vs sector strong cutoff 60% — strong pricing power; Operating margin -7% — thin for Technology | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.6x — deep value; 52w range position: 48%; Owner earnings yield: 9.0% (>5%) | - |
+| **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
 
-## Buffett Score: 6.7 / 10
-## Alpha Adjustment: +0.17
+## Buffett Score: 7.4 / 10
+## Alpha Adjustment: +0.24
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: 263% — PRESENT (IV $109 vs $30 at 25x)
+- **Margin of Safety**: 261% — PRESENT (IV $109 vs $30 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.1% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.17 applied to composite alpha score
+Buffett Premium: +0.24 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

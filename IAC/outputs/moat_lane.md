@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IAC
-*Generated: 2026-05-06 06:49 | Price: $41.36 | Mkt Cap: $3B*
+*Generated: 2026-05-07 06:57 | Price: $42.25 | Mkt Cap: $3B*
 
 ## Sector Context
 Communication Services / Internet Content & Information
@@ -12,7 +12,7 @@ Communication Services / Internet Content & Information
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 8.6x | 30% | -40% | YES |
-| 3 | Management / Governance Failure | Insider ownership 3.2%; key-man / succession risk | 15% | -20% | No |
+| 3 | Management / Governance Failure | Insider ownership 3.4%; key-man / succession risk | 15% | -20% | No |
 
 ---
 
@@ -21,12 +21,12 @@ Communication Services / Internet Content & Information
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: -3.7% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 303% from prior peak; 5y price drawdown: 77% (severe cyclicality); FCF/NI: -12% (weak conversion); Gross margin: 66% (pricing power for Communication Services) | - |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 3.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 18.5% of shares (SBC concern) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 3.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 18.5% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 66% vs sector strong cutoff 55% — strong pricing power; Operating margin -10% — thin for Communication Services | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.3x — fair price; 52w range position: 73%; Owner earnings yield: 1.2%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.8x — deep value; 52w range position: 78%; Owner earnings yield: 1.2%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
-## Buffett Score: 5.3 / 10
+## Buffett Score: 5.6 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,9 +36,9 @@ Communication Services / Internet Content & Information
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Internet Content & Information
-- **Margin of Safety**: -41% — ABSENT ($41 > IV $24 at 15x for -12% growth)
+- **Margin of Safety**: -42% — ABSENT ($42 > IV $24 at 15x for -12% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
-- **Incentive-Caused Bias**: Weak alignment — only 3.2% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 3.4% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

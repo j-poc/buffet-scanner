@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NYT
-*Generated: 2026-05-06 06:41 | Price: $77.26 | Mkt Cap: $13B*
+*Generated: 2026-05-07 06:49 | Price: $83.68 | Mkt Cap: $14B*
 
 ## Sector Context
 Communication Services / Publishing
@@ -23,23 +23,23 @@ Communication Services / Publishing
 | Quality | 6.9/10 | 30% | 2.1 | Avg ROIC: 14.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 125% (strong); Gross margin: 50% | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.9% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 50% — moderate moat for Communication Services; Operating margin 21% | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 24.6x — growth premium; 52w range position: 73%; Owner earnings yield: 3.6%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 26.6x — growth premium; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 3.3%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
-## Buffett Score: 6.3 / 10
-## Alpha Adjustment: +0.13
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 6.0 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Publishing
-- **Margin of Safety**: -54% — ABSENT ($77 > IV $36 at 17x for 6% growth)
+- **Margin of Safety**: -53% — ABSENT ($84 > IV $40 at 17x for 6% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 4.7% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (0 forces only: none)
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.13 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
 ```

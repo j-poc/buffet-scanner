@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CEG
-*Generated: 2026-05-06 06:36 | Price: $320.42 | Mkt Cap: $116B*
+*Generated: 2026-05-07 06:44 | Price: $322.78 | Mkt Cap: $117B*
 
 ## Sector Context
 Utilities / Utilities - Independent Power Producers
@@ -12,7 +12,7 @@ Utilities / Utilities - Independent Power Producers
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.7x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 0.3%; key-man / succession risk | 20% | -30% | YES |
+| 3 | Management / Governance Failure | Insider ownership 0.4%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -21,9 +21,9 @@ Utilities / Utilities - Independent Power Producers
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.3/10 | 30% | 1.0 | Avg ROIC: 10.4% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 38% from prior peak; 5y price drawdown: 51% (moderate cyclicality); FCF/NI: 493% (strong); Gross margin: 18% (below Utilities norm) | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.5% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.5% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 18% — below Utilities moderate cutoff 25%; Operating margin 10% — thin for Utilities | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 23.6x — growth premium; 52w range position: 46%; Owner earnings yield: 1.1%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 23.8x — growth premium; 52w range position: 47%; Owner earnings yield: 1.1%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 
 ## Buffett Score: 3.9 / 10
@@ -36,9 +36,9 @@ Utilities / Utilities - Independent Power Producers
 ## Mental Models Applied
 
 - **Circle of Competence**: Utilities / Utilities - Independent Power Producers
-- **Margin of Safety**: -65% — ABSENT ($320 > IV $111 at 15x for -49% growth)
+- **Margin of Safety**: -66% — ABSENT ($323 > IV $111 at 15x for -49% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
-- **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

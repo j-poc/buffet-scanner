@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VSNT
-*Generated: 2026-05-06 06:43 | Price: $40.88 | Mkt Cap: $6B*
+*Generated: 2026-05-07 06:51 | Price: $40.97 | Mkt Cap: $6B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -36,7 +36,7 @@ Communication Services / Entertainment
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Entertainment
-- **Margin of Safety**: 136% — PRESENT (IV $96 vs $41 at 15x)
+- **Margin of Safety**: 135% — PRESENT (IV $96 vs $41 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

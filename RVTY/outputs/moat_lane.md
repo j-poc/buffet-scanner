@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RVTY
-*Generated: 2026-05-06 06:46 | Price: $92.3 | Mkt Cap: $10B*
+*Generated: 2026-05-07 06:54 | Price: $99.09 | Mkt Cap: $11B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research
@@ -22,11 +22,11 @@ Healthcare / Diagnostics & Research
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 3.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 65% from prior peak; 5y price drawdown: 59% (severe cyclicality); FCF/NI: 129% (strong); Gross margin: 54% | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 8.1% of shares (SBC concern) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 54% — moderate moat for Healthcare; Operating margin 11% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.4x — fair price; Near 52w low (30% of range) — Mr. Market fearful; Owner earnings yield: 4.9%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 54% — moderate moat for Healthcare; Operating margin 12% | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.9x — fair price; 52w range position: 48%; Owner earnings yield: 4.6%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
-## Buffett Score: 4.5 / 10
+## Buffett Score: 4.2 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Healthcare / Diagnostics & Research
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Diagnostics & Research
-- **Margin of Safety**: -66% — ABSENT ($92 > IV $31 at 15x for 4% growth)
+- **Margin of Safety**: -69% — ABSENT ($99 > IV $31 at 15x for 4% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

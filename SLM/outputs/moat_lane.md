@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SLM
-*Generated: 2026-05-05 06:31 | Price: $22.51 | Mkt Cap: $4B*
+*Generated: 2026-05-07 06:51 | Price: $22.53 | Mkt Cap: $4B*
 
 ## Sector Context
 Financial Services / Credit Services
@@ -36,7 +36,7 @@ Financial Services / Credit Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Credit Services
-- **Margin of Safety**: 170% — PRESENT (IV $61 vs $23 at 17x)
+- **Margin of Safety**: 172% — PRESENT (IV $61 vs $23 at 17x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
