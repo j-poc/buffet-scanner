@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VOYA
-*Generated: 2026-05-04 06:54 | Price: $82.6 | Mkt Cap: $8B*
+*Generated: 2026-05-08 06:09 | Price: $79.69 | Mkt Cap: $7B*
 
 ## Sector Context
 Financial Services / Financial Conglomerates
@@ -11,7 +11,7 @@ Financial Services / Financial Conglomerates
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.1x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.0x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.3%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,10 +20,10 @@ Financial Services / Financial Conglomerates
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.3/10 | 30% | 1.6 | ROE: 11.2% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 35% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.0% (low) | - |
-| Moat | 5.5/10 | 25% | 1.4 | ROE 11% — adequate (Financial Services); Operating margin 11% — thin for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.4x — deep value; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 19.7% (>5%) | - |
+| Quality | 5.5/10 | 30% | 1.6 | ROE: 11.9% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 35% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
+| Moat | 5.5/10 | 25% | 1.4 | ROE 12% — adequate (Financial Services); Operating margin 13% — thin for Financial Services | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.2x — deep value; 52w range position: 78% | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,10 +36,10 @@ Financial Services / Financial Conglomerates
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Financial Conglomerates
-- **Margin of Safety**: 90% — PRESENT (IV $157 vs $83 at 25x)
+- **Margin of Safety**: 108% — PRESENT (IV $166 vs $80 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

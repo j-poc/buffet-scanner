@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GLIBK
-*Generated: 2026-05-07 06:53 | Price: $32.97 | Mkt Cap: $1B*
+*Generated: 2026-05-08 06:12 | Price: $26.77 | Mkt Cap: $1B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (8.6% inst.) as insider
 
@@ -22,14 +22,14 @@ Communication Services / Telecom Services
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -0.6% (3y); Earnings: 1 down-year in 2 transitions; NI drawdown: 541% from prior peak; 5y price drawdown: 22% (stable); FCF/NI: 46% (weak conversion); Gross margin: 51% | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -0.6% (3y); Earnings: 1 down-year in 2 transitions; NI drawdown: 541% from prior peak; 5y price drawdown: 33% (stable); FCF/NI: 46% (weak conversion); Gross margin: 51% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -2.7% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 51% — moderate moat for Communication Services; Operating margin 12% — thin for Communication Services | - |
-| Valuation Fit | 4.0/10 | 20% | 0.8 | No P/E data (unprofitable?); 52w range position: 33%; Owner earnings yield: 13.0% (>5%) | Expensive |
-| **TOTAL** | **3.3/10** | **100%** | **3.3** | | |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | No P/E data (unprofitable?); Near 52w low (4% of range) — Mr. Market fearful; Owner earnings yield: 16.0% (>5%) | - |
+| **TOTAL** | **3.6/10** | **100%** | **3.6** | | |
 
-## Buffett Score: 3.3 / 10
-## Alpha Adjustment: -0.25
+## Buffett Score: 3.6 / 10
+## Alpha Adjustment: -0.23
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -41,7 +41,7 @@ Communication Services / Telecom Services
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (0 forces only: none)
@@ -50,7 +50,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.25 applied to composite alpha score
+Buffett Premium: -0.23 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

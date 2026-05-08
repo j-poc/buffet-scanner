@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ECG
-*Generated: 2026-05-06 06:42 | Price: $168.32 | Mkt Cap: $9B*
+*Generated: 2026-05-08 06:09 | Price: $158.42 | Mkt Cap: $8B*
 
 ## Sector Context
 Industrials / Engineering & Construction
@@ -11,7 +11,7 @@ Industrials / Engineering & Construction
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.3x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.1x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.4%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -22,8 +22,8 @@ Industrials / Engineering & Construction
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.2/10 | 30% | 1.6 | Avg ROIC: 22.8% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 56% (severe cyclicality); FCF/NI: 44% (weak conversion); Gross margin: 12% (below Industrials norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
-| Moat | 4.0/10 | 25% | 1.0 | Gross margin 12% — below Industrials moderate cutoff 22%; Operating margin 7% — thin for Industrials; Rev growth 33% — demand pull | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 36.6x — expensive; Near 52w high (99% of range) — Mr. Market greedy; Owner earnings yield: 0.5%; Earnings yield < 4% — worse than bonds | Expensive |
+| Moat | 4.0/10 | 25% | 1.0 | Gross margin 12% — below Industrials moderate cutoff 22%; Operating margin 7% — thin for Industrials; Rev growth 25% — demand pull | - |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 32.7x — expensive; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 2.1%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
 
 ## Buffett Score: 4.1 / 10
@@ -36,7 +36,7 @@ Industrials / Engineering & Construction
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Engineering & Construction
-- **Margin of Safety**: -41% — ABSENT ($168 > IV $99 at 25x for 25% growth)
+- **Margin of Safety**: -31% — ABSENT ($158 > IV $109 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Greedy — exercise caution

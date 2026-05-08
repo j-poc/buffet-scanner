@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LYV
-*Generated: 2026-05-07 06:46 | Price: $167.82 | Mkt Cap: $39B*
+*Generated: 2026-05-08 06:05 | Price: $165.75 | Mkt Cap: $39B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -12,7 +12,7 @@ Communication Services / Entertainment
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 7.1x | 30% | -40% | YES |
-| 3 | Management / Governance Failure | Insider ownership 32.2%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 32.5%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -21,12 +21,12 @@ Communication Services / Entertainment
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.2/10 | 30% | 1.3 | Avg ROIC: 12.9% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 45% from prior peak; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 224% (strong); Gross margin: 26% (below Communication Services norm) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 32.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 32.6% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 32.5% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 32.6% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 26% — below Communication Services moderate cutoff 40%; Operating margin -10% — thin for Communication Services | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 78.3x — extreme premium; Near 52w high (85% of range) — Mr. Market greedy; Owner earnings yield: 5.4% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 76.6x — extreme premium; 52w range position: 81%; Owner earnings yield: 5.5% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
-## Buffett Score: 4.6 / 10
+## Buffett Score: 4.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,8 +38,8 @@ Communication Services / Entertainment
 - **Circle of Competence**: Communication Services / Entertainment
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (0 forces only: none)
-- **Incentive-Caused Bias**: Aligned — 32.2% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Incentive-Caused Bias**: Aligned — 32.5% insider ownership
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (0 forces only: none)

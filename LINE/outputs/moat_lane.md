@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LINE
-*Generated: 2026-05-07 06:57 | Price: $37.81 | Mkt Cap: $9B*
+*Generated: 2026-05-08 06:11 | Price: $39.97 | Mkt Cap: $10B*
 
 ## Sector Context
 Real Estate / REIT - Industrial
@@ -11,7 +11,7 @@ Real Estate / REIT - Industrial
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 7.2x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 7.5x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 68.6%; key-man / succession risk | 8% | -15% | No |
 
 ---
@@ -21,9 +21,9 @@ Real Estate / REIT - Industrial
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 0.9% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 62% (severe cyclicality); FCF/NI: 65%; Gross margin: 32% (below Real Estate norm) | ROIC declining |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 68.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 74.9% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 68.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 74.8% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 32% — below Real Estate moderate cutoff 35%; Operating margin 3% — thin for Real Estate | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -58.8x — deep value; 52w range position: 37%; Owner earnings yield: 13.9% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -62.1x — deep value; 52w range position: 50%; Owner earnings yield: 9.0% (>5%) | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10

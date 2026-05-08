@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SNDR
-*Generated: 2026-05-07 06:53 | Price: $30.9 | Mkt Cap: $5B*
+*Generated: 2026-05-08 06:12 | Price: $30.65 | Mkt Cap: $5B*
 
 ## Sector Context
 Industrials / Trucking
@@ -21,9 +21,9 @@ Industrials / Trucking
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 7.9% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 77% from prior peak; 5y price drawdown: 39% (stable); FCF/NI: 71%; Gross margin: 16% (below Industrials norm) | ROIC declining |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 50.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 26.9% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 50.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 27.0% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 16% — below Industrials moderate cutoff 22%; Operating margin 2% — thin for Industrials | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.5x — growth premium; 52w range position: 82%; Owner earnings yield: 3.4%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.4x — growth premium; 52w range position: 80%; Owner earnings yield: 3.4%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10

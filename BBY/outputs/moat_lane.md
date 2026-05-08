@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BBY
-*Generated: 2026-05-07 06:44 | Price: $58.69 | Mkt Cap: $12B*
+*Generated: 2026-05-08 06:03 | Price: $58.54 | Mkt Cap: $12B*
 
 > ⚠ DATA: yfinance misclassified State Street Corporation (6.3% inst.) as insider
 
@@ -23,9 +23,9 @@ Consumer Cyclical / Specialty Retail
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.0/10 | 30% | 0.9 | ROIC declining trend; Avg ROIC: 30.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 35% from prior peak; 5y price drawdown: 53% (moderate cyclicality); FCF/NI: 96% (strong); Gross margin: 22% (thin by design for Specialty Retail) | ROIC declining |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 8.0% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.8% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROA 8% / ROE 37% — scale moat (Specialty Retail); Operating margin 5% — thin for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.4x — deep value; Near 52w low (7% of range) — Mr. Market fearful; Owner earnings yield: 6.8% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.3x — deep value; Near 52w low (7% of range) — Mr. Market fearful; Owner earnings yield: 6.8% (>5%) | - |
 | **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
 ## Buffett Score: 5.7 / 10

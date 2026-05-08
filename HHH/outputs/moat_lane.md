@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HHH
-*Generated: 2026-05-07 06:58 | Price: $64.12 | Mkt Cap: $4B*
+*Generated: 2026-05-08 06:11 | Price: $63.52 | Mkt Cap: $4B*
 
 ## Sector Context
 Real Estate / Real Estate - Development
@@ -20,10 +20,10 @@ Real Estate / Real Estate - Development
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 3.8% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 399% from prior peak; 5y price drawdown: 52% (moderate cyclicality); FCF/NI: 198% (strong); Gross margin: 48% | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 3.8% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 399% from prior peak; 5y price drawdown: 51% (moderate cyclicality); FCF/NI: 198% (strong); Gross margin: 48% | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 1.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 48.9% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 48% — moderate moat for Real Estate; Operating margin 7% — thin for Real Estate | - |
-| Valuation Fit | 4.0/10 | 20% | 0.8 | P/E 62.9x — extreme premium; Near 52w low (10% of range) — Mr. Market fearful; Owner earnings yield: 12.4% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.0/10 | 20% | 0.8 | P/E 62.3x — extreme premium; Near 52w low (8% of range) — Mr. Market fearful; Owner earnings yield: 12.5% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.2/10** | **100%** | **3.2** | | |
 
 ## Buffett Score: 3.2 / 10

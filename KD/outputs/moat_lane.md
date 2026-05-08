@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KD
-*Generated: 2026-05-06 06:49 | Price: $14.7 | Mkt Cap: $3B*
+*Generated: 2026-05-08 06:11 | Price: $12.64 | Mkt Cap: $3B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -11,7 +11,7 @@ Technology / Information Technology Services
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Information Technology Services | 25% | -35% | YES |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.9x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.8x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 1.5%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -22,8 +22,8 @@ Technology / Information Technology Services
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: -7.1% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 80% (severe cyclicality); FCF/NI: 59%; Gross margin: 22% (below Technology norm) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.5% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 22% — below Technology moderate cutoff 40%; Operating margin 4% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.6x — deep value; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 82.8% (>5%) | - |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 22% — below Technology moderate cutoff 40%; Operating margin 5% — thin for Technology | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.6x — deep value; Near 52w low (7% of range) — Mr. Market fearful | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10
@@ -36,7 +36,7 @@ Technology / Information Technology Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Information Technology Services
-- **Margin of Safety**: 7% — thin (IV $16 at 15x)
+- **Margin of Safety**: 1% — thin (IV $13 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

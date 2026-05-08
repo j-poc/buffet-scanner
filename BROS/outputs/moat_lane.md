@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BROS
-*Generated: 2026-05-07 06:51 | Price: $59.06 | Mkt Cap: $10B*
+*Generated: 2026-05-08 06:09 | Price: $53.54 | Mkt Cap: $9B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (8.7% inst.) as insider
 
@@ -13,7 +13,7 @@ Consumer Cyclical / Restaurants
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.8x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.9x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -22,14 +22,14 @@ Consumer Cyclical / Restaurants
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.7/10 | 30% | 0.5 | Avg ROIC: 8.7% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 70% (severe cyclicality); FCF/NI: -581% (weak conversion); Gross margin: 26% (below Consumer Cyclical norm) | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 8.6% of shares (SBC concern) | - |
-| Moat | 4.5/10 | 25% | 1.1 | Gross margin 26% — below Consumer Cyclical moderate cutoff 30%; Operating margin 8%; Rev growth 29% — demand pull | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 49.0x — expensive; 52w range position: 43%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.2/10** | **100%** | **3.2** | | |
+| Quality | 1.7/10 | 30% | 0.5 | Avg ROIC: 8.7% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 70% (severe cyclicality); FCF/NI: -581% (weak conversion); Gross margin: 25% (below Consumer Cyclical norm) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 15.1% of shares (SBC concern) | - |
+| Moat | 4.5/10 | 25% | 1.1 | Gross margin 25% — below Consumer Cyclical moderate cutoff 30%; Operating margin 8%; Rev growth 31% — demand pull | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 43.6x — expensive; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 0.5%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **3.5/10** | **100%** | **3.5** | | |
 
-## Buffett Score: 3.2 / 10
-## Alpha Adjustment: -0.26
+## Buffett Score: 3.5 / 10
+## Alpha Adjustment: -0.24
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -38,10 +38,10 @@ Consumer Cyclical / Restaurants
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Restaurants
-- **Margin of Safety**: -73% — ABSENT ($59 > IV $16 at 25x for 25% growth)
+- **Margin of Safety**: -70% — ABSENT ($54 > IV $16 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (1 forces only: secular growth)
@@ -50,7 +50,7 @@ No (1 forces only: secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.26 applied to composite alpha score
+Buffett Premium: -0.24 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

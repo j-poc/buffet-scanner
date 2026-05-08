@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: QRVO
-*Generated: 2026-05-06 06:42 | Price: $96.35 | Mkt Cap: $9B*
+*Generated: 2026-05-08 06:09 | Price: $88.97 | Mkt Cap: $8B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -12,7 +12,7 @@ Technology / Semiconductors
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Semiconductors | 25% | -35% | YES |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.0x | 15% | -25% | No |
-| 3 | Management / Governance Failure | Insider ownership 1.1%; key-man / succession risk | 15% | -20% | No |
+| 3 | Management / Governance Failure | Insider ownership 1.2%; key-man / succession risk | 15% | -20% | No |
 
 ---
 
@@ -20,13 +20,13 @@ Technology / Semiconductors
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 5.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 107% from prior peak; 5y price drawdown: 74% (severe cyclicality); FCF/NI: 153% (strong); Gross margin: 45% | ROIC declining |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 9.0% of shares (SBC concern) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 45% — moderate moat for Technology; Operating margin 20% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.3x — deep value; 52w range position: 73%; Owner earnings yield: 6.3% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 5.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 107% from prior peak; 5y price drawdown: 74% (severe cyclicality); FCF/NI: 153% (strong); Gross margin: 46% | ROIC declining |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 9.0% of shares (SBC concern) | - |
+| Moat | 6.0/10 | 25% | 1.5 | Gross margin 46% — moderate moat for Technology; Operating margin 18% — thin for Technology | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.2x — deep value; 52w range position: 50%; Owner earnings yield: 6.9% (>5%) | - |
+| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
-## Buffett Score: 4.9 / 10
+## Buffett Score: 4.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,9 +36,9 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: -6% — ABSENT ($96 > IV $91 at 25x for 25% growth)
+- **Margin of Safety**: -39% — ABSENT ($89 > IV $54 at 15x for -4% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
-- **Incentive-Caused Bias**: Weak alignment — only 1.1% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 1.2% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VTRS
-*Generated: 2026-05-07 06:55 | Price: $15.95 | Mkt Cap: $19B*
+*Generated: 2026-05-08 06:14 | Price: $17.39 | Mkt Cap: $20B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - Specialty & Generic
@@ -11,7 +11,7 @@ Healthcare / Drug Manufacturers - Specialty & Generic
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.7x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.6x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.4%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,13 +20,13 @@ Healthcare / Drug Manufacturers - Specialty & Generic
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -0.1% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 269% from prior peak; 5y price drawdown: 47% (moderate cyclicality); FCF/NI: 1003% (strong); Gross margin: 40% | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); No insider transaction data; Restricted stock: 2.0% (low) | - |
-| Moat | 6.0/10 | 25% | 1.5 | Gross margin 40% — moderate moat for Healthcare; Operating margin 8% — thin for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.0x — deep value; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 13.1% (>5%) | - |
-| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -0.1% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 269% from prior peak; 5y price drawdown: 47% (moderate cyclicality); FCF/NI: 1003% (strong); Gross margin: 39% | ROIC declining |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); No insider transaction data; Restricted stock: 1.6% (low) | - |
+| Moat | 6.0/10 | 25% | 1.5 | Gross margin 39% — moderate moat for Healthcare; Operating margin -1% — thin for Healthcare | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 6.4x — deep value; Near 52w high (99% of range) — Mr. Market greedy | - |
+| **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
 
-## Buffett Score: 4.5 / 10
+## Buffett Score: 4.3 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

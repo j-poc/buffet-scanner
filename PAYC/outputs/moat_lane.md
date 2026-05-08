@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PAYC
-*Generated: 2026-05-07 06:51 | Price: $126.36 | Mkt Cap: $7B*
+*Generated: 2026-05-08 06:10 | Price: $138.43 | Mkt Cap: $6B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (11.7% inst.) as insider
 
@@ -13,7 +13,7 @@ Technology / Software - Application
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Software - Application | 25% | -35% | YES |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.1x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.1x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -22,14 +22,14 @@ Technology / Software - Application
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 7.5/10 | 30% | 2.2 | Avg ROIC: 28.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 79% (severe cyclicality); FCF/NI: 80% (strong); Gross margin: 87% (pricing power for Technology) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 4.7% (low) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 87% vs sector strong cutoff 60% — strong pricing power; Operating margin 29% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.9x — deep value; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 3.8% | - |
-| **TOTAL** | **7.2/10** | **100%** | **7.2** | | |
+| Quality | 7.5/10 | 30% | 2.2 | Avg ROIC: 28.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 79% (severe cyclicality); FCF/NI: 80% (strong); Gross margin: 88% (pricing power for Technology) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 14.6% of shares (SBC concern) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 88% vs sector strong cutoff 60% — strong pricing power; Operating margin 37% — durable for Technology | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.3x — deep value; Near 52w low (21% of range) — Mr. Market fearful; Owner earnings yield: 4.7% | - |
+| **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
 
-## Buffett Score: 7.2 / 10
-## Alpha Adjustment: +0.22
+## Buffett Score: 7.4 / 10
+## Alpha Adjustment: +0.24
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -38,7 +38,7 @@ Technology / Software - Application
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Application
-- **Margin of Safety**: -4% — ABSENT ($126 > IV $121 at 15x for 2% growth)
+- **Margin of Safety**: 56% — PRESENT (IV $216 vs $138 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
@@ -50,7 +50,7 @@ No (2 forces only: strong moat, attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.22 applied to composite alpha score
+Buffett Premium: +0.24 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

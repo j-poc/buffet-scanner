@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AXS
-*Generated: 2026-05-04 06:54 | Price: $100.13 | Mkt Cap: $7B*
+*Generated: 2026-05-08 06:09 | Price: $99.31 | Mkt Cap: $7B*
 
 ## Sector Context
 Financial Services / Insurance - Specialty
@@ -20,10 +20,10 @@ Financial Services / Insurance - Specialty
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.9/10 | 30% | 2.1 | ROE: 17.4% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 22% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Quality | 6.9/10 | 30% | 2.1 | ROE: 17.4% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 20% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.3% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 17% — strong franchise (Financial Services); Operating margin 19% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.9x — deep value; 52w range position: 54%; Owner earnings yield: 0.9% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.8x — deep value; 52w range position: 50%; Owner earnings yield: 0.9% | - |
 | **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
 
 ## Buffett Score: 6.8 / 10
@@ -36,7 +36,7 @@ Financial Services / Insurance - Specialty
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Specialty
-- **Margin of Safety**: 234% — PRESENT (IV $334 vs $100 at 25x)
+- **Margin of Safety**: 237% — PRESENT (IV $334 vs $99 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
 - **Mr. Market**: Neutral

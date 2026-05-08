@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WBD
-*Generated: 2026-05-07 06:55 | Price: $27.2 | Mkt Cap: $68B*
+*Generated: 2026-05-08 06:07 | Price: $27.12 | Mkt Cap: $68B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -11,7 +11,7 @@ Communication Services / Entertainment
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 5.0x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.3x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 4.2%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -20,10 +20,10 @@ Communication Services / Entertainment
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: -3.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 82% (severe cyclicality); FCF/NI: 36% (weak conversion); Gross margin: 45% | - |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 4.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 6.1% of shares (SBC concern) | - |
-| Moat | 6.0/10 | 25% | 1.5 | Gross margin 45% — moderate moat for Communication Services; Operating margin 7% — thin for Communication Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -1554.3x — deep value; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 23.5% (>5%) | - |
+| Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: -3.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 82% (severe cyclicality); FCF/NI: 36% (weak conversion); Gross margin: 46% | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 4.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 5.0% of shares (SBC concern) | - |
+| Moat | 6.0/10 | 25% | 1.5 | Gross margin 46% — moderate moat for Communication Services; Operating margin 9% — thin for Communication Services | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -1549.7x — deep value; Near 52w high (86% of range) — Mr. Market greedy; Owner earnings yield: 27.2% (>5%) | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10

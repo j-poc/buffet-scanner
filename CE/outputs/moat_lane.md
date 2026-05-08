@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CE
-*Generated: 2026-05-07 06:51 | Price: $62.12 | Mkt Cap: $7B*
+*Generated: 2026-05-08 06:09 | Price: $58.4 | Mkt Cap: $6B*
 
 ## Sector Context
 Basic Materials / Chemicals
@@ -11,7 +11,7 @@ Basic Materials / Chemicals
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 8.3x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 8.1x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.3%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,9 +21,9 @@ Basic Materials / Chemicals
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 179% from prior peak; 5y price drawdown: 79% (severe cyclicality); FCF/NI: 8% (weak conversion); Gross margin: 21% | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 2.6% (low) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 21% — moderate moat for Basic Materials; Operating margin 9% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.5x — deep value; 52w range position: 76%; Owner earnings yield: 5.3% (>5%) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 21% — moderate moat for Basic Materials; Operating margin 7% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.0x — deep value; 52w range position: 65% | - |
 | **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
 ## Buffett Score: 4.6 / 10

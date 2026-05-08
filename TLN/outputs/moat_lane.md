@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TLN
-*Generated: 2026-05-07 06:49 | Price: $409.99 | Mkt Cap: $19B*
+*Generated: 2026-05-08 06:07 | Price: $390.55 | Mkt Cap: $18B*
 
 ## Sector Context
 Utilities / Utilities - Independent Power Producers
@@ -11,7 +11,7 @@ Utilities / Utilities - Independent Power Producers
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 21.3x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 10.8x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.8%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,13 +20,13 @@ Utilities / Utilities - Independent Power Producers
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.7/10 | 30% | 0.5 | Avg ROIC: 12.8% (2y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 122% from prior peak; 5y price drawdown: 34% (stable); FCF/NI: -39% (weak conversion); Gross margin: 38% | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 14.6% of shares (SBC concern) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 38% — moderate moat for Utilities; Operating margin -36% — thin for Utilities; Rev growth 58% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.8x — deep value; 52w range position: 82%; Owner earnings yield: 5.8% (>5%) | - |
-| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
+| Quality | 2.7/10 | 30% | 0.8 | Avg ROIC: 12.8% (2y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 122% from prior peak; 5y price drawdown: 34% (stable); FCF/NI: -39% (weak conversion); Gross margin: 42% (pricing power for Utilities) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 14.7% of shares (SBC concern) | - |
+| Moat | 8.5/10 | 25% | 2.1 | Gross margin 42% vs sector strong cutoff 40% — strong pricing power; Operating margin 19%; Rev growth 79% — demand pull | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.3x — deep value; 52w range position: 74%; Owner earnings yield: 7.7% (>5%) | - |
+| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
-## Buffett Score: 5.0 / 10
+## Buffett Score: 5.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -37,12 +37,12 @@ Utilities / Utilities - Independent Power Producers
 
 - **Circle of Competence**: Utilities / Utilities - Independent Power Producers
 - **Margin of Safety**: Cannot calculate (no positive EPS)
-- **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
+- **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (2 forces only: attractive valuation, secular growth)
+YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 
 ---
 

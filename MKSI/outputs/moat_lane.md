@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MKSI
-*Generated: 2026-05-07 06:48 | Price: $293.77 | Mkt Cap: $20B*
+*Generated: 2026-05-08 06:07 | Price: $300.79 | Mkt Cap: $20B*
 
 ## Sector Context
 Technology / Scientific & Technical Instruments
@@ -11,7 +11,7 @@ Technology / Scientific & Technical Instruments
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Scientific & Technical Instruments | 25% | -35% | YES |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 5.0x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.6x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.6%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,9 +21,9 @@ Technology / Scientific & Technical Instruments
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 0.2% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 653% from prior peak; 5y price drawdown: 68% (severe cyclicality); FCF/NI: 120% (strong); Gross margin: 47% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
-| Moat | 6.0/10 | 25% | 1.5 | Gross margin 47% — moderate moat for Technology; Operating margin 14% — thin for Technology | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 24.0x — growth premium; Near 52w high (98% of range) — Mr. Market greedy; Owner earnings yield: 2.7%; Earnings yield < 7% — tight vs index | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
+| Moat | 6.0/10 | 25% | 1.5 | Gross margin 47% — moderate moat for Technology; Operating margin 16% — thin for Technology | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 21.4x — growth premium; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 2.4%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
 
 ## Buffett Score: 4.1 / 10
@@ -36,7 +36,7 @@ Technology / Scientific & Technical Instruments
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Scientific & Technical Instruments
-- **Margin of Safety**: -67% — ABSENT ($294 > IV $96 at 20x for 18% growth)
+- **Margin of Safety**: -60% — ABSENT ($301 > IV $120 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Greedy — exercise caution

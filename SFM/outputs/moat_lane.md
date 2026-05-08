@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SFM
-*Generated: 2026-05-04 06:54 | Price: $81.19 | Mkt Cap: $8B*
+*Generated: 2026-05-08 06:09 | Price: $81.01 | Mkt Cap: $8B*
 
 ## Sector Context
 Consumer Defensive / Grocery Stores

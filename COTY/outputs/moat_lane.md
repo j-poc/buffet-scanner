@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COTY
-*Generated: 2026-05-07 06:53 | Price: $2.65 | Mkt Cap: $2B*
+*Generated: 2026-05-08 06:12 | Price: $2.5 | Mkt Cap: $2B*
 
 ## Sector Context
 Consumer Defensive / Household & Personal Products
@@ -11,7 +11,7 @@ Consumer Defensive / Household & Personal Products
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.1x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.2x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 59.9%; key-man / succession risk | 8% | -15% | No |
 
 ---
@@ -20,10 +20,10 @@ Consumer Defensive / Household & Personal Products
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 5.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 172% from prior peak; 5y price drawdown: 85% (severe cyclicality); FCF/NI: 157% (strong); Gross margin: 64% (pricing power for Consumer Defensive) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 5.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 172% from prior peak; 5y price drawdown: 85% (severe cyclicality); FCF/NI: 157% (strong); Gross margin: 63% (pricing power for Consumer Defensive) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 59.9% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 57.4% of shares (SBC concern) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 64% vs sector strong cutoff 45% — strong pricing power; Operating margin 10% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.2x — deep value; Near 52w low (21% of range) — Mr. Market fearful; Owner earnings yield: 16.3% (>5%) | - |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 63% vs sector strong cutoff 45% — strong pricing power; Operating margin -1% — thin for Consumer Defensive | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.0x — deep value; Near 52w low (16% of range) — Mr. Market fearful; Owner earnings yield: 18.3% (>5%) | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -37,12 +37,12 @@ Consumer Defensive / Household & Personal Products
 
 - **Circle of Competence**: Consumer Defensive / Household & Personal Products
 - **Margin of Safety**: Cannot calculate (no positive EPS)
-- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 59.9% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-No (2 forces only: strong moat, attractive valuation)
+No (1 forces only: attractive valuation)
 
 ---
 

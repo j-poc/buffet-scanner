@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NSA
-*Generated: 2026-05-07 06:57 | Price: $43.36 | Mkt Cap: $6B*
+*Generated: 2026-05-08 06:11 | Price: $43.33 | Mkt Cap: $6B*
 
 ## Sector Context
 Real Estate / REIT - Industrial
@@ -11,7 +11,7 @@ Real Estate / REIT - Industrial
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.4x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.3x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 7.8%; key-man / succession risk | 8% | -15% | No |
 
 ---
@@ -20,10 +20,10 @@ Real Estate / REIT - Industrial
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: 5.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 53% from prior peak; 5y price drawdown: 55% (severe cyclicality); FCF/NI: 329% (strong); Gross margin: 76% (pricing power for Real Estate) | - |
-| Management | 6.5/10 | 25% | 1.6 | Insider ownership: 7.8%; Insider activity: 0B/0S last 6m; Restricted stock: 7.6% of shares (SBC concern) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 76% vs sector strong cutoff 55% — strong pricing power; Operating margin 36% — durable for Real Estate | - |
-| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 115.0x — extreme premium; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 4.1%; Earnings yield < 4% — worse than bonds | Expensive |
+| Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: 5.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 53% from prior peak; 5y price drawdown: 55% (severe cyclicality); FCF/NI: 329% (strong); Gross margin: 77% (pricing power for Real Estate) | - |
+| Management | 6.5/10 | 25% | 1.6 | Insider ownership: 7.8%; Insider activity: 0B/0S last 6m; Restricted stock: 7.7% of shares (SBC concern) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 77% vs sector strong cutoff 55% — strong pricing power; Operating margin 36% — durable for Real Estate | - |
+| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 114.9x — extreme premium; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 3.8%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
 
 ## Buffett Score: 4.3 / 10

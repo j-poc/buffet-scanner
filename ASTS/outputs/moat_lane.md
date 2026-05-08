@@ -1,7 +1,7 @@
 # Buffett/Munger Moat Lane: ASTS
-*Generated: 2026-05-07 06:49 | Price: $70.68 | Mkt Cap: $27B*
+*Generated: 2026-05-08 06:07 | Price: $65.35 | Mkt Cap: $25B*
 
-> ⚠ DATA: yfinance misclassified Rakuten Group, Inc. (10.4% inst.) as insider
+> ⚠ DATA: yfinance misclassified Vanguard Group Inc (7.2% inst.) as insider
 
 ## Sector Context
 Technology / Communication Equipment
@@ -23,9 +23,9 @@ Technology / Communication Equipment
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: -59.3% (4y); Earnings: 3/3 down-years (unpredictable); 5y price drawdown: 86% (severe cyclicality); FCF/NI: 358% (strong); Gross margin: 50% | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 15.3% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 13.4% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 50% — moderate moat for Technology; Operating margin -133% — thin for Technology; Rev growth 2731% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -429.9x — deep value; 52w range position: 45% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -397.5x — deep value; 52w range position: 40% | - |
 | **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
 ## Buffett Score: 4.7 / 10

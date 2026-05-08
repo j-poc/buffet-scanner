@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FRPT
-*Generated: 2026-05-07 06:57 | Price: $54.925 | Mkt Cap: $3B*
+*Generated: 2026-05-08 06:11 | Price: $55.87 | Mkt Cap: $3B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods
@@ -21,12 +21,12 @@ Consumer Defensive / Packaged Foods
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 0.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 79% (severe cyclicality); FCF/NI: 221% (strong); Gross margin: 41% | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.9% (low) | - |
-| Moat | 7.5/10 | 25% | 1.9 | Gross margin 41% — moderate moat for Consumer Defensive; Operating margin 16% — durable for Consumer Defensive | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 27.6x — growth premium; Near 52w low (19% of range) — Mr. Market fearful; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.7% (low) | - |
+| Moat | 6.0/10 | 25% | 1.5 | Gross margin 41% — moderate moat for Consumer Defensive; Operating margin 1% — thin for Consumer Defensive | - |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 28.9x — growth premium; Near 52w low (21% of range) — Mr. Market fearful; Owner earnings yield: 0.5%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
-## Buffett Score: 5.7 / 10
+## Buffett Score: 5.3 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Consumer Defensive / Packaged Foods
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Packaged Foods
-- **Margin of Safety**: 73% — PRESENT (IV $95 vs $55 at 25x)
+- **Margin of Safety**: 36% — PRESENT (IV $76 vs $56 at 20x)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 1.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

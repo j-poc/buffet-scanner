@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SNX
-*Generated: 2026-05-07 06:49 | Price: $233.93 | Mkt Cap: $19B*
+*Generated: 2026-05-08 06:07 | Price: $232.45 | Mkt Cap: $19B*
 
 ## Sector Context
 Technology / Electronics & Computer Distribution
@@ -12,7 +12,7 @@ Technology / Electronics & Computer Distribution
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Electronics & Computer Distribution | 25% | -35% | YES |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.5x | 15% | -25% | No |
-| 3 | Management / Governance Failure | Insider ownership 5.0%; key-man / succession risk | 15% | -20% | No |
+| 3 | Management / Governance Failure | Insider ownership 4.9%; key-man / succession risk | 15% | -20% | No |
 
 ---
 
@@ -21,9 +21,9 @@ Technology / Electronics & Computer Distribution
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 7.5% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 37% (stable); FCF/NI: 124% (strong); Gross margin: 7% (below Technology norm) | - |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 5.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 7.9% of shares (SBC concern) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 4.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: 7.9% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 7% — below Technology moderate cutoff 40%; Operating margin 3% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.8x — deep value; Near 52w high (98% of range) — Mr. Market greedy; Owner earnings yield: 6.4% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.7x — deep value; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 6.5% (>5%) | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
 ## Buffett Score: 5.2 / 10
@@ -36,9 +36,9 @@ Technology / Electronics & Computer Distribution
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Electronics & Computer Distribution
-- **Margin of Safety**: 28% — thin (IV $300 at 25x)
+- **Margin of Safety**: 29% — thin (IV $300 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
-- **Incentive-Caused Bias**: Weak alignment — only 5.0% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 4.9% insider ownership
 - **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check

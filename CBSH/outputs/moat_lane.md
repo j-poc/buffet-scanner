@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CBSH
-*Generated: 2026-05-07 06:51 | Price: $52.525 | Mkt Cap: $8B*
+*Generated: 2026-05-08 06:09 | Price: $52.48 | Mkt Cap: $8B*
 
 ## Sector Context
 Financial Services / Banks - Regional
