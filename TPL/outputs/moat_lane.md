@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TPL
-*Generated: 2026-05-08 06:13 | Price: $399.08 | Mkt Cap: $28B*
+*Generated: 2026-05-09 06:33 | Price: $394.2 | Mkt Cap: $27B*
 
 ## Sector Context
 Energy / Oil & Gas E&P
@@ -22,12 +22,12 @@ Energy / Oil & Gas E&P
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.5/10 | 30% | 1.6 | ROIC declining trend; Avg ROIC: 41.2% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 53% (moderate cyclicality); FCF/NI: 52%; Gross margin: 93% (pricing power for Energy) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 14.7% of shares (SBC concern) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 93% vs sector strong cutoff 30% — strong pricing power; Operating margin 71% — durable for Energy | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.5x — deep value; 52w range position: 47% | - |
-| **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
+| Moat | 9.5/10 | 25% | 2.4 | Gross margin 93% vs sector strong cutoff 30% — strong pricing power; Operating margin 77% — durable for Energy; Rev growth 21% — demand pull | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.4x — deep value; 52w range position: 45% | - |
+| **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
 
-## Buffett Score: 6.8 / 10
-## Alpha Adjustment: +0.18
+## Buffett Score: 6.9 / 10
+## Alpha Adjustment: +0.19
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,19 +36,19 @@ Energy / Oil & Gas E&P
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas E&P
-- **Margin of Safety**: -73% — ABSENT ($399 > IV $110 at 15x for 4% growth)
-- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
+- **Margin of Safety**: -63% — ABSENT ($394 > IV $146 at 20x for 18% growth)
+- **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (2 forces only: strong moat, attractive valuation)
+YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.18 applied to composite alpha score
+Buffett Premium: +0.19 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

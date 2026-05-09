@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AAPL
-*Generated: 2026-05-08 06:03 | Price: $287.44 | Mkt Cap: $4222B*
+*Generated: 2026-05-09 06:22 | Price: $293.32 | Mkt Cap: $4308B*
 
 ## Sector Context
 Technology / Consumer Electronics
@@ -20,10 +20,10 @@ Technology / Consumer Electronics
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 57.0% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 0% (stable); FCF/NI: 105% (strong); Gross margin: 48% | - |
-| Management | 9.0/10 | 25% | 2.2 | Insider value: $69B (1.6%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
+| Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 57.0% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 33% (stable); FCF/NI: 105% (strong); Gross margin: 48% | - |
+| Management | 9.0/10 | 25% | 2.2 | Insider value: $71B (1.6%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 48% — moderate moat for Technology; Operating margin 32% — durable for Technology | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 30.1x — expensive; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 2.4%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 30.7x — expensive; Near 52w high (99% of range) — Mr. Market greedy; Owner earnings yield: 2.3%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
 ## Buffett Score: 6.4 / 10
@@ -36,7 +36,7 @@ Technology / Consumer Electronics
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Consumer Electronics
-- **Margin of Safety**: -28% — ABSENT ($287 > IV $206 at 25x for 22% growth)
+- **Margin of Safety**: -30% — ABSENT ($293 > IV $207 at 25x for 22% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 1.6% insider ownership
 - **Mr. Market**: Greedy — exercise caution

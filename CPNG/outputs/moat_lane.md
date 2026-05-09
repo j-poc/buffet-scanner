@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CPNG
-*Generated: 2026-05-08 06:07 | Price: $17.22 | Mkt Cap: $31B*
+*Generated: 2026-05-09 06:27 | Price: $16.98 | Mkt Cap: $30B*
 
 ## Sector Context
 Consumer Cyclical / Internet Retail
@@ -23,7 +23,7 @@ Consumer Cyclical / Internet Retail
 | Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 6.4% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 89% from prior peak; 5y price drawdown: 79% (severe cyclicality); FCF/NI: 329% (strong); Gross margin: 29% (below Consumer Cyclical norm) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 17.9% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 29% — below Consumer Cyclical moderate cutoff 30%; Operating margin -3% — thin for Consumer Cyclical | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 35.4x — expensive; Near 52w low (3% of range) — Mr. Market fearful; Owner earnings yield: 0.8%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 34.9x — expensive; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 0.8%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **3.2/10** | **100%** | **3.2** | | |
 
 ## Buffett Score: 3.2 / 10

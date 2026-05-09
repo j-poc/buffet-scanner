@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KEX
-*Generated: 2026-05-08 06:09 | Price: $142.22 | Mkt Cap: $8B*
+*Generated: 2026-05-09 06:35 | Price: $142.24 | Mkt Cap: $8B*
 
 ## Sector Context
 Industrials / Marine Shipping

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMTM
-*Generated: 2026-05-08 06:16 | Price: $24.56 | Mkt Cap: $6B*
+*Generated: 2026-05-09 06:31 | Price: $24.53 | Mkt Cap: $6B*
 
 ## Sector Context
 Industrials / Specialty Business Services
@@ -23,7 +23,7 @@ Industrials / Specialty Business Services
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 2.6% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 51% (moderate cyclicality); FCF/NI: 148% (strong); Gross margin: 11% (below Industrials norm) | - |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 2.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 37.7% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 11% — below Industrials moderate cutoff 22%; Operating margin 4% — thin for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.9x — deep value; Near 52w low (29% of range) — Mr. Market fearful; Owner earnings yield: 10.6% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.9x — deep value; Near 52w low (29% of range) — Mr. Market fearful; Owner earnings yield: 10.7% (>5%) | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10

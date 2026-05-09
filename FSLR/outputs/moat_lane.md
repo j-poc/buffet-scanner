@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FSLR
-*Generated: 2026-05-08 06:04 | Price: $214.57 | Mkt Cap: $23B*
+*Generated: 2026-05-09 06:24 | Price: $219.95 | Mkt Cap: $24B*
 
 > ⚠ DATA: yfinance misclassified FMR, LLC (6.1% inst.) as insider
 
@@ -25,7 +25,7 @@ Technology / Solar
 | Quality | 2.3/10 | 30% | 0.7 | Avg ROIC: 9.1% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 60% (severe cyclicality); FCF/NI: 7% (weak conversion); Gross margin: 42% | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.5% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 42% — moderate moat for Technology; Operating margin 33% — durable for Technology; Rev growth 24% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.9x — deep value; 52w range position: 53%; Owner earnings yield: 5.0% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.2x — deep value; 52w range position: 56%; Owner earnings yield: 4.9% | - |
 | **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
 ## Buffett Score: 5.6 / 10
@@ -38,7 +38,7 @@ Technology / Solar
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Solar
-- **Margin of Safety**: 80% — PRESENT (IV $387 vs $215 at 25x)
+- **Margin of Safety**: 76% — PRESENT (IV $387 vs $220 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

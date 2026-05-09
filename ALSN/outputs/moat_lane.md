@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALSN
-*Generated: 2026-05-07 06:56 | Price: $127.7 | Mkt Cap: $11B*
+*Generated: 2026-05-09 06:28 | Price: $124.18 | Mkt Cap: $10B*
 
 ## Sector Context
 Consumer Cyclical / Auto Parts
@@ -21,9 +21,9 @@ Consumer Cyclical / Auto Parts
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.9/10 | 30% | 2.1 | Avg ROIC: 17.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 34% (stable); FCF/NI: 97% (strong); Gross margin: 43% (thin by design for Auto Parts) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | ROA 8% / ROE 30% — scale moat (Auto Parts); Operating margin 18% — durable for Consumer Cyclical; Rev growth 84% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.2x — deep value; 52w range position: 84%; Owner earnings yield: 0.3% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.9x — deep value; 52w range position: 78%; Owner earnings yield: 0.3% | - |
 | **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
 
 ## Buffett Score: 7.4 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Auto Parts
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Auto Parts
-- **Margin of Safety**: -24% — ABSENT ($128 > IV $97 at 15x for -40% growth)
+- **Margin of Safety**: -22% — ABSENT ($124 > IV $96 at 15x for -40% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Neutral

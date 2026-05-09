@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DKS
-*Generated: 2026-05-07 06:49 | Price: $226.5 | Mkt Cap: $20B*
+*Generated: 2026-05-09 06:28 | Price: $225.81 | Mkt Cap: $20B*
 
 ## Sector Context
 Consumer Cyclical / Specialty Retail
@@ -23,7 +23,7 @@ Consumer Cyclical / Specialty Retail
 | Quality | 4.3/10 | 30% | 1.3 | ROIC declining trend; Avg ROIC: 23.6% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 49% (moderate cyclicality); FCF/NI: 59%; Gross margin: 34% (thin by design for Specialty Retail) | ROIC declining |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 3.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 21.2% of shares (SBC concern) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROA 7% / ROE 19% — adequate scale (Specialty Retail); Operating margin 7%; Rev growth 60% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.0x — deep value; 52w range position: 85% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.0x — deep value; 52w range position: 84% | - |
 | **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
 
 ## Buffett Score: 6.3 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KKR
-*Generated: 2026-05-08 06:05 | Price: $100.34 | Mkt Cap: $93B*
+*Generated: 2026-05-09 06:24 | Price: $102.52 | Mkt Cap: $95B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -20,35 +20,35 @@ Financial Services / Asset Management
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.1/10 | 30% | 0.9 | ROE: 8.6% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 49% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 23.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 23.1% of shares (SBC concern) | - |
-| Moat | 6.0/10 | 25% | 1.5 | ROE 9% — weak (Financial Services); Operating margin 33% — durable for Financial Services; Rev growth 76% — demand pull | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.3x — deep value; Near 52w low (25% of range) — Mr. Market fearful | - |
-| **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
+| Quality | 1.5/10 | 30% | 0.4 | ROE: 0.0% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 49% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 23.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 23.3% of shares (SBC concern) | - |
+| Moat | 4.0/10 | 25% | 1.0 | ROE 0% — weak (Financial Services); Operating margin 11% — thin for Financial Services | Weak pricing |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.6x — deep value; Near 52w low (28% of range) — Mr. Market fearful | - |
+| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
-## Buffett Score: 6.6 / 10
-## Alpha Adjustment: +0.16
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 5.6 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Asset Management
-- **Margin of Safety**: -65% — ABSENT ($100 > IV $35 at 15x for -2% growth)
-- **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
+- **Margin of Safety**: -57% — ABSENT ($103 > IV $44 at 15x for -5% growth)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 23.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-No (2 forces only: attractive valuation, secular growth)
+No (1 forces only: attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.16 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
 ```

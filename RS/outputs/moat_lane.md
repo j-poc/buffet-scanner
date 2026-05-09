@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RS
-*Generated: 2026-05-08 06:07 | Price: $369.1 | Mkt Cap: $19B*
+*Generated: 2026-05-09 06:27 | Price: $369.29 | Mkt Cap: $19B*
 
 ## Sector Context
 Basic Materials / Steel
@@ -36,7 +36,7 @@ Basic Materials / Steel
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Steel
-- **Margin of Safety**: 4% — thin (IV $384 at 25x)
+- **Margin of Safety**: 4% — thin (IV $383 at 25x)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Greedy — exercise caution

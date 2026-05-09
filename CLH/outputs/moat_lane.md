@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CLH
-*Generated: 2026-05-07 06:49 | Price: $287.98 | Mkt Cap: $15B*
+*Generated: 2026-05-09 06:28 | Price: $291.15 | Mkt Cap: $15B*
 
 ## Sector Context
 Industrials / Waste Management
@@ -11,8 +11,8 @@ Industrials / Waste Management
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.7x | 15% | -25% | No |
-| 3 | Management / Governance Failure | Insider ownership 4.9%; key-man / succession risk | 15% | -20% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.9x | 15% | -25% | No |
+| 3 | Management / Governance Failure | Insider ownership 5.0%; key-man / succession risk | 15% | -20% | No |
 
 ---
 
@@ -21,9 +21,9 @@ Industrials / Waste Management
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.9/10 | 30% | 0.9 | Avg ROIC: 10.7% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 31% (stable); FCF/NI: 86% (strong); Gross margin: 32% | - |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 4.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: 11.2% of shares (SBC concern) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 5.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 10.3% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 32% — moderate moat for Industrials; Operating margin 8% | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 30.7x — expensive; 52w range position: 75%; Owner earnings yield: 2.6%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 30.7x — expensive; 52w range position: 78%; Owner earnings yield: 2.6%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
 ## Buffett Score: 4.4 / 10
@@ -36,9 +36,9 @@ Industrials / Waste Management
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Waste Management
-- **Margin of Safety**: -56% — ABSENT ($288 > IV $125 at 17x for 9% growth)
+- **Margin of Safety**: -57% — ABSENT ($291 > IV $125 at 17x for 9% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
-- **Incentive-Caused Bias**: Weak alignment — only 4.9% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 5.0% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

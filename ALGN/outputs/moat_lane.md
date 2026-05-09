@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALGN
-*Generated: 2026-05-08 06:03 | Price: $168.39 | Mkt Cap: $12B*
+*Generated: 2026-05-09 06:22 | Price: $168.78 | Mkt Cap: $12B*
 
 > ⚠ DATA: yfinance misclassified Capital International Investors (6.5% inst.) as insider
 
@@ -38,7 +38,7 @@ Healthcare / Medical Instruments & Supplies
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Instruments & Supplies
-- **Margin of Safety**: -12% — ABSENT ($168 > IV $148 at 25x for 24% growth)
+- **Margin of Safety**: -12% — ABSENT ($169 > IV $149 at 25x for 24% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

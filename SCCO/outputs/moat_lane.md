@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SCCO
-*Generated: 2026-05-08 06:08 | Price: $179.54 | Mkt Cap: $148B*
+*Generated: 2026-05-09 06:27 | Price: $185.29 | Mkt Cap: $153B*
 
 ## Sector Context
 Basic Materials / Copper
@@ -23,7 +23,7 @@ Basic Materials / Copper
 | Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 27.7% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 89% (strong); Gross margin: 63% (pricing power for Basic Materials) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 89.0% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 89.0% of shares (SBC concern) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 63% vs sector strong cutoff 30% — strong pricing power; Operating margin 58% — durable for Basic Materials; Rev growth 36% — demand pull | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 26.6x — growth premium; 52w range position: 68%; Owner earnings yield: 2.9%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 27.5x — growth premium; 52w range position: 72%; Owner earnings yield: 2.8%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **8.2/10** | **100%** | **8.2** | | |
 
 ## Buffett Score: 8.2 / 10
@@ -36,7 +36,7 @@ Basic Materials / Copper
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Copper
-- **Margin of Safety**: -17% — ABSENT ($180 > IV $149 at 25x for 25% growth)
+- **Margin of Safety**: -19% — ABSENT ($185 > IV $149 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, secular growth
 - **Incentive-Caused Bias**: Aligned — 89.0% insider ownership
 - **Mr. Market**: Neutral

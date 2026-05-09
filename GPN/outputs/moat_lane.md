@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GPN
-*Generated: 2026-05-08 06:04 | Price: $70.13 | Mkt Cap: $19B*
+*Generated: 2026-05-09 06:24 | Price: $69.19 | Mkt Cap: $19B*
 
 ## Sector Context
 Industrials / Specialty Business Services
@@ -23,7 +23,7 @@ Industrials / Specialty Business Services
 | Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 3.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 67% (severe cyclicality); FCF/NI: 487% (strong); Gross margin: 67% (pricing power for Industrials) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 16.4% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 67% vs sector strong cutoff 35% — strong pricing power; Operating margin -1% — thin for Industrials; Rev growth 64% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.3x — deep value; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 35.5% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.3x — deep value; Near 52w low (24% of range) — Mr. Market fearful; Owner earnings yield: 36.0% (>5%) | - |
 | **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
 ## Buffett Score: 5.9 / 10
@@ -36,7 +36,7 @@ Industrials / Specialty Business Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Business Services
-- **Margin of Safety**: -14% — ABSENT ($70 > IV $60 at 25x for 25% growth)
+- **Margin of Safety**: -13% — ABSENT ($69 > IV $60 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

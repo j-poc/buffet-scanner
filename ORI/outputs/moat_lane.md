@@ -1,7 +1,7 @@
 # Buffett/Munger Moat Lane: ORI
-*Generated: 2026-05-04 06:54 | Price: $39.26 | Mkt Cap: $10B*
+*Generated: 2026-05-09 06:35 | Price: $39.26 | Mkt Cap: $10B*
 
-> ⚠ DATA: yfinance misclassified Vanguard Group Inc (9.9% inst.) as insider
+> ⚠ DATA: yfinance misclassified Vanguard Group Inc (10.0% inst.) as insider
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty
@@ -23,9 +23,9 @@ Financial Services / Insurance - Property & Casualty
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.8/10 | 30% | 2.0 | ROE: 17.3% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 20% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 17% — strong franchise (Financial Services); Operating margin 18% — thin for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.8x — deep value; 52w range position: 33% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.8x — deep value; 52w range position: 33%; Owner earnings yield: 22.4% (>5%) | - |
 | **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
 
 ## Buffett Score: 6.8 / 10

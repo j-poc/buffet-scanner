@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LFUS
-*Generated: 2026-05-07 06:56 | Price: $441.67 | Mkt Cap: $11B*
+*Generated: 2026-05-09 06:28 | Price: $457.03 | Mkt Cap: $12B*
 
 ## Sector Context
 Technology / Electronic Components
@@ -11,7 +11,7 @@ Technology / Electronic Components
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Electronic Components | 25% | -35% | YES |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.3x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.4x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 1.4%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -21,9 +21,9 @@ Technology / Electronic Components
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 6.4% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 119% from prior peak; 5y price drawdown: 53% (moderate cyclicality); FCF/NI: 2% (weak conversion); Gross margin: 38% (below Technology norm) | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.6% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 38% — below Technology moderate cutoff 40%; Operating margin 17% — thin for Technology | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 28.3x — growth premium; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 3.0%; Earnings yield < 4% — worse than bonds | Expensive |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 38% — below Technology moderate cutoff 40%; Operating margin 16% — thin for Technology | - |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 26.6x — growth premium; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 2.8%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.1/10** | **100%** | **3.1** | | |
 
 ## Buffett Score: 3.1 / 10

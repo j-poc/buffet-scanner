@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BALL
-*Generated: 2026-05-08 06:03 | Price: $58.41 | Mkt Cap: $16B*
+*Generated: 2026-05-09 06:22 | Price: $58.52 | Mkt Cap: $16B*
 
 ## Sector Context
 Consumer Cyclical / Packaging & Containers
@@ -36,7 +36,7 @@ Consumer Cyclical / Packaging & Containers
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Packaging & Containers
-- **Margin of Safety**: 47% — PRESENT (IV $86 vs $58 at 25x)
+- **Margin of Safety**: 47% — PRESENT (IV $86 vs $59 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

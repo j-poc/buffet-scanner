@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BRKR
-*Generated: 2026-05-06 06:49 | Price: $38.01 | Mkt Cap: $6B*
+*Generated: 2026-05-09 06:30 | Price: $44.16 | Mkt Cap: $7B*
 
 ## Sector Context
 Healthcare / Medical Devices
@@ -11,7 +11,7 @@ Healthcare / Medical Devices
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.1x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.4x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 27.0%; key-man / succession risk | 8% | -15% | No |
 
 ---
@@ -22,8 +22,8 @@ Healthcare / Medical Devices
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 9.5% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 102% from prior peak; 5y price drawdown: 69% (severe cyclicality); FCF/NI: 16% (weak conversion); Gross margin: 48% | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 27.0% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 32.0% of shares (SBC concern) | - |
-| Moat | 6.0/10 | 25% | 1.5 | Gross margin 48% — moderate moat for Healthcare; Operating margin 7% — thin for Healthcare | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.8x — fair price; 52w range position: 34%; Owner earnings yield: 3.7%; Earnings yield < 7% — tight vs index | - |
+| Moat | 6.0/10 | 25% | 1.5 | Gross margin 48% — moderate moat for Healthcare; Operating margin 3% — thin for Healthcare | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.3x — fair price; 52w range position: 56%; Owner earnings yield: 3.7%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
 ## Buffett Score: 5.3 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SF
-*Generated: 2026-05-07 06:55 | Price: $78.48 | Mkt Cap: $12B*
+*Generated: 2026-05-09 06:28 | Price: $76.5 | Mkt Cap: $12B*
 
 ## Sector Context
 Financial Services / Capital Markets
@@ -21,9 +21,9 @@ Financial Services / Capital Markets
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.3/10 | 30% | 1.6 | ROE: 15.3% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 36% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.7% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.8% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 15% — strong franchise (Financial Services); Operating margin 22% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.2x — deep value; 52w range position: 62% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.9x — deep value; 52w range position: 54% | - |
 | **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
 
 ## Buffett Score: 6.8 / 10
@@ -36,7 +36,7 @@ Financial Services / Capital Markets
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Capital Markets
-- **Margin of Safety**: 63% — PRESENT (IV $128 vs $78 at 25x)
+- **Margin of Safety**: 68% — PRESENT (IV $128 vs $76 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 3.1% insider ownership
 - **Mr. Market**: Neutral

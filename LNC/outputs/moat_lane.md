@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LNC
-*Generated: 2026-05-08 06:09 | Price: $35.94 | Mkt Cap: $7B*
+*Generated: 2026-05-09 06:30 | Price: $35.8 | Mkt Cap: $7B*
 
 ## Sector Context
 Financial Services / Insurance - Life
@@ -36,7 +36,7 @@ Financial Services / Insurance - Life
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Life
-- **Margin of Safety**: 409% — PRESENT (IV $183 vs $36 at 20x)
+- **Margin of Safety**: 411% — PRESENT (IV $183 vs $36 at 20x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

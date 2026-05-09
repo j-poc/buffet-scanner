@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CUZ
-*Generated: 2026-05-04 07:00 | Price: $25.69 | Mkt Cap: $4B*
+*Generated: 2026-05-09 06:30 | Price: $26.76 | Mkt Cap: $4B*
 
 ## Sector Context
 Real Estate / REIT - Office
@@ -23,7 +23,7 @@ Real Estate / REIT - Office
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.1% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 76% from prior peak; 5y price drawdown: 54% (moderate cyclicality); FCF/NI: 194% (strong); Gross margin: 68% (pricing power for Real Estate) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 1.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.4% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 68% vs sector strong cutoff 55% — strong pricing power; Operating margin 22% | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 85.6x — extreme premium; 52w range position: 48%; Owner earnings yield: 2.2%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 89.2x — extreme premium; 52w range position: 59%; Owner earnings yield: 2.1%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.3/10** | **100%** | **3.3** | | |
 
 ## Buffett Score: 3.3 / 10

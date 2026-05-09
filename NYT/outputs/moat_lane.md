@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NYT
-*Generated: 2026-05-07 06:49 | Price: $83.68 | Mkt Cap: $14B*
+*Generated: 2026-05-09 06:28 | Price: $79.41 | Mkt Cap: $13B*
 
 ## Sector Context
 Communication Services / Publishing
@@ -20,26 +20,26 @@ Communication Services / Publishing
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.9/10 | 30% | 2.1 | Avg ROIC: 14.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 125% (strong); Gross margin: 50% | - |
+| Quality | 6.9/10 | 30% | 2.1 | Avg ROIC: 14.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 125% (strong); Gross margin: 51% | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.9% (low) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 50% — moderate moat for Communication Services; Operating margin 21% | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 26.6x — growth premium; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 3.3%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
+| Moat | 6.0/10 | 25% | 1.5 | Gross margin 51% — moderate moat for Communication Services; Operating margin 13% — thin for Communication Services | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 25.0x — growth premium; 52w range position: 79%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
 
-## Buffett Score: 6.0 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 6.1 / 10
+## Alpha Adjustment: +0.11
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Publishing
-- **Margin of Safety**: -53% — ABSENT ($84 > IV $40 at 17x for 6% growth)
+- **Margin of Safety**: -27% — ABSENT ($79 > IV $58 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 4.7% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (0 forces only: none)
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
-Half-life adjustment: N/A
+Buffett Premium: +0.11 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

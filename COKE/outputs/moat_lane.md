@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COKE
-*Generated: 2026-05-07 06:55 | Price: $210.52 | Mkt Cap: $14B*
+*Generated: 2026-05-09 06:34 | Price: $174.31 | Mkt Cap: $12B*
 
 ## Sector Context
 Consumer Defensive / Beverages - Non-Alcoholic
@@ -11,7 +11,7 @@ Consumer Defensive / Beverages - Non-Alcoholic
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.0x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.9x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -23,23 +23,23 @@ Consumer Defensive / Beverages - Non-Alcoholic
 | Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 28.2% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 36% (stable); FCF/NI: 93% (strong); Gross margin: 40% | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 85.9% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 40% — moderate moat for Consumer Defensive; Operating margin 7% — thin for Consumer Defensive | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 5.4x — deep value; Near 52w high (92% of range) — Mr. Market greedy; Owner earnings yield: 3.4% | - |
-| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.5x — deep value; 52w range position: 60%; Owner earnings yield: 4.6% | - |
+| **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
-## Buffett Score: 6.0 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 6.2 / 10
+## Alpha Adjustment: +0.12
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Beverages - Non-Alcoholic
-- **Margin of Safety**: -14% — ABSENT ($211 > IV $182 at 25x for 25% growth)
+- **Margin of Safety**: 5% — thin (IV $182 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
-Half-life adjustment: N/A
+Buffett Premium: +0.12 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

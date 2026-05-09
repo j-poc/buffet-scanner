@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CUBE
-*Generated: 2026-05-04 06:54 | Price: $40.14 | Mkt Cap: $9B*
+*Generated: 2026-05-09 06:35 | Price: $40.46 | Mkt Cap: $9B*
 
 ## Sector Context
 Real Estate / REIT - Industrial
@@ -21,9 +21,9 @@ Real Estate / REIT - Industrial
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 6.1% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 37% (stable); FCF/NI: 174% (strong); Gross margin: 71% (pricing power for Real Estate) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.6% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 71% vs sector strong cutoff 55% — strong pricing power; Operating margin 40% — durable for Real Estate | - |
-| Valuation Fit | 6.5/10 | 20% | 1.3 | P/E 27.3x — growth premium; 52w range position: 56%; Owner earnings yield: 5.3% (>5%); Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 6.5/10 | 20% | 1.3 | P/E 27.5x — growth premium; 52w range position: 59%; Owner earnings yield: 5.3% (>5%); Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10
@@ -36,7 +36,7 @@ Real Estate / REIT - Industrial
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Industrial
-- **Margin of Safety**: -45% — ABSENT ($40 > IV $22 at 15x for -8% growth)
+- **Margin of Safety**: -47% — ABSENT ($40 > IV $21 at 15x for -8% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UAL
-*Generated: 2026-05-08 06:14 | Price: $99.7 | Mkt Cap: $32B*
+*Generated: 2026-05-09 06:34 | Price: $99.58 | Mkt Cap: $32B*
 
 ## Sector Context
 Industrials / Airlines
@@ -36,7 +36,7 @@ Industrials / Airlines
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Airlines
-- **Margin of Safety**: 180% — PRESENT (IV $280 vs $100 at 25x)
+- **Margin of Safety**: 181% — PRESENT (IV $280 vs $100 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral
