@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PSA
-*Generated: 2026-05-09 06:25 | Price: $311.04 | Mkt Cap: $55B*
+*Generated: 2026-05-10 06:41 | Price: $311.04 | Mkt Cap: $55B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (9.6% inst.) as insider
 

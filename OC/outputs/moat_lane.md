@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OC
-*Generated: 2026-05-09 06:28 | Price: $121.67 | Mkt Cap: $10B*
+*Generated: 2026-05-10 06:44 | Price: $121.67 | Mkt Cap: $10B*
 
 ## Sector Context
 Industrials / Building Products & Equipment
@@ -21,9 +21,9 @@ Industrials / Building Products & Equipment
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 11.7% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 142% from prior peak; 5y price drawdown: 52% (moderate cyclicality); FCF/NI: 53%; Gross margin: 27% | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); No insider transaction data; Restricted stock: 1.0% (low) | - |
-| Moat | 6.0/10 | 25% | 1.5 | Gross margin 27% — moderate moat for Industrials; Operating margin 5% — thin for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.3x — deep value; 52w range position: 39%; Owner earnings yield: 6.4% (>5%) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
+| Moat | 6.0/10 | 25% | 1.5 | Gross margin 27% — moderate moat for Industrials; Operating margin 7% — thin for Industrials | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.3x — deep value; 52w range position: 39%; Owner earnings yield: 6.7% (>5%) | - |
 | **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
 ## Buffett Score: 4.9 / 10

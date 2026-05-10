@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PEN
-*Generated: 2026-05-09 06:28 | Price: $322.23 | Mkt Cap: $13B*
+*Generated: 2026-05-10 06:44 | Price: $322.23 | Mkt Cap: $13B*
 
 ## Sector Context
 Healthcare / Medical Devices
@@ -11,7 +11,7 @@ Healthcare / Medical Devices
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.0x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.1x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 2.9%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -21,9 +21,9 @@ Healthcare / Medical Devices
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 4.7% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 85% from prior peak; 5y price drawdown: 60% (severe cyclicality); FCF/NI: 1246% (strong); Gross margin: 67% (pricing power for Healthcare) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.2% (low) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 67% vs sector strong cutoff 55% — strong pricing power; Operating margin 13% | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 51.1x — extreme premium; 52w range position: 72%; Earnings yield < 4% — worse than bonds | Expensive |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.0% (low) | - |
+| Moat | 8.0/10 | 25% | 2.0 | Gross margin 67% vs sector strong cutoff 55% — strong pricing power; Operating margin 10% | - |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 51.1x — extreme premium; 52w range position: 72%; Owner earnings yield: 1.1%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
 ## Buffett Score: 4.6 / 10

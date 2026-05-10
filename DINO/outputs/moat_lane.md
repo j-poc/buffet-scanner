@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DINO
-*Generated: 2026-05-09 06:28 | Price: $72.43 | Mkt Cap: $13B*
+*Generated: 2026-05-10 06:44 | Price: $72.43 | Mkt Cap: $13B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (9.3% inst.) as insider
 

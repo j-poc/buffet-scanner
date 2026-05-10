@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AFG
-*Generated: 2026-05-09 06:35 | Price: $131.32 | Mkt Cap: $11B*
+*Generated: 2026-05-10 06:51 | Price: $131.32 | Mkt Cap: $11B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty

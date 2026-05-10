@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GGG
-*Generated: 2026-05-09 06:28 | Price: $77.59 | Mkt Cap: $13B*
+*Generated: 2026-05-10 06:44 | Price: $77.59 | Mkt Cap: $13B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery

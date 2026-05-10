@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EW
-*Generated: 2026-05-09 06:23 | Price: $79.96 | Mkt Cap: $46B*
+*Generated: 2026-05-10 06:39 | Price: $79.96 | Mkt Cap: $46B*
 
 ## Sector Context
 Healthcare / Medical Devices
@@ -21,9 +21,9 @@ Healthcare / Medical Devices
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.1/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 13.8% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 74% from prior peak; 5y price drawdown: 54% (moderate cyclicality); FCF/NI: 60%; Gross margin: 78% (pricing power for Healthcare) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.6% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 78% vs sector strong cutoff 55% — strong pricing power; Operating margin 31% — durable for Healthcare | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 23.8x — growth premium; 52w range position: 49%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 23.8x — growth premium; 52w range position: 49%; Owner earnings yield: 2.0%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10

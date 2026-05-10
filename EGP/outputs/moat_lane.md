@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EGP
-*Generated: 2026-05-09 06:28 | Price: $205.32 | Mkt Cap: $11B*
+*Generated: 2026-05-10 06:44 | Price: $205.32 | Mkt Cap: $11B*
 
 ## Sector Context
 Real Estate / REIT - Industrial

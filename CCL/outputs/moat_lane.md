@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CCL
-*Generated: 2026-05-09 06:23 | Price: $26.38 | Mkt Cap: $37B*
+*Generated: 2026-05-10 06:38 | Price: $26.38 | Mkt Cap: $37B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (6.8% inst.) as insider
 
@@ -23,7 +23,7 @@ Consumer Cyclical / Travel Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 3.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 80% (severe cyclicality); FCF/NI: -269% (weak conversion); Gross margin: 56% (pricing power for Consumer Cyclical) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -3.8% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); No insider transaction data; Restricted stock: -11.6% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 56% vs sector strong cutoff 45% — strong pricing power; Operating margin 10% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.2x — deep value; 52w range position: 39%; Owner earnings yield: 5.9% (>5%) | - |
 | **TOTAL** | **5.9/10** | **100%** | **5.9** | | |

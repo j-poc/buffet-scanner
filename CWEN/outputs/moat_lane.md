@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CWEN
-*Generated: 2026-05-09 06:30 | Price: $38.16 | Mkt Cap: $9B*
+*Generated: 2026-05-10 06:47 | Price: $38.16 | Mkt Cap: $9B*
 
 ## Sector Context
 Utilities / Utilities - Renewable
@@ -11,7 +11,7 @@ Utilities / Utilities - Renewable
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 9.0x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 9.1x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.6%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,13 +20,13 @@ Utilities / Utilities - Renewable
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.0/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 4.9% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 86% from prior peak; 5y price drawdown: 52% (moderate cyclicality); FCF/NI: 346% (strong); Gross margin: 63% (pricing power for Utilities) | ROIC declining |
+| Quality | 2.0/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 4.9% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 86% from prior peak; 5y price drawdown: 52% (moderate cyclicality); FCF/NI: 346% (strong); Gross margin: 64% (pricing power for Utilities) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 63% vs sector strong cutoff 40% — strong pricing power; Operating margin -2% — thin for Utilities; Rev growth 21% — demand pull | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 26.3x — growth premium; 52w range position: 75%; Owner earnings yield: 2.3%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 64% vs sector strong cutoff 40% — strong pricing power; Operating margin 8% — thin for Utilities | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 26.3x — growth premium; 52w range position: 75%; Owner earnings yield: 4.6%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
-## Buffett Score: 4.7 / 10
+## Buffett Score: 4.6 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,13 +36,13 @@ Utilities / Utilities - Renewable
 ## Mental Models Applied
 
 - **Circle of Competence**: Utilities / Utilities - Renewable
-- **Margin of Safety**: -93% — ABSENT ($38 > IV $2 at 25x for 21% growth)
-- **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
+- **Margin of Safety**: -95% — ABSENT ($38 > IV $2 at 20x for 19% growth)
+- **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (2 forces only: strong moat, secular growth)
+No (0 forces only: none)
 
 ---
 

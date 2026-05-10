@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ATO
-*Generated: 2026-05-09 06:22 | Price: $180.87 | Mkt Cap: $30B*
+*Generated: 2026-05-10 06:38 | Price: $180.87 | Mkt Cap: $30B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Gas
@@ -21,7 +21,7 @@ Utilities / Utilities - Regulated Gas
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 5.2% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 19% (stable); FCF/NI: -89% (weak conversion); Gross margin: 61% (pricing power for Utilities) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 61% vs sector strong cutoff 40% — strong pricing power; Operating margin 39% — durable for Utilities | - |
 | Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.4x — growth premium; 52w range position: 73%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |

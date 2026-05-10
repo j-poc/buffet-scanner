@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CHH
-*Generated: 2026-05-08 06:11 | Price: $106.53 | Mkt Cap: $5B*
+*Generated: 2026-05-10 06:47 | Price: $106.58 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Cyclical / Lodging

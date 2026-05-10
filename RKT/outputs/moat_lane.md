@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RKT
-*Generated: 2026-05-09 06:28 | Price: $15.69 | Mkt Cap: $44B*
+*Generated: 2026-05-10 06:44 | Price: $15.69 | Mkt Cap: $44B*
 
 ## Sector Context
 Financial Services / Mortgage Finance
@@ -11,7 +11,7 @@ Financial Services / Mortgage Finance
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 38.0x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 17.6x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 1.3%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -20,13 +20,13 @@ Financial Services / Mortgage Finance
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.5/10 | 30% | 0.1 | ROE: -1.5% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 69% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.5% (low) | - |
-| Moat | 4.5/10 | 25% | 1.1 | ROE -1% — weak (Financial Services); Operating margin 18% — thin for Financial Services; Rev growth 53% — demand pull | Weak pricing |
+| Quality | 0.5/10 | 30% | 0.1 | ROE: 1.7% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 69% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.2% (low) | - |
+| Moat | 5.0/10 | 25% | 1.2 | ROE 2% — weak (Financial Services); Operating margin 25%; Rev growth 167% — demand pull | Weak pricing |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.4x — deep value; 52w range position: 34%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
+| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
-## Buffett Score: 4.7 / 10
+## Buffett Score: 4.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

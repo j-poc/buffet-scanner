@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EXEL
-*Generated: 2026-05-09 06:28 | Price: $48.16 | Mkt Cap: $12B*
+*Generated: 2026-05-10 06:44 | Price: $48.16 | Mkt Cap: $12B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -21,13 +21,13 @@ Healthcare / Biotechnology
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 8.3/10 | 30% | 2.5 | Avg ROIC: 17.3% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 41% (moderate cyclicality); FCF/NI: 109% (strong); Gross margin: 96% (pricing power for Healthcare) | - |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 2.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 16.3% of shares (SBC concern) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 2.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 19.0% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 96% vs sector strong cutoff 55% — strong pricing power; Operating margin 41% — durable for Healthcare | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 11.9x — deep value; Near 52w high (91% of range) — Mr. Market greedy | - |
-| **TOTAL** | **7.8/10** | **100%** | **7.8** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.9x — deep value; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 5.2% (>5%) | - |
+| **TOTAL** | **8.0/10** | **100%** | **8.0** | | |
 
-## Buffett Score: 7.8 / 10
-## Alpha Adjustment: +0.28
+## Buffett Score: 8.0 / 10
+## Alpha Adjustment: +0.30
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -48,7 +48,7 @@ YES — 3 forces aligning: high quality, strong moat, attractive valuation
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.28 applied to composite alpha score
+Buffett Premium: +0.30 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

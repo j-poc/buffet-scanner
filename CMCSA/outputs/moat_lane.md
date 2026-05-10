@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CMCSA
-*Generated: 2026-05-09 06:23 | Price: $25.4 | Mkt Cap: $91B*
+*Generated: 2026-05-10 06:39 | Price: $25.4 | Mkt Cap: $91B*
 
 ## Sector Context
 Communication Services / Telecom Services
@@ -12,7 +12,7 @@ Communication Services / Telecom Services
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.7x | 15% | -25% | No |
-| 3 | Management / Governance Failure | Insider ownership 0.8%; key-man / succession risk | 20% | -30% | YES |
+| 3 | Management / Governance Failure | Insider ownership 0.7%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -21,7 +21,7 @@ Communication Services / Telecom Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 9.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 52% (moderate cyclicality); FCF/NI: 123% (strong); Gross margin: 70% (pricing power for Communication Services) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 70% vs sector strong cutoff 55% — strong pricing power; Operating margin 13% — thin for Communication Services | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.7x — deep value; Near 52w low (12% of range) — Mr. Market fearful; Owner earnings yield: 4.4% | - |
 | **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
@@ -38,7 +38,7 @@ Communication Services / Telecom Services
 - **Circle of Competence**: Communication Services / Telecom Services
 - **Margin of Safety**: 201% — PRESENT (IV $76 vs $25 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
-- **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check

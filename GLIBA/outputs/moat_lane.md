@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GLIBA
-*Generated: 2026-05-09 06:37 | Price: $26.77 | Mkt Cap: $1B*
+*Generated: 2026-05-10 06:53 | Price: $26.77 | Mkt Cap: $1B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (10.8% inst.) as insider
 
@@ -22,10 +22,10 @@ Communication Services / Telecom Services
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -0.6% (3y); Earnings: 1 down-year in 2 transitions; NI drawdown: 541% from prior peak; 5y price drawdown: 33% (stable); FCF/NI: 46% (weak conversion); Gross margin: 51% | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -905.5% (low) | - |
-| Moat | 6.0/10 | 25% | 1.5 | Gross margin 51% — moderate moat for Communication Services; Operating margin 12% — thin for Communication Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.7x — deep value; Near 52w low (5% of range) — Mr. Market fearful; Owner earnings yield: 15.9% (>5%) | - |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -0.6% (3y); Earnings: 1 down-year in 2 transitions; NI drawdown: 541% from prior peak; 5y price drawdown: 33% (stable); FCF/NI: 46% (weak conversion); Gross margin: 50% | ROIC declining |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -907.9% (low) | - |
+| Moat | 6.0/10 | 25% | 1.5 | Gross margin 50% — moderate moat for Communication Services; Operating margin 13% — thin for Communication Services | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.7x — deep value; Near 52w low (5% of range) — Mr. Market fearful; Owner earnings yield: 10.3% (>5%) | - |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
 ## Buffett Score: 4.5 / 10

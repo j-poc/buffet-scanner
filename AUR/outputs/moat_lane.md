@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AUR
-*Generated: 2026-05-09 06:35 | Price: $7.08 | Mkt Cap: $14B*
+*Generated: 2026-05-10 06:51 | Price: $7.08 | Mkt Cap: $14B*
 
 ## Sector Context
 Consumer Cyclical / Auto Parts

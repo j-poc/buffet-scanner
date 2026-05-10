@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AXON
-*Generated: 2026-05-09 06:22 | Price: $403.54 | Mkt Cap: $33B*
+*Generated: 2026-05-10 06:38 | Price: $403.54 | Mkt Cap: $33B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -21,12 +21,12 @@ Industrials / Aerospace & Defense
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 5.7% (1y); Earnings: 1 down-year in 3 transitions; NI drawdown: 67% from prior peak; 5y price drawdown: 60% (severe cyclicality); FCF/NI: 86% (strong); Gross margin: 59% (pricing power for Industrials) | - |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 4.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 5.2% of shares (SBC concern) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.3% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 59% vs sector strong cutoff 35% — strong pricing power; Operating margin 4% — thin for Industrials; Rev growth 34% — demand pull | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 38.6x — expensive; Near 52w low (12% of range) — Mr. Market fearful; Owner earnings yield: 0.2%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 38.2x — expensive; Near 52w low (12% of range) — Mr. Market fearful; Owner earnings yield: 0.2%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
-## Buffett Score: 5.2 / 10
+## Buffett Score: 5.3 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LINE
-*Generated: 2026-05-08 06:11 | Price: $39.97 | Mkt Cap: $10B*
+*Generated: 2026-05-10 06:47 | Price: $39.96 | Mkt Cap: $10B*
 
 ## Sector Context
 Real Estate / REIT - Industrial
@@ -12,7 +12,7 @@ Real Estate / REIT - Industrial
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 7.5x | 30% | -40% | YES |
-| 3 | Management / Governance Failure | Insider ownership 68.6%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 68.5%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -21,9 +21,9 @@ Real Estate / REIT - Industrial
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 0.9% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 62% (severe cyclicality); FCF/NI: 65%; Gross margin: 32% (below Real Estate norm) | ROIC declining |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 68.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 74.8% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 68.5% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 74.6% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 32% — below Real Estate moderate cutoff 35%; Operating margin 3% — thin for Real Estate | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -62.1x — deep value; 52w range position: 50%; Owner earnings yield: 9.0% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -61.0x — deep value; 52w range position: 50%; Owner earnings yield: 9.0% (>5%) | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10
@@ -38,7 +38,7 @@ Real Estate / REIT - Industrial
 - **Circle of Competence**: Real Estate / REIT - Industrial
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
-- **Incentive-Caused Bias**: Aligned — 68.6% insider ownership
+- **Incentive-Caused Bias**: Aligned — 68.5% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

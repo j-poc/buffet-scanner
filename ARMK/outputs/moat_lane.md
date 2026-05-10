@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ARMK
-*Generated: 2026-05-09 06:28 | Price: $45.08 | Mkt Cap: $12B*
+*Generated: 2026-05-10 06:44 | Price: $45.08 | Mkt Cap: $12B*
 
 ## Sector Context
 Industrials / Specialty Business Services
@@ -12,7 +12,7 @@ Industrials / Specialty Business Services
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.9x | 30% | -40% | YES |
-| 3 | Management / Governance Failure | Insider ownership 0.6%; key-man / succession risk | 20% | -30% | YES |
+| 3 | Management / Governance Failure | Insider ownership 0.7%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -21,7 +21,7 @@ Industrials / Specialty Business Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 6.4% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 61% from prior peak; 5y price drawdown: 28% (stable); FCF/NI: 86% (strong); Gross margin: 15% (below Industrials norm) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 15% — below Industrials moderate cutoff 22%; Operating margin 5% — thin for Industrials | - |
 | Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.2x — fair price; 52w range position: 85%; Owner earnings yield: 1.6%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
@@ -38,7 +38,7 @@ Industrials / Specialty Business Services
 - **Circle of Competence**: Industrials / Specialty Business Services
 - **Margin of Safety**: -60% — ABSENT ($45 > IV $18 at 15x for -8% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
-- **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

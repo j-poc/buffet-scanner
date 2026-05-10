@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NVST
-*Generated: 2026-05-09 06:31 | Price: $24.24 | Mkt Cap: $4B*
+*Generated: 2026-05-10 06:47 | Price: $24.24 | Mkt Cap: $4B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies
@@ -22,7 +22,7 @@ Healthcare / Medical Instruments & Supplies
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: -2.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 560% from prior peak; 5y price drawdown: 71% (severe cyclicality); FCF/NI: 73%; Gross margin: 55% (pricing power for Healthcare) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
-| Moat | 7.5/10 | 25% | 1.9 | Gross margin 55% vs sector strong cutoff 55% — strong pricing power; Operating margin 9% — thin for Healthcare | - |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 55% vs sector strong cutoff 55% — strong pricing power; Operating margin 10% — thin for Healthcare | - |
 | Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.4x — fair price; 52w range position: 56%; Owner earnings yield: 5.5% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 

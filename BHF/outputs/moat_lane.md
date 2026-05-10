@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BHF
-*Generated: 2026-05-09 06:31 | Price: $61.38 | Mkt Cap: $4B*
+*Generated: 2026-05-10 06:47 | Price: $61.38 | Mkt Cap: $4B*
 
 ## Sector Context
 Financial Services / Insurance - Life

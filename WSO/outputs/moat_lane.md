@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WSO
-*Generated: 2026-05-09 06:28 | Price: $420.6 | Mkt Cap: $17B*
+*Generated: 2026-05-10 06:44 | Price: $420.6 | Mkt Cap: $17B*
 
 ## Sector Context
 Industrials / Industrial Distribution

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JCI
-*Generated: 2026-05-09 06:24 | Price: $139.52 | Mkt Cap: $85B*
+*Generated: 2026-05-10 06:40 | Price: $139.52 | Mkt Cap: $85B*
 
 ## Sector Context
 Industrials / Building Products & Equipment
@@ -21,7 +21,7 @@ Industrials / Building Products & Equipment
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 5.5% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 79%; Gross margin: 37% (pricing power for Industrials) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); No insider transaction data; Restricted stock: 0.3% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 37% vs sector strong cutoff 35% — strong pricing power; Operating margin 14% | - |
 | Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 24.5x — growth premium; Near 52w high (85% of range) — Mr. Market greedy; Owner earnings yield: 3.4%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SON
-*Generated: 2026-05-09 06:30 | Price: $51.56 | Mkt Cap: $5B*
+*Generated: 2026-05-10 06:46 | Price: $51.56 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Cyclical / Packaging & Containers
@@ -21,7 +21,7 @@ Consumer Cyclical / Packaging & Containers
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 7.3% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 65% from prior peak; 5y price drawdown: 34% (stable); FCF/NI: 113% (strong); Gross margin: 21% (below Consumer Cyclical norm) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.3% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 21% — below Consumer Cyclical moderate cutoff 30%; Operating margin 9% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.0x — deep value; 52w range position: 65%; Owner earnings yield: 16.3% (>5%) | - |
 | **TOTAL** | **5.3/10** | **100%** | **5.3** | | |

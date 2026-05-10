@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UI
-*Generated: 2026-05-09 06:31 | Price: $842.1 | Mkt Cap: $51B*
+*Generated: 2026-05-10 06:47 | Price: $842.1 | Mkt Cap: $51B*
 
 ## Sector Context
 Technology / Communication Equipment
@@ -20,13 +20,13 @@ Technology / Communication Equipment
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.5/10 | 30% | 1.1 | ROIC declining trend; Avg ROIC: 64.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 69% (severe cyclicality); FCF/NI: 73%; Gross margin: 45% | ROIC declining |
+| Quality | 3.5/10 | 30% | 1.1 | ROIC declining trend; Avg ROIC: 64.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 69% (severe cyclicality); FCF/NI: 73%; Gross margin: 46% | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 93.0% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 93.0% of shares (SBC concern) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 45% — moderate moat for Technology; Operating margin 36% — durable for Technology; Rev growth 36% — demand pull | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 44.5x — expensive; 52w range position: 65%; Owner earnings yield: 1.0%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 46% — moderate moat for Technology; Operating margin 37% — durable for Technology | - |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 44.5x — expensive; 52w range position: 65%; Owner earnings yield: 1.1%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
-## Buffett Score: 5.9 / 10
+## Buffett Score: 5.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -37,12 +37,12 @@ Technology / Communication Equipment
 
 - **Circle of Competence**: Technology / Communication Equipment
 - **Margin of Safety**: -54% — ABSENT ($842 > IV $390 at 25x for 25% growth)
-- **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
+- **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Aligned — 93.0% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (2 forces only: strong moat, secular growth)
+No (0 forces only: none)
 
 ---
 

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DOCU
-*Generated: 2026-05-09 06:34 | Price: $47.9 | Mkt Cap: $9B*
+*Generated: 2026-05-10 06:45 | Price: $47.9 | Mkt Cap: $9B*
 
 ## Sector Context
 Technology / Software - Application

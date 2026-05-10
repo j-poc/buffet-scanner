@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DOC
-*Generated: 2026-05-09 06:24 | Price: $19.64 | Mkt Cap: $14B*
+*Generated: 2026-05-10 06:40 | Price: $19.64 | Mkt Cap: $14B*
 
 ## Sector Context
 Real Estate / REIT - Healthcare Facilities
@@ -11,7 +11,7 @@ Real Estate / REIT - Healthcare Facilities
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 7.1x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 6.9x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.3%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,13 +21,13 @@ Real Estate / REIT - Healthcare Facilities
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 3.1% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 86% from prior peak; 5y price drawdown: 54% (moderate cyclicality); FCF/NI: 672% (strong); Gross margin: 58% (pricing power for Real Estate) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.5% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 58% vs sector strong cutoff 55% — strong pricing power; Operating margin 12% — thin for Real Estate | - |
-| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 145.5x — extreme premium; Near 52w high (94% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.0/10** | **100%** | **3.0** | | |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 145.5x — extreme premium; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 8.2% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **3.2/10** | **100%** | **3.2** | | |
 
-## Buffett Score: 3.0 / 10
-## Alpha Adjustment: -0.28
+## Buffett Score: 3.2 / 10
+## Alpha Adjustment: -0.26
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.28 applied to composite alpha score
+Buffett Premium: -0.26 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

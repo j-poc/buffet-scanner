@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TLN
-*Generated: 2026-05-09 06:27 | Price: $386.37 | Mkt Cap: $18B*
+*Generated: 2026-05-10 06:43 | Price: $386.37 | Mkt Cap: $18B*
 
 ## Sector Context
 Utilities / Utilities - Independent Power Producers
@@ -11,7 +11,7 @@ Utilities / Utilities - Independent Power Producers
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 10.8x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 10.4x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.8%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,10 +20,10 @@ Utilities / Utilities - Independent Power Producers
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.7/10 | 30% | 0.8 | Avg ROIC: 12.8% (2y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 122% from prior peak; 5y price drawdown: 34% (stable); FCF/NI: -39% (weak conversion); Gross margin: 42% (pricing power for Utilities) | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 14.7% of shares (SBC concern) | - |
-| Moat | 8.5/10 | 25% | 2.1 | Gross margin 42% vs sector strong cutoff 40% — strong pricing power; Operating margin 19%; Rev growth 79% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.2x — deep value; 52w range position: 70%; Owner earnings yield: 7.8% (>5%) | - |
+| Quality | 2.7/10 | 30% | 0.8 | Avg ROIC: 12.8% (2y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 122% from prior peak; 5y price drawdown: 34% (stable); FCF/NI: -39% (weak conversion); Gross margin: 40% (pricing power for Utilities) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 15.1% of shares (SBC concern) | - |
+| Moat | 8.5/10 | 25% | 2.1 | Gross margin 40% vs sector strong cutoff 40% — strong pricing power; Operating margin 17%; Rev growth 97% — demand pull | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.2x — deep value; 52w range position: 70%; Owner earnings yield: 7.9% (>5%) | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10

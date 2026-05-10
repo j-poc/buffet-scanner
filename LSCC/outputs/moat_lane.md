@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LSCC
-*Generated: 2026-05-09 06:27 | Price: $127.19 | Mkt Cap: $17B*
+*Generated: 2026-05-10 06:43 | Price: $127.19 | Mkt Cap: $17B*
 
 ## Sector Context
 Technology / Semiconductors

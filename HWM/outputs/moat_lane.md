@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HWM
-*Generated: 2026-05-09 06:24 | Price: $270.56 | Mkt Cap: $108B*
+*Generated: 2026-05-10 06:40 | Price: $270.56 | Mkt Cap: $108B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -11,7 +11,7 @@ Industrials / Aerospace & Defense
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.8x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.9x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.9%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,8 +21,8 @@ Industrials / Aerospace & Defense
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 8.1/10 | 30% | 2.4 | Avg ROIC: 13.8% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 23% (stable); FCF/NI: 96% (strong); Gross margin: 35% (pricing power for Industrials) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 35% vs sector strong cutoff 35% — strong pricing power; Operating margin 29% — durable for Industrials | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 35% vs sector strong cutoff 35% — strong pricing power; Operating margin 28% — durable for Industrials | - |
 | Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 46.0x — expensive; Near 52w high (92% of range) — Mr. Market greedy; Owner earnings yield: 1.1%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 

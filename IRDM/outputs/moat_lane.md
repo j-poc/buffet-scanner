@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IRDM
-*Generated: 2026-05-09 06:31 | Price: $41.46 | Mkt Cap: $4B*
+*Generated: 2026-05-10 06:47 | Price: $41.46 | Mkt Cap: $4B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (13.1% inst.) as insider
 

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AS
-*Generated: 2026-05-09 06:30 | Price: $36.03 | Mkt Cap: $21B*
+*Generated: 2026-05-10 06:46 | Price: $36.03 | Mkt Cap: $21B*
 
 ## Sector Context
 Consumer Cyclical / Leisure

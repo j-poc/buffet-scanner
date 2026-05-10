@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ZM
-*Generated: 2026-05-09 06:34 | Price: $109.21 | Mkt Cap: $32B*
+*Generated: 2026-05-10 06:50 | Price: $109.21 | Mkt Cap: $32B*
 
 ## Sector Context
 Technology / Software - Application

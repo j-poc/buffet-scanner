@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AAON
-*Generated: 2026-05-09 06:35 | Price: $139.66 | Mkt Cap: $11B*
+*Generated: 2026-05-10 06:50 | Price: $139.66 | Mkt Cap: $11B*
 
 ## Sector Context
 Industrials / Building Products & Equipment
@@ -12,7 +12,7 @@ Industrials / Building Products & Equipment
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.7x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 16.9%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 16.8%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -21,7 +21,7 @@ Industrials / Building Products & Equipment
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.2/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 16.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 39% from prior peak; 5y price drawdown: 49% (moderate cyclicality); FCF/NI: -72% (weak conversion); Gross margin: 26% | ROIC declining |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 16.9% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 17.0% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 16.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 17.0% of shares (SBC concern) | - |
 | Moat | 7.0/10 | 25% | 1.8 | Gross margin 26% — moderate moat for Industrials; Operating margin 11%; Rev growth 54% — demand pull | - |
 | Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 43.9x — expensive; Near 52w high (89% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
@@ -38,7 +38,7 @@ Industrials / Building Products & Equipment
 - **Circle of Competence**: Industrials / Building Products & Equipment
 - **Margin of Safety**: -75% — ABSENT ($140 > IV $36 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
-- **Incentive-Caused Bias**: Aligned — 16.9% insider ownership
+- **Incentive-Caused Bias**: Aligned — 16.8% insider ownership
 - **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check

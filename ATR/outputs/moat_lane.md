@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ATR
-*Generated: 2026-05-09 06:35 | Price: $120.99 | Mkt Cap: $8B*
+*Generated: 2026-05-10 06:51 | Price: $120.99 | Mkt Cap: $8B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies

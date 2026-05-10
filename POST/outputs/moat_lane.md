@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: POST
-*Generated: 2026-05-09 06:30 | Price: $102.05 | Mkt Cap: $5B*
+*Generated: 2026-05-10 06:46 | Price: $102.05 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods
@@ -12,7 +12,7 @@ Consumer Defensive / Packaged Foods
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 5.2x | 30% | -40% | YES |
-| 3 | Management / Governance Failure | Insider ownership 14.6%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 15.4%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -21,9 +21,9 @@ Consumer Defensive / Packaged Foods
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 6.8% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 60% from prior peak; 5y price drawdown: 21% (stable); FCF/NI: 112% (strong); Gross margin: 29% (below Consumer Defensive norm) | ROIC declining |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 14.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 16.6% of shares (SBC concern) | - |
-| Moat | 4.0/10 | 25% | 1.0 | Gross margin 29% — below Consumer Defensive moderate cutoff 30%; Operating margin 11% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.4x — deep value; 52w range position: 34%; Owner earnings yield: 5.5% (>5%) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 15.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 21.2% of shares (SBC concern) | - |
+| Moat | 4.0/10 | 25% | 1.0 | Gross margin 29% — below Consumer Defensive moderate cutoff 30%; Operating margin 10% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.1x — deep value; 52w range position: 34%; Owner earnings yield: 6.7% (>5%) | - |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
 ## Buffett Score: 5.1 / 10
@@ -36,9 +36,9 @@ Consumer Defensive / Packaged Foods
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Packaged Foods
-- **Margin of Safety**: -12% — ABSENT ($102 > IV $89 at 15x for -4% growth)
+- **Margin of Safety**: 46% — PRESENT (IV $149 vs $102 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
-- **Incentive-Caused Bias**: Aligned — 14.6% insider ownership
+- **Incentive-Caused Bias**: Aligned — 15.4% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

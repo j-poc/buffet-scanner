@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NSA
-*Generated: 2026-05-08 06:11 | Price: $43.33 | Mkt Cap: $6B*
+*Generated: 2026-05-10 06:47 | Price: $43.67 | Mkt Cap: $6B*
 
 ## Sector Context
 Real Estate / REIT - Industrial
@@ -23,7 +23,7 @@ Real Estate / REIT - Industrial
 | Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: 5.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 53% from prior peak; 5y price drawdown: 55% (severe cyclicality); FCF/NI: 329% (strong); Gross margin: 77% (pricing power for Real Estate) | - |
 | Management | 6.5/10 | 25% | 1.6 | Insider ownership: 7.8%; Insider activity: 0B/0S last 6m; Restricted stock: 7.7% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 77% vs sector strong cutoff 55% — strong pricing power; Operating margin 36% — durable for Real Estate | - |
-| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 114.9x — extreme premium; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 3.8%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 115.8x — extreme premium; Near 52w high (98% of range) — Mr. Market greedy; Owner earnings yield: 3.8%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
 
 ## Buffett Score: 4.3 / 10
@@ -36,7 +36,7 @@ Real Estate / REIT - Industrial
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Industrial
-- **Margin of Safety**: -57% — ABSENT ($43 > IV $19 at 25x for 25% growth)
+- **Margin of Safety**: -57% — ABSENT ($44 > IV $19 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Aligned — 7.8% insider ownership
 - **Mr. Market**: Greedy — exercise caution

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BKNG
-*Generated: 2026-05-09 06:22 | Price: $165.93 | Mkt Cap: $129B*
+*Generated: 2026-05-10 06:38 | Price: $165.93 | Mkt Cap: $129B*
 
 ## Sector Context
 Consumer Cyclical / Travel Services

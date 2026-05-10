@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VOYA
-*Generated: 2026-05-09 06:35 | Price: $81.59 | Mkt Cap: $7B*
+*Generated: 2026-05-10 06:51 | Price: $81.59 | Mkt Cap: $7B*
 
 ## Sector Context
 Financial Services / Financial Conglomerates

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ADT
-*Generated: 2026-05-09 06:31 | Price: $6.87 | Mkt Cap: $5B*
+*Generated: 2026-05-10 06:47 | Price: $6.87 | Mkt Cap: $5B*
 
 ## Sector Context
 Industrials / Security & Protection Services
@@ -21,7 +21,7 @@ Industrials / Security & Protection Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.5/10 | 30% | 1.6 | Avg ROIC: 7.4% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 54% (moderate cyclicality); FCF/NI: 345% (strong); Gross margin: 81% (pricing power for Industrials) | - |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 40.9% of shares (SBC concern) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 27.0% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 81% vs sector strong cutoff 35% — strong pricing power; Operating margin 25% — durable for Industrials | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.1x — deep value; Near 52w low (23% of range) — Mr. Market fearful; Owner earnings yield: 18.2% (>5%) | - |
 | **TOTAL** | **7.2/10** | **100%** | **7.2** | | |

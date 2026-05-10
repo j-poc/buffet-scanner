@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NDAQ
-*Generated: 2026-05-09 06:25 | Price: $88.91 | Mkt Cap: $50B*
+*Generated: 2026-05-10 06:41 | Price: $88.91 | Mkt Cap: $50B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (10.6% inst.) as insider
 
@@ -23,7 +23,7 @@ Financial Services / Financial Data & Stock Exchanges
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.6/10 | 30% | 2.0 | ROE: 16.2% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 33% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 11.1% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 11.0% of shares (SBC concern) | - |
 | Moat | 8.5/10 | 25% | 2.1 | ROE 16% — strong franchise (Financial Services); Operating margin 48% — durable for Financial Services | - |
 | Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.1x — growth premium; 52w range position: 48%; Owner earnings yield: 3.1%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |

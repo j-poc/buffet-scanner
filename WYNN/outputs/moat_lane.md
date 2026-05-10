@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WYNN
-*Generated: 2026-05-09 06:34 | Price: $102.42 | Mkt Cap: $11B*
+*Generated: 2026-05-10 06:50 | Price: $102.42 | Mkt Cap: $11B*
 
 ## Sector Context
 Consumer Cyclical / Resorts & Casinos
@@ -11,8 +11,8 @@ Consumer Cyclical / Resorts & Casinos
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 7.0x | 30% | -40% | YES |
-| 3 | Management / Governance Failure | Insider ownership 27.1%; key-man / succession risk | 8% | -15% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 6.9x | 30% | -40% | YES |
+| 3 | Management / Governance Failure | Insider ownership 27.2%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -21,9 +21,9 @@ Consumer Cyclical / Resorts & Casinos
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: 6.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 55% from prior peak; 5y price drawdown: 62% (severe cyclicality); FCF/NI: 153% (strong); Gross margin: 68% (pricing power for Consumer Cyclical) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 27.1% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 28.7% of shares (SBC concern) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 68% vs sector strong cutoff 45% — strong pricing power; Operating margin 16% — durable for Consumer Cyclical | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.1x — fair price; 52w range position: 38%; Owner earnings yield: 3.9%; Earnings yield < 7% — tight vs index | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 27.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 29.1% of shares (SBC concern) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 68% vs sector strong cutoff 45% — strong pricing power; Operating margin 15% — durable for Consumer Cyclical | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.1x — fair price; 52w range position: 38%; Owner earnings yield: 3.4%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,9 +36,9 @@ Consumer Cyclical / Resorts & Casinos
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Resorts & Casinos
-- **Margin of Safety**: -49% — ABSENT ($102 > IV $52 at 15x for -59% growth)
+- **Margin of Safety**: -15% — ABSENT ($102 > IV $87 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
-- **Incentive-Caused Bias**: Aligned — 27.1% insider ownership
+- **Incentive-Caused Bias**: Aligned — 27.2% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

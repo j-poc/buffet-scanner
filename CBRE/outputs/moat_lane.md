@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CBRE
-*Generated: 2026-05-09 06:23 | Price: $146.33 | Mkt Cap: $43B*
+*Generated: 2026-05-10 06:38 | Price: $146.33 | Mkt Cap: $43B*
 
 ## Sector Context
 Real Estate / Real Estate Services

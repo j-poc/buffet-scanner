@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PNFP
-*Generated: 2026-05-09 06:28 | Price: $97.89 | Mkt Cap: $15B*
+*Generated: 2026-05-10 06:44 | Price: $97.89 | Mkt Cap: $15B*
 
 ## Sector Context
 Financial Services / Banks - Regional

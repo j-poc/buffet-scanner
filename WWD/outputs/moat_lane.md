@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WWD
-*Generated: 2026-05-09 06:27 | Price: $369.93 | Mkt Cap: $22B*
+*Generated: 2026-05-10 06:50 | Price: $369.93 | Mkt Cap: $22B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -12,7 +12,7 @@ Industrials / Aerospace & Defense
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.6x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 0.2%; key-man / succession risk | 20% | -30% | YES |
+| 3 | Management / Governance Failure | Insider ownership 0.3%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -21,7 +21,7 @@ Industrials / Aerospace & Defense
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.9/10 | 30% | 1.8 | Avg ROIC: 10.7% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 37% (stable); FCF/NI: 88% (strong); Gross margin: 29% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 29% — moderate moat for Industrials; Operating margin 15% — durable for Industrials; Rev growth 23% — demand pull | - |
 | Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 34.5x — expensive; 52w range position: 82%; Owner earnings yield: 0.9%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
@@ -38,7 +38,7 @@ Industrials / Aerospace & Defense
 - **Circle of Competence**: Industrials / Aerospace & Defense
 - **Margin of Safety**: -44% — ABSENT ($370 > IV $209 at 25x for 23% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
-- **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

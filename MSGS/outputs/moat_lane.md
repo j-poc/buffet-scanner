@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MSGS
-*Generated: 2026-05-09 06:30 | Price: $330.13 | Mkt Cap: $8B*
+*Generated: 2026-05-10 06:46 | Price: $330.13 | Mkt Cap: $8B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -11,7 +11,7 @@ Communication Services / Entertainment
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 159.8x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: -53.7x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 3.8%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -20,10 +20,10 @@ Communication Services / Entertainment
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.0/10 | 30% | 0.9 | ROIC declining trend; Avg ROIC: 124.7% (3y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 138% from prior peak; 5y price drawdown: 32% (stable); FCF/NI: 106% (strong); Gross margin: 33% (below Communication Services norm) | ROIC declining |
+| Quality | 3.0/10 | 30% | 0.9 | ROIC declining trend; Avg ROIC: 124.7% (3y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 138% from prior peak; 5y price drawdown: 32% (stable); FCF/NI: 106% (strong); Gross margin: 29% (below Communication Services norm) | ROIC declining |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 3.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 12.3% of shares (SBC concern) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 33% — below Communication Services moderate cutoff 40%; Operating margin 5% — thin for Communication Services | - |
-| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 1766.3x — extreme premium; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 0.2%; Earnings yield < 4% — worse than bonds | Expensive |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 29% — below Communication Services moderate cutoff 40%; Operating margin 1% — thin for Communication Services | - |
+| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 1766.3x — extreme premium; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 0.6%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.1/10** | **100%** | **3.1** | | |
 
 ## Buffett Score: 3.1 / 10

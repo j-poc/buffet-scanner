@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ATI
-*Generated: 2026-05-09 06:27 | Price: $158.39 | Mkt Cap: $22B*
+*Generated: 2026-05-10 06:50 | Price: $158.39 | Mkt Cap: $22B*
 
 ## Sector Context
 Industrials / Metal Fabrication

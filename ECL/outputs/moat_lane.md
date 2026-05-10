@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ECL
-*Generated: 2026-05-09 06:23 | Price: $254.22 | Mkt Cap: $72B*
+*Generated: 2026-05-10 06:39 | Price: $254.22 | Mkt Cap: $72B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals
@@ -21,9 +21,9 @@ Basic Materials / Specialty Chemicals
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.6/10 | 30% | 1.7 | Avg ROIC: 11.2% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 99% (strong); Gross margin: 44% (pricing power for Basic Materials) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.0% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 44% vs sector strong cutoff 30% — strong pricing power; Operating margin 17% — durable for Basic Materials | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 26.4x — growth premium; Near 52w low (9% of range) — Mr. Market fearful; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 26.4x — growth premium; Near 52w low (9% of range) — Mr. Market fearful; Owner earnings yield: 2.2%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
 
 ## Buffett Score: 6.3 / 10

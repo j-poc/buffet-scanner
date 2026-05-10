@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMG
-*Generated: 2026-05-09 06:35 | Price: $302.8 | Mkt Cap: $8B*
+*Generated: 2026-05-10 06:51 | Price: $302.8 | Mkt Cap: $8B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -11,7 +11,7 @@ Financial Services / Asset Management
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.8x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 5.7x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 4.1%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -22,8 +22,8 @@ Financial Services / Asset Management
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.5/10 | 30% | 1.6 | ROE: 21.8% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 41% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.4% (low) | - |
-| Moat | 7.0/10 | 25% | 1.8 | ROE 22% — strong franchise (Financial Services); Operating margin 14% — thin for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.7x — deep value; 52w range position: 80% | - |
+| Moat | 7.5/10 | 25% | 1.9 | ROE 22% — strong franchise (Financial Services); Operating margin 22% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.7x — deep value; 52w range position: 80%; Owner earnings yield: 3.0% | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

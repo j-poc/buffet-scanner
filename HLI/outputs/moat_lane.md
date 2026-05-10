@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HLI
-*Generated: 2026-05-09 06:35 | Price: $152.87 | Mkt Cap: $11B*
+*Generated: 2026-05-10 06:51 | Price: $152.87 | Mkt Cap: $11B*
 
 ## Sector Context
 Financial Services / Capital Markets
@@ -21,7 +21,7 @@ Financial Services / Capital Markets
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 7.0/10 | 30% | 2.1 | ROE: 18.3% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 37% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 18% — strong franchise (Financial Services); Operating margin 22% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.2x — fair price; Near 52w low (24% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.0/10** | **100%** | **7.0** | | |

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ESAB
-*Generated: 2026-05-09 06:30 | Price: $100.94 | Mkt Cap: $6B*
+*Generated: 2026-05-10 06:46 | Price: $100.94 | Mkt Cap: $6B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (8.9% inst.) as insider
 
@@ -13,7 +13,7 @@ Industrials / Metal Fabrication
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.8x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.9x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -24,8 +24,8 @@ Industrials / Metal Fabrication
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.6/10 | 30% | 1.1 | Avg ROIC: 11.1% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 41% (moderate cyclicality); FCF/NI: 106% (strong); Gross margin: 37% (pricing power for Industrials) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.5% of shares (SBC concern) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 37% vs sector strong cutoff 35% — strong pricing power; Operating margin 12% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.5x — fair price; Near 52w low (24% of range) — Mr. Market fearful; Owner earnings yield: 3.4%; Earnings yield < 7% — tight vs index | - |
+| Moat | 8.0/10 | 25% | 2.0 | Gross margin 37% vs sector strong cutoff 35% — strong pricing power; Operating margin 13% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.5x — fair price; Near 52w low (24% of range) — Mr. Market fearful; Owner earnings yield: 3.1%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

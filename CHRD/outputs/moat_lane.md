@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CHRD
-*Generated: 2026-05-09 06:35 | Price: $136.44 | Mkt Cap: $8B*
+*Generated: 2026-05-10 06:51 | Price: $136.44 | Mkt Cap: $8B*
 
 ## Sector Context
 Energy / Oil & Gas E&P
@@ -23,7 +23,7 @@ Energy / Oil & Gas E&P
 | Quality | 2.0/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 13.5% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 98% from prior peak; 5y price drawdown: 54% (moderate cyclicality); FCF/NI: 458% (strong); Gross margin: 47% (pricing power for Energy) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.1% of shares (SBC concern) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 47% vs sector strong cutoff 30% — strong pricing power; Operating margin 6%; Rev growth 38% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.0x — deep value; 52w range position: 79%; Owner earnings yield: 5.9% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.1x — deep value; 52w range position: 79%; Owner earnings yield: 5.9% (>5%) | - |
 | **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
 ## Buffett Score: 5.6 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CAVA
-*Generated: 2026-05-09 06:35 | Price: $79.4 | Mkt Cap: $9B*
+*Generated: 2026-05-10 06:51 | Price: $79.4 | Mkt Cap: $9B*
 
 > ⚠ DATA: yfinance misclassified Artal Group S.A. (8.2% inst.) as insider
 

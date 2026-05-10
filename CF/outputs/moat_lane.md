@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CF
-*Generated: 2026-05-09 06:23 | Price: $115.02 | Mkt Cap: $18B*
+*Generated: 2026-05-10 06:39 | Price: $115.02 | Mkt Cap: $18B*
 
 ## Sector Context
 Basic Materials / Agricultural Inputs
@@ -21,9 +21,9 @@ Basic Materials / Agricultural Inputs
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.0/10 | 30% | 1.2 | ROIC declining trend; Avg ROIC: 29.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 64% from prior peak; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 109% (strong); Gross margin: 39% (pricing power for Basic Materials) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 39% vs sector strong cutoff 30% — strong pricing power; Operating margin 32% — durable for Basic Materials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.7x — deep value; 52w range position: 60%; Owner earnings yield: 6.0% (>5%) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 39% vs sector strong cutoff 30% — strong pricing power; Operating margin 34% — durable for Basic Materials | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.7x — deep value; 52w range position: 60%; Owner earnings yield: 6.1% (>5%) | - |
 | **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
 ## Buffett Score: 6.5 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CRL
-*Generated: 2026-05-09 06:23 | Price: $177.62 | Mkt Cap: $9B*
+*Generated: 2026-05-10 06:39 | Price: $177.62 | Mkt Cap: $9B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research
@@ -11,7 +11,7 @@ Healthcare / Diagnostics & Research
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.5x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.4x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.9%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -22,8 +22,8 @@ Healthcare / Diagnostics & Research
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 5.4% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 130% from prior peak; 5y price drawdown: 78% (severe cyclicality); FCF/NI: 1162% (strong); Gross margin: 34% (below Healthcare norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
-| Moat | 4.0/10 | 25% | 1.0 | Gross margin 34% — below Healthcare moderate cutoff 35%; Operating margin 12% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.3x — deep value; 52w range position: 47%; Owner earnings yield: 5.6% (>5%) | - |
+| Moat | 4.0/10 | 25% | 1.0 | Gross margin 34% — below Healthcare moderate cutoff 35%; Operating margin 16% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.3x — deep value; 52w range position: 47%; Owner earnings yield: 6.0% (>5%) | - |
 | **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
 ## Buffett Score: 4.0 / 10

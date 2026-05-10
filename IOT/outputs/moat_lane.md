@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IOT
-*Generated: 2026-05-09 06:35 | Price: $29.74 | Mkt Cap: $17B*
+*Generated: 2026-05-10 06:50 | Price: $29.74 | Mkt Cap: $17B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -21,12 +21,12 @@ Technology / Software - Infrastructure
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: -15.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 70% (severe cyclicality); FCF/NI: -571% (weak conversion); Gross margin: 77% (pricing power for Technology) | - |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 3.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 53.6% of shares (SBC concern) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.7% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 77% vs sector strong cutoff 60% — strong pricing power; Operating margin 2% — thin for Technology; Rev growth 28% — demand pull | - |
 | Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 35.1x — expensive; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 1.6%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
+| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
-## Buffett Score: 4.8 / 10
+## Buffett Score: 5.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

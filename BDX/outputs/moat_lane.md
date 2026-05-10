@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BDX
-*Generated: 2026-05-09 06:22 | Price: $149.43 | Mkt Cap: $41B*
+*Generated: 2026-05-10 06:38 | Price: $149.43 | Mkt Cap: $41B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies
@@ -11,7 +11,7 @@ Healthcare / Medical Instruments & Supplies
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.7x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.8x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.4%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,10 +20,10 @@ Healthcare / Medical Instruments & Supplies
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 4.2% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 40% (moderate cyclicality); FCF/NI: 144% (strong); Gross margin: 49% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -1.6% (low) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 49% — moderate moat for Healthcare; Operating margin 13% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.1x — deep value; 52w range position: 37%; Owner earnings yield: 11.5% (>5%) | - |
+| Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 4.2% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 40% (moderate cyclicality); FCF/NI: 144% (strong); Gross margin: 47% | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 47% — moderate moat for Healthcare; Operating margin 15% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.1x — deep value; 52w range position: 37%; Owner earnings yield: 11.0% (>5%) | - |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
 ## Buffett Score: 5.1 / 10
@@ -36,7 +36,7 @@ Healthcare / Medical Instruments & Supplies
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Instruments & Supplies
-- **Margin of Safety**: -43% — ABSENT ($149 > IV $86 at 15x for -11% growth)
+- **Margin of Safety**: -35% — ABSENT ($149 > IV $97 at 17x for 5% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NXST
-*Generated: 2026-05-09 06:30 | Price: $202.79 | Mkt Cap: $6B*
+*Generated: 2026-05-10 06:46 | Price: $202.79 | Mkt Cap: $6B*
 
 > ⚠ DATA: yfinance misclassified Dimensional Fund Advisors LP (4.6% inst.) as insider
 
@@ -13,7 +13,7 @@ Communication Services / Broadcasting
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.7x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -23,7 +23,7 @@ Communication Services / Broadcasting
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.9/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 9.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 89% from prior peak; 5y price drawdown: 36% (stable); FCF/NI: 302% (strong); Gross margin: 56% (pricing power for Communication Services) | ROIC declining |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.7% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.1% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 56% vs sector strong cutoff 55% — strong pricing power; Operating margin 19% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.5x — deep value; 52w range position: 43% | - |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |

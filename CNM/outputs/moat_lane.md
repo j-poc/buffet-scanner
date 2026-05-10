@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CNM
-*Generated: 2026-05-09 06:34 | Price: $49.09 | Mkt Cap: $10B*
+*Generated: 2026-05-10 06:45 | Price: $49.09 | Mkt Cap: $10B*
 
 ## Sector Context
 Industrials / Industrial Distribution

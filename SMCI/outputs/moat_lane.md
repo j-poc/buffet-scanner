@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SMCI
-*Generated: 2026-05-09 06:33 | Price: $35.37 | Mkt Cap: $21B*
+*Generated: 2026-05-10 06:42 | Price: $35.37 | Mkt Cap: $21B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (11.4% inst.) as insider
 

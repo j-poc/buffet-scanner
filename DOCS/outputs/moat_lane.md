@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DOCS
-*Generated: 2026-05-09 06:31 | Price: $25.98 | Mkt Cap: $5B*
+*Generated: 2026-05-10 06:47 | Price: $25.98 | Mkt Cap: $5B*
 
 ## Sector Context
 Healthcare / Health Information Services
@@ -21,7 +21,7 @@ Healthcare / Health Information Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.3/10 | 30% | 1.6 | Avg ROIC: 13.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 81% (severe cyclicality); FCF/NI: 118% (strong); Gross margin: 90% (pricing power for Healthcare) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.6% (low); No insider transaction data; Restricted stock: 2.4% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.4% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 90% vs sector strong cutoff 55% — strong pricing power; Operating margin 39% — durable for Healthcare | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.0x — fair price; Near 52w low (10% of range) — Mr. Market fearful; Owner earnings yield: 4.4%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.2/10** | **100%** | **7.2** | | |

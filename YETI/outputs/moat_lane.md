@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: YETI
-*Generated: 2026-05-09 06:31 | Price: $41.53 | Mkt Cap: $3B*
+*Generated: 2026-05-10 06:47 | Price: $41.53 | Mkt Cap: $3B*
 
 ## Sector Context
 Consumer Cyclical / Leisure

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MTZ
-*Generated: 2026-05-09 06:34 | Price: $414.29 | Mkt Cap: $33B*
+*Generated: 2026-05-10 06:50 | Price: $414.29 | Mkt Cap: $33B*
 
 ## Sector Context
 Industrials / Engineering & Construction

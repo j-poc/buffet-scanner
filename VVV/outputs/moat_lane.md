@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VVV
-*Generated: 2026-05-09 06:30 | Price: $35.62 | Mkt Cap: $5B*
+*Generated: 2026-05-10 06:46 | Price: $35.62 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Cyclical / Auto & Truck Dealerships
@@ -11,7 +11,7 @@ Consumer Cyclical / Auto & Truck Dealerships
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 6.3x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.5x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.3%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,9 +21,9 @@ Consumer Cyclical / Auto & Truck Dealerships
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.7/10 | 30% | 0.8 | Avg ROIC: 16.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 85% from prior peak; 5y price drawdown: 39% (stable); FCF/NI: 14% (weak conversion); Gross margin: 38% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 38% — moderate moat for Consumer Cyclical; Operating margin 17% — durable for Consumer Cyclical; Rev growth 25% — demand pull | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.5x — fair price; 52w range position: 55%; Earnings yield < 7% — tight vs index | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
+| Moat | 8.0/10 | 25% | 2.0 | Gross margin 38% — moderate moat for Consumer Cyclical; Operating margin 18% — durable for Consumer Cyclical; Rev growth 25% — demand pull | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.4x — fair price; 52w range position: 55%; Owner earnings yield: 1.0%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10

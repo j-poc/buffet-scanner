@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OGN
-*Generated: 2026-05-09 06:31 | Price: $13.35 | Mkt Cap: $4B*
+*Generated: 2026-05-10 06:47 | Price: $13.35 | Mkt Cap: $4B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General

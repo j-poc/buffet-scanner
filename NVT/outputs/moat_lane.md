@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NVT
-*Generated: 2026-05-09 06:34 | Price: $169.95 | Mkt Cap: $27B*
+*Generated: 2026-05-10 06:50 | Price: $169.95 | Mkt Cap: $27B*
 
 ## Sector Context
 Industrials / Electrical Equipment & Parts
@@ -21,7 +21,7 @@ Industrials / Electrical Equipment & Parts
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 8.0% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 41% from prior peak; 5y price drawdown: 47% (moderate cyclicality); FCF/NI: 99% (strong); Gross margin: 37% (pricing power for Industrials) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 37% vs sector strong cutoff 35% — strong pricing power; Operating margin 16% — durable for Industrials; Rev growth 54% — demand pull | - |
 | Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 30.5x — expensive; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 0.8%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |

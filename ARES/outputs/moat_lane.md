@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ARES
-*Generated: 2026-05-09 06:22 | Price: $126.25 | Mkt Cap: $42B*
+*Generated: 2026-05-10 06:38 | Price: $126.25 | Mkt Cap: $42B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (11.7% inst.) as insider
 
@@ -13,7 +13,7 @@ Financial Services / Asset Management
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 10.1x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 10.3x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -22,13 +22,13 @@ Financial Services / Asset Management
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.5/10 | 30% | 0.8 | ROE: 0.0% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 50% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 3.2% (low) | - |
-| Moat | 5.0/10 | 25% | 1.2 | ROE 0% — weak (Financial Services); Operating margin 18%; Rev growth 28% — demand pull | Weak pricing |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.0x — fair price; 52w range position: 31%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
+| Quality | 5.5/10 | 30% | 1.6 | ROE: 14.2% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 50% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 2.7% (low) | - |
+| Moat | 6.5/10 | 25% | 1.6 | ROE 14% — adequate (Financial Services); Operating margin 18%; Rev growth 28% — demand pull | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.0x — fair price; 52w range position: 31%; Owner earnings yield: 4.2%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
-## Buffett Score: 4.7 / 10
+## Buffett Score: 6.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

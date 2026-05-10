@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GLPI
-*Generated: 2026-05-09 06:28 | Price: $48.22 | Mkt Cap: $14B*
+*Generated: 2026-05-10 06:44 | Price: $48.22 | Mkt Cap: $14B*
 
 ## Sector Context
 Real Estate / REIT - Specialty
@@ -12,7 +12,7 @@ Real Estate / REIT - Specialty
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 5.4x | 30% | -40% | YES |
-| 3 | Management / Governance Failure | Insider ownership 4.2%; key-man / succession risk | 15% | -20% | No |
+| 3 | Management / Governance Failure | Insider ownership 4.1%; key-man / succession risk | 15% | -20% | No |
 
 ---
 
@@ -21,7 +21,7 @@ Real Estate / REIT - Specialty
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 8.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 17% (stable); FCF/NI: 123% (strong); Gross margin: 99% (pricing power for Real Estate) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.3% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.3% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 99% vs sector strong cutoff 55% — strong pricing power; Operating margin 79% — durable for Real Estate | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.4x — deep value; 52w range position: 80%; Owner earnings yield: 3.6%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
@@ -38,7 +38,7 @@ Real Estate / REIT - Specialty
 - **Circle of Competence**: Real Estate / REIT - Specialty
 - **Margin of Safety**: 64% — PRESENT (IV $79 vs $48 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
-- **Incentive-Caused Bias**: Weak alignment — only 4.2% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 4.1% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

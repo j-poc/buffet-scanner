@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SGI
-*Generated: 2026-05-09 06:28 | Price: $69.31 | Mkt Cap: $15B*
+*Generated: 2026-05-10 06:44 | Price: $69.31 | Mkt Cap: $15B*
 
 ## Sector Context
 Consumer Cyclical / Furnishings, Fixtures & Appliances
@@ -11,7 +11,7 @@ Consumer Cyclical / Furnishings, Fixtures & Appliances
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.8x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 5.1x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 3.3%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -20,13 +20,13 @@ Consumer Cyclical / Furnishings, Fixtures & Appliances
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.5/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 13.7% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 59% (severe cyclicality); FCF/NI: 108% (strong); Gross margin: 46% (pricing power for Consumer Cyclical) | ROIC declining |
+| Quality | 0.5/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 13.7% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 59% (severe cyclicality); FCF/NI: 108% (strong); Gross margin: 45% | ROIC declining |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 3.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 10.9% of shares (SBC concern) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 46% vs sector strong cutoff 45% — strong pricing power; Operating margin 10% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 17.4x — fair price; Near 52w low (20% of range) — Mr. Market fearful; Owner earnings yield: 4.7%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 45% — moderate moat for Consumer Cyclical; Operating margin 11% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 17.5x — fair price; Near 52w low (20% of range) — Mr. Market fearful; Owner earnings yield: 4.4%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
-## Buffett Score: 5.7 / 10
+## Buffett Score: 5.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,13 +36,13 @@ Consumer Cyclical / Furnishings, Fixtures & Appliances
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Furnishings, Fixtures & Appliances
-- **Margin of Safety**: -47% — ABSENT ($69 > IV $37 at 20x for 12% growth)
-- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
+- **Margin of Safety**: -28% — ABSENT ($69 > IV $50 at 20x for 12% growth)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 3.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-No (2 forces only: strong moat, attractive valuation)
+No (1 forces only: attractive valuation)
 
 ---
 

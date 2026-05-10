@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APPF
-*Generated: 2026-05-09 06:31 | Price: $166.59 | Mkt Cap: $6B*
+*Generated: 2026-05-10 06:47 | Price: $166.59 | Mkt Cap: $6B*
 
 > ⚠ DATA: yfinance misclassified Principal Financial Group, Inc. (6.3% inst.) as insider
 

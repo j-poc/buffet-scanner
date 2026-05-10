@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OSK
-*Generated: 2026-05-09 06:34 | Price: $137.97 | Mkt Cap: $9B*
+*Generated: 2026-05-10 06:44 | Price: $137.97 | Mkt Cap: $9B*
 
 ## Sector Context
 Industrials / Farm & Heavy Construction Machinery
@@ -11,7 +11,7 @@ Industrials / Farm & Heavy Construction Machinery
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.2x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.1x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.7%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,9 +21,9 @@ Industrials / Farm & Heavy Construction Machinery
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.7/10 | 30% | 1.4 | Avg ROIC: 12.8% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 91% (strong); Gross margin: 17% (below Industrials norm) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 17% — below Industrials moderate cutoff 22%; Operating margin 8% — thin for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.7x — deep value; 52w range position: 50%; Owner earnings yield: 2.8% | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 17% — below Industrials moderate cutoff 22%; Operating margin 4% — thin for Industrials | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.8x — deep value; 52w range position: 50%; Owner earnings yield: 6.1% (>5%) | - |
 | **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
 ## Buffett Score: 5.3 / 10
@@ -36,7 +36,7 @@ Industrials / Farm & Heavy Construction Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Farm & Heavy Construction Machinery
-- **Margin of Safety**: -2% — ABSENT ($138 > IV $135 at 15x for -10% growth)
+- **Margin of Safety**: -2% — ABSENT ($138 > IV $135 at 15x for -60% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Neutral

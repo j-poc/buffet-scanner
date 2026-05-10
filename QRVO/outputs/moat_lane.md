@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: QRVO
-*Generated: 2026-05-09 06:35 | Price: $90.53 | Mkt Cap: $8B*
+*Generated: 2026-05-10 06:51 | Price: $90.53 | Mkt Cap: $8B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -21,7 +21,7 @@ Technology / Semiconductors
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 5.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 107% from prior peak; 5y price drawdown: 74% (severe cyclicality); FCF/NI: 153% (strong); Gross margin: 46% | ROIC declining |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 9.0% of shares (SBC concern) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 9.5% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 46% — moderate moat for Technology; Operating margin 18% — thin for Technology | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.4x — deep value; 52w range position: 53%; Owner earnings yield: 6.8% (>5%) | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |

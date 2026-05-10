@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EXLS
-*Generated: 2026-05-09 06:30 | Price: $31.08 | Mkt Cap: $5B*
+*Generated: 2026-05-10 06:46 | Price: $31.08 | Mkt Cap: $5B*
 
 ## Sector Context
 Technology / Information Technology Services

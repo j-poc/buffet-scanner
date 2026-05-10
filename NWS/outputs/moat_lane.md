@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NWS
-*Generated: 2026-05-09 06:25 | Price: $31.31 | Mkt Cap: $17B*
+*Generated: 2026-05-10 06:41 | Price: $31.31 | Mkt Cap: $17B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -11,7 +11,7 @@ Communication Services / Entertainment
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.5x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.3x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 34.4%; key-man / succession risk | 8% | -15% | No |
 
 ---
@@ -21,13 +21,13 @@ Communication Services / Entertainment
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 6.1% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 76% from prior peak; 5y price drawdown: 40% (moderate cyclicality); FCF/NI: 169% (strong); Gross margin: 57% (pricing power for Communication Services) | - |
-| Management | 9.0/10 | 25% | 2.2 | Insider ownership: 34.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: -203.4% (low) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 57% vs sector strong cutoff 55% — strong pricing power; Operating margin 17% | - |
-| Valuation Fit | 6.5/10 | 20% | 1.3 | P/E 25.7x — growth premium; 52w range position: 58%; Owner earnings yield: 10.0% (>5%); Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
+| Management | 9.0/10 | 25% | 2.2 | Insider ownership: 34.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: -202.6% (low) | - |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 57% vs sector strong cutoff 55% — strong pricing power; Operating margin 10% — thin for Communication Services | - |
+| Valuation Fit | 6.5/10 | 20% | 1.3 | P/E 25.7x — growth premium; 52w range position: 58%; Owner earnings yield: 10.6% (>5%); Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
 
-## Buffett Score: 6.8 / 10
-## Alpha Adjustment: +0.18
+## Buffett Score: 6.6 / 10
+## Alpha Adjustment: +0.16
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -37,18 +37,18 @@ Communication Services / Entertainment
 
 - **Circle of Competence**: Communication Services / Entertainment
 - **Margin of Safety**: -62% — ABSENT ($31 > IV $12 at 15x for -10% growth)
-- **Lollapalooza Effect**: No (1 forces only: strong moat)
+- **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Aligned — 34.4% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (1 forces only: strong moat)
+No (0 forces only: none)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.18 applied to composite alpha score
+Buffett Premium: +0.16 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

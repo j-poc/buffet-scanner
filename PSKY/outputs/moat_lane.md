@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PSKY
-*Generated: 2026-05-09 06:25 | Price: $11.09 | Mkt Cap: $12B*
+*Generated: 2026-05-10 06:41 | Price: $11.09 | Mkt Cap: $12B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -21,7 +21,7 @@ Communication Services / Entertainment
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -3.3% (3y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 236% from prior peak; 5y price drawdown: 79% (severe cyclicality); FCF/NI: -8% (weak conversion); Gross margin: 33% (below Communication Services norm) | ROIC declining |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 3.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 16.9% of shares (SBC concern) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 3.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 21.0% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 33% — below Communication Services moderate cutoff 40%; Operating margin 10% — thin for Communication Services | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.8x — deep value; Near 52w low (20% of range) — Mr. Market fearful; Owner earnings yield: 132.1% (>5%) | - |
 | **TOTAL** | **4.1/10** | **100%** | **4.1** | | |

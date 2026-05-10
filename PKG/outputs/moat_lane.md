@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PKG
-*Generated: 2026-05-09 06:25 | Price: $224.59 | Mkt Cap: $20B*
+*Generated: 2026-05-10 06:41 | Price: $224.59 | Mkt Cap: $20B*
 
 ## Sector Context
 Consumer Cyclical / Packaging & Containers
@@ -11,7 +11,7 @@ Consumer Cyclical / Packaging & Containers
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.3x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.2x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 1.6%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -20,13 +20,13 @@ Consumer Cyclical / Packaging & Containers
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.4/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 13.4% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 32% (stable); FCF/NI: 84% (strong); Gross margin: 21% (below Consumer Cyclical norm) | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.3% (low) | - |
-| Moat | 4.0/10 | 25% | 1.0 | Gross margin 21% — below Consumer Cyclical moderate cutoff 30%; Operating margin 11% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.5x — fair price; 52w range position: 62%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
+| Quality | 1.4/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 13.4% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 32% (stable); FCF/NI: 84% (strong); Gross margin: 22% (below Consumer Cyclical norm) | ROIC declining |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.4% (low) | - |
+| Moat | 5.0/10 | 25% | 1.2 | Gross margin 22% — below Consumer Cyclical moderate cutoff 30%; Operating margin 13% — durable for Consumer Cyclical | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.5x — fair price; 52w range position: 62%; Owner earnings yield: 2.0%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
-## Buffett Score: 4.5 / 10
+## Buffett Score: 4.7 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ONTO
-*Generated: 2026-05-09 06:28 | Price: $284.67 | Mkt Cap: $14B*
+*Generated: 2026-05-10 06:44 | Price: $284.67 | Mkt Cap: $14B*
 
 ## Sector Context
 Technology / Semiconductor Equipment & Materials
@@ -22,7 +22,7 @@ Technology / Semiconductor Equipment & Materials
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 7.7% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 46% from prior peak; 5y price drawdown: 63% (severe cyclicality); FCF/NI: 125% (strong); Gross margin: 54% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
-| Moat | 6.0/10 | 25% | 1.5 | Gross margin 54% — moderate moat for Technology; Operating margin 13% — thin for Technology | - |
+| Moat | 6.0/10 | 25% | 1.5 | Gross margin 54% — moderate moat for Technology; Operating margin 17% — thin for Technology | - |
 | Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 30.0x — growth premium; Near 52w high (86% of range) — Mr. Market greedy; Owner earnings yield: 1.4%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.4/10** | **100%** | **3.4** | | |
 

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: INGR
-*Generated: 2026-05-08 06:09 | Price: $107.36 | Mkt Cap: $7B*
+*Generated: 2026-05-10 06:51 | Price: $107.39 | Mkt Cap: $7B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods
@@ -23,7 +23,7 @@ Consumer Defensive / Packaged Foods
 | Quality | 6.1/10 | 30% | 1.8 | Avg ROIC: 12.5% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 30% (stable); FCF/NI: 83% (strong); Gross margin: 24% (below Consumer Defensive norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 24% — below Consumer Defensive moderate cutoff 30%; Operating margin 12% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.2x — deep value; Near 52w low (16% of range) — Mr. Market fearful; Owner earnings yield: 5.3% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.3x — deep value; Near 52w low (16% of range) — Mr. Market fearful; Owner earnings yield: 5.3% (>5%) | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10

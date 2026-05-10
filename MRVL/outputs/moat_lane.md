@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MRVL
-*Generated: 2026-05-09 06:34 | Price: $170.13 | Mkt Cap: $149B*
+*Generated: 2026-05-10 06:50 | Price: $170.13 | Mkt Cap: $149B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -36,7 +36,7 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: -55% — ABSENT ($170 > IV $77 at 25x for 25% growth)
+- **Margin of Safety**: -55% — ABSENT ($170 > IV $76 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Greedy — exercise caution

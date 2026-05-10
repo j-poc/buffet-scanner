@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OVV
-*Generated: 2026-05-09 06:27 | Price: $57.83 | Mkt Cap: $16B*
+*Generated: 2026-05-10 06:43 | Price: $57.83 | Mkt Cap: $16B*
 
 ## Sector Context
 Energy / Oil & Gas E&P

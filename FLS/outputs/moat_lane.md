@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FLS
-*Generated: 2026-05-09 06:35 | Price: $71.13 | Mkt Cap: $9B*
+*Generated: 2026-05-10 06:50 | Price: $71.13 | Mkt Cap: $9B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery

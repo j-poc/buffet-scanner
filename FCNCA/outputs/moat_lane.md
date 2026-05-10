@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FCNCA
-*Generated: 2026-05-09 06:27 | Price: $1951.93 | Mkt Cap: $23B*
+*Generated: 2026-05-10 06:43 | Price: $1951.93 | Mkt Cap: $23B*
 
 ## Sector Context
 Financial Services / Banks - Regional

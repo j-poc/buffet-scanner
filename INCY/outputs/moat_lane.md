@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: INCY
-*Generated: 2026-05-09 06:24 | Price: $98.56 | Mkt Cap: $20B*
+*Generated: 2026-05-10 06:40 | Price: $98.56 | Mkt Cap: $20B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -21,7 +21,7 @@ Healthcare / Biotechnology
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.1/10 | 30% | 1.5 | Avg ROIC: 13.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 95% from prior peak; 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 290% (strong); Gross margin: 53% | - |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 16.2% of shares (SBC concern) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 16.1% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 53% — moderate moat for Healthcare; Operating margin 26% — durable for Healthcare; Rev growth 21% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.9x — deep value; 52w range position: 74%; Owner earnings yield: 2.8% | - |
 | **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
