@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LFUS
-*Generated: 2026-05-10 06:44 | Price: $457.03 | Mkt Cap: $12B*
+*Generated: 2026-05-11 07:57 | Price: $457.03 | Mkt Cap: $12B*
 
 ## Sector Context
 Technology / Electronic Components

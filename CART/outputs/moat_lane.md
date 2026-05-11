@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CART
-*Generated: 2026-05-08 06:09 | Price: $37.99 | Mkt Cap: $9B*
+*Generated: 2026-05-11 08:04 | Price: $40.35 | Mkt Cap: $9B*
 
 > ⚠ DATA: yfinance misclassified Sc Us (ttgp), Ltd. (11.8% inst.) as insider
 
@@ -22,13 +22,13 @@ Consumer Cyclical / Internet Retail
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: -5.7% (3y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 479% from prior peak; 5y price drawdown: 38% (stable); FCF/NI: 92% (strong); Gross margin: 74% (pricing power for Consumer Cyclical) | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 31.8% of shares (SBC concern) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 74% vs sector strong cutoff 45% — strong pricing power; Operating margin 10% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.3x — deep value; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 7.2% (>5%) | - |
-| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
+| Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: -5.7% (3y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 479% from prior peak; 5y price drawdown: 38% (stable); FCF/NI: 92% (strong); Gross margin: 73% (pricing power for Consumer Cyclical) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 32.9% of shares (SBC concern) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 73% vs sector strong cutoff 45% — strong pricing power; Operating margin 18% — durable for Consumer Cyclical | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.5x — deep value; 52w range position: 37%; Owner earnings yield: 6.6% (>5%) | - |
+| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
-## Buffett Score: 5.6 / 10
+## Buffett Score: 5.9 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,10 +38,10 @@ Consumer Cyclical / Internet Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Internet Retail
-- **Margin of Safety**: -29% — ABSENT ($38 > IV $27 at 15x for -44% growth)
+- **Margin of Safety**: 12% — thin (IV $45 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (2 forces only: strong moat, attractive valuation)

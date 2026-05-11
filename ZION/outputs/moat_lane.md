@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ZION
-*Generated: 2026-05-10 06:44 | Price: $62.5 | Mkt Cap: $9B*
+*Generated: 2026-05-11 07:57 | Price: $62.5 | Mkt Cap: $9B*
 
 ## Sector Context
 Financial Services / Banks - Regional

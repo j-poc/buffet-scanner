@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALGM
-*Generated: 2026-05-09 06:30 | Price: $48.95 | Mkt Cap: $9B*
+*Generated: 2026-05-11 08:04 | Price: $48.95 | Mkt Cap: $9B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -11,7 +11,7 @@ Technology / Semiconductors
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Semiconductors | 25% | -35% | YES |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.1x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.3x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 33.1%; key-man / succession risk | 8% | -15% | No |
 
 ---
@@ -20,10 +20,10 @@ Technology / Semiconductors
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 10.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 139% from prior peak; 5y price drawdown: 69% (severe cyclicality); FCF/NI: 35% (weak conversion); Gross margin: 46% | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 10.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 139% from prior peak; 5y price drawdown: 69% (severe cyclicality); FCF/NI: 35% (weak conversion); Gross margin: 47% | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 33.1% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 33.1% of shares (SBC concern) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 46% — moderate moat for Technology; Operating margin 5% — thin for Technology; Rev growth 26% — demand pull | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 32.8x — expensive; Near 52w high (92% of range) — Mr. Market greedy; Owner earnings yield: 1.0%; Earnings yield < 4% — worse than bonds | Expensive |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 47% — moderate moat for Technology; Operating margin 9% — thin for Technology; Rev growth 26% — demand pull | - |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 33.4x — expensive; Near 52w high (92% of range) — Mr. Market greedy; Owner earnings yield: 1.8%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10

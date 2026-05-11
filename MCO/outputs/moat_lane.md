@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MCO
-*Generated: 2026-05-10 06:41 | Price: $451.32 | Mkt Cap: $79B*
+*Generated: 2026-05-11 07:53 | Price: $451.32 | Mkt Cap: $79B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges

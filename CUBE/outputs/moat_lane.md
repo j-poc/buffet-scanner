@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CUBE
-*Generated: 2026-05-10 06:50 | Price: $40.46 | Mkt Cap: $9B*
+*Generated: 2026-05-11 07:58 | Price: $40.46 | Mkt Cap: $9B*
 
 ## Sector Context
 Real Estate / REIT - Industrial

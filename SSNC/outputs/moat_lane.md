@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SSNC
-*Generated: 2026-05-10 06:44 | Price: $68.76 | Mkt Cap: $17B*
+*Generated: 2026-05-11 07:56 | Price: $68.76 | Mkt Cap: $17B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (11.6% inst.) as insider
 

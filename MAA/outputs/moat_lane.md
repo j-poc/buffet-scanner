@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MAA
-*Generated: 2026-05-10 06:41 | Price: $129.31 | Mkt Cap: $15B*
+*Generated: 2026-05-11 07:53 | Price: $129.31 | Mkt Cap: $15B*
 
 ## Sector Context
 Real Estate / REIT - Residential

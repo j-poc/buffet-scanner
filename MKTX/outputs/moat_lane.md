@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MKTX
-*Generated: 2026-05-09 06:30 | Price: $147.53 | Mkt Cap: $5B*
+*Generated: 2026-05-11 08:04 | Price: $147.53 | Mkt Cap: $5B*
 
 ## Sector Context
 Financial Services / Capital Markets
@@ -22,7 +22,7 @@ Financial Services / Capital Markets
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.5/10 | 30% | 1.6 | ROE: 24.3% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 68% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 9.8% of shares (SBC concern) | - |
-| Moat | 8.5/10 | 25% | 2.1 | ROE 24% — strong franchise (Financial Services); Operating margin 43% — durable for Financial Services | - |
+| Moat | 8.5/10 | 25% | 2.1 | ROE 24% — strong franchise (Financial Services); Operating margin 44% — durable for Financial Services | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.2x — fair price; Near 52w low (2% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
 

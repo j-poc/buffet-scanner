@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NBIX
-*Generated: 2026-05-10 06:44 | Price: $152.25 | Mkt Cap: $15B*
+*Generated: 2026-05-11 07:56 | Price: $152.25 | Mkt Cap: $15B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - Specialty & Generic

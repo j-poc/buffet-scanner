@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CCL
-*Generated: 2026-05-10 06:38 | Price: $26.38 | Mkt Cap: $37B*
+*Generated: 2026-05-11 07:51 | Price: $26.38 | Mkt Cap: $37B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (6.8% inst.) as insider
 

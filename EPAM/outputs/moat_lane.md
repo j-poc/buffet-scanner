@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EPAM
-*Generated: 2026-05-10 06:39 | Price: $99.23 | Mkt Cap: $5B*
+*Generated: 2026-05-11 07:52 | Price: $99.23 | Mkt Cap: $5B*
 
 ## Sector Context
 Technology / Information Technology Services

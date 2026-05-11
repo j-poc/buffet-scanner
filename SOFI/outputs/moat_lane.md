@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SOFI
-*Generated: 2026-05-10 06:43 | Price: $15.75 | Mkt Cap: $20B*
+*Generated: 2026-05-11 08:03 | Price: $15.75 | Mkt Cap: $20B*
 
 ## Sector Context
 Financial Services / Credit Services

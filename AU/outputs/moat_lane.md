@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AU
-*Generated: 2026-05-10 06:50 | Price: $107.03 | Mkt Cap: $54B*
+*Generated: 2026-05-11 08:03 | Price: $107.03 | Mkt Cap: $54B*
 
 ## Sector Context
 Basic Materials / Gold
@@ -11,7 +11,7 @@ Basic Materials / Gold
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.4x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.3x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.2%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,10 +20,10 @@ Basic Materials / Gold
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.6/10 | 30% | 2.0 | Avg ROIC: 15.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 201% from prior peak; 5y price drawdown: 52% (moderate cyclicality); FCF/NI: 144% (strong); Gross margin: 49% (pricing power for Basic Materials) | - |
+| Quality | 6.6/10 | 30% | 2.0 | Avg ROIC: 15.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 201% from prior peak; 5y price drawdown: 52% (moderate cyclicality); FCF/NI: 144% (strong); Gross margin: 54% (pricing power for Basic Materials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
-| Moat | 9.5/10 | 25% | 2.4 | Gross margin 49% vs sector strong cutoff 30% — strong pricing power; Operating margin 48% — durable for Basic Materials; Rev growth 75% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.9x — deep value; 52w range position: 76%; Owner earnings yield: 4.8% | - |
+| Moat | 9.5/10 | 25% | 2.4 | Gross margin 54% vs sector strong cutoff 30% — strong pricing power; Operating margin 56% — durable for Basic Materials; Rev growth 65% — demand pull | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.0x — deep value; 52w range position: 76%; Owner earnings yield: 6.6% (>5%) | - |
 | **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
 
 ## Buffett Score: 7.4 / 10

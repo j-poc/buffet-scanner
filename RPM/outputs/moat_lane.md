@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RPM
-*Generated: 2026-05-10 06:44 | Price: $100.81 | Mkt Cap: $13B*
+*Generated: 2026-05-11 07:57 | Price: $100.81 | Mkt Cap: $13B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals

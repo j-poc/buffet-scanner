@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KRC
-*Generated: 2026-05-10 06:47 | Price: $34.9 | Mkt Cap: $4B*
+*Generated: 2026-05-11 08:00 | Price: $34.9 | Mkt Cap: $4B*
 
 ## Sector Context
 Real Estate / REIT - Office

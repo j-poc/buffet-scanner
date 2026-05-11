@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PLNT
-*Generated: 2026-05-10 06:47 | Price: $45.88 | Mkt Cap: $4B*
+*Generated: 2026-05-11 08:00 | Price: $45.88 | Mkt Cap: $4B*
 
 ## Sector Context
 Consumer Cyclical / Leisure

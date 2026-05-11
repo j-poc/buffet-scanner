@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ZM
-*Generated: 2026-05-10 06:50 | Price: $109.21 | Mkt Cap: $32B*
+*Generated: 2026-05-11 08:03 | Price: $109.21 | Mkt Cap: $32B*
 
 ## Sector Context
 Technology / Software - Application
@@ -21,12 +21,12 @@ Technology / Software - Application
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 6.1% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 86% (severe cyclicality); FCF/NI: 411% (strong); Gross margin: 77% (pricing power for Technology) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 2.2% (low) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 9.5% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 77% vs sector strong cutoff 60% — strong pricing power; Operating margin 21% | - |
 | Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.8x — fair price; Near 52w high (99% of range) — Mr. Market greedy; Owner earnings yield: 6.1% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
+| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
-## Buffett Score: 6.0 / 10
+## Buffett Score: 5.9 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

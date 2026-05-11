@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COLB
-*Generated: 2026-05-10 06:51 | Price: $30.04 | Mkt Cap: $9B*
+*Generated: 2026-05-11 07:58 | Price: $30.04 | Mkt Cap: $9B*
 
 ## Sector Context
 Financial Services / Banks - Regional

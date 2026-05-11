@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SNX
-*Generated: 2026-05-10 06:43 | Price: $239.07 | Mkt Cap: $19B*
+*Generated: 2026-05-11 08:03 | Price: $239.07 | Mkt Cap: $19B*
 
 ## Sector Context
 Technology / Electronics & Computer Distribution

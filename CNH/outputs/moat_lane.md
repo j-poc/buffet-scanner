@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CNH
-*Generated: 2026-05-10 06:50 | Price: $10.96 | Mkt Cap: $14B*
+*Generated: 2026-05-11 07:57 | Price: $10.96 | Mkt Cap: $14B*
 
 ## Sector Context
 Industrials / Farm & Heavy Construction Machinery

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SEB
-*Generated: 2026-05-08 06:12 | Price: $4527.19 | Mkt Cap: $4B*
+*Generated: 2026-05-11 08:01 | Price: $4540.14 | Mkt Cap: $4B*
 
 ## Sector Context
 Industrials / Conglomerates
@@ -36,7 +36,7 @@ Industrials / Conglomerates
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Conglomerates
-- **Margin of Safety**: 235% — PRESENT (IV $15144 vs $4527 at 25x)
+- **Margin of Safety**: 233% — PRESENT (IV $15141 vs $4540 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 74.6% insider ownership
 - **Mr. Market**: Neutral

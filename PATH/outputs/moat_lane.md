@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PATH
-*Generated: 2026-05-10 06:47 | Price: $10.79 | Mkt Cap: $6B*
+*Generated: 2026-05-11 08:00 | Price: $10.79 | Mkt Cap: $6B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (10.7% inst.) as insider
 

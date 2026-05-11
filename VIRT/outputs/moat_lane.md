@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VIRT
-*Generated: 2026-05-10 06:47 | Price: $51.31 | Mkt Cap: $11B*
+*Generated: 2026-05-11 08:00 | Price: $51.31 | Mkt Cap: $11B*
 
 > ⚠ DATA: yfinance misclassified FMR, LLC (5.6% inst.) as insider
 
@@ -23,7 +23,7 @@ Financial Services / Capital Markets
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.5/10 | 30% | 1.9 | ROE: 56.9% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 55% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 4.8% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 4.7% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | ROE 57% — strong franchise (Financial Services); Operating margin 47% — durable for Financial Services; Rev growth 30% — demand pull | - |
 | Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 8.8x — deep value; Near 52w high (96% of range) — Mr. Market greedy | - |
 | **TOTAL** | **7.0/10** | **100%** | **7.0** | | |

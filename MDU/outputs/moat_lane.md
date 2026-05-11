@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MDU
-*Generated: 2026-05-10 06:47 | Price: $22.49 | Mkt Cap: $5B*
+*Generated: 2026-05-11 07:59 | Price: $22.49 | Mkt Cap: $5B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Gas

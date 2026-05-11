@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SAM
-*Generated: 2026-05-08 06:12 | Price: $203.01 | Mkt Cap: $2B*
+*Generated: 2026-05-11 08:01 | Price: $197.34 | Mkt Cap: $2B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.7% inst.) as insider
 
@@ -25,7 +25,7 @@ Consumer Defensive / Beverages - Brewers
 | Quality | 4.7/10 | 30% | 1.4 | Avg ROIC: 11.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 84% (severe cyclicality); FCF/NI: 229% (strong); Gross margin: 49% (pricing power for Consumer Defensive) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 11.0% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 49% vs sector strong cutoff 45% — strong pricing power; Operating margin 5% — thin for Consumer Defensive | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 18.4x — fair price; Near 52w low (22% of range) — Mr. Market fearful; Owner earnings yield: 17.5% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 17.8x — fair price; Near 52w low (15% of range) — Mr. Market fearful; Owner earnings yield: 18.0% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
 ## Buffett Score: 6.2 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IR
-*Generated: 2026-05-10 06:40 | Price: $75.75 | Mkt Cap: $30B*
+*Generated: 2026-05-11 07:53 | Price: $75.75 | Mkt Cap: $30B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery

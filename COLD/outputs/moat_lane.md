@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COLD
-*Generated: 2026-05-10 06:47 | Price: $14.84 | Mkt Cap: $4B*
+*Generated: 2026-05-11 08:00 | Price: $14.84 | Mkt Cap: $4B*
 
 ## Sector Context
 Real Estate / REIT - Industrial

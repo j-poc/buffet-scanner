@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ASTS
-*Generated: 2026-05-10 06:44 | Price: $75.05 | Mkt Cap: $29B*
+*Generated: 2026-05-11 08:03 | Price: $75.05 | Mkt Cap: $29B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (7.2% inst.) as insider
 

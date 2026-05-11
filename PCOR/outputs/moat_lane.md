@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PCOR
-*Generated: 2026-05-08 06:10 | Price: $53.51 | Mkt Cap: $8B*
+*Generated: 2026-05-11 08:04 | Price: $53.28 | Mkt Cap: $8B*
 
 > ⚠ DATA: yfinance misclassified ICONIQ Capital, LLC (9.7% inst.) as insider
 
@@ -13,7 +13,7 @@ Technology / Software - Application
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Software - Application | 25% | -35% | YES |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.8x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.9x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -24,8 +24,8 @@ Technology / Software - Application
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: -11.2% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 62% (severe cyclicality); FCF/NI: -87% (weak conversion); Gross margin: 80% (pricing power for Technology) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 9.6% of shares (SBC concern) | - |
-| Moat | 7.5/10 | 25% | 1.9 | Gross margin 80% vs sector strong cutoff 60% — strong pricing power; Operating margin -3% — thin for Technology | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 25.2x — growth premium; Near 52w low (21% of range) — Mr. Market fearful; Owner earnings yield: 3.1%; Earnings yield < 4% — worse than bonds | - |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 80% vs sector strong cutoff 60% — strong pricing power; Operating margin -2% — thin for Technology | - |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 25.1x — growth premium; Near 52w low (20% of range) — Mr. Market fearful; Owner earnings yield: 3.1%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10

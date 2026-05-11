@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RGEN
-*Generated: 2026-05-08 06:10 | Price: $126.43 | Mkt Cap: $7B*
+*Generated: 2026-05-11 08:04 | Price: $123.46 | Mkt Cap: $7B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies
@@ -23,7 +23,7 @@ Healthcare / Medical Instruments & Supplies
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 3.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 114% from prior peak; 5y price drawdown: 66% (severe cyclicality); FCF/NI: -35% (weak conversion); Gross margin: 53% | ROIC declining |
 | Management | 6.5/10 | 25% | 1.6 | Insider ownership: 5.3%; Insider activity: 0B/0S last 6m; Restricted stock: 5.4% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 53% — moderate moat for Healthcare; Operating margin 9% — thin for Healthcare | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 49.5x — expensive; Near 52w low (26% of range) — Mr. Market fearful; Owner earnings yield: 1.0%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 48.4x — expensive; Near 52w low (21% of range) — Mr. Market fearful; Owner earnings yield: 1.0%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
 
 ## Buffett Score: 4.1 / 10
@@ -36,7 +36,7 @@ Healthcare / Medical Instruments & Supplies
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Instruments & Supplies
-- **Margin of Safety**: -82% — ABSENT ($126 > IV $23 at 25x for 25% growth)
+- **Margin of Safety**: -82% — ABSENT ($123 > IV $23 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Aligned — 5.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

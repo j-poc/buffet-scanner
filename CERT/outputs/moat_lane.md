@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CERT
-*Generated: 2026-05-09 06:37 | Price: $6.31 | Mkt Cap: $1B*
+*Generated: 2026-05-11 08:01 | Price: $6.31 | Mkt Cap: $1B*
 
 ## Sector Context
 Healthcare / Health Information Services

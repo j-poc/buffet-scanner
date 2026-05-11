@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VSNT
-*Generated: 2026-05-09 06:30 | Price: $41.14 | Mkt Cap: $6B*
+*Generated: 2026-05-11 08:04 | Price: $41.14 | Mkt Cap: $6B*
 
 ## Sector Context
 Communication Services / Entertainment

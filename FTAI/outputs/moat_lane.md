@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FTAI
-*Generated: 2026-05-10 06:50 | Price: $270.29 | Mkt Cap: $28B*
+*Generated: 2026-05-11 08:03 | Price: $270.29 | Mkt Cap: $28B*
 
 ## Sector Context
 Industrials / Aerospace & Defense

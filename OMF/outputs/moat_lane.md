@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OMF
-*Generated: 2026-05-09 06:30 | Price: $56.09 | Mkt Cap: $6B*
+*Generated: 2026-05-11 08:04 | Price: $56.09 | Mkt Cap: $6B*
 
 ## Sector Context
 Financial Services / Credit Services

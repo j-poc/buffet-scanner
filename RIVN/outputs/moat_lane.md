@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RIVN
-*Generated: 2026-05-10 06:44 | Price: $14.22 | Mkt Cap: $19B*
+*Generated: 2026-05-11 07:57 | Price: $14.22 | Mkt Cap: $19B*
 
 ## Sector Context
 Consumer Cyclical / Auto Manufacturers

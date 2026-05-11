@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LBTYA
-*Generated: 2026-05-08 06:11 | Price: $12.27 | Mkt Cap: $4B*
+*Generated: 2026-05-11 08:01 | Price: $12.15 | Mkt Cap: $4B*
 
 ## Sector Context
 Communication Services / Telecom Services
@@ -23,7 +23,7 @@ Communication Services / Telecom Services
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -6.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 550% from prior peak; 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 44% (weak conversion); Gross margin: 66% (pricing power for Communication Services) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: -56.3% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 66% vs sector strong cutoff 55% — strong pricing power; Operating margin 4% — thin for Communication Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -9.2x — deep value; 52w range position: 72% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -9.1x — deep value; 52w range position: 69% | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
 ## Buffett Score: 5.2 / 10

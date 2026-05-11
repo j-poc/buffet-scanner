@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AWI
-*Generated: 2026-05-10 06:51 | Price: $161.76 | Mkt Cap: $7B*
+*Generated: 2026-05-11 08:04 | Price: $161.76 | Mkt Cap: $7B*
 
 ## Sector Context
 Industrials / Building Products & Equipment

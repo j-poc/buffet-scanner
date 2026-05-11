@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ZS
-*Generated: 2026-05-10 06:44 | Price: $152.13 | Mkt Cap: $24B*
+*Generated: 2026-05-11 07:56 | Price: $152.13 | Mkt Cap: $24B*
 
 ## Sector Context
 Technology / Software - Infrastructure

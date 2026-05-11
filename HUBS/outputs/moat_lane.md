@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HUBS
-*Generated: 2026-05-10 06:44 | Price: $197.34 | Mkt Cap: $10B*
+*Generated: 2026-05-11 07:57 | Price: $197.34 | Mkt Cap: $10B*
 
 ## Sector Context
 Technology / Software - Application
@@ -11,7 +11,7 @@ Technology / Software - Application
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Software - Application | 25% | -35% | YES |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.5x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.8x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 3.6%; key-man / succession risk | 15% | -20% | No |
 
 ---

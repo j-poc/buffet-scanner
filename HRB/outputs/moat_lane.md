@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HRB
-*Generated: 2026-05-10 06:46 | Price: $36.96 | Mkt Cap: $5B*
+*Generated: 2026-05-11 08:05 | Price: $36.96 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Cyclical / Personal Services

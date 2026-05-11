@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CUZ
-*Generated: 2026-05-10 06:47 | Price: $26.76 | Mkt Cap: $4B*
+*Generated: 2026-05-11 08:00 | Price: $26.76 | Mkt Cap: $4B*
 
 ## Sector Context
 Real Estate / REIT - Office

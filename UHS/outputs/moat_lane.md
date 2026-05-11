@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UHS
-*Generated: 2026-05-10 06:50 | Price: $169.96 | Mkt Cap: $10B*
+*Generated: 2026-05-11 07:55 | Price: $169.96 | Mkt Cap: $10B*
 
 > ⚠ DATA: yfinance misclassified First Eagle Investment Management, LLC (8.0% inst.) as insider
 
@@ -23,7 +23,7 @@ Healthcare / Medical Care Facilities
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.3/10 | 30% | 1.3 | Avg ROIC: 10.3% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 66%; Gross margin: 44% | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.4% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.6% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 44% — moderate moat for Healthcare; Operating margin 11% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.7x — deep value; Near 52w low (19% of range) — Mr. Market fearful; Owner earnings yield: 6.3% (>5%) | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |

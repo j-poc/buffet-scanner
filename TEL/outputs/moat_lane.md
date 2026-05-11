@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TEL
-*Generated: 2026-05-10 06:49 | Price: $206.2 | Mkt Cap: $60B*
+*Generated: 2026-05-11 07:55 | Price: $206.2 | Mkt Cap: $60B*
 
 ## Sector Context
 Technology / Electronic Components

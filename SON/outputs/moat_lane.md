@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SON
-*Generated: 2026-05-10 06:46 | Price: $51.56 | Mkt Cap: $5B*
+*Generated: 2026-05-11 08:05 | Price: $51.56 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Cyclical / Packaging & Containers

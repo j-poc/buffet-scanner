@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CLH
-*Generated: 2026-05-10 06:44 | Price: $291.15 | Mkt Cap: $15B*
+*Generated: 2026-05-11 07:56 | Price: $291.15 | Mkt Cap: $15B*
 
 ## Sector Context
 Industrials / Waste Management

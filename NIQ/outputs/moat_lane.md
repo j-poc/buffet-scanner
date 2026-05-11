@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NIQ
-*Generated: 2026-05-09 06:37 | Price: $10.72 | Mkt Cap: $3B*
+*Generated: 2026-05-11 08:05 | Price: $10.72 | Mkt Cap: $3B*
 
 ## Sector Context
  / 

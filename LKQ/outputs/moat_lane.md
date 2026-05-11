@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LKQ
-*Generated: 2026-05-10 06:51 | Price: $28.89 | Mkt Cap: $7B*
+*Generated: 2026-05-11 08:04 | Price: $28.89 | Mkt Cap: $7B*
 
 ## Sector Context
 Consumer Cyclical / Auto Parts

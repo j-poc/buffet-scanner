@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RHI
-*Generated: 2026-05-10 06:47 | Price: $27.03 | Mkt Cap: $3B*
+*Generated: 2026-05-11 08:00 | Price: $27.03 | Mkt Cap: $3B*
 
 ## Sector Context
 Industrials / Staffing & Employment Services

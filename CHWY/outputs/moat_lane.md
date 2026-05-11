@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CHWY
-*Generated: 2026-05-10 06:46 | Price: $22.97 | Mkt Cap: $10B*
+*Generated: 2026-05-11 08:05 | Price: $22.97 | Mkt Cap: $10B*
 
 ## Sector Context
 Consumer Cyclical / Internet Retail

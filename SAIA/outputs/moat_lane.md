@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SAIA
-*Generated: 2026-05-10 06:44 | Price: $449.8 | Mkt Cap: $12B*
+*Generated: 2026-05-11 07:57 | Price: $449.8 | Mkt Cap: $12B*
 
 ## Sector Context
 Industrials / Trucking

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: USFD
-*Generated: 2026-05-10 06:43 | Price: $84.4 | Mkt Cap: $19B*
+*Generated: 2026-05-11 08:03 | Price: $84.4 | Mkt Cap: $19B*
 
 ## Sector Context
 Consumer Defensive / Food Distribution

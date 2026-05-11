@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HIW
-*Generated: 2026-05-10 06:47 | Price: $25.42 | Mkt Cap: $3B*
+*Generated: 2026-05-11 08:00 | Price: $25.42 | Mkt Cap: $3B*
 
 ## Sector Context
 Real Estate / REIT - Office

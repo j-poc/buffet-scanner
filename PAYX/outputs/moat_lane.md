@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PAYX
-*Generated: 2026-05-10 06:41 | Price: $93.93 | Mkt Cap: $34B*
+*Generated: 2026-05-11 07:54 | Price: $93.93 | Mkt Cap: $34B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (11.8% inst.) as insider
 

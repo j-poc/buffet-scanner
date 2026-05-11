@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RITM
-*Generated: 2026-05-10 06:46 | Price: $9.84 | Mkt Cap: $5B*
+*Generated: 2026-05-11 08:05 | Price: $9.84 | Mkt Cap: $5B*
 
 ## Sector Context
 Real Estate / REIT - Mortgage

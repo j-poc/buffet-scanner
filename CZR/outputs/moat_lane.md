@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CZR
-*Generated: 2026-05-10 06:46 | Price: $28.04 | Mkt Cap: $6B*
+*Generated: 2026-05-11 08:04 | Price: $28.04 | Mkt Cap: $6B*
 
 ## Sector Context
 Consumer Cyclical / Resorts & Casinos

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CLF
-*Generated: 2026-05-09 06:30 | Price: $11.02 | Mkt Cap: $6B*
+*Generated: 2026-05-11 08:04 | Price: $11.02 | Mkt Cap: $6B*
 
 ## Sector Context
 Basic Materials / Steel

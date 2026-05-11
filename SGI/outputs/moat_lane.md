@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SGI
-*Generated: 2026-05-10 06:44 | Price: $69.31 | Mkt Cap: $15B*
+*Generated: 2026-05-11 07:57 | Price: $69.31 | Mkt Cap: $15B*
 
 ## Sector Context
 Consumer Cyclical / Furnishings, Fixtures & Appliances

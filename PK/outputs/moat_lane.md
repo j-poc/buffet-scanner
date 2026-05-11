@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PK
-*Generated: 2026-05-08 06:11 | Price: $11.19 | Mkt Cap: $2B*
+*Generated: 2026-05-11 08:00 | Price: $11.32 | Mkt Cap: $2B*
 
 > ⚠ DATA: yfinance misclassified Donald Smith & Co., Inc. (7.3% inst.) as insider
 
@@ -23,13 +23,13 @@ Real Estate / REIT - Hotel & Motel
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 233% from prior peak; 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 108% (strong); Gross margin: 30% (below Real Estate norm) | ROIC declining |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.9% of shares (SBC concern) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 4.0% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 30% — below Real Estate moderate cutoff 35%; Operating margin 11% — thin for Real Estate | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 22.2x — growth premium; 52w range position: 53%; Owner earnings yield: 46.2% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **3.2/10** | **100%** | **3.2** | | |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 22.4x — growth premium; 52w range position: 58%; Owner earnings yield: 45.6% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **3.3/10** | **100%** | **3.3** | | |
 
-## Buffett Score: 3.2 / 10
-## Alpha Adjustment: -0.26
+## Buffett Score: 3.3 / 10
+## Alpha Adjustment: -0.25
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -50,7 +50,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.26 applied to composite alpha score
+Buffett Premium: -0.25 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

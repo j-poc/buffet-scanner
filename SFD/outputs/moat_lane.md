@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SFD
-*Generated: 2026-05-08 06:12 | Price: $26.08 | Mkt Cap: $10B*
+*Generated: 2026-05-11 08:01 | Price: $25.95 | Mkt Cap: $10B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods
@@ -23,7 +23,7 @@ Consumer Defensive / Packaged Foods
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 8.0% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 98% from prior peak; 5y price drawdown: 18% (stable); FCF/NI: 1045% (strong); Gross margin: 13% (below Consumer Defensive norm) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 88.3% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 88.3% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 13% — below Consumer Defensive moderate cutoff 30%; Operating margin 9% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.0x — deep value; 52w range position: 57%; Owner earnings yield: 6.1% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.0x — deep value; 52w range position: 56%; Owner earnings yield: 6.2% (>5%) | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

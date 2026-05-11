@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RGLD
-*Generated: 2026-05-10 06:43 | Price: $238.91 | Mkt Cap: $20B*
+*Generated: 2026-05-11 08:03 | Price: $239.03 | Mkt Cap: $20B*
 
 ## Sector Context
 Basic Materials / Gold
@@ -36,7 +36,7 @@ Basic Materials / Gold
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Gold
-- **Margin of Safety**: -13% — ABSENT ($239 > IV $207 at 25x for 25% growth)
+- **Margin of Safety**: -14% — ABSENT ($239 > IV $207 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

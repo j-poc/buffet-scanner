@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TIGO
-*Generated: 2026-05-10 06:51 | Price: $80.43 | Mkt Cap: $13B*
+*Generated: 2026-05-11 07:58 | Price: $80.43 | Mkt Cap: $13B*
 
 ## Sector Context
 Communication Services / Telecom Services
@@ -23,11 +23,11 @@ Communication Services / Telecom Services
 | Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 9.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 146% from prior peak; 5y price drawdown: 77% (severe cyclicality); FCF/NI: 118% (strong); Gross margin: 77% (pricing power for Communication Services) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 44.2% (>10%); No insider transaction data; Restricted stock: 44.8% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 77% vs sector strong cutoff 55% — strong pricing power; Operating margin 26% — durable for Communication Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.5x — deep value; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 10.3% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.1x — fair price; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 10.3% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **7.1/10** | **100%** | **7.1** | | |
 
-## Buffett Score: 7.4 / 10
-## Alpha Adjustment: +0.24
+## Buffett Score: 7.1 / 10
+## Alpha Adjustment: +0.21
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -48,7 +48,7 @@ No (2 forces only: strong moat, attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.24 applied to composite alpha score
+Buffett Premium: +0.21 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

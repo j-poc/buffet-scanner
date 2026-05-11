@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UWMC
-*Generated: 2026-05-09 06:37 | Price: $3.38 | Mkt Cap: $6B*
+*Generated: 2026-05-11 08:05 | Price: $3.38 | Mkt Cap: $6B*
 
 ## Sector Context
 Financial Services / Mortgage Finance

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DKNG
-*Generated: 2026-05-10 06:44 | Price: $25.52 | Mkt Cap: $13B*
+*Generated: 2026-05-11 07:57 | Price: $25.52 | Mkt Cap: $13B*
 
 ## Sector Context
 Consumer Cyclical / Gambling

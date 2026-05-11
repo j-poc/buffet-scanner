@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LOPE
-*Generated: 2026-05-10 06:47 | Price: $166.09 | Mkt Cap: $4B*
+*Generated: 2026-05-11 08:00 | Price: $166.09 | Mkt Cap: $4B*
 
 ## Sector Context
 Consumer Defensive / Education & Training Services

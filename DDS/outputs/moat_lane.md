@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DDS
-*Generated: 2026-05-08 06:12 | Price: $553.46 | Mkt Cap: $9B*
+*Generated: 2026-05-11 08:01 | Price: $563.25 | Mkt Cap: $9B*
 
 ## Sector Context
 Consumer Cyclical / Department Stores
@@ -23,7 +23,7 @@ Consumer Cyclical / Department Stores
 | Quality | 3.0/10 | 30% | 0.9 | ROIC declining trend; Avg ROIC: 32.1% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 36% from prior peak; 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 102% (strong); Gross margin: 40% (thin by design for Department Stores) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 32.7% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 37.0% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | ROA 12% / ROE 32% — scale moat (Department Stores); Operating margin 10% | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 17.0x — fair price; 52w range position: 51%; Owner earnings yield: 5.4% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 17.3x — fair price; 52w range position: 51%; Owner earnings yield: 5.3% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
 
 ## Buffett Score: 6.9 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Department Stores
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Department Stores
-- **Margin of Safety**: -1% — ABSENT ($553 > IV $546 at 15x for -3% growth)
+- **Margin of Safety**: -3% — ABSENT ($563 > IV $547 at 15x for -3% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 32.7% insider ownership
 - **Mr. Market**: Neutral

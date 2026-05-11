@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VNO
-*Generated: 2026-05-10 06:46 | Price: $32.16 | Mkt Cap: $7B*
+*Generated: 2026-05-11 08:04 | Price: $32.16 | Mkt Cap: $7B*
 
 > ⚠ DATA: yfinance misclassified NORGES BANK (9.3% inst.) as insider
 

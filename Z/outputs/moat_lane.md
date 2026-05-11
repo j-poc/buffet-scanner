@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: Z
-*Generated: 2026-05-10 06:51 | Price: $41.43 | Mkt Cap: $9B*
+*Generated: 2026-05-11 08:04 | Price: $41.43 | Mkt Cap: $9B*
 
 > ⚠ DATA: yfinance misclassified Independent Franchise Partners, LLP (6.1% inst.) as insider
 

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HALO
-*Generated: 2026-05-10 06:51 | Price: $64.12 | Mkt Cap: $8B*
+*Generated: 2026-05-11 08:04 | Price: $64.12 | Mkt Cap: $8B*
 
 ## Sector Context
 Healthcare / Biotechnology

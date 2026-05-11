@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IPGP
-*Generated: 2026-05-08 06:11 | Price: $101.53 | Mkt Cap: $4B*
+*Generated: 2026-05-11 08:00 | Price: $104.49 | Mkt Cap: $4B*
 
 ## Sector Context
 Technology / Semiconductor Equipment & Materials
@@ -11,7 +11,7 @@ Technology / Semiconductor Equipment & Materials
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Semiconductor Equipment & Materials | 25% | -35% | YES |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.2x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 39.6%; key-man / succession risk | 8% | -15% | No |
 
 ---
@@ -23,7 +23,7 @@ Technology / Semiconductor Equipment & Materials
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 4.2% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 183% from prior peak; 5y price drawdown: 77% (severe cyclicality); FCF/NI: 21% (weak conversion); Gross margin: 38% (below Technology norm) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 39.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 35.4% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 38% — below Technology moderate cutoff 40%; Operating margin 2% — thin for Technology | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 39.9x — expensive; 52w range position: 44%; Owner earnings yield: 0.1%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 45.6x — expensive; 52w range position: 45%; Owner earnings yield: 0.0%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.7/10** | **100%** | **3.7** | | |
 
 ## Buffett Score: 3.7 / 10
@@ -36,7 +36,7 @@ Technology / Semiconductor Equipment & Materials
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductor Equipment & Materials
-- **Margin of Safety**: -90% — ABSENT ($102 > IV $10 at 15x for -57% growth)
+- **Margin of Safety**: -90% — ABSENT ($104 > IV $10 at 15x for -57% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Aligned — 39.6% insider ownership
 - **Mr. Market**: Neutral

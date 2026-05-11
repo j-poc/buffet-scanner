@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LOAR
-*Generated: 2026-05-08 06:11 | Price: $60.1 | Mkt Cap: $6B*
+*Generated: 2026-05-11 08:00 | Price: $59.8 | Mkt Cap: $6B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -11,7 +11,7 @@ Industrials / Aerospace & Defense
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 5.1x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 5.0x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 19.4%; key-man / succession risk | 8% | -15% | No |
 
 ---
@@ -20,10 +20,10 @@ Industrials / Aerospace & Defense
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.0/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 5.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 46% (moderate cyclicality); FCF/NI: 29% (weak conversion); Gross margin: 53% (pricing power for Industrials) | ROIC declining |
+| Quality | 1.0/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 5.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 46% (moderate cyclicality); FCF/NI: 29% (weak conversion); Gross margin: 54% (pricing power for Industrials) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 19.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 57.4% of shares (SBC concern) | - |
-| Moat | 9.5/10 | 25% | 2.4 | Gross margin 53% vs sector strong cutoff 35% — strong pricing power; Operating margin 22% — durable for Industrials; Rev growth 36% — demand pull | - |
-| Valuation Fit | 3.0/10 | 20% | 0.6 | P/E 57.0x — extreme premium; Near 52w low (15% of range) — Mr. Market fearful; Owner earnings yield: 1.2%; Earnings yield < 4% — worse than bonds | Expensive |
+| Moat | 9.5/10 | 25% | 2.4 | Gross margin 54% vs sector strong cutoff 35% — strong pricing power; Operating margin 26% — durable for Industrials; Rev growth 36% — demand pull | - |
+| Valuation Fit | 3.0/10 | 20% | 0.6 | P/E 56.7x — extreme premium; Near 52w low (14% of range) — Mr. Market fearful; Owner earnings yield: 1.3%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
 ## Buffett Score: 5.4 / 10

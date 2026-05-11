@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MTN
-*Generated: 2026-05-10 06:47 | Price: $125.42 | Mkt Cap: $4B*
+*Generated: 2026-05-11 08:00 | Price: $125.42 | Mkt Cap: $4B*
 
 ## Sector Context
 Consumer Cyclical / Resorts & Casinos

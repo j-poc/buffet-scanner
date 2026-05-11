@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SNPS
-*Generated: 2026-05-10 06:42 | Price: $516.48 | Mkt Cap: $99B*
+*Generated: 2026-05-11 07:55 | Price: $516.48 | Mkt Cap: $99B*
 
 ## Sector Context
 Technology / Software - Infrastructure

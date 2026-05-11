@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MASI
-*Generated: 2026-05-10 06:51 | Price: $178.31 | Mkt Cap: $9B*
+*Generated: 2026-05-11 07:58 | Price: $178.31 | Mkt Cap: $9B*
 
 ## Sector Context
 Healthcare / Medical Devices

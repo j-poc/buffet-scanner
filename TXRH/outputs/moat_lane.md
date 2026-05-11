@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TXRH
-*Generated: 2026-05-10 06:44 | Price: $177.38 | Mkt Cap: $12B*
+*Generated: 2026-05-11 07:57 | Price: $177.4 | Mkt Cap: $12B*
 
 ## Sector Context
 Consumer Cyclical / Restaurants

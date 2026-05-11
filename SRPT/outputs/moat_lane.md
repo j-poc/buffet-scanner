@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SRPT
-*Generated: 2026-05-08 06:11 | Price: $20.8 | Mkt Cap: $2B*
+*Generated: 2026-05-11 08:01 | Price: $19.955 | Mkt Cap: $2B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -11,7 +11,7 @@ Healthcare / Biotechnology
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Biotechnology | 25% | -35% | YES |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: -1.7x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 22.7x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 4.1%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -20,13 +20,13 @@ Healthcare / Biotechnology
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -15.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 403% from prior peak; 5y price drawdown: 93% (severe cyclicality); FCF/NI: 14% (weak conversion); Gross margin: -7% (below Healthcare norm) | ROIC declining |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 4.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 12.0% of shares (SBC concern) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin -7% — below Healthcare moderate cutoff 35%; Operating margin -93% — thin for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.6x — deep value; 52w range position: 31%; Owner earnings yield: 4.4% | - |
-| **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -15.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 403% from prior peak; 5y price drawdown: 93% (severe cyclicality); FCF/NI: 14% (weak conversion); Gross margin: -6% (below Healthcare norm) | ROIC declining |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 4.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 11.5% of shares (SBC concern) | - |
+| Moat | 5.0/10 | 25% | 1.2 | Gross margin -6% — below Healthcare moderate cutoff 35%; Operating margin 49% — durable for Healthcare | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.8x — deep value; Near 52w low (28% of range) — Mr. Market fearful; Owner earnings yield: 9.7% (>5%) | - |
+| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
-## Buffett Score: 4.1 / 10
+## Buffett Score: 4.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Healthcare / Biotechnology
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Biotechnology
-- **Margin of Safety**: -75% — ABSENT ($21 > IV $5 at 15x for -33% growth)
+- **Margin of Safety**: -74% — ABSENT ($20 > IV $5 at 15x for -2% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 4.1% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

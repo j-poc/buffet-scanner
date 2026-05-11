@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: XPO
-*Generated: 2026-05-10 06:50 | Price: $204.5 | Mkt Cap: $24B*
+*Generated: 2026-05-11 08:03 | Price: $204.5 | Mkt Cap: $24B*
 
 ## Sector Context
 Industrials / Trucking

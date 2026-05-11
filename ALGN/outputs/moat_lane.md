@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALGN
-*Generated: 2026-05-10 06:38 | Price: $168.78 | Mkt Cap: $12B*
+*Generated: 2026-05-11 07:50 | Price: $168.78 | Mkt Cap: $12B*
 
 > ⚠ DATA: yfinance misclassified Capital International Investors (6.5% inst.) as insider
 

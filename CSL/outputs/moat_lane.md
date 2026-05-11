@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CSL
-*Generated: 2026-05-10 06:44 | Price: $360.39 | Mkt Cap: $15B*
+*Generated: 2026-05-11 07:56 | Price: $360.39 | Mkt Cap: $15B*
 
 ## Sector Context
 Industrials / Building Products & Equipment

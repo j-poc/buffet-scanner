@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LLYVA
-*Generated: 2026-05-08 06:12 | Price: $95.39 | Mkt Cap: $9B*
+*Generated: 2026-05-11 08:01 | Price: $93.59 | Mkt Cap: $9B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -11,7 +11,7 @@ Communication Services / Entertainment
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: -65.1x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: -73.5x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 23.7%; key-man / succession risk | 8% | -15% | No |
 
 ---
@@ -20,10 +20,10 @@ Communication Services / Entertainment
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: -7.3% (3y); Earnings: 2/2 up-years (monotonic); 5y price drawdown: 24% (stable); FCF/NI: 22% (weak conversion); Gross margin: 19% (below Communication Services norm) | - |
-| Management | 9.0/10 | 25% | 2.2 | Insider ownership: 23.7% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: -87.5% (low) | - |
-| Moat | 4.0/10 | 25% | 1.0 | Gross margin 19% — below Communication Services moderate cutoff 40%; Operating margin -11% — thin for Communication Services; Rev growth 29% — demand pull | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 51.3x — extreme premium; 52w range position: 85%; Owner earnings yield: 0.1%; Earnings yield < 4% — worse than bonds | Expensive |
+| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: -7.3% (3y); Earnings: 2/2 up-years (monotonic); 5y price drawdown: 24% (stable); FCF/NI: 22% (weak conversion); Gross margin: 20% (below Communication Services norm) | - |
+| Management | 9.0/10 | 25% | 2.2 | Insider ownership: 23.7% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: -87.8% (low) | - |
+| Moat | 4.0/10 | 25% | 1.0 | Gross margin 20% — below Communication Services moderate cutoff 40%; Operating margin -26% — thin for Communication Services; Rev growth 35% — demand pull | - |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 50.3x — extreme premium; 52w range position: 79%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
 ## Buffett Score: 4.5 / 10

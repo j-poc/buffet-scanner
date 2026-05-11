@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UHAL
-*Generated: 2026-05-09 06:37 | Price: $52.82 | Mkt Cap: $10B*
+*Generated: 2026-05-11 08:05 | Price: $52.82 | Mkt Cap: $10B*
 
 ## Sector Context
 Industrials / Rental & Leasing Services
