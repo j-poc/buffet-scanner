@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FLUT
-*Generated: 2026-05-11 08:04 | Price: $101.19 | Mkt Cap: $18B*
+*Generated: 2026-05-12 06:47 | Price: $93.96 | Mkt Cap: $16B*
 
 ## Sector Context
 Consumer Cyclical / Gambling
@@ -20,10 +20,10 @@ Consumer Cyclical / Gambling
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: 0.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 449% from prior peak; 5y price drawdown: 68% (severe cyclicality); FCF/NI: 132% (strong); Gross margin: 44% | - |
+| Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: 0.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 449% from prior peak; 5y price drawdown: 70% (severe cyclicality); FCF/NI: 132% (strong); Gross margin: 44% | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 18.9% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 25.2% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 44% — moderate moat for Consumer Cyclical; Operating margin 2% — thin for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.6x — deep value; Near 52w low (2% of range) — Mr. Market fearful | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.8x — deep value; Near 52w low (0% of range) — Mr. Market fearful | - |
 | **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
 ## Buffett Score: 5.6 / 10

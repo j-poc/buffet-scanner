@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ACM
-*Generated: 2026-05-11 07:57 | Price: $80.59 | Mkt Cap: $10B*
+*Generated: 2026-05-12 06:48 | Price: $79.5 | Mkt Cap: $10B*
 
 ## Sector Context
 Industrials / Engineering & Construction
@@ -20,13 +20,13 @@ Industrials / Engineering & Construction
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.6/10 | 30% | 1.4 | Avg ROIC: 12.4% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 82% from prior peak; 5y price drawdown: 40% (stable); FCF/NI: 388% (strong); Gross margin: 8% (below Industrials norm) | - |
+| Quality | 4.1/10 | 30% | 1.2 | Avg ROIC: 12.4% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 82% from prior peak; 5y price drawdown: 40% (moderate cyclicality); FCF/NI: 388% (strong); Gross margin: 8% (below Industrials norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 8% — below Industrials moderate cutoff 22%; Operating margin 6% — thin for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.2x — deep value; Near 52w low (3% of range) — Mr. Market fearful; Owner earnings yield: 6.0% (>5%) | - |
-| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.0x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 6.1% (>5%) | - |
+| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
-## Buffett Score: 5.3 / 10
+## Buffett Score: 5.1 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Industrials / Engineering & Construction
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Engineering & Construction
-- **Margin of Safety**: -16% — ABSENT ($81 > IV $68 at 15x for -55% growth)
+- **Margin of Safety**: -15% — ABSENT ($80 > IV $68 at 15x for -55% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

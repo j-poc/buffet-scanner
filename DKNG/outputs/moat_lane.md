@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DKNG
-*Generated: 2026-05-11 07:57 | Price: $25.52 | Mkt Cap: $13B*
+*Generated: 2026-05-12 06:47 | Price: $24.51 | Mkt Cap: $12B*
 
 ## Sector Context
 Consumer Cyclical / Gambling
@@ -20,10 +20,10 @@ Consumer Cyclical / Gambling
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: -23.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 84% (severe cyclicality); FCF/NI: 3428% (strong); Gross margin: 75% (pricing power for Consumer Cyclical) | - |
+| Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: -23.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 84% (severe cyclicality); FCF/NI: 3428% (strong); Gross margin: 77% (pricing power for Consumer Cyclical) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.9% (low) | - |
-| Moat | 7.5/10 | 25% | 1.9 | Gross margin 75% vs sector strong cutoff 45% — strong pricing power; Operating margin 0% — thin for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.6x — deep value; Near 52w low (18% of range) — Mr. Market fearful; Owner earnings yield: 4.8%; Earnings yield < 7% — tight vs index | - |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 77% vs sector strong cutoff 45% — strong pricing power; Operating margin 0% — thin for Consumer Cyclical | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.8x — deep value; Near 52w low (14% of range) — Mr. Market fearful; Owner earnings yield: 5.0% | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Gambling
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Gambling
-- **Margin of Safety**: Cannot calculate (no positive EPS)
+- **Margin of Safety**: -93% — ABSENT ($25 > IV $2 at 20x for 17% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 2.9% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

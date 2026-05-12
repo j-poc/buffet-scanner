@@ -1,7 +1,7 @@
 # Buffett/Munger Moat Lane: AMH
-*Generated: 2026-05-11 07:57 | Price: $32.03 | Mkt Cap: $12B*
+*Generated: 2026-05-12 06:48 | Price: $32.05 | Mkt Cap: $12B*
 
-> ⚠ DATA: yfinance misclassified NORGES BANK (6.1% inst.) as insider
+> ⚠ DATA: yfinance misclassified Vanguard Portfolio Management LLC (8.0% inst.) as insider
 
 ## Sector Context
 Real Estate / REIT - Residential
@@ -25,7 +25,7 @@ Real Estate / REIT - Residential
 | Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 4.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 32% (stable); FCF/NI: 171% (strong); Gross margin: 56% (pricing power for Real Estate) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 14.1% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 56% vs sector strong cutoff 55% — strong pricing power; Operating margin 25% | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 48.9x — expensive; 52w range position: 41%; Owner earnings yield: 6.4% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 49.0x — expensive; 52w range position: 42%; Owner earnings yield: 6.4% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
 ## Buffett Score: 5.6 / 10

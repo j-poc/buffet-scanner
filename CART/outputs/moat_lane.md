@@ -1,7 +1,7 @@
 # Buffett/Munger Moat Lane: CART
-*Generated: 2026-05-11 08:04 | Price: $40.35 | Mkt Cap: $9B*
+*Generated: 2026-05-12 06:55 | Price: $40.41 | Mkt Cap: $9B*
 
-> ⚠ DATA: yfinance misclassified Sc Us (ttgp), Ltd. (11.8% inst.) as insider
+> ⚠ DATA: yfinance misclassified Sc Us (ttgp), Ltd. (11.9% inst.) as insider
 
 ## Sector Context
 Consumer Cyclical / Internet Retail
@@ -38,7 +38,7 @@ Consumer Cyclical / Internet Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Internet Retail
-- **Margin of Safety**: 12% — thin (IV $45 at 25x)
+- **Margin of Safety**: 11% — thin (IV $45 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

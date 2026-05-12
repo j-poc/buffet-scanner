@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ENPH
-*Generated: 2026-05-11 08:05 | Price: $36.45 | Mkt Cap: $5B*
+*Generated: 2026-05-12 06:50 | Price: $37.65 | Mkt Cap: $5B*
 
 ## Sector Context
 Technology / Solar
@@ -23,10 +23,10 @@ Technology / Solar
 | Quality | 0.8/10 | 30% | 0.2 | ROIC declining trend; Avg ROIC: 11.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 77% from prior peak; 5y price drawdown: 92% (severe cyclicality); FCF/NI: 208% (strong); Gross margin: 27% (below Technology norm) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.0% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 27% — below Technology moderate cutoff 40%; Operating margin -9% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.9x — deep value; 52w range position: 37%; Owner earnings yield: 1.9%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.4x — fair price; 52w range position: 44%; Owner earnings yield: 1.8%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
-## Buffett Score: 4.5 / 10
+## Buffett Score: 4.2 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Technology / Solar
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Solar
-- **Margin of Safety**: -58% — ABSENT ($36 > IV $15 at 15x for -21% growth)
+- **Margin of Safety**: -60% — ABSENT ($38 > IV $15 at 15x for -21% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 3.0% insider ownership
 - **Mr. Market**: Neutral

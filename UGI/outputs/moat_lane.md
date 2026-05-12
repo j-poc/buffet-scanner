@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UGI
-*Generated: 2026-05-11 08:04 | Price: $32.32 | Mkt Cap: $7B*
+*Generated: 2026-05-12 06:55 | Price: $32.45 | Mkt Cap: $7B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Gas
@@ -11,7 +11,7 @@ Utilities / Utilities - Regulated Gas
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.2x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.1x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.1%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,10 +20,10 @@ Utilities / Utilities - Regulated Gas
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.5/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 3.2% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 240% from prior peak; 5y price drawdown: 54% (moderate cyclicality); FCF/NI: 46% (weak conversion); Gross margin: 50% (pricing power for Utilities) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 50% vs sector strong cutoff 40% — strong pricing power; Operating margin 31% — durable for Utilities | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.7x — deep value; Near 52w low (7% of range) — Mr. Market fearful | - |
+| Quality | 0.5/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 3.2% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 240% from prior peak; 5y price drawdown: 54% (moderate cyclicality); FCF/NI: 46% (weak conversion); Gross margin: 51% (pricing power for Utilities) | ROIC declining |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 51% vs sector strong cutoff 40% — strong pricing power; Operating margin 30% — durable for Utilities | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.7x — deep value; Near 52w low (9% of range) — Mr. Market fearful; Owner earnings yield: 0.7% | - |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
 ## Buffett Score: 5.4 / 10

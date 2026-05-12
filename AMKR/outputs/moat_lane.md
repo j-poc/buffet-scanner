@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMKR
-*Generated: 2026-05-11 07:57 | Price: $76.61 | Mkt Cap: $19B*
+*Generated: 2026-05-12 06:54 | Price: $76.69 | Mkt Cap: $19B*
 
 ## Sector Context
 Technology / Semiconductor Equipment & Materials

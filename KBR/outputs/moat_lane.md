@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KBR
-*Generated: 2026-05-11 08:00 | Price: $32.54 | Mkt Cap: $4B*
+*Generated: 2026-05-12 06:50 | Price: $32.47 | Mkt Cap: $4B*
 
 ## Sector Context
 Industrials / Engineering & Construction
@@ -36,7 +36,7 @@ Industrials / Engineering & Construction
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Engineering & Construction
-- **Margin of Safety**: 56% — PRESENT (IV $51 vs $33 at 15x)
+- **Margin of Safety**: 57% — PRESENT (IV $51 vs $32 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

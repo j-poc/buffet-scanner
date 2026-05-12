@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ACI
-*Generated: 2026-05-11 08:05 | Price: $16.02 | Mkt Cap: $8B*
+*Generated: 2026-05-12 06:50 | Price: $15.92 | Mkt Cap: $8B*
 
 ## Sector Context
 Consumer Defensive / Grocery Stores
@@ -23,7 +23,7 @@ Consumer Defensive / Grocery Stores
 | Quality | 1.3/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 13.0% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 86% from prior peak; 5y price drawdown: 36% (stable); FCF/NI: 104% (strong); Gross margin: 27% (thin by design for Grocery Stores) | ROIC declining |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 32.4% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | ROA 4% / ROE 8% — weak for Grocery Stores; Operating margin 2% — thin for Consumer Defensive | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.5x — deep value; Near 52w low (3% of range) — Mr. Market fearful; Owner earnings yield: 19.3% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.5x — deep value; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 19.4% (>5%) | - |
 | **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
 ## Buffett Score: 4.6 / 10
@@ -36,7 +36,7 @@ Consumer Defensive / Grocery Stores
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Grocery Stores
-- **Margin of Safety**: -58% — ABSENT ($16 > IV $7 at 17x for 8% growth)
+- **Margin of Safety**: -57% — ABSENT ($16 > IV $7 at 17x for 8% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.6% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

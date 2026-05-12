@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WPC
-*Generated: 2026-05-11 08:04 | Price: $74.1 | Mkt Cap: $17B*
+*Generated: 2026-05-12 06:47 | Price: $74.05 | Mkt Cap: $16B*
 
 ## Sector Context
 Real Estate / REIT - Diversified

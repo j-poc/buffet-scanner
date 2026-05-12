@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SSD
-*Generated: 2026-05-11 07:58 | Price: $188.61 | Mkt Cap: $8B*
+*Generated: 2026-05-12 06:54 | Price: $185.62 | Mkt Cap: $8B*
 
 ## Sector Context
 Basic Materials / Lumber & Wood Production
@@ -23,7 +23,7 @@ Basic Materials / Lumber & Wood Production
 | Quality | 5.2/10 | 30% | 1.6 | ROIC declining trend; Avg ROIC: 16.6% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 83% (strong); Gross margin: 46% (pricing power for Basic Materials) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 46% vs sector strong cutoff 30% — strong pricing power; Operating margin 20% — durable for Basic Materials | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.1x — fair price; 52w range position: 61%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.8x — fair price; 52w range position: 57%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
 ## Buffett Score: 6.5 / 10
@@ -36,7 +36,7 @@ Basic Materials / Lumber & Wood Production
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Lumber & Wood Production
-- **Margin of Safety**: -10% — ABSENT ($189 > IV $171 at 20x for 15% growth)
+- **Margin of Safety**: -8% — ABSENT ($186 > IV $170 at 20x for 15% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral

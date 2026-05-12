@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MLI
-*Generated: 2026-05-11 07:56 | Price: $140.83 | Mkt Cap: $16B*
+*Generated: 2026-05-12 06:47 | Price: $140.71 | Mkt Cap: $16B*
 
 ## Sector Context
 Industrials / Metal Fabrication
@@ -36,7 +36,7 @@ Industrials / Metal Fabrication
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Metal Fabrication
-- **Margin of Safety**: 35% — PRESENT (IV $191 vs $141 at 25x)
+- **Margin of Safety**: 36% — PRESENT (IV $191 vs $141 at 25x)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 2.1% insider ownership
 - **Mr. Market**: Greedy — exercise caution

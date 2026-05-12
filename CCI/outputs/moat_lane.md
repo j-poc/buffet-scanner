@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CCI
-*Generated: 2026-05-11 07:51 | Price: $90.57 | Mkt Cap: $40B*
+*Generated: 2026-05-12 06:43 | Price: $90.67 | Mkt Cap: $40B*
 
 ## Sector Context
 Real Estate / REIT - Specialty

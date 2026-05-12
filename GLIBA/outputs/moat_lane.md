@@ -1,7 +1,5 @@
 # Buffett/Munger Moat Lane: GLIBA
-*Generated: 2026-05-11 08:05 | Price: $26.77 | Mkt Cap: $1B*
-
-> ⚠ DATA: yfinance misclassified Vanguard Group Inc (10.8% inst.) as insider
+*Generated: 2026-05-12 06:56 | Price: $28.71 | Mkt Cap: $1B*
 
 ## Sector Context
 Communication Services / Telecom Services
@@ -14,7 +12,7 @@ Communication Services / Telecom Services
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.9x | 15% | -25% | No |
-| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
+| 3 | Management / Governance Failure | Insider ownership 9.5%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -23,12 +21,12 @@ Communication Services / Telecom Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -0.6% (3y); Earnings: 1 down-year in 2 transitions; NI drawdown: 541% from prior peak; 5y price drawdown: 33% (stable); FCF/NI: 46% (weak conversion); Gross margin: 50% | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -907.9% (low) | - |
+| Management | 7.0/10 | 25% | 1.8 | Insider ownership: 9.5%; Insider activity: 0B/0S last 6m; Restricted stock: -907.9% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 50% — moderate moat for Communication Services; Operating margin 13% — thin for Communication Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.7x — deep value; Near 52w low (5% of range) — Mr. Market fearful; Owner earnings yield: 10.8% (>5%) | - |
-| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.1x — deep value; Near 52w low (17% of range) — Mr. Market fearful; Owner earnings yield: 10.1% (>5%) | - |
+| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
-## Buffett Score: 4.5 / 10
+## Buffett Score: 5.2 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -40,7 +38,7 @@ Communication Services / Telecom Services
 - **Circle of Competence**: Communication Services / Telecom Services
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
-- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
+- **Incentive-Caused Bias**: Aligned — 9.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check

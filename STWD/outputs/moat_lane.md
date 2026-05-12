@@ -1,5 +1,7 @@
 # Buffett/Munger Moat Lane: STWD
-*Generated: 2026-05-11 08:04 | Price: $17.75 | Mkt Cap: $7B*
+*Generated: 2026-05-12 06:49 | Price: $17.23 | Mkt Cap: $7B*
+
+> ⚠ DATA: yfinance misclassified Vanguard Capital Management LLC (4.2% inst.) as insider
 
 ## Sector Context
 Real Estate / REIT - Mortgage
@@ -12,7 +14,7 @@ Real Estate / REIT - Mortgage
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 5.8%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -21,13 +23,13 @@ Real Estate / REIT - Mortgage
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.5/10 | 30% | 1.9 | Fallback ROE: 5.3%; Earnings: 1 down-year in 3 transitions; NI drawdown: 61% from prior peak; 5y price drawdown: 30% (stable); FCF/NI: 129% (strong); Gross margin: 88% (pricing power for Real Estate) | - |
-| Management | 7.0/10 | 25% | 1.8 | Insider ownership: 5.8%; Insider activity: 0B/0S last 6m; Restricted stock: 4.8% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 4.8% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 88% vs sector strong cutoff 55% — strong pricing power; Operating margin 17%; Rev growth 22% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.1x — deep value; Near 52w low (20% of range) — Mr. Market fearful | - |
-| **TOTAL** | **7.8/10** | **100%** | **7.8** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.9x — deep value; Near 52w low (8% of range) — Mr. Market fearful | - |
+| **TOTAL** | **7.1/10** | **100%** | **7.1** | | |
 
-## Buffett Score: 7.8 / 10
-## Alpha Adjustment: +0.28
+## Buffett Score: 7.1 / 10
+## Alpha Adjustment: +0.21
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,9 +38,9 @@ Real Estate / REIT - Mortgage
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Mortgage
-- **Margin of Safety**: -20% — ABSENT ($18 > IV $14 at 15x for -60% growth)
+- **Margin of Safety**: -17% — ABSENT ($17 > IV $14 at 15x for -60% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
-- **Incentive-Caused Bias**: Aligned — 5.8% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
@@ -48,7 +50,7 @@ YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.28 applied to composite alpha score
+Buffett Premium: +0.21 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

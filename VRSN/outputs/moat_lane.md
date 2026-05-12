@@ -1,7 +1,7 @@
 # Buffett/Munger Moat Lane: VRSN
-*Generated: 2026-05-11 08:02 | Price: $288.21 | Mkt Cap: $26B*
+*Generated: 2026-05-12 06:53 | Price: $286.47 | Mkt Cap: $26B*
 
-> ⚠ DATA: yfinance misclassified Vanguard Group Inc (12.5% inst.) as insider
+> ⚠ DATA: yfinance misclassified Blackrock Inc. (10.5% inst.) as insider
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -25,7 +25,7 @@ Technology / Software - Infrastructure
 | Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 365.8% (2y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 39% (stable); FCF/NI: 115% (strong); Gross margin: 88% (pricing power for Technology) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 88% vs sector strong cutoff 60% — strong pricing power; Operating margin 68% — durable for Technology | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 27.1x — growth premium; 52w range position: 78%; Owner earnings yield: 3.1%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 26.9x — growth premium; 52w range position: 76%; Owner earnings yield: 3.1%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
 
 ## Buffett Score: 7.0 / 10
@@ -38,7 +38,7 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: -37% — ABSENT ($288 > IV $181 at 20x for 11% growth)
+- **Margin of Safety**: -37% — ABSENT ($286 > IV $181 at 20x for 11% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

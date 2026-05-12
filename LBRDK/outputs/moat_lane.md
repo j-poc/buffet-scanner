@@ -1,7 +1,7 @@
 # Buffett/Munger Moat Lane: LBRDK
-*Generated: 2026-05-11 08:00 | Price: $36.1 | Mkt Cap: N/A*
+*Generated: 2026-05-12 06:50 | Price: $34.47 | Mkt Cap: N/A*
 
-> ⚠ DATA: yfinance misclassified Vanguard Group Inc (8.9% inst.) as insider
+> ⚠ DATA: yfinance misclassified Eagle Capital Management LLC (5.1% inst.) as insider
 
 ## Sector Context
 Communication Services / Telecom Services
@@ -22,10 +22,10 @@ Communication Services / Telecom Services
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -2.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 313% from prior peak; 5y price drawdown: 80% (severe cyclicality); FCF/NI: -16% (weak conversion); Gross margin: 0% (below Communication Services norm) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -2.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 313% from prior peak; 5y price drawdown: 81% (severe cyclicality); FCF/NI: -16% (weak conversion); Gross margin: 0% (below Communication Services norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); No insider transaction data | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 0% — below Communication Services moderate cutoff 40%; Operating margin 0% — thin for Communication Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.4x — deep value; Near 52w low (0% of range) — Mr. Market fearful | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.2x — deep value; Near 52w low (0% of range) — Mr. Market fearful | - |
 | **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 
 ## Buffett Score: 3.9 / 10
