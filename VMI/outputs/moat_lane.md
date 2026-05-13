@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VMI
-*Generated: 2026-05-12 06:48 | Price: $516.0 | Mkt Cap: $10B*
+*Generated: 2026-05-13 06:59 | Price: $513.99 | Mkt Cap: $10B*
 
 ## Sector Context
 Industrials / Conglomerates
@@ -36,7 +36,7 @@ Industrials / Conglomerates
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Conglomerates
-- **Margin of Safety**: -13% — ABSENT ($516 > IV $449 at 25x for 25% growth)
+- **Margin of Safety**: -12% — ABSENT ($514 > IV $450 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 2.6% insider ownership
 - **Mr. Market**: Greedy — exercise caution

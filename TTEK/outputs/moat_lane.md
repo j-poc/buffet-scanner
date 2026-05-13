@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TTEK
-*Generated: 2026-05-12 06:54 | Price: $29.59 | Mkt Cap: $8B*
+*Generated: 2026-05-13 07:05 | Price: $28.71 | Mkt Cap: $7B*
 
 ## Sector Context
 Industrials / Engineering & Construction
@@ -20,13 +20,13 @@ Industrials / Engineering & Construction
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.1/10 | 30% | 1.2 | ROIC declining trend; Avg ROIC: 15.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 0% (stable); FCF/NI: 132% (strong); Gross margin: 22% (below Industrials norm) | ROIC declining |
+| Quality | 3.6/10 | 30% | 1.1 | ROIC declining trend; Avg ROIC: 15.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 132% (strong); Gross margin: 22% (below Industrials norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 22% — below Industrials moderate cutoff 22%; Operating margin 13% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 17.2x — fair price; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 7.1% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.7x — fair price; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 7.3% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
-## Buffett Score: 5.2 / 10
+## Buffett Score: 5.1 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Industrials / Engineering & Construction
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Engineering & Construction
-- **Margin of Safety**: 41% — PRESENT (IV $42 vs $30 at 25x)
+- **Margin of Safety**: 45% — PRESENT (IV $42 vs $29 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

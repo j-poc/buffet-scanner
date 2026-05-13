@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UPS
-*Generated: 2026-05-12 06:53 | Price: $100.0 | Mkt Cap: $85B*
+*Generated: 2026-05-13 07:04 | Price: $98.44 | Mkt Cap: $84B*
 
 ## Sector Context
 Industrials / Integrated Freight & Logistics
@@ -23,7 +23,7 @@ Industrials / Integrated Freight & Logistics
 | Quality | 1.4/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 20.8% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 52% from prior peak; 5y price drawdown: 58% (severe cyclicality); FCF/NI: 87% (strong); Gross margin: 22% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 22% — moderate moat for Industrials; Operating margin 6% — thin for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.5x — deep value; 52w range position: 45%; Owner earnings yield: 5.4% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.3x — deep value; 52w range position: 41%; Owner earnings yield: 5.5% (>5%) | - |
 | **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
 ## Buffett Score: 4.9 / 10
@@ -36,7 +36,7 @@ Industrials / Integrated Freight & Logistics
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Integrated Freight & Logistics
-- **Margin of Safety**: -7% — ABSENT ($100 > IV $93 at 15x for -27% growth)
+- **Margin of Safety**: -6% — ABSENT ($98 > IV $93 at 15x for -27% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

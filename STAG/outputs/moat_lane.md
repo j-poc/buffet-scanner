@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STAG
-*Generated: 2026-05-12 06:55 | Price: $38.56 | Mkt Cap: $8B*
+*Generated: 2026-05-13 07:05 | Price: $38.65 | Mkt Cap: $8B*
 
 ## Sector Context
 Real Estate / REIT - Industrial
@@ -23,7 +23,7 @@ Real Estate / REIT - Industrial
 | Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 4.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 182% (strong); Gross margin: 80% (pricing power for Real Estate) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 80% vs sector strong cutoff 55% — strong pricing power; Operating margin 37% — durable for Real Estate | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 43.8x — expensive; 52w range position: 77%; Owner earnings yield: 6.1% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 43.9x — expensive; 52w range position: 79%; Owner earnings yield: 6.1% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10

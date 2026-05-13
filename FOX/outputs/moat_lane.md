@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FOX
-*Generated: 2026-05-12 06:43 | Price: $61.18 | Mkt Cap: $26B*
+*Generated: 2026-05-13 06:54 | Price: $59.47 | Mkt Cap: $25B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -20,14 +20,14 @@ Communication Services / Entertainment
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.5/10 | 30% | 1.6 | Avg ROIC: 11.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 33% (stable); FCF/NI: 120% (strong); Gross margin: 35% (below Communication Services norm) | - |
-| Management | 9.0/10 | 25% | 2.2 | Insider ownership: 38.9% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: -49.1% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 35% — below Communication Services moderate cutoff 40%; Operating margin 11% — thin for Communication Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.9x — deep value; 52w range position: 65%; Owner earnings yield: 6.8% (>5%) | - |
-| **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
+| Quality | 5.5/10 | 30% | 1.6 | Avg ROIC: 11.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 33% (stable); FCF/NI: 120% (strong); Gross margin: 37% (below Communication Services norm) | - |
+| Management | 9.0/10 | 25% | 2.2 | Insider ownership: 38.9% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: -49.9% (low) | - |
+| Moat | 4.0/10 | 25% | 1.0 | Gross margin 37% — below Communication Services moderate cutoff 40%; Operating margin 21% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.3x — deep value; 52w range position: 56%; Owner earnings yield: 5.6% (>5%) | - |
+| **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
 
-## Buffett Score: 6.8 / 10
-## Alpha Adjustment: +0.18
+## Buffett Score: 6.9 / 10
+## Alpha Adjustment: +0.19
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Communication Services / Entertainment
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Entertainment
-- **Margin of Safety**: -7% — ABSENT ($61 > IV $57 at 15x for -36% growth)
+- **Margin of Safety**: -4% — ABSENT ($59 > IV $57 at 15x for -49% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 38.9% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.18 applied to composite alpha score
+Buffett Premium: +0.19 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OLN
-*Generated: 2026-05-11 08:00 | Price: $26.84 | Mkt Cap: $3B*
+*Generated: 2026-05-13 07:01 | Price: $27.59 | Mkt Cap: $3B*
 
 ## Sector Context
 Basic Materials / Chemicals
@@ -21,13 +21,13 @@ Basic Materials / Chemicals
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 11.4% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 108% from prior peak; 5y price drawdown: 72% (severe cyclicality); FCF/NI: 81% (strong); Gross margin: 6% (below Basic Materials norm) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -98.8% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 6% — below Basic Materials moderate cutoff 18%; Operating margin -4% — thin for Basic Materials | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 33.9x — expensive; 52w range position: 71%; Owner earnings yield: 16.0% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **2.8/10** | **100%** | **2.8** | | |
+| Valuation Fit | 6.5/10 | 20% | 1.3 | P/E 29.6x — growth premium; 52w range position: 77%; Owner earnings yield: 15.5% (>5%); Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **3.2/10** | **100%** | **3.2** | | |
 
-## Buffett Score: 2.8 / 10
-## Alpha Adjustment: -0.29
+## Buffett Score: 3.2 / 10
+## Alpha Adjustment: -0.26
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.29 applied to composite alpha score
+Buffett Premium: -0.26 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ARMK
-*Generated: 2026-05-12 06:48 | Price: $44.56 | Mkt Cap: $12B*
+*Generated: 2026-05-13 06:58 | Price: $48.41 | Mkt Cap: $13B*
 
 ## Sector Context
 Industrials / Specialty Business Services
@@ -11,7 +11,7 @@ Industrials / Specialty Business Services
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.9x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.6x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.7%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,9 +21,9 @@ Industrials / Specialty Business Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 6.4% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 61% from prior peak; 5y price drawdown: 28% (stable); FCF/NI: 86% (strong); Gross margin: 15% (below Industrials norm) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 15% — below Industrials moderate cutoff 22%; Operating margin 5% — thin for Industrials | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.0x — fair price; 52w range position: 80%; Owner earnings yield: 1.6%; Earnings yield < 7% — tight vs index | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 15% — below Industrials moderate cutoff 22%; Operating margin 4% — thin for Industrials | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.5x — fair price; 52w range position: 83%; Owner earnings yield: 2.5%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
 ## Buffett Score: 4.5 / 10
@@ -36,7 +36,7 @@ Industrials / Specialty Business Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Business Services
-- **Margin of Safety**: -60% — ABSENT ($45 > IV $18 at 15x for -8% growth)
+- **Margin of Safety**: -31% — ABSENT ($48 > IV $34 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Neutral

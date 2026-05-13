@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ROKU
-*Generated: 2026-05-12 06:47 | Price: $128.07 | Mkt Cap: $19B*
+*Generated: 2026-05-13 06:58 | Price: $127.63 | Mkt Cap: $19B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -23,7 +23,7 @@ Communication Services / Entertainment
 | Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: -9.7% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 92% (severe cyclicality); FCF/NI: 96% (strong); Gross margin: 44% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 44% — moderate moat for Communication Services; Operating margin 4% — thin for Communication Services; Rev growth 22% — demand pull | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 38.0x — expensive; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 3.6%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 37.8x — expensive; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 3.6%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 
 ## Buffett Score: 3.9 / 10

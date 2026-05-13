@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NXST
-*Generated: 2026-05-12 06:50 | Price: $202.79 | Mkt Cap: $6B*
+*Generated: 2026-05-13 07:00 | Price: $197.3 | Mkt Cap: $6B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Portfolio Management LLC (4.7% inst.) as insider
 
@@ -25,7 +25,7 @@ Communication Services / Broadcasting
 | Quality | 0.9/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 9.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 89% from prior peak; 5y price drawdown: 36% (stable); FCF/NI: 302% (strong); Gross margin: 56% (pricing power for Communication Services) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.0% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 56% vs sector strong cutoff 55% — strong pricing power; Operating margin 22% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.4x — deep value; 52w range position: 43%; Owner earnings yield: 10.7% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.2x — deep value; 52w range position: 37%; Owner earnings yield: 11.0% (>5%) | - |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
 ## Buffett Score: 5.1 / 10
@@ -38,7 +38,7 @@ Communication Services / Broadcasting
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Broadcasting
-- **Margin of Safety**: -42% — ABSENT ($203 > IV $118 at 25x for 25% growth)
+- **Margin of Safety**: -40% — ABSENT ($197 > IV $118 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

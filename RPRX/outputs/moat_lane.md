@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RPRX
-*Generated: 2026-05-12 06:47 | Price: $51.65 | Mkt Cap: $30B*
+*Generated: 2026-05-13 06:58 | Price: $51.7 | Mkt Cap: $30B*
 
 > ⚠ DATA: yfinance misclassified Capital International Investors (7.0% inst.) as insider
 
@@ -25,7 +25,7 @@ Healthcare / Biotechnology
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 7.8% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 32% from prior peak; 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 1479% (strong); Gross margin: 115% (pricing power for Healthcare) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.9% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 115% vs sector strong cutoff 55% — strong pricing power; Operating margin 100% — durable for Healthcare | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 9.2x — deep value; Near 52w high (100% of range) — Mr. Market greedy | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 9.2x — deep value; Near 52w high (98% of range) — Mr. Market greedy | - |
 | **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
 ## Buffett Score: 5.7 / 10

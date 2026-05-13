@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: USFD
-*Generated: 2026-05-12 06:47 | Price: $83.61 | Mkt Cap: $18B*
+*Generated: 2026-05-13 06:58 | Price: $83.97 | Mkt Cap: $18B*
 
 ## Sector Context
 Consumer Defensive / Food Distribution
@@ -23,7 +23,7 @@ Consumer Defensive / Food Distribution
 | Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 7.8% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 34% (stable); FCF/NI: 166% (strong); Gross margin: 17% (thin by design for Food Distribution) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | ROA 6% / ROE 15% — adequate scale (Food Distribution); Operating margin 2% — thin for Consumer Defensive | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.1x — fair price; 52w range position: 43%; Owner earnings yield: 4.0%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.2x — fair price; 52w range position: 44%; Owner earnings yield: 4.0%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
 ## Buffett Score: 5.4 / 10

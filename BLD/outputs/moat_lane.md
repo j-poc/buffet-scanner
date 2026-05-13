@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BLD
-*Generated: 2026-05-12 06:48 | Price: $424.63 | Mkt Cap: $12B*
+*Generated: 2026-05-13 06:58 | Price: $416.79 | Mkt Cap: $12B*
 
 ## Sector Context
 Industrials / Engineering & Construction
@@ -23,10 +23,10 @@ Industrials / Engineering & Construction
 | Quality | 4.3/10 | 30% | 1.3 | ROIC declining trend; Avg ROIC: 17.2% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 49% (moderate cyclicality); FCF/NI: 113% (strong); Gross margin: 29% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 29% — moderate moat for Industrials; Operating margin 12% | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.2x — growth premium; 52w range position: 53%; Owner earnings yield: 3.3%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.9x — fair price; 52w range position: 50%; Owner earnings yield: 3.4%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
-## Buffett Score: 5.1 / 10
+## Buffett Score: 5.6 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,13 +36,13 @@ Industrials / Engineering & Construction
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Engineering & Construction
-- **Margin of Safety**: -37% — ABSENT ($425 > IV $267 at 15x for -12% growth)
-- **Lollapalooza Effect**: No (0 forces only: none)
+- **Margin of Safety**: -36% — ABSENT ($417 > IV $267 at 15x for -12% growth)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (0 forces only: none)
+No (1 forces only: attractive valuation)
 
 ---
 

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MTSI
-*Generated: 2026-05-12 06:54 | Price: $365.88 | Mkt Cap: $28B*
+*Generated: 2026-05-13 07:05 | Price: $362.76 | Mkt Cap: $28B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (9.9% inst.) as insider
 
@@ -25,7 +25,7 @@ Technology / Semiconductors
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 6.3% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 112% from prior peak; 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 21% (weak conversion); Gross margin: 56% | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 9.3% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 56% — moderate moat for Technology; Operating margin 18% — thin for Technology; Rev growth 22% — demand pull | - |
-| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 53.5x — extreme premium; Near 52w high (99% of range) — Mr. Market greedy; Owner earnings yield: 0.3%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 53.0x — extreme premium; Near 52w high (98% of range) — Mr. Market greedy; Owner earnings yield: 0.3%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **2.6/10** | **100%** | **2.6** | | |
 
 ## Buffett Score: 2.6 / 10
@@ -38,7 +38,7 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: -84% — ABSENT ($366 > IV $58 at 25x for 25% growth)
+- **Margin of Safety**: -84% — ABSENT ($363 > IV $59 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

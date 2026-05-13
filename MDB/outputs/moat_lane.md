@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MDB
-*Generated: 2026-05-12 06:54 | Price: $294.65 | Mkt Cap: $24B*
+*Generated: 2026-05-13 07:05 | Price: $308.72 | Mkt Cap: $25B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -23,7 +23,7 @@ Technology / Software - Infrastructure
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: -6.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 77% (severe cyclicality); FCF/NI: -214% (weak conversion); Gross margin: 72% (pricing power for Technology) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.9% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 72% vs sector strong cutoff 60% — strong pricing power; Operating margin 0% — thin for Technology; Rev growth 27% — demand pull | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 41.8x — expensive; 52w range position: 43%; Owner earnings yield: 2.0%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 43.8x — expensive; 52w range position: 48%; Owner earnings yield: 1.9%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10

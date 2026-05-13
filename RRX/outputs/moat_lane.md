@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RRX
-*Generated: 2026-05-12 06:47 | Price: $211.33 | Mkt Cap: $14B*
+*Generated: 2026-05-13 06:58 | Price: $209.78 | Mkt Cap: $14B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
@@ -23,7 +23,7 @@ Industrials / Specialty Industrial Machinery
 | Quality | 0.5/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 4.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 112% from prior peak; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: -98% (weak conversion); Gross margin: 38% (pricing power for Industrials) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 38% vs sector strong cutoff 35% — strong pricing power; Operating margin 11% | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.7x — fair price; 52w range position: 77%; Owner earnings yield: 5.6% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.6x — fair price; 52w range position: 75%; Owner earnings yield: 5.6% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10
@@ -36,7 +36,7 @@ Industrials / Specialty Industrial Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Industrial Machinery
-- **Margin of Safety**: -59% — ABSENT ($211 > IV $86 at 20x for 12% growth)
+- **Margin of Safety**: -59% — ABSENT ($210 > IV $86 at 20x for 12% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral

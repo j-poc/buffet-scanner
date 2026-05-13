@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CTVA
-*Generated: 2026-05-12 06:42 | Price: $82.83 | Mkt Cap: $55B*
+*Generated: 2026-05-13 06:53 | Price: $82.59 | Mkt Cap: $55B*
 
 ## Sector Context
 Basic Materials / Agricultural Inputs
@@ -23,7 +23,7 @@ Basic Materials / Agricultural Inputs
 | Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 4.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 36% from prior peak; 5y price drawdown: 35% (stable); FCF/NI: 153% (strong); Gross margin: 49% (pricing power for Basic Materials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 49% vs sector strong cutoff 30% — strong pricing power; Operating margin 24% — durable for Basic Materials | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 20.3x — growth premium; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 4.7%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 20.2x — growth premium; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 4.7%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
 ## Buffett Score: 5.6 / 10

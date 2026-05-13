@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JLL
-*Generated: 2026-05-12 06:47 | Price: $322.89 | Mkt Cap: $15B*
+*Generated: 2026-05-13 06:58 | Price: $315.78 | Mkt Cap: $15B*
 
 ## Sector Context
 Real Estate / Real Estate Services
@@ -23,7 +23,7 @@ Real Estate / Real Estate Services
 | Quality | 2.1/10 | 30% | 0.6 | Avg ROIC: 8.4% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 66% from prior peak; 5y price drawdown: 56% (severe cyclicality); FCF/NI: 101% (strong); Gross margin: 51% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.3% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 51% — moderate moat for Real Estate; Operating margin 3% — thin for Real Estate | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.5x — deep value; 52w range position: 73%; Owner earnings yield: 1.9% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.3x — deep value; 52w range position: 69%; Owner earnings yield: 1.9% | - |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
 ## Buffett Score: 5.1 / 10
@@ -36,7 +36,7 @@ Real Estate / Real Estate Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / Real Estate Services
-- **Margin of Safety**: 44% — PRESENT (IV $465 vs $323 at 25x)
+- **Margin of Safety**: 47% — PRESENT (IV $465 vs $316 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Neutral

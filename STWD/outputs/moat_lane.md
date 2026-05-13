@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STWD
-*Generated: 2026-05-12 06:49 | Price: $17.23 | Mkt Cap: $7B*
+*Generated: 2026-05-13 07:00 | Price: $17.22 | Mkt Cap: $7B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Capital Management LLC (4.2% inst.) as insider
 

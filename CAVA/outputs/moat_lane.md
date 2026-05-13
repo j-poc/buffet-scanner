@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CAVA
-*Generated: 2026-05-12 06:54 | Price: $79.99 | Mkt Cap: $9B*
+*Generated: 2026-05-13 07:05 | Price: $77.18 | Mkt Cap: $9B*
 
 > ⚠ DATA: yfinance misclassified Artal Group S.A. (8.2% inst.) as insider
 
@@ -25,7 +25,7 @@ Consumer Cyclical / Restaurants
 | Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: 6.4% (3y); Earnings: 1 down-year in 3 transitions; NI drawdown: 51% from prior peak; 5y price drawdown: 71% (severe cyclicality); FCF/NI: -17% (weak conversion); Gross margin: 37% | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.1% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 37% — moderate moat for Consumer Cyclical; Operating margin 1% — thin for Consumer Cyclical; Rev growth 21% — demand pull | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 110.1x — extreme premium; 52w range position: 63%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 106.2x — extreme premium; 52w range position: 59%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.0/10** | **100%** | **3.0** | | |
 
 ## Buffett Score: 3.0 / 10
@@ -38,7 +38,7 @@ Consumer Cyclical / Restaurants
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Restaurants
-- **Margin of Safety**: -90% — ABSENT ($80 > IV $8 at 15x for -94% growth)
+- **Margin of Safety**: -90% — ABSENT ($77 > IV $8 at 15x for -94% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

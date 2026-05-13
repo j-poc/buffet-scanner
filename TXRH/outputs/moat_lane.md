@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TXRH
-*Generated: 2026-05-12 06:48 | Price: $183.54 | Mkt Cap: $12B*
+*Generated: 2026-05-13 06:58 | Price: $183.57 | Mkt Cap: $12B*
 
 ## Sector Context
 Consumer Cyclical / Restaurants
@@ -11,7 +11,7 @@ Consumer Cyclical / Restaurants
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.4x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.5x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.4%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,9 +21,9 @@ Consumer Cyclical / Restaurants
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 7.5/10 | 30% | 2.2 | Avg ROIC: 26.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 30% (stable); FCF/NI: 86% (strong); Gross margin: 16% (below Consumer Cyclical norm) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 16% — below Consumer Cyclical moderate cutoff 30%; Operating margin 9% | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 24.0x — growth premium; 52w range position: 64%; Owner earnings yield: 1.8%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 24.0x — growth premium; 52w range position: 64%; Owner earnings yield: 1.6%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BSY
-*Generated: 2026-05-12 06:50 | Price: $32.64 | Mkt Cap: $10B*
+*Generated: 2026-05-13 07:01 | Price: $32.67 | Mkt Cap: $10B*
 
 ## Sector Context
 Technology / Software - Application

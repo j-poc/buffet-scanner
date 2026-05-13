@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KNX
-*Generated: 2026-05-12 06:48 | Price: $61.92 | Mkt Cap: $10B*
+*Generated: 2026-05-13 06:59 | Price: $59.9 | Mkt Cap: $10B*
 
 ## Sector Context
 Industrials / Trucking
@@ -23,10 +23,10 @@ Industrials / Trucking
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 4.7% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 91% from prior peak; 5y price drawdown: 38% (stable); FCF/NI: 201% (strong); Gross margin: 24% | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.9% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 24% — moderate moat for Industrials; Operating margin 1% — thin for Industrials | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.2x — fair price; 52w range position: 80%; Owner earnings yield: 4.9%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 18.6x — fair price; 52w range position: 73%; Owner earnings yield: 5.1% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
-## Buffett Score: 4.6 / 10
+## Buffett Score: 4.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Industrials / Trucking
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Trucking
-- **Margin of Safety**: -95% — ABSENT ($62 > IV $3 at 15x for 1% growth)
+- **Margin of Safety**: -95% — ABSENT ($60 > IV $3 at 15x for 1% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 2.9% insider ownership
 - **Mr. Market**: Neutral

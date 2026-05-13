@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TSN
-*Generated: 2026-05-12 06:53 | Price: $67.08 | Mkt Cap: $24B*
+*Generated: 2026-05-13 07:04 | Price: $67.46 | Mkt Cap: $24B*
 
 ## Sector Context
 Consumer Defensive / Farm Products
@@ -23,7 +23,7 @@ Consumer Defensive / Farm Products
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 4.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 120% from prior peak; 5y price drawdown: 52% (moderate cyclicality); FCF/NI: 121% (strong); Gross margin: 6% (below Consumer Defensive norm) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.6% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 6% — below Consumer Defensive moderate cutoff 30%; Operating margin 4% — thin for Consumer Defensive | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 14.6x — deep value; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 4.4%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 14.7x — deep value; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 4.3%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
 ## Buffett Score: 4.0 / 10

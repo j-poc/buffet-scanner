@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RBC
-*Generated: 2026-05-12 06:47 | Price: $613.59 | Mkt Cap: $19B*
+*Generated: 2026-05-13 06:58 | Price: $613.1 | Mkt Cap: $19B*
 
 ## Sector Context
 Industrials / Tools & Accessories
@@ -36,7 +36,7 @@ Industrials / Tools & Accessories
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Tools & Accessories
-- **Margin of Safety**: -72% — ABSENT ($614 > IV $171 at 20x for 17% growth)
+- **Margin of Safety**: -72% — ABSENT ($613 > IV $170 at 20x for 17% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 1.6% insider ownership
 - **Mr. Market**: Greedy — exercise caution

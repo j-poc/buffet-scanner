@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ORI
-*Generated: 2026-05-12 06:54 | Price: $39.22 | Mkt Cap: $10B*
+*Generated: 2026-05-13 07:05 | Price: $39.18 | Mkt Cap: $10B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty

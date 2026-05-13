@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WTW
-*Generated: 2026-05-12 06:53 | Price: $249.72 | Mkt Cap: $24B*
+*Generated: 2026-05-13 07:04 | Price: $251.44 | Mkt Cap: $24B*
 
 ## Sector Context
 Financial Services / Insurance Brokers
@@ -23,7 +23,7 @@ Financial Services / Insurance Brokers
 | Quality | 7.0/10 | 30% | 2.1 | ROE: 20.6% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 28% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 21% — strong franchise (Financial Services); Operating margin 21% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.3x — deep value; Near 52w low (3% of range) — Mr. Market fearful; Owner earnings yield: 8.7% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.3x — deep value; Near 52w low (5% of range) — Mr. Market fearful; Owner earnings yield: 8.6% (>5%) | - |
 | **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
 
 ## Buffett Score: 7.0 / 10
@@ -36,7 +36,7 @@ Financial Services / Insurance Brokers
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance Brokers
-- **Margin of Safety**: 70% — PRESENT (IV $426 vs $250 at 25x)
+- **Margin of Safety**: 69% — PRESENT (IV $426 vs $251 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

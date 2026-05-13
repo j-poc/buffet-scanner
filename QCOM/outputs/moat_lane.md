@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: QCOM
-*Generated: 2026-05-12 06:45 | Price: $237.53 | Mkt Cap: $250B*
+*Generated: 2026-05-13 06:56 | Price: $210.31 | Mkt Cap: $222B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -23,10 +23,10 @@ Technology / Semiconductors
 | Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 26.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 57% from prior peak; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 133% (strong); Gross margin: 55% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 55% — moderate moat for Technology; Operating margin 22% | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 22.3x — growth premium; Near 52w high (92% of range) — Mr. Market greedy; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.8x — fair price; 52w range position: 70%; Owner earnings yield: 4.3%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
-## Buffett Score: 5.1 / 10
+## Buffett Score: 5.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,13 +36,13 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: -2% — ABSENT ($238 > IV $233 at 25x for 25% growth)
-- **Lollapalooza Effect**: No (0 forces only: none)
+- **Margin of Safety**: 11% — thin (IV $233 at 25x)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (0 forces only: none)
+No (1 forces only: attractive valuation)
 
 ---
 

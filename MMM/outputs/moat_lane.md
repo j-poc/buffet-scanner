@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MMM
-*Generated: 2026-05-12 06:41 | Price: $143.34 | Mkt Cap: $75B*
+*Generated: 2026-05-13 06:52 | Price: $143.21 | Mkt Cap: $75B*
 
 ## Sector Context
 Industrials / Conglomerates
@@ -23,7 +23,7 @@ Industrials / Conglomerates
 | Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: 6.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 221% from prior peak; 5y price drawdown: 54% (moderate cyclicality); FCF/NI: 13% (weak conversion); Gross margin: 40% (pricing power for Industrials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 40% vs sector strong cutoff 35% — strong pricing power; Operating margin 23% — durable for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.2x — fair price; Near 52w low (11% of range) — Mr. Market fearful; Owner earnings yield: 3.1%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.2x — fair price; Near 52w low (10% of range) — Mr. Market fearful; Owner earnings yield: 3.1%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
 ## Buffett Score: 5.4 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LYFT
-*Generated: 2026-05-12 06:50 | Price: $13.87 | Mkt Cap: $5B*
+*Generated: 2026-05-13 07:00 | Price: $13.88 | Mkt Cap: $5B*
 
 ## Sector Context
 Technology / Software - Application
@@ -36,7 +36,7 @@ Technology / Software - Application
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Application
-- **Margin of Safety**: 1133% — PRESENT (IV $171 vs $14 at 25x)
+- **Margin of Safety**: 1132% — PRESENT (IV $171 vs $14 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

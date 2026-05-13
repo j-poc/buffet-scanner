@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GTLB
-*Generated: 2026-05-12 06:50 | Price: $25.64 | Mkt Cap: $4B*
+*Generated: 2026-05-13 07:01 | Price: $23.08 | Mkt Cap: $4B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -23,10 +23,10 @@ Technology / Software - Infrastructure
 | Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: -17.1% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 85% (severe cyclicality); FCF/NI: 179% (strong); Gross margin: 87% (pricing power for Technology) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.8% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 87% vs sector strong cutoff 60% — strong pricing power; Operating margin -1% — thin for Technology; Rev growth 23% — demand pull | - |
-| Valuation Fit | 8.0/10 | 20% | 1.6 | P/E 26.1x — growth premium; Near 52w low (20% of range) — Mr. Market fearful; Owner earnings yield: 6.5% (>5%); Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 23.5x — growth premium; Near 52w low (12% of range) — Mr. Market fearful; Owner earnings yield: 7.3% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
-## Buffett Score: 5.4 / 10
+## Buffett Score: 5.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

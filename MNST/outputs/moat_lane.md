@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MNST
-*Generated: 2026-05-12 06:44 | Price: $86.41 | Mkt Cap: $85B*
+*Generated: 2026-05-13 06:55 | Price: $85.87 | Mkt Cap: $84B*
 
 ## Sector Context
 Consumer Defensive / Beverages - Non-Alcoholic
@@ -23,7 +23,7 @@ Consumer Defensive / Beverages - Non-Alcoholic
 | Quality | 8.4/10 | 30% | 2.5 | Avg ROIC: 21.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 27% (stable); FCF/NI: 89% (strong); Gross margin: 55% (pricing power for Consumer Defensive) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 28.5% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 28.6% of shares (SBC concern) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 55% vs sector strong cutoff 45% — strong pricing power; Operating margin 31% — durable for Consumer Defensive; Rev growth 27% — demand pull | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 33.6x — expensive; Near 52w high (92% of range) — Mr. Market greedy; Owner earnings yield: 2.0%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 33.3x — expensive; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 2.0%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **7.5/10** | **100%** | **7.5** | | |
 
 ## Buffett Score: 7.5 / 10

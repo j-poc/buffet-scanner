@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: M
-*Generated: 2026-05-12 06:50 | Price: $18.69 | Mkt Cap: $5B*
+*Generated: 2026-05-13 07:01 | Price: $18.52 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Cyclical / Department Stores
@@ -23,7 +23,7 @@ Consumer Cyclical / Department Stores
 | Quality | 0.7/10 | 30% | 0.2 | ROIC declining trend; Avg ROIC: 10.0% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 96% from prior peak; 5y price drawdown: 70% (severe cyclicality); FCF/NI: 224% (strong); Gross margin: 40% (thin by design for Department Stores) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | ROA 3% / ROE 14% — adequate scale (Department Stores); Operating margin 7% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.5x — deep value; 52w range position: 59%; Owner earnings yield: 8.8% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.5x — deep value; 52w range position: 58%; Owner earnings yield: 8.9% (>5%) | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Department Stores
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Department Stores
-- **Margin of Safety**: 210% — PRESENT (IV $58 vs $19 at 25x)
+- **Margin of Safety**: 213% — PRESENT (IV $58 vs $19 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ORLY
-*Generated: 2026-05-12 06:45 | Price: $91.35 | Mkt Cap: $76B*
+*Generated: 2026-05-13 06:55 | Price: $91.84 | Mkt Cap: $76B*
 
 ## Sector Context
 Consumer Cyclical / Auto Parts
@@ -23,7 +23,7 @@ Consumer Cyclical / Auto Parts
 | Quality | 7.0/10 | 30% | 2.1 | ROIC declining trend; Avg ROIC: 62.8% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 23% (stable); FCF/NI: 88% (strong); Gross margin: 52% (thin by design for Auto Parts) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | ROA 14% / ROE 0% — scale moat (Auto Parts); Operating margin 18% — durable for Consumer Cyclical | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 25.3x — growth premium; Near 52w low (21% of range) — Mr. Market fearful; Owner earnings yield: 1.8%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 25.4x — growth premium; Near 52w low (23% of range) — Mr. Market fearful; Owner earnings yield: 1.7%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
 
 ## Buffett Score: 6.8 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Auto Parts
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Auto Parts
-- **Margin of Safety**: -33% — ABSENT ($91 > IV $61 at 20x for 16% growth)
+- **Margin of Safety**: -33% — ABSENT ($92 > IV $61 at 20x for 16% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

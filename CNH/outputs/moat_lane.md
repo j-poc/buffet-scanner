@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CNH
-*Generated: 2026-05-12 06:54 | Price: $10.97 | Mkt Cap: $14B*
+*Generated: 2026-05-13 06:59 | Price: $10.74 | Mkt Cap: $13B*
 
 ## Sector Context
 Industrials / Farm & Heavy Construction Machinery
@@ -20,13 +20,13 @@ Industrials / Farm & Heavy Construction Machinery
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 7.5% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 78% from prior peak; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 73%; Gross margin: 18% (below Industrials norm) | ROIC declining |
-| Management | 9.0/10 | 25% | 2.2 | Insider ownership: 29.9% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 7.5% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 78% from prior peak; FCF/NI: 73%; Gross margin: 18% (below Industrials norm) | ROIC declining |
+| Management | 9.0/10 | 25% | 2.2 | Insider ownership: 29.9% (>10%); No insider transaction data; Restricted stock: 0.4% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 18% — below Industrials moderate cutoff 22%; Operating margin 3% — thin for Industrials | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.0x — fair price; 52w range position: 37%; Owner earnings yield: 1.8%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.7x — deep value; 52w range position: 33%; Owner earnings yield: 1.9%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
-## Buffett Score: 4.8 / 10
+## Buffett Score: 5.1 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Industrials / Farm & Heavy Construction Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Farm & Heavy Construction Machinery
-- **Margin of Safety**: -56% — ABSENT ($11 > IV $5 at 15x for -94% growth)
+- **Margin of Safety**: -55% — ABSENT ($11 > IV $5 at 15x for -94% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 29.9% insider ownership
 - **Mr. Market**: Neutral

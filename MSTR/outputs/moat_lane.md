@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MSTR
-*Generated: 2026-05-12 06:54 | Price: $195.94 | Mkt Cap: $69B*
+*Generated: 2026-05-13 07:04 | Price: $184.42 | Mkt Cap: $65B*
 
 ## Sector Context
 Technology / Software - Application
@@ -21,15 +21,15 @@ Technology / Software - Application
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: -16.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 997% from prior peak; 5y price drawdown: 84% (severe cyclicality); FCF/NI: 516% (strong); Gross margin: 68% (pricing power for Technology) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 68% vs sector strong cutoff 60% — strong pricing power; Operating margin -11642% — thin for Technology | - |
-| Valuation Fit | 3.0/10 | 20% | 0.6 | P/E 50.4x — extreme premium; Near 52w low (26% of range) — Mr. Market fearful; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 47.4x — expensive; Near 52w low (23% of range) — Mr. Market fearful; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
-## Buffett Score: 3.8 / 10
-## Alpha Adjustment: -0.22
-## Conviction: AVOID
-## Verdict: Avoid
+## Buffett Score: 4.2 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.22 applied to composite alpha score
-Conviction Gate: AVOID — Do not initiate position
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
 Half-life adjustment: N/A
 ```

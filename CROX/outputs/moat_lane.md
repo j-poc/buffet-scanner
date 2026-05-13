@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CROX
-*Generated: 2026-05-12 06:50 | Price: $100.42 | Mkt Cap: $5B*
+*Generated: 2026-05-13 07:01 | Price: $99.32 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Cyclical / Footwear & Accessories
@@ -23,7 +23,7 @@ Consumer Cyclical / Footwear & Accessories
 | Quality | 2.7/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 19.5% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 109% from prior peak; 5y price drawdown: 74% (severe cyclicality); FCF/NI: -130% (weak conversion); Gross margin: 58% (pricing power for Consumer Cyclical) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.3% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 58% vs sector strong cutoff 45% — strong pricing power; Operating margin 22% — durable for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.9x — deep value; 52w range position: 57%; Owner earnings yield: 9.0% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.8x — deep value; 52w range position: 55%; Owner earnings yield: 9.1% (>5%) | - |
 | **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
 ## Buffett Score: 6.4 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FIVE
-*Generated: 2026-05-12 06:48 | Price: $208.15 | Mkt Cap: $12B*
+*Generated: 2026-05-13 06:59 | Price: $208.51 | Mkt Cap: $12B*
 
 ## Sector Context
 Consumer Cyclical / Specialty Retail
@@ -36,7 +36,7 @@ Consumer Cyclical / Specialty Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Specialty Retail
-- **Margin of Safety**: -22% — ABSENT ($208 > IV $162 at 25x for 25% growth)
+- **Margin of Safety**: -22% — ABSENT ($209 > IV $162 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 1.7% insider ownership
 - **Mr. Market**: Neutral

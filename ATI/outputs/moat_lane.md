@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ATI
-*Generated: 2026-05-12 06:47 | Price: $161.16 | Mkt Cap: $22B*
+*Generated: 2026-05-13 06:58 | Price: $161.01 | Mkt Cap: $22B*
 
 ## Sector Context
 Industrials / Metal Fabrication
@@ -23,7 +23,7 @@ Industrials / Metal Fabrication
 | Quality | 3.4/10 | 30% | 1.0 | Avg ROIC: 12.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 32% (weak conversion); Gross margin: 23% | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 23% — moderate moat for Industrials; Operating margin 16% — durable for Industrials | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 29.8x — growth premium; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 1.5%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 29.8x — growth premium; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 1.6%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
 ## Buffett Score: 5.2 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DE
-*Generated: 2026-05-12 06:43 | Price: $588.74 | Mkt Cap: $159B*
+*Generated: 2026-05-13 06:53 | Price: $589.19 | Mkt Cap: $159B*
 
 ## Sector Context
 Industrials / Farm & Heavy Construction Machinery

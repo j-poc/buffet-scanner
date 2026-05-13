@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LBRDA
-*Generated: 2026-05-12 06:56 | Price: $34.41 | Mkt Cap: $5B*
+*Generated: 2026-05-13 07:07 | Price: $34.47 | Mkt Cap: $5B*
 
 > ⚠ DATA: yfinance misclassified Aristeia Capital, LLC (6.9% inst.) as insider
 

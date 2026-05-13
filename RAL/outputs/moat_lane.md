@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RAL
-*Generated: 2026-05-12 06:50 | Price: $49.56 | Mkt Cap: $6B*
+*Generated: 2026-05-13 07:00 | Price: $59.16 | Mkt Cap: $7B*
 
 ## Sector Context
 Technology / Electronic Components
@@ -11,7 +11,7 @@ Technology / Electronic Components
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Electronic Components | 25% | -35% | YES |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.3x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.1x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.2%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,15 +21,15 @@ Technology / Electronic Components
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -2.2% (3y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 393% from prior peak; 5y price drawdown: 32% (stable); FCF/NI: 73%; Gross margin: 50% | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 50% — moderate moat for Technology; Operating margin 13% — thin for Technology | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 18.3x — fair price; 52w range position: 62%; Owner earnings yield: 5.9% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 21.8x — growth premium; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 4.3%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **3.5/10** | **100%** | **3.5** | | |
 
-## Buffett Score: 4.4 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 3.5 / 10
+## Alpha Adjustment: -0.24
+## Conviction: AVOID
+## Verdict: Avoid
 
 ---
 
@@ -37,18 +37,18 @@ Technology / Electronic Components
 
 - **Circle of Competence**: Technology / Electronic Components
 - **Margin of Safety**: Cannot calculate (no positive EPS)
-- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
+- **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
-No (1 forces only: attractive valuation)
+No (0 forces only: none)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
+Buffett Premium: -0.24 applied to composite alpha score
+Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

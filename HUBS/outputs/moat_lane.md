@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HUBS
-*Generated: 2026-05-12 06:48 | Price: $191.34 | Mkt Cap: $10B*
+*Generated: 2026-05-13 06:59 | Price: $179.58 | Mkt Cap: $9B*
 
 ## Sector Context
 Technology / Software - Application
@@ -20,10 +20,10 @@ Technology / Software - Application
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: -2.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 78% (severe cyclicality); FCF/NI: 2771% (strong); Gross margin: 84% (pricing power for Technology) | - |
+| Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: -2.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 79% (severe cyclicality); FCF/NI: 2771% (strong); Gross margin: 84% (pricing power for Technology) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.6% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 84% vs sector strong cutoff 60% — strong pricing power; Operating margin 3% — thin for Technology; Rev growth 23% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.3x — deep value; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 6.7% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.5x — deep value; Near 52w low (0% of range) — Mr. Market fearful; Owner earnings yield: 7.1% (>5%) | - |
 | **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
 ## Buffett Score: 6.4 / 10
@@ -36,7 +36,7 @@ Technology / Software - Application
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Application
-- **Margin of Safety**: -75% — ABSENT ($191 > IV $47 at 25x for 23% growth)
+- **Margin of Safety**: -74% — ABSENT ($180 > IV $48 at 25x for 23% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 3.6% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

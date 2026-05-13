@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: QXO
-*Generated: 2026-05-12 06:48 | Price: $18.44 | Mkt Cap: $13B*
+*Generated: 2026-05-13 06:58 | Price: $17.74 | Mkt Cap: $13B*
 
 ## Sector Context
 Industrials / Industrial Distribution
@@ -23,11 +23,11 @@ Industrials / Industrial Distribution
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: -3.5% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 1098% from prior peak; 5y price drawdown: 95% (severe cyclicality); FCF/NI: -129% (weak conversion); Gross margin: 25% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 2.6% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 25% — moderate moat for Industrials; Operating margin -2% — thin for Industrials; Rev growth 14725% — demand pull | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 27.7x — growth premium; 52w range position: 31%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **3.7/10** | **100%** | **3.7** | | |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 26.6x — growth premium; Near 52w low (20% of range) — Mr. Market fearful; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
-## Buffett Score: 3.7 / 10
-## Alpha Adjustment: -0.22
+## Buffett Score: 4.0 / 10
+## Alpha Adjustment: -0.20
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -39,7 +39,7 @@ Industrials / Industrial Distribution
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (1 forces only: secular growth)
@@ -48,7 +48,7 @@ No (1 forces only: secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.22 applied to composite alpha score
+Buffett Premium: -0.20 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

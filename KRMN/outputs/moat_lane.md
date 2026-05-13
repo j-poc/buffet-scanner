@@ -1,7 +1,7 @@
 # Buffett/Munger Moat Lane: KRMN
-*Generated: 2026-05-11 08:00 | Price: $60.84 | Mkt Cap: $8B*
+*Generated: 2026-05-13 07:01 | Price: $62.48 | Mkt Cap: $8B*
 
-> ⚠ DATA: yfinance misclassified Vanguard Group Inc (7.0% inst.) as insider
+> ⚠ DATA: yfinance misclassified FMR, LLC (4.4% inst.) as insider
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -22,13 +22,13 @@ Industrials / Aerospace & Defense
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 6.7% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 30% (weak conversion); Gross margin: 40% (pricing power for Industrials) | - |
+| Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 6.7% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 49% (moderate cyclicality); FCF/NI: 30% (weak conversion); Gross margin: 40% (pricing power for Industrials) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 22.5% of shares (SBC concern) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 40% vs sector strong cutoff 35% — strong pricing power; Operating margin 16% — durable for Industrials; Rev growth 47% — demand pull | - |
-| Valuation Fit | 3.0/10 | 20% | 0.6 | P/E 62.2x — extreme premium; Near 52w low (29% of range) — Mr. Market fearful; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 63.9x — extreme premium; 52w range position: 30%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
-## Buffett Score: 5.1 / 10
+## Buffett Score: 4.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,10 +38,10 @@ Industrials / Aerospace & Defense
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Aerospace & Defense
-- **Margin of Safety**: -95% — ABSENT ($61 > IV $3 at 25x for 25% growth)
+- **Margin of Safety**: -95% — ABSENT ($62 > IV $3 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (2 forces only: strong moat, secular growth)

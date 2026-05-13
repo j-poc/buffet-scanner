@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VIK
-*Generated: 2026-05-12 06:47 | Price: $80.91 | Mkt Cap: $36B*
+*Generated: 2026-05-13 06:58 | Price: $80.6 | Mkt Cap: $36B*
 
 ## Sector Context
 Consumer Cyclical / Travel Services
@@ -36,7 +36,7 @@ Consumer Cyclical / Travel Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Travel Services
-- **Margin of Safety**: -21% — ABSENT ($81 > IV $64 at 25x for 25% growth)
+- **Margin of Safety**: -20% — ABSENT ($81 > IV $64 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Greedy — exercise caution

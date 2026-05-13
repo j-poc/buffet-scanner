@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ASTS
-*Generated: 2026-05-12 06:47 | Price: $82.55 | Mkt Cap: $32B*
+*Generated: 2026-05-13 06:58 | Price: $72.96 | Mkt Cap: $28B*
 
 ## Sector Context
 Technology / Communication Equipment
@@ -20,10 +20,10 @@ Technology / Communication Equipment
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: -59.3% (4y); Earnings: 3/3 down-years (unpredictable); 5y price drawdown: 86% (severe cyclicality); FCF/NI: 358% (strong); Gross margin: 50% | - |
-| Management | 6.5/10 | 25% | 1.6 | Insider ownership: 7.8%; Insider activity: 0B/0S last 6m; Restricted stock: 13.0% of shares (SBC concern) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 50% — moderate moat for Technology; Operating margin -133% — thin for Technology; Rev growth 2731% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -546.4x — deep value; 52w range position: 56% | - |
+| Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: -59.3% (4y); Earnings: 3/3 down-years (unpredictable); 5y price drawdown: 86% (severe cyclicality); FCF/NI: 358% (strong); Gross margin: 45% | - |
+| Management | 6.5/10 | 25% | 1.6 | Insider ownership: 7.8%; Insider activity: 0B/0S last 6m; Restricted stock: 11.2% of shares (SBC concern) | - |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 45% — moderate moat for Technology; Operating margin -1014% — thin for Technology; Rev growth 1952% — demand pull | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -269.8x — deep value; 52w range position: 47% | - |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
 ## Buffett Score: 5.4 / 10

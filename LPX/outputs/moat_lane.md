@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LPX
-*Generated: 2026-05-12 06:50 | Price: $72.98 | Mkt Cap: $5B*
+*Generated: 2026-05-13 07:01 | Price: $71.75 | Mkt Cap: $5B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.4% inst.) as insider
 
@@ -25,7 +25,7 @@ Industrials / Building Products & Equipment
 | Quality | 1.2/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 23.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 87% from prior peak; 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 60%; Gross margin: 20% (below Industrials norm) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 20.3% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 20% — below Industrials moderate cutoff 22%; Operating margin 7% — thin for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.0x — fair price; Near 52w low (17% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 18.7x — fair price; Near 52w low (14% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
 
 ## Buffett Score: 4.1 / 10
@@ -38,7 +38,7 @@ Industrials / Building Products & Equipment
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Building Products & Equipment
-- **Margin of Safety**: -76% — ABSENT ($73 > IV $18 at 15x for -70% growth)
+- **Margin of Safety**: -76% — ABSENT ($72 > IV $18 at 15x for -70% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

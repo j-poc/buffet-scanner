@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TDC
-*Generated: 2026-05-12 06:51 | Price: $32.31 | Mkt Cap: $3B*
+*Generated: 2026-05-13 07:01 | Price: $31.74 | Mkt Cap: $3B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -20,14 +20,14 @@ Technology / Software - Infrastructure
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 9.1/10 | 30% | 2.7 | Avg ROIC: 19.0% (4y); Earnings: 3/3 up-years (monotonic); FCF/NI: 564% (strong); Gross margin: 61% (pricing power for Technology) | - |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.1% (low); No insider transaction data; Restricted stock: 11.5% of shares (SBC concern) | - |
+| Quality | 7.6/10 | 30% | 2.3 | Avg ROIC: 19.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 67% (severe cyclicality); FCF/NI: 564% (strong); Gross margin: 61% (pricing power for Technology) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 11.5% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 61% vs sector strong cutoff 60% — strong pricing power; Operating margin 19% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.3x — deep value; 52w range position: 57%; Owner earnings yield: 11.0% (>5%) | - |
-| **TOTAL** | **8.0/10** | **100%** | **8.0** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.1x — deep value; 52w range position: 54%; Owner earnings yield: 11.2% (>5%) | - |
+| **TOTAL** | **7.5/10** | **100%** | **7.5** | | |
 
-## Buffett Score: 8.0 / 10
-## Alpha Adjustment: +0.30
+## Buffett Score: 7.5 / 10
+## Alpha Adjustment: +0.25
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,19 +36,19 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: 238% — PRESENT (IV $109 vs $32 at 25x)
-- **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
+- **Margin of Safety**: 244% — PRESENT (IV $109 vs $32 at 25x)
+- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.1% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-YES — 3 forces aligning: high quality, strong moat, attractive valuation
+No (2 forces only: strong moat, attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.30 applied to composite alpha score
+Buffett Premium: +0.25 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

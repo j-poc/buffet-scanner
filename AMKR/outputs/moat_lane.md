@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMKR
-*Generated: 2026-05-12 06:54 | Price: $76.69 | Mkt Cap: $19B*
+*Generated: 2026-05-13 07:05 | Price: $73.45 | Mkt Cap: $18B*
 
 ## Sector Context
 Technology / Semiconductor Equipment & Materials
@@ -23,11 +23,11 @@ Technology / Semiconductor Equipment & Materials
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 9.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 54% from prior peak; 5y price drawdown: 66% (severe cyclicality); FCF/NI: 80%; Gross margin: 14% (below Technology norm) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 49.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 43.0% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 14% — below Technology moderate cutoff 40%; Operating margin 6% — thin for Technology; Rev growth 28% — demand pull | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 31.3x — expensive; Near 52w high (96% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.6/10** | **100%** | **3.6** | | |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 30.0x — growth premium; Near 52w high (91% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
-## Buffett Score: 3.6 / 10
-## Alpha Adjustment: -0.23
+## Buffett Score: 4.0 / 10
+## Alpha Adjustment: -0.20
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -36,7 +36,7 @@ Technology / Semiconductor Equipment & Materials
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductor Equipment & Materials
-- **Margin of Safety**: -43% — ABSENT ($77 > IV $44 at 25x for 25% growth)
+- **Margin of Safety**: -41% — ABSENT ($73 > IV $44 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Aligned — 49.8% insider ownership
 - **Mr. Market**: Greedy — exercise caution
@@ -48,7 +48,7 @@ No (1 forces only: secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.23 applied to composite alpha score
+Buffett Premium: -0.20 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

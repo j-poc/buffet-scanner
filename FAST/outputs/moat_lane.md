@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FAST
-*Generated: 2026-05-12 06:43 | Price: $43.3 | Mkt Cap: $50B*
+*Generated: 2026-05-13 06:54 | Price: $43.32 | Mkt Cap: $50B*
 
 ## Sector Context
 Industrials / Industrial Distribution

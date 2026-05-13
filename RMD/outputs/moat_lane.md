@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RMD
-*Generated: 2026-05-12 06:45 | Price: $198.76 | Mkt Cap: $29B*
+*Generated: 2026-05-13 06:56 | Price: $203.79 | Mkt Cap: $30B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies
@@ -20,14 +20,14 @@ Healthcare / Medical Instruments & Supplies
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.6/10 | 30% | 2.6 | Avg ROIC: 18.7% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 54% (moderate cyclicality); FCF/NI: 83% (strong); Gross margin: 62% (pricing power for Healthcare) | - |
+| Quality | 9.1/10 | 30% | 2.7 | Avg ROIC: 18.7% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 0% (stable); FCF/NI: 83% (strong); Gross margin: 62% (pricing power for Healthcare) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 62% vs sector strong cutoff 55% — strong pricing power; Operating margin 35% — durable for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.4x — fair price; Near 52w low (0% of range) — Mr. Market fearful; Owner earnings yield: 5.0% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **7.8/10** | **100%** | **7.8** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.8x — fair price; Near 52w low (5% of range) — Mr. Market fearful; Owner earnings yield: 4.9%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **8.0/10** | **100%** | **8.0** | | |
 
-## Buffett Score: 7.8 / 10
-## Alpha Adjustment: +0.28
+## Buffett Score: 8.0 / 10
+## Alpha Adjustment: +0.30
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Healthcare / Medical Instruments & Supplies
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Instruments & Supplies
-- **Margin of Safety**: 4% — thin (IV $208 at 20x)
+- **Margin of Safety**: 2% — thin (IV $207 at 20x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
@@ -48,7 +48,7 @@ YES — 3 forces aligning: high quality, strong moat, attractive valuation
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.28 applied to composite alpha score
+Buffett Premium: +0.30 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: INSM
-*Generated: 2026-05-12 06:47 | Price: $103.89 | Mkt Cap: $23B*
+*Generated: 2026-05-13 06:58 | Price: $116.0 | Mkt Cap: $25B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -23,11 +23,11 @@ Healthcare / Biotechnology
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -53.8% (4y); Earnings: 3/3 down-years (unpredictable); 5y price drawdown: 52% (moderate cyclicality); FCF/NI: 78%; Gross margin: 82% (pricing power for Healthcare) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.3% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 82% vs sector strong cutoff 55% — strong pricing power; Operating margin -65% — thin for Healthcare; Rev growth 230% — demand pull | - |
-| Valuation Fit | 3.0/10 | 20% | 0.6 | P/E 311.4x — extreme premium; Near 52w low (26% of range) — Mr. Market fearful; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.5/10** | **100%** | **3.5** | | |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 347.7x — extreme premium; 52w range position: 35%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **3.2/10** | **100%** | **3.2** | | |
 
-## Buffett Score: 3.5 / 10
-## Alpha Adjustment: -0.24
+## Buffett Score: 3.2 / 10
+## Alpha Adjustment: -0.26
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -39,7 +39,7 @@ Healthcare / Biotechnology
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (2 forces only: strong moat, secular growth)
@@ -48,7 +48,7 @@ No (2 forces only: strong moat, secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.24 applied to composite alpha score
+Buffett Premium: -0.26 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```
