@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WSC
-*Generated: 2026-05-13 07:01 | Price: $27.02 | Mkt Cap: $5B*
+*Generated: 2026-05-14 07:00 | Price: $25.89 | Mkt Cap: $5B*
 
 ## Sector Context
 Industrials / Rental & Leasing Services
@@ -23,7 +23,7 @@ Industrials / Rental & Leasing Services
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 6.8% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 111% from prior peak; 5y price drawdown: 72% (severe cyclicality); FCF/NI: 81% (strong); Gross margin: 52% (pricing power for Industrials) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.0% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 52% vs sector strong cutoff 35% — strong pricing power; Operating margin 19% — durable for Industrials | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 19.8x — fair price; 52w range position: 71%; Owner earnings yield: 6.7% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 19.0x — fair price; 52w range position: 65%; Owner earnings yield: 7.0% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10

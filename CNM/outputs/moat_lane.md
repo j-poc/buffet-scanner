@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CNM
-*Generated: 2026-05-13 07:05 | Price: $47.5 | Mkt Cap: $9B*
+*Generated: 2026-05-14 06:58 | Price: $47.38 | Mkt Cap: $9B*
 
 ## Sector Context
 Industrials / Industrial Distribution
@@ -36,7 +36,7 @@ Industrials / Industrial Distribution
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Industrial Distribution
-- **Margin of Safety**: -17% — ABSENT ($48 > IV $39 at 17x for 9% growth)
+- **Margin of Safety**: -17% — ABSENT ($47 > IV $39 at 17x for 9% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DOCS
-*Generated: 2026-05-13 07:01 | Price: $26.45 | Mkt Cap: $5B*
+*Generated: 2026-05-14 07:01 | Price: $23.39 | Mkt Cap: $4B*
 
 ## Sector Context
 Healthcare / Health Information Services
@@ -12,7 +12,7 @@ Healthcare / Health Information Services
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 2.6%; key-man / succession risk | 15% | -20% | No |
+| 3 | Management / Governance Failure | Insider ownership 2.5%; key-man / succession risk | 15% | -20% | No |
 
 ---
 
@@ -21,9 +21,9 @@ Healthcare / Health Information Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.3/10 | 30% | 1.6 | Avg ROIC: 13.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 81% (severe cyclicality); FCF/NI: 118% (strong); Gross margin: 90% (pricing power for Healthcare) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.4% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.4% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 90% vs sector strong cutoff 55% — strong pricing power; Operating margin 39% — durable for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.3x — fair price; Near 52w low (11% of range) — Mr. Market fearful; Owner earnings yield: 4.3%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.2x — deep value; Near 52w low (5% of range) — Mr. Market fearful; Owner earnings yield: 4.9% | - |
 | **TOTAL** | **7.2/10** | **100%** | **7.2** | | |
 
 ## Buffett Score: 7.2 / 10
@@ -36,9 +36,9 @@ Healthcare / Health Information Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Health Information Services
-- **Margin of Safety**: -33% — ABSENT ($26 > IV $18 at 15x for -16% growth)
+- **Margin of Safety**: -24% — ABSENT ($23 > IV $18 at 15x for -16% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
-- **Incentive-Caused Bias**: Weak alignment — only 2.6% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 2.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check

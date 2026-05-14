@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FDX
-*Generated: 2026-05-13 06:54 | Price: $376.42 | Mkt Cap: $90B*
+*Generated: 2026-05-14 06:52 | Price: $369.7 | Mkt Cap: $88B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.0% inst.) as insider
 
@@ -25,10 +25,10 @@ Industrials / Integrated Freight & Logistics
 | Quality | 3.3/10 | 30% | 1.0 | Avg ROIC: 10.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 54% (moderate cyclicality); FCF/NI: 73%; Gross margin: 28% | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.6% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 28% — moderate moat for Industrials; Operating margin 7% — thin for Industrials | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 16.8x — fair price; Near 52w high (85% of range) — Mr. Market greedy; Owner earnings yield: 1.0%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.5x — fair price; 52w range position: 82%; Owner earnings yield: 1.0%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
-## Buffett Score: 4.9 / 10
+## Buffett Score: 5.1 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,13 +38,13 @@ Industrials / Integrated Freight & Logistics
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Integrated Freight & Logistics
-- **Margin of Safety**: -0% — ABSENT ($376 > IV $375 at 20x for 17% growth)
-- **Lollapalooza Effect**: No (0 forces only: none)
+- **Margin of Safety**: 1% — thin (IV $375 at 20x)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (0 forces only: none)
+No (1 forces only: attractive valuation)
 
 ---
 

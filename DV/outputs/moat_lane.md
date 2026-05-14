@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DV
-*Generated: 2026-05-11 08:01 | Price: $11.06 | Mkt Cap: $2B*
+*Generated: 2026-05-14 07:06 | Price: $8.88 | Mkt Cap: $1B*
 
 ## Sector Context
 Communication Services / Advertising Agencies
@@ -23,7 +23,7 @@ Communication Services / Advertising Agencies
 | Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 6.3% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 81% (severe cyclicality); FCF/NI: 212% (strong); Gross margin: 82% (pricing power for Communication Services) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: -64.1% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 82% vs sector strong cutoff 55% — strong pricing power; Operating margin 9% — thin for Communication Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.6x — deep value; 52w range position: 37%; Owner earnings yield: 7.7% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.0x — deep value; Near 52w low (14% of range) — Mr. Market fearful; Owner earnings yield: 9.6% (>5%) | - |
 | **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
 ## Buffett Score: 5.7 / 10
@@ -36,10 +36,10 @@ Communication Services / Advertising Agencies
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Advertising Agencies
-- **Margin of Safety**: -25% — ABSENT ($11 > IV $8 at 25x for 25% growth)
+- **Margin of Safety**: -18% — ABSENT ($9 > IV $7 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.1% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

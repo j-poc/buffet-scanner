@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EXLS
-*Generated: 2026-05-13 07:01 | Price: $29.73 | Mkt Cap: $5B*
+*Generated: 2026-05-14 07:00 | Price: $27.16 | Mkt Cap: $4B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -20,10 +20,10 @@ Technology / Information Technology Services
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 7.0/10 | 30% | 2.1 | Avg ROIC: 18.4% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 100% (strong); Gross margin: 38% (below Technology norm) | - |
+| Quality | 7.0/10 | 30% | 2.1 | Avg ROIC: 18.4% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 100% (strong); Gross margin: 38% (below Technology norm) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.5% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 38% — below Technology moderate cutoff 40%; Operating margin 16% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.8x — deep value; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 6.5% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.8x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 7.1% (>5%) | - |
 | **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
 ## Buffett Score: 6.4 / 10
@@ -36,7 +36,7 @@ Technology / Information Technology Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Information Technology Services
-- **Margin of Safety**: -10% — ABSENT ($30 > IV $27 at 17x for 8% growth)
+- **Margin of Safety**: -2% — ABSENT ($27 > IV $27 at 17x for 8% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 3.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

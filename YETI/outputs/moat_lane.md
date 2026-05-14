@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: YETI
-*Generated: 2026-05-13 07:01 | Price: $39.7 | Mkt Cap: $3B*
+*Generated: 2026-05-14 07:05 | Price: $38.33 | Mkt Cap: $3B*
 
 ## Sector Context
 Consumer Cyclical / Leisure
@@ -12,7 +12,7 @@ Consumer Cyclical / Leisure
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.9x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 0.6%; key-man / succession risk | 20% | -30% | YES |
+| 3 | Management / Governance Failure | Insider ownership 0.7%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -21,9 +21,9 @@ Consumer Cyclical / Leisure
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 7.0/10 | 30% | 2.1 | Avg ROIC: 21.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 75% (severe cyclicality); FCF/NI: 90% (strong); Gross margin: 57% (pricing power for Consumer Cyclical) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.5% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.7% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 57% vs sector strong cutoff 45% — strong pricing power; Operating margin 13% — durable for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.2x — deep value; 52w range position: 48%; Owner earnings yield: 3.0% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.8x — deep value; 52w range position: 42%; Owner earnings yield: 3.1% | - |
 | **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
 
 ## Buffett Score: 7.4 / 10
@@ -36,9 +36,9 @@ Consumer Cyclical / Leisure
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Leisure
-- **Margin of Safety**: 2% — thin (IV $41 at 20x)
+- **Margin of Safety**: 6% — thin (IV $41 at 20x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
-- **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

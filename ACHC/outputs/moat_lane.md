@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ACHC
-*Generated: 2026-05-11 08:00 | Price: $25.18 | Mkt Cap: $2B*
+*Generated: 2026-05-14 07:05 | Price: $27.15 | Mkt Cap: $2B*
 
 ## Sector Context
 Healthcare / Medical Care Facilities
@@ -23,10 +23,10 @@ Healthcare / Medical Care Facilities
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 0.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 504% from prior peak; 5y price drawdown: 87% (severe cyclicality); FCF/NI: -81% (weak conversion); Gross margin: 42% | ROIC declining |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 9.9% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 42% — moderate moat for Healthcare; Operating margin 10% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.4x — deep value; 52w range position: 73%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.6x — fair price; 52w range position: 84%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
-## Buffett Score: 4.9 / 10
+## Buffett Score: 4.6 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

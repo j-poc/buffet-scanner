@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NYT
-*Generated: 2026-05-13 06:58 | Price: $77.98 | Mkt Cap: $13B*
+*Generated: 2026-05-14 07:04 | Price: $77.0 | Mkt Cap: $12B*
 
 ## Sector Context
 Communication Services / Publishing
@@ -23,7 +23,7 @@ Communication Services / Publishing
 | Quality | 6.9/10 | 30% | 2.1 | Avg ROIC: 14.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 125% (strong); Gross margin: 51% | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.5% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 51% — moderate moat for Communication Services; Operating margin 13% — thin for Communication Services | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 24.5x — growth premium; 52w range position: 75%; Owner earnings yield: 3.1%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 24.1x — growth premium; 52w range position: 72%; Owner earnings yield: 3.2%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
 
 ## Buffett Score: 6.1 / 10
@@ -36,7 +36,7 @@ Communication Services / Publishing
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Publishing
-- **Margin of Safety**: -25% — ABSENT ($78 > IV $58 at 25x for 25% growth)
+- **Margin of Safety**: -24% — ABSENT ($77 > IV $58 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 4.7% insider ownership
 - **Mr. Market**: Neutral

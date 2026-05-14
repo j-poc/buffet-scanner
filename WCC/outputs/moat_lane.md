@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WCC
-*Generated: 2026-05-13 06:58 | Price: $362.23 | Mkt Cap: $18B*
+*Generated: 2026-05-14 06:57 | Price: $360.5 | Mkt Cap: $18B*
 
 ## Sector Context
 Industrials / Industrial Distribution
@@ -23,7 +23,7 @@ Industrials / Industrial Distribution
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 10.4% (4y); Earnings: 3/3 down-years (unpredictable); 5y price drawdown: 37% (stable); FCF/NI: 47% (weak conversion); Gross margin: 21% (below Industrials norm) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.8% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 21% — below Industrials moderate cutoff 22%; Operating margin 5% — thin for Industrials | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.3x — fair price; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 1.0%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.2x — fair price; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 1.0%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
 
 ## Buffett Score: 3.8 / 10
@@ -36,7 +36,7 @@ Industrials / Industrial Distribution
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Industrial Distribution
-- **Margin of Safety**: -3% — ABSENT ($362 > IV $351 at 25x for 25% growth)
+- **Margin of Safety**: -2% — ABSENT ($360 > IV $352 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 1.9% insider ownership
 - **Mr. Market**: Greedy — exercise caution

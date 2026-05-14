@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FNF
-*Generated: 2026-05-13 06:58 | Price: $47.6 | Mkt Cap: $13B*
+*Generated: 2026-05-14 07:04 | Price: $47.47 | Mkt Cap: $13B*
 
 > ⚠ DATA: yfinance misclassified Windacre Partnership LLC (7.3% inst.) as insider
 
@@ -38,7 +38,7 @@ Financial Services / Insurance - Specialty
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Specialty
-- **Margin of Safety**: 48% — PRESENT (IV $70 vs $48 at 25x)
+- **Margin of Safety**: 48% — PRESENT (IV $70 vs $47 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

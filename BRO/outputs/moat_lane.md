@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BRO
-*Generated: 2026-05-13 06:53 | Price: $55.77 | Mkt Cap: $19B*
+*Generated: 2026-05-14 06:51 | Price: $54.38 | Mkt Cap: $18B*
 
 ## Sector Context
 Financial Services / Insurance Brokers
@@ -20,10 +20,10 @@ Financial Services / Insurance Brokers
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.0/10 | 30% | 1.5 | ROE: 11.9% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 55% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Quality | 5.0/10 | 30% | 1.5 | ROE: 11.9% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 56% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 13.1% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 13.9% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 12% — adequate (Financial Services); Operating margin 47% — durable for Financial Services; Rev growth 36% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.4x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 8.1% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.2x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 8.3% (>5%) | - |
 | **TOTAL** | **7.5/10** | **100%** | **7.5** | | |
 
 ## Buffett Score: 7.5 / 10
@@ -36,7 +36,7 @@ Financial Services / Insurance Brokers
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance Brokers
-- **Margin of Safety**: -17% — ABSENT ($56 > IV $46 at 15x for -8% growth)
+- **Margin of Safety**: -15% — ABSENT ($54 > IV $46 at 15x for -8% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Aligned — 13.1% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

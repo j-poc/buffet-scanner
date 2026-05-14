@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LNC
-*Generated: 2026-05-11 08:04 | Price: $35.8 | Mkt Cap: $7B*
+*Generated: 2026-05-14 06:59 | Price: $34.07 | Mkt Cap: $7B*
 
 ## Sector Context
 Financial Services / Insurance - Life
@@ -21,9 +21,9 @@ Financial Services / Insurance - Life
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.5/10 | 30% | 1.3 | ROE: 18.8% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 73% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 9.6% of shares (SBC concern) | - |
-| Moat | 7.0/10 | 25% | 1.8 | ROE 19% — strong franchise (Financial Services); Operating margin -3% — thin for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.3x — deep value; Near 52w low (28% of range) — Mr. Market fearful | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.3% of shares (SBC concern) | - |
+| Moat | 7.0/10 | 25% | 1.8 | ROE 19% — strong franchise (Financial Services); Operating margin -4% — thin for Financial Services | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.1x — deep value; Near 52w low (16% of range) — Mr. Market fearful; Owner earnings yield: 44.1% (>5%) | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,7 +36,7 @@ Financial Services / Insurance - Life
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Life
-- **Margin of Safety**: 411% — PRESENT (IV $183 vs $36 at 20x)
+- **Margin of Safety**: 437% — PRESENT (IV $183 vs $34 at 20x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

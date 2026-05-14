@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VSNT
-*Generated: 2026-05-13 07:00 | Price: $40.37 | Mkt Cap: $6B*
+*Generated: 2026-05-14 07:00 | Price: $40.44 | Mkt Cap: $6B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -23,7 +23,7 @@ Communication Services / Entertainment
 | Quality | 1.4/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 12.1% (3y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 47% from prior peak; 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 163% (strong); Gross margin: 56% (pricing power for Communication Services) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); No insider transaction data; Restricted stock: -0.9% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 56% vs sector strong cutoff 55% — strong pricing power; Operating margin 12% — thin for Communication Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.1x — deep value; 52w range position: 41%; Owner earnings yield: 9.9% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.1x — deep value; 52w range position: 42%; Owner earnings yield: 9.9% (>5%) | - |
 | **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
 ## Buffett Score: 5.3 / 10

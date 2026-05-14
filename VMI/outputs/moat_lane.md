@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VMI
-*Generated: 2026-05-13 06:59 | Price: $513.99 | Mkt Cap: $10B*
+*Generated: 2026-05-14 07:04 | Price: $513.63 | Mkt Cap: $10B*
 
 ## Sector Context
 Industrials / Conglomerates
@@ -23,7 +23,7 @@ Industrials / Conglomerates
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 13.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 43% from prior peak; 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 118% (strong); Gross margin: 30% | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.9% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 30% — moderate moat for Industrials; Operating margin 15% — durable for Industrials | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 20.3x — growth premium; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 1.9%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 20.2x — growth premium; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 1.9%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
 ## Buffett Score: 5.2 / 10

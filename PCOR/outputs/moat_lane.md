@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PCOR
-*Generated: 2026-05-11 08:04 | Price: $53.28 | Mkt Cap: $8B*
+*Generated: 2026-05-14 07:00 | Price: $45.99 | Mkt Cap: $7B*
 
 > ⚠ DATA: yfinance misclassified ICONIQ Capital, LLC (9.7% inst.) as insider
 
@@ -25,10 +25,10 @@ Technology / Software - Application
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: -11.2% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 62% (severe cyclicality); FCF/NI: -87% (weak conversion); Gross margin: 80% (pricing power for Technology) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 9.6% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 80% vs sector strong cutoff 60% — strong pricing power; Operating margin -2% — thin for Technology | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 25.1x — growth premium; Near 52w low (20% of range) — Mr. Market fearful; Owner earnings yield: 3.1%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 21.7x — growth premium; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 3.5%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
-## Buffett Score: 5.0 / 10
+## Buffett Score: 5.2 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

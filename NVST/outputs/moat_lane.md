@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NVST
-*Generated: 2026-05-13 07:01 | Price: $24.28 | Mkt Cap: $4B*
+*Generated: 2026-05-14 07:01 | Price: $23.92 | Mkt Cap: $4B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies
@@ -12,7 +12,7 @@ Healthcare / Medical Instruments & Supplies
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.1x | 30% | -40% | YES |
-| 3 | Management / Governance Failure | Insider ownership 0.5%; key-man / succession risk | 20% | -30% | YES |
+| 3 | Management / Governance Failure | Insider ownership 0.4%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -21,9 +21,9 @@ Healthcare / Medical Instruments & Supplies
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: -2.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 560% from prior peak; 5y price drawdown: 71% (severe cyclicality); FCF/NI: 73%; Gross margin: 55% (pricing power for Healthcare) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 55% vs sector strong cutoff 55% — strong pricing power; Operating margin 10% — thin for Healthcare | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.5x — fair price; 52w range position: 56%; Owner earnings yield: 5.5% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.2x — fair price; 52w range position: 54%; Owner earnings yield: 5.6% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10
@@ -36,9 +36,9 @@ Healthcare / Medical Instruments & Supplies
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Instruments & Supplies
-- **Margin of Safety**: -58% — ABSENT ($24 > IV $10 at 25x for 25% growth)
+- **Margin of Safety**: -57% — ABSENT ($24 > IV $10 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
-- **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

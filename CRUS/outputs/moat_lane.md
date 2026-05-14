@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CRUS
-*Generated: 2026-05-13 07:05 | Price: $166.47 | Mkt Cap: $8B*
+*Generated: 2026-05-14 06:59 | Price: $166.445 | Mkt Cap: $8B*
 
 ## Sector Context
 Technology / Semiconductors

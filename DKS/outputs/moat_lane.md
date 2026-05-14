@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DKS
-*Generated: 2026-05-13 06:58 | Price: $219.42 | Mkt Cap: $20B*
+*Generated: 2026-05-14 07:04 | Price: $214.62 | Mkt Cap: $19B*
 
 ## Sector Context
 Consumer Cyclical / Specialty Retail
@@ -12,7 +12,7 @@ Consumer Cyclical / Specialty Retail
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.9x | 15% | -25% | No |
-| 3 | Management / Governance Failure | Insider ownership 3.7%; key-man / succession risk | 15% | -20% | No |
+| 3 | Management / Governance Failure | Insider ownership 3.6%; key-man / succession risk | 15% | -20% | No |
 
 ---
 
@@ -21,9 +21,9 @@ Consumer Cyclical / Specialty Retail
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.3/10 | 30% | 1.3 | ROIC declining trend; Avg ROIC: 23.6% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 49% (moderate cyclicality); FCF/NI: 59%; Gross margin: 34% (thin by design for Specialty Retail) | ROIC declining |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 3.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 21.2% of shares (SBC concern) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 3.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 21.2% of shares (SBC concern) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROA 7% / ROE 19% — adequate scale (Specialty Retail); Operating margin 7%; Rev growth 60% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.6x — deep value; 52w range position: 75% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.3x — deep value; 52w range position: 68% | - |
 | **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
 
 ## Buffett Score: 6.3 / 10
@@ -36,9 +36,9 @@ Consumer Cyclical / Specialty Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Specialty Retail
-- **Margin of Safety**: -32% — ABSENT ($219 > IV $149 at 15x for -61% growth)
+- **Margin of Safety**: -30% — ABSENT ($215 > IV $150 at 15x for -61% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
-- **Incentive-Caused Bias**: Weak alignment — only 3.7% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 3.6% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

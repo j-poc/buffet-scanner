@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WSO
-*Generated: 2026-05-13 06:58 | Price: $417.13 | Mkt Cap: $17B*
+*Generated: 2026-05-14 07:04 | Price: $417.98 | Mkt Cap: $17B*
 
 ## Sector Context
 Industrials / Industrial Distribution
@@ -36,7 +36,7 @@ Industrials / Industrial Distribution
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Industrial Distribution
-- **Margin of Safety**: -56% — ABSENT ($417 > IV $183 at 15x for -3% growth)
+- **Margin of Safety**: -56% — ABSENT ($418 > IV $183 at 15x for -3% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral

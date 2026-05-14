@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AIT
-*Generated: 2026-05-13 06:58 | Price: $313.7 | Mkt Cap: $12B*
+*Generated: 2026-05-14 07:04 | Price: $310.87 | Mkt Cap: $11B*
 
 ## Sector Context
 Industrials / Industrial Distribution
@@ -20,10 +20,10 @@ Industrials / Industrial Distribution
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 7.8/10 | 30% | 2.3 | Avg ROIC: 17.1% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 26% (stable); FCF/NI: 91% (strong); Gross margin: 30% | - |
+| Quality | 7.8/10 | 30% | 2.3 | Avg ROIC: 17.1% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 0% (stable); FCF/NI: 91% (strong); Gross margin: 30% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 30% — moderate moat for Industrials; Operating margin 11% | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 26.6x — growth premium; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 2.9%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 26.4x — growth premium; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 2.9%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
 ## Buffett Score: 5.9 / 10
@@ -36,7 +36,7 @@ Industrials / Industrial Distribution
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Industrial Distribution
-- **Margin of Safety**: -49% — ABSENT ($314 > IV $159 at 15x for 3% growth)
+- **Margin of Safety**: -49% — ABSENT ($311 > IV $159 at 15x for 3% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Greedy — exercise caution

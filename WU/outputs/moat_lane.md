@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WU
-*Generated: 2026-05-11 08:00 | Price: $9.07 | Mkt Cap: $3B*
+*Generated: 2026-05-14 07:05 | Price: $8.44 | Mkt Cap: $3B*
 
 ## Sector Context
 Financial Services / Credit Services
@@ -20,10 +20,10 @@ Financial Services / Credit Services
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.5/10 | 30% | 1.3 | ROE: 47.7% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 58% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Quality | 4.5/10 | 30% | 1.3 | ROE: 47.7% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 57% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 48% — strong franchise (Financial Services); Operating margin 13% — thin for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.7x — deep value; 52w range position: 49%; Owner earnings yield: 10.3% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.4x — deep value; Near 52w low (24% of range) — Mr. Market fearful; Owner earnings yield: 11.0% (>5%) | - |
 | **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
 
 ## Buffett Score: 6.1 / 10
@@ -36,10 +36,10 @@ Financial Services / Credit Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Credit Services
-- **Margin of Safety**: 125% — PRESENT (IV $20 vs $9 at 15x)
+- **Margin of Safety**: 142% — PRESENT (IV $20 vs $8 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

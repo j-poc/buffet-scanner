@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CPT
-*Generated: 2026-05-13 06:53 | Price: $105.23 | Mkt Cap: $10B*
+*Generated: 2026-05-14 06:51 | Price: $105.35 | Mkt Cap: $10B*
 
 ## Sector Context
 Real Estate / REIT - Residential
@@ -23,7 +23,7 @@ Real Estate / REIT - Residential
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 5.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 75% from prior peak; 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 119% (strong); Gross margin: 62% (pricing power for Real Estate) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: -2.9% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 62% vs sector strong cutoff 55% — strong pricing power; Operating margin 4% — thin for Real Estate | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 84.1x — extreme premium; 52w range position: 37%; Owner earnings yield: 6.6% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 84.2x — extreme premium; 52w range position: 38%; Owner earnings yield: 6.6% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
 
 ## Buffett Score: 3.8 / 10

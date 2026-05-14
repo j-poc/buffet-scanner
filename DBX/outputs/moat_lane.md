@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DBX
-*Generated: 2026-05-13 07:01 | Price: $25.81 | Mkt Cap: $6B*
+*Generated: 2026-05-14 07:00 | Price: $26.2 | Mkt Cap: $6B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Portfolio Management LLC (7.7% inst.) as insider
 
@@ -25,7 +25,7 @@ Technology / Software - Infrastructure
 | Quality | 6.5/10 | 30% | 1.9 | Avg ROIC: 32.1% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 170% (strong); Gross margin: 80% (pricing power for Technology) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.1% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 80% vs sector strong cutoff 60% — strong pricing power; Operating margin 27% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.6x — deep value; 52w range position: 38%; Owner earnings yield: 13.6% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.7x — deep value; 52w range position: 42%; Owner earnings yield: 13.4% (>5%) | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -38,7 +38,7 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: 6% — thin (IV $27 at 15x)
+- **Margin of Safety**: 5% — thin (IV $27 at 15x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KNX
-*Generated: 2026-05-13 06:59 | Price: $59.9 | Mkt Cap: $10B*
+*Generated: 2026-05-14 07:05 | Price: $59.77 | Mkt Cap: $10B*
 
 ## Sector Context
 Industrials / Trucking

@@ -1,7 +1,5 @@
 # Buffett/Munger Moat Lane: PK
-*Generated: 2026-05-11 08:00 | Price: $11.32 | Mkt Cap: $2B*
-
-> ⚠ DATA: yfinance misclassified Donald Smith & Co., Inc. (7.3% inst.) as insider
+*Generated: 2026-05-14 07:05 | Price: $10.81 | Mkt Cap: $2B*
 
 ## Sector Context
 Real Estate / REIT - Hotel & Motel
@@ -14,7 +12,7 @@ Real Estate / REIT - Hotel & Motel
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 7.1x | 30% | -40% | YES |
-| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
+| 3 | Management / Governance Failure | Insider ownership 4.0%; key-man / succession risk | 15% | -20% | No |
 
 ---
 
@@ -23,13 +21,13 @@ Real Estate / REIT - Hotel & Motel
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 233% from prior peak; 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 108% (strong); Gross margin: 30% (below Real Estate norm) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 4.0% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.0% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 30% — below Real Estate moderate cutoff 35%; Operating margin 11% — thin for Real Estate | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 22.4x — growth premium; 52w range position: 58%; Owner earnings yield: 45.6% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **3.3/10** | **100%** | **3.3** | | |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 21.4x — growth premium; 52w range position: 38%; Owner earnings yield: 47.8% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **3.7/10** | **100%** | **3.7** | | |
 
-## Buffett Score: 3.3 / 10
-## Alpha Adjustment: -0.25
+## Buffett Score: 3.7 / 10
+## Alpha Adjustment: -0.22
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -40,7 +38,7 @@ Real Estate / REIT - Hotel & Motel
 - **Circle of Competence**: Real Estate / REIT - Hotel & Motel
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (0 forces only: none)
-- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 4.0% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
@@ -50,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.25 applied to composite alpha score
+Buffett Premium: -0.22 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

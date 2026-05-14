@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UAA
-*Generated: 2026-05-11 08:01 | Price: $6.43 | Mkt Cap: $3B*
+*Generated: 2026-05-14 07:06 | Price: $5.11 | Mkt Cap: $2B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Manufacturing
@@ -11,7 +11,7 @@ Consumer Cyclical / Apparel Manufacturing
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 17.5x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 9.0x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.3%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,16 +20,16 @@ Consumer Cyclical / Apparel Manufacturing
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 3.4% (3y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 154% from prior peak; 5y price drawdown: 85% (severe cyclicality); FCF/NI: 78%; Gross margin: 47% (pricing power for Consumer Cyclical) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -60.1% (low) | - |
-| Moat | 7.5/10 | 25% | 1.9 | Gross margin 47% vs sector strong cutoff 45% — strong pricing power; Operating margin -5% — thin for Consumer Cyclical | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 28.3x — growth premium; 52w range position: 57%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 3.4% (3y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 154% from prior peak; 5y price drawdown: 85% (severe cyclicality); FCF/NI: 78%; Gross margin: 46% (pricing power for Consumer Cyclical) | ROIC declining |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -60.2% (low) | - |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 46% vs sector strong cutoff 45% — strong pricing power; Operating margin 0% — thin for Consumer Cyclical | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 21.7x — growth premium; Near 52w low (24% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
-## Buffett Score: 4.0 / 10
-## Alpha Adjustment: -0.20
-## Conviction: AVOID
-## Verdict: Avoid
+## Buffett Score: 4.4 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
@@ -39,7 +39,7 @@ Consumer Cyclical / Apparel Manufacturing
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (0 forces only: none)
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.20 applied to composite alpha score
-Conviction Gate: AVOID — Do not initiate position
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
 Half-life adjustment: N/A
 ```

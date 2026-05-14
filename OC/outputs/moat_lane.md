@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OC
-*Generated: 2026-05-13 06:59 | Price: $119.83 | Mkt Cap: $10B*
+*Generated: 2026-05-14 07:04 | Price: $118.56 | Mkt Cap: $10B*
 
 ## Sector Context
 Industrials / Building Products & Equipment
@@ -12,7 +12,7 @@ Industrials / Building Products & Equipment
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.0x | 15% | -25% | No |
-| 3 | Management / Governance Failure | Insider ownership 1.1%; key-man / succession risk | 15% | -20% | No |
+| 3 | Management / Governance Failure | Insider ownership 1.0%; key-man / succession risk | 15% | -20% | No |
 
 ---
 
@@ -21,9 +21,9 @@ Industrials / Building Products & Equipment
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 11.7% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 142% from prior peak; 5y price drawdown: 52% (moderate cyclicality); FCF/NI: 53%; Gross margin: 27% | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 27% — moderate moat for Industrials; Operating margin 7% — thin for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.0x — deep value; 52w range position: 36%; Owner earnings yield: 6.8% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.9x — deep value; 52w range position: 34%; Owner earnings yield: 6.8% (>5%) | - |
 | **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
 ## Buffett Score: 4.9 / 10
@@ -38,7 +38,7 @@ Industrials / Building Products & Equipment
 - **Circle of Competence**: Industrials / Building Products & Equipment
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
-- **Incentive-Caused Bias**: Weak alignment — only 1.1% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 1.0% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

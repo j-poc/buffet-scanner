@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MGM
-*Generated: 2026-05-13 06:55 | Price: $36.9 | Mkt Cap: $9B*
+*Generated: 2026-05-14 06:54 | Price: $37.41 | Mkt Cap: $10B*
 
 ## Sector Context
 Consumer Cyclical / Resorts & Casinos
@@ -23,7 +23,7 @@ Consumer Cyclical / Resorts & Casinos
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 10.8% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 86% from prior peak; 5y price drawdown: 49% (moderate cyclicality); FCF/NI: 273% (strong); Gross margin: 44% | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 27.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 27.5% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 44% — moderate moat for Consumer Cyclical; Operating margin 7% | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 16.0x — fair price; 52w range position: 66%; Owner earnings yield: 5.6% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 16.2x — fair price; 52w range position: 70%; Owner earnings yield: 5.5% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
 ## Buffett Score: 5.7 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Resorts & Casinos
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Resorts & Casinos
-- **Margin of Safety**: -70% — ABSENT ($37 > IV $11 at 15x for -6% growth)
+- **Margin of Safety**: -71% — ABSENT ($37 > IV $11 at 15x for -6% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 27.4% insider ownership
 - **Mr. Market**: Neutral

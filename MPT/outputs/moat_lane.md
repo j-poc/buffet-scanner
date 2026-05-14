@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MPT
-*Generated: 2026-05-11 08:00 | Price: $5.17 | Mkt Cap: $3B*
+*Generated: 2026-05-14 07:05 | Price: $5.09 | Mkt Cap: $3B*
 
 ## Sector Context
 Real Estate / REIT - Healthcare Facilities
@@ -21,9 +21,9 @@ Real Estate / REIT - Healthcare Facilities
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 367% from prior peak; 5y price drawdown: 85% (severe cyclicality); FCF/NI: -26% (weak conversion); Gross margin: 96% (pricing power for Real Estate) | ROIC declining |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 17.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 17.9% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 17.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 18.0% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 96% vs sector strong cutoff 55% — strong pricing power; Operating margin 58% — durable for Real Estate | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 31.3x — expensive; 52w range position: 48%; Owner earnings yield: 25.3% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 30.8x — expensive; 52w range position: 45%; Owner earnings yield: 25.7% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
 ## Buffett Score: 5.3 / 10

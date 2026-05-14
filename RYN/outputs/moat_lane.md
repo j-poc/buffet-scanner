@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RYN
-*Generated: 2026-05-12 06:49 | Price: $20.31 | Mkt Cap: $6B*
+*Generated: 2026-05-14 07:00 | Price: $20.02 | Mkt Cap: $6B*
 
 ## Sector Context
 Real Estate / REIT - Specialty
@@ -11,7 +11,7 @@ Real Estate / REIT - Specialty
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 10.8x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 8.0x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.9%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,9 +21,9 @@ Real Estate / REIT - Specialty
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.5/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 5.5% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 43% (moderate cyclicality); FCF/NI: -3% (weak conversion); Gross margin: 28% (below Real Estate norm) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
-| Moat | 4.0/10 | 25% | 1.0 | Gross margin 28% — below Real Estate moderate cutoff 35%; Operating margin -17% — thin for Real Estate; Rev growth 234% — demand pull | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 33.9x — expensive; Near 52w low (10% of range) — Mr. Market fearful; Owner earnings yield: 5.3% (>5%); Earnings yield < 4% — worse than bonds | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
+| Moat | 4.0/10 | 25% | 1.0 | Gross margin 28% — below Real Estate moderate cutoff 35%; Operating margin 9% — thin for Real Estate; Rev growth 234% — demand pull | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 33.4x — expensive; Near 52w low (7% of range) — Mr. Market fearful; Owner earnings yield: 6.0% (>5%); Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **3.4/10** | **100%** | **3.4** | | |
 
 ## Buffett Score: 3.4 / 10

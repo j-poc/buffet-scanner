@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WPC
-*Generated: 2026-05-13 06:58 | Price: $74.73 | Mkt Cap: $17B*
+*Generated: 2026-05-14 06:57 | Price: $73.95 | Mkt Cap: $16B*
 
 ## Sector Context
 Real Estate / REIT - Diversified
@@ -12,7 +12,7 @@ Real Estate / REIT - Diversified
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 6.0x | 30% | -40% | YES |
-| 3 | Management / Governance Failure | Insider ownership 1.0%; key-man / succession risk | 15% | -20% | No |
+| 3 | Management / Governance Failure | Insider ownership 1.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -23,7 +23,7 @@ Real Estate / REIT - Diversified
 | Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 4.1% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 35% from prior peak; 5y price drawdown: 37% (stable); FCF/NI: 248% (strong); Gross margin: 94% (pricing power for Real Estate) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 1.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 94% vs sector strong cutoff 55% — strong pricing power; Operating margin 55% — durable for Real Estate | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 26.9x — growth premium; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 4.0%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 26.6x — growth premium; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 4.0%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10
@@ -36,7 +36,7 @@ Real Estate / REIT - Diversified
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Diversified
-- **Margin of Safety**: -22% — ABSENT ($75 > IV $58 at 25x for 25% growth)
+- **Margin of Safety**: -21% — ABSENT ($74 > IV $58 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 1.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

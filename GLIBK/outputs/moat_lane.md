@@ -1,7 +1,7 @@
 # Buffett/Munger Moat Lane: GLIBK
-*Generated: 2026-05-11 08:01 | Price: $26.26 | Mkt Cap: $1B*
+*Generated: 2026-05-14 07:06 | Price: $27.29 | Mkt Cap: $1B*
 
-> ⚠ DATA: yfinance misclassified Vanguard Group Inc (8.6% inst.) as insider
+> ⚠ DATA: yfinance misclassified Blackrock Inc. (5.9% inst.) as insider
 
 ## Sector Context
 Communication Services / Telecom Services
@@ -25,7 +25,7 @@ Communication Services / Telecom Services
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -0.6% (3y); Earnings: 1 down-year in 2 transitions; NI drawdown: 541% from prior peak; 5y price drawdown: 34% (stable); FCF/NI: 46% (weak conversion); Gross margin: 50% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -2.6% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 50% — moderate moat for Communication Services; Operating margin 13% — thin for Communication Services | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | No P/E data (unprofitable?); Near 52w low (6% of range) — Mr. Market fearful; Owner earnings yield: 11.0% (>5%) | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | No P/E data (unprofitable?); Near 52w low (12% of range) — Mr. Market fearful; Owner earnings yield: 10.6% (>5%) | - |
 | **TOTAL** | **3.6/10** | **100%** | **3.6** | | |
 
 ## Buffett Score: 3.6 / 10

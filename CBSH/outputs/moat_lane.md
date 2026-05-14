@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CBSH
-*Generated: 2026-05-12 06:55 | Price: $50.98 | Mkt Cap: $7B*
+*Generated: 2026-05-14 06:59 | Price: $50.32 | Mkt Cap: $7B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -20,14 +20,14 @@ Financial Services / Banks - Regional
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.2/10 | 30% | 1.9 | ROE: 14.9% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 2.4% (low); No insider transaction data; Restricted stock: 8.6% of shares (SBC concern) | - |
-| Moat | 7.0/10 | 25% | 1.8 | ROE 15% — adequate (Financial Services); Operating margin 43% — durable for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.8x — deep value; Near 52w low (25% of range) — Mr. Market fearful | - |
-| **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
+| Quality | 5.7/10 | 30% | 1.7 | ROE: 14.9% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 41% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 2.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 8.7% of shares (SBC concern) | - |
+| Moat | 7.0/10 | 25% | 1.8 | ROE 15% — adequate (Financial Services); Operating margin 40% — durable for Financial Services | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.5x — deep value; Near 52w low (21% of range) — Mr. Market fearful | - |
+| **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
 
-## Buffett Score: 6.9 / 10
-## Alpha Adjustment: +0.19
+## Buffett Score: 6.7 / 10
+## Alpha Adjustment: +0.17
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Financial Services / Banks - Regional
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Regional
-- **Margin of Safety**: 20% — thin (IV $61 at 15x)
+- **Margin of Safety**: 21% — thin (IV $61 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 2.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.19 applied to composite alpha score
+Buffett Premium: +0.17 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

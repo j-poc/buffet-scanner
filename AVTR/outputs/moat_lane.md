@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AVTR
-*Generated: 2026-05-13 07:01 | Price: $8.17 | Mkt Cap: $6B*
+*Generated: 2026-05-14 07:00 | Price: $7.87 | Mkt Cap: $5B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies
@@ -23,7 +23,7 @@ Healthcare / Medical Instruments & Supplies
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 4.8% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 175% from prior peak; 5y price drawdown: 83% (severe cyclicality); FCF/NI: 83% (strong); Gross margin: 32% (below Healthcare norm) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.7% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 32% — below Healthcare moderate cutoff 35%; Operating margin 6% — thin for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.6x — deep value; Near 52w low (10% of range) — Mr. Market fearful; Owner earnings yield: 8.8% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.2x — deep value; Near 52w low (7% of range) — Mr. Market fearful; Owner earnings yield: 9.1% (>5%) | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10

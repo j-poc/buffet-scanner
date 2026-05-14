@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LSTR
-*Generated: 2026-05-11 08:04 | Price: $183.39 | Mkt Cap: $6B*
+*Generated: 2026-05-14 06:59 | Price: $174.99 | Mkt Cap: $6B*
 
 ## Sector Context
 Industrials / Integrated Freight & Logistics
@@ -12,7 +12,7 @@ Industrials / Integrated Freight & Logistics
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.5x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 0.7%; key-man / succession risk | 20% | -30% | YES |
+| 3 | Management / Governance Failure | Insider ownership 0.8%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -21,13 +21,13 @@ Industrials / Integrated Freight & Logistics
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.0/10 | 30% | 0.9 | ROIC declining trend; Avg ROIC: 25.1% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 73% from prior peak; 5y price drawdown: 39% (stable); FCF/NI: 149% (strong); Gross margin: 19% (below Industrials norm) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 19% — below Industrials moderate cutoff 22%; Operating margin 5% — thin for Industrials | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 26.2x — growth premium; 52w range position: 84%; Owner earnings yield: 3.0%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 25.0x — growth premium; 52w range position: 73%; Owner earnings yield: 3.1%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
-## Buffett Score: 3.9 / 10
-## Alpha Adjustment: -0.21
+## Buffett Score: 4.0 / 10
+## Alpha Adjustment: -0.20
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -36,9 +36,9 @@ Industrials / Integrated Freight & Logistics
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Integrated Freight & Logistics
-- **Margin of Safety**: -51% — ABSENT ($183 > IV $90 at 25x for 25% growth)
+- **Margin of Safety**: -48% — ABSENT ($175 > IV $90 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
-- **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.21 applied to composite alpha score
+Buffett Premium: -0.20 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

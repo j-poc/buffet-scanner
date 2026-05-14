@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MAN
-*Generated: 2026-05-11 08:01 | Price: $29.84 | Mkt Cap: $1B*
+*Generated: 2026-05-14 07:06 | Price: $26.08 | Mkt Cap: $1B*
 
 ## Sector Context
 Industrials / Staffing & Employment Services
@@ -11,7 +11,7 @@ Industrials / Staffing & Employment Services
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.0x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.1x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 1.8%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -21,9 +21,9 @@ Industrials / Staffing & Employment Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 104% from prior peak; 5y price drawdown: 75% (severe cyclicality); FCF/NI: 447% (strong); Gross margin: 16% (below Industrials norm) | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.4% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.8% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 16% — below Industrials moderate cutoff 22%; Operating margin 1% — thin for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.2x — deep value; Near 52w low (21% of range) — Mr. Market fearful | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.4x — deep value; Near 52w low (4% of range) — Mr. Market fearful | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10

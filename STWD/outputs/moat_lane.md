@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STWD
-*Generated: 2026-05-13 07:00 | Price: $17.22 | Mkt Cap: $7B*
+*Generated: 2026-05-14 07:00 | Price: $17.11 | Mkt Cap: $7B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Capital Management LLC (4.2% inst.) as insider
 
@@ -25,7 +25,7 @@ Real Estate / REIT - Mortgage
 | Quality | 6.5/10 | 30% | 1.9 | Fallback ROE: 5.3%; Earnings: 1 down-year in 3 transitions; NI drawdown: 61% from prior peak; 5y price drawdown: 30% (stable); FCF/NI: 129% (strong); Gross margin: 88% (pricing power for Real Estate) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 4.8% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 88% vs sector strong cutoff 55% — strong pricing power; Operating margin 17%; Rev growth 22% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.9x — deep value; Near 52w low (8% of range) — Mr. Market fearful | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.8x — deep value; Near 52w low (5% of range) — Mr. Market fearful | - |
 | **TOTAL** | **7.1/10** | **100%** | **7.1** | | |
 
 ## Buffett Score: 7.1 / 10

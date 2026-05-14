@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: Q
-*Generated: 2026-05-13 06:56 | Price: $168.36 | Mkt Cap: $35B*
+*Generated: 2026-05-14 06:55 | Price: $162.02 | Mkt Cap: $34B*
 
 ## Sector Context
 Technology / Semiconductor Equipment & Materials
@@ -11,7 +11,7 @@ Technology / Semiconductor Equipment & Materials
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Semiconductor Equipment & Materials | 25% | -35% | YES |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.8x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.1x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -23,7 +23,7 @@ Technology / Semiconductor Equipment & Materials
 | Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 6.2% (3y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 34% from prior peak; 5y price drawdown: 27% (stable); FCF/NI: 130% (strong); Gross margin: 46% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 46% — moderate moat for Technology; Operating margin 23% | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 37.9x — expensive; Near 52w high (100% of range) — Mr. Market greedy; Owner earnings yield: 2.1%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 34.1x — expensive; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 2.1%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.6/10** | **100%** | **3.6** | | |
 
 ## Buffett Score: 3.6 / 10
@@ -36,7 +36,7 @@ Technology / Semiconductor Equipment & Materials
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductor Equipment & Materials
-- **Margin of Safety**: -63% — ABSENT ($168 > IV $62 at 20x for 18% growth)
+- **Margin of Safety**: -71% — ABSENT ($162 > IV $47 at 15x for -22% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ELAN
-*Generated: 2026-05-13 06:59 | Price: $21.43 | Mkt Cap: $11B*
+*Generated: 2026-05-14 07:04 | Price: $21.8 | Mkt Cap: $11B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - Specialty & Generic
@@ -23,7 +23,7 @@ Healthcare / Drug Manufacturers - Specialty & Generic
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 0.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 169% from prior peak; 5y price drawdown: 78% (severe cyclicality); FCF/NI: -90% (weak conversion); Gross margin: 55% (pricing power for Healthcare) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 55% vs sector strong cutoff 55% — strong pricing power; Operating margin 12% | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 17.7x — fair price; 52w range position: 59%; Owner earnings yield: 6.5% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 18.0x — fair price; 52w range position: 61%; Owner earnings yield: 6.4% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
 ## Buffett Score: 5.3 / 10

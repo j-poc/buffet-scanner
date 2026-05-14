@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ONON
-*Generated: 2026-05-13 07:05 | Price: $33.83 | Mkt Cap: $11B*
+*Generated: 2026-05-14 06:59 | Price: $35.39 | Mkt Cap: $12B*
 
 ## Sector Context
 Consumer Cyclical / Footwear & Accessories
@@ -12,7 +12,7 @@ Consumer Cyclical / Footwear & Accessories
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.2x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 23.9%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 23.8%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -21,9 +21,9 @@ Consumer Cyclical / Footwear & Accessories
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.7/10 | 30% | 0.8 | Avg ROIC: 10.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 69% (severe cyclicality); FCF/NI: 4% (weak conversion); Gross margin: 64% (pricing power for Consumer Cyclical) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 23.9% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 17.9% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 23.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 17.9% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 64% vs sector strong cutoff 45% — strong pricing power; Operating margin 14% — durable for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.4x — fair price; Near 52w low (8% of range) — Mr. Market fearful; Owner earnings yield: 2.8%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.2x — fair price; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 2.0%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.2/10** | **100%** | **7.2** | | |
 
 ## Buffett Score: 7.2 / 10
@@ -36,9 +36,9 @@ Consumer Cyclical / Footwear & Accessories
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Footwear & Accessories
-- **Margin of Safety**: -29% — ABSENT ($34 > IV $24 at 25x for 25% growth)
+- **Margin of Safety**: -32% — ABSENT ($35 > IV $24 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
-- **Incentive-Caused Bias**: Aligned — 23.9% insider ownership
+- **Incentive-Caused Bias**: Aligned — 23.8% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FLS
-*Generated: 2026-05-13 07:05 | Price: $69.43 | Mkt Cap: $9B*
+*Generated: 2026-05-14 06:59 | Price: $66.46 | Mkt Cap: $8B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
@@ -21,13 +21,13 @@ Industrials / Specialty Industrial Machinery
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.7/10 | 30% | 1.4 | Avg ROIC: 8.8% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 81% (strong); Gross margin: 36% (pricing power for Industrials) | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.5% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.7% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 36% vs sector strong cutoff 35% — strong pricing power; Operating margin 13% | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.0x — fair price; 52w range position: 51%; Owner earnings yield: 5.2% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.4x — deep value; 52w range position: 45%; Owner earnings yield: 5.4% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
 
-## Buffett Score: 6.2 / 10
-## Alpha Adjustment: +0.12
+## Buffett Score: 6.3 / 10
+## Alpha Adjustment: +0.13
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Industrials / Specialty Industrial Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Industrial Machinery
-- **Margin of Safety**: -22% — ABSENT ($69 > IV $54 at 20x for 14% growth)
+- **Margin of Safety**: -18% — ABSENT ($66 > IV $54 at 20x for 14% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (2 forces only: strong moat, attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.12 applied to composite alpha score
+Buffett Premium: +0.13 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

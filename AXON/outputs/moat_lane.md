@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AXON
-*Generated: 2026-05-13 06:53 | Price: $393.66 | Mkt Cap: $32B*
+*Generated: 2026-05-14 06:50 | Price: $376.82 | Mkt Cap: $30B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -23,7 +23,7 @@ Industrials / Aerospace & Defense
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 5.7% (1y); Earnings: 1 down-year in 3 transitions; NI drawdown: 67% from prior peak; 5y price drawdown: 60% (severe cyclicality); FCF/NI: 86% (strong); Gross margin: 59% (pricing power for Industrials) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.3% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 59% vs sector strong cutoff 35% — strong pricing power; Operating margin 4% — thin for Industrials; Rev growth 34% — demand pull | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 37.2x — expensive; Near 52w low (10% of range) — Mr. Market fearful; Owner earnings yield: 0.2%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 35.6x — expensive; Near 52w low (7% of range) — Mr. Market fearful; Owner earnings yield: 0.2%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
 ## Buffett Score: 5.3 / 10
@@ -36,7 +36,7 @@ Industrials / Aerospace & Defense
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Aerospace & Defense
-- **Margin of Safety**: -84% — ABSENT ($394 > IV $62 at 25x for 25% growth)
+- **Margin of Safety**: -83% — ABSENT ($377 > IV $62 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 4.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

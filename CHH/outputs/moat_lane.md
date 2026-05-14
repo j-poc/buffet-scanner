@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CHH
-*Generated: 2026-05-11 08:00 | Price: $106.58 | Mkt Cap: $5B*
+*Generated: 2026-05-14 07:05 | Price: $106.98 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Cyclical / Lodging
@@ -23,7 +23,7 @@ Consumer Cyclical / Lodging
 | Quality | 5.1/10 | 30% | 1.5 | ROIC declining trend; Avg ROIC: 22.6% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 61%; Gross margin: 90% (pricing power for Consumer Cyclical) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 38.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 17.1% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 90% vs sector strong cutoff 45% — strong pricing power; Operating margin 28% — durable for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.7x — deep value; 52w range position: 43%; Owner earnings yield: 4.0% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.7x — deep value; 52w range position: 44%; Owner earnings yield: 4.0% | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

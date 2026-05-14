@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GLOB
-*Generated: 2026-05-11 08:01 | Price: $39.23 | Mkt Cap: $2B*
+*Generated: 2026-05-14 07:06 | Price: $32.75 | Mkt Cap: $1B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -20,10 +20,10 @@ Technology / Information Technology Services
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.5% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 38% from prior peak; 5y price drawdown: 89% (severe cyclicality); FCF/NI: 119% (strong); Gross margin: 35% (below Technology norm) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.5% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 38% from prior peak; 5y price drawdown: 91% (severe cyclicality); FCF/NI: 119% (strong); Gross margin: 35% (below Technology norm) | ROIC declining |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 2.7% (low); No insider transaction data; Restricted stock: 10.9% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 35% — below Technology moderate cutoff 40%; Operating margin 19% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.9x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 17.2% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.9x — deep value; Near 52w low (0% of range) — Mr. Market fearful; Owner earnings yield: 20.6% (>5%) | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10
@@ -36,7 +36,7 @@ Technology / Information Technology Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Information Technology Services
-- **Margin of Safety**: -1% — ABSENT ($39 > IV $39 at 17x for 10% growth)
+- **Margin of Safety**: 19% — thin (IV $39 at 17x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 2.7% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

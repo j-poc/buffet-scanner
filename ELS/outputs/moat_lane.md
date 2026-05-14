@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ELS
-*Generated: 2026-05-13 06:58 | Price: $63.44 | Mkt Cap: $13B*
+*Generated: 2026-05-14 07:04 | Price: $63.07 | Mkt Cap: $13B*
 
 ## Sector Context
 Real Estate / REIT - Residential
@@ -23,7 +23,7 @@ Real Estate / REIT - Residential
 | Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 7.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 33% (stable); FCF/NI: 84% (strong); Gross margin: 53% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 53% — moderate moat for Real Estate; Operating margin 37% — durable for Real Estate | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 29.2x — growth premium; 52w range position: 49%; Owner earnings yield: 3.8%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 29.0x — growth premium; 52w range position: 45%; Owner earnings yield: 3.8%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10
@@ -36,7 +36,7 @@ Real Estate / REIT - Residential
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Residential
-- **Margin of Safety**: -53% — ABSENT ($63 > IV $30 at 15x for -3% growth)
+- **Margin of Safety**: -52% — ABSENT ($63 > IV $30 at 15x for -3% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
 - **Mr. Market**: Neutral

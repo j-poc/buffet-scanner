@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TKR
-*Generated: 2026-05-13 07:05 | Price: $117.12 | Mkt Cap: $8B*
+*Generated: 2026-05-14 06:59 | Price: $115.74 | Mkt Cap: $8B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.0% inst.) as insider
 
@@ -25,7 +25,7 @@ Industrials / Tools & Accessories
 | Quality | 0.2/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 10.0% (4y); Earnings: 3/3 down-years (unpredictable); 5y price drawdown: 41% (moderate cyclicality); FCF/NI: 97% (strong); Gross margin: 31% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 3.9% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 31% — moderate moat for Industrials; Operating margin 14% | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 17.2x — fair price; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 4.2%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 17.0x — fair price; Near 52w high (86% of range) — Mr. Market greedy; Owner earnings yield: 4.2%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10
@@ -38,7 +38,7 @@ Industrials / Tools & Accessories
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Tools & Accessories
-- **Margin of Safety**: -6% — ABSENT ($117 > IV $110 at 25x for 25% growth)
+- **Margin of Safety**: -5% — ABSENT ($116 > IV $110 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

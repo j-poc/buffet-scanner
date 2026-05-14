@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APLS
-*Generated: 2026-05-13 07:01 | Price: $41.06 | Mkt Cap: $5B*
+*Generated: 2026-05-14 07:01 | Price: $41.03 | Mkt Cap: $5B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -23,7 +23,7 @@ Healthcare / Biotechnology
 | Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: -83.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 82% (severe cyclicality); FCF/NI: 109% (strong); Gross margin: 64% (pricing power for Healthcare) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 13.3% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 35.0% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 64% vs sector strong cutoff 55% — strong pricing power; Operating margin 10% — thin for Healthcare; Rev growth 61% — demand pull | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E -188.1x — deep value; Near 52w high (100% of range) — Mr. Market greedy | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E -120.7x — deep value; Near 52w high (100% of range) — Mr. Market greedy | - |
 | **TOTAL** | **7.3/10** | **100%** | **7.3** | | |
 
 ## Buffett Score: 7.3 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OSK
-*Generated: 2026-05-13 07:05 | Price: $131.32 | Mkt Cap: $8B*
+*Generated: 2026-05-14 06:59 | Price: $125.31 | Mkt Cap: $8B*
 
 ## Sector Context
 Industrials / Farm & Heavy Construction Machinery
@@ -20,13 +20,13 @@ Industrials / Farm & Heavy Construction Machinery
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.7/10 | 30% | 1.4 | Avg ROIC: 12.8% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 91% (strong); Gross margin: 17% (below Industrials norm) | - |
+| Quality | 5.2/10 | 30% | 1.6 | Avg ROIC: 12.8% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 0% (stable); FCF/NI: 91% (strong); Gross margin: 17% (below Industrials norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 17% — below Industrials moderate cutoff 22%; Operating margin 4% — thin for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.4x — deep value; 52w range position: 42%; Owner earnings yield: 6.5% (>5%) | - |
-| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.9x — deep value; 52w range position: 35%; Owner earnings yield: 6.8% (>5%) | - |
+| **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
-## Buffett Score: 5.3 / 10
+## Buffett Score: 5.4 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Industrials / Farm & Heavy Construction Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Farm & Heavy Construction Machinery
-- **Margin of Safety**: 3% — thin (IV $135 at 15x)
+- **Margin of Safety**: 7% — thin (IV $135 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Neutral

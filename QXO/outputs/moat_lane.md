@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: QXO
-*Generated: 2026-05-13 06:58 | Price: $17.74 | Mkt Cap: $13B*
+*Generated: 2026-05-14 07:04 | Price: $17.02 | Mkt Cap: $12B*
 
 ## Sector Context
 Industrials / Industrial Distribution
@@ -11,7 +11,7 @@ Industrials / Industrial Distribution
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 7.9x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 8.5x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.3%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,9 +21,9 @@ Industrials / Industrial Distribution
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: -3.5% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 1098% from prior peak; 5y price drawdown: 95% (severe cyclicality); FCF/NI: -129% (weak conversion); Gross margin: 25% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 2.6% (low) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 25% — moderate moat for Industrials; Operating margin -2% — thin for Industrials; Rev growth 14725% — demand pull | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 26.6x — growth premium; Near 52w low (20% of range) — Mr. Market fearful; Earnings yield < 4% — worse than bonds | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 25% — moderate moat for Industrials; Operating margin -12% — thin for Industrials; Rev growth 12716% — demand pull | - |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 25.5x — growth premium; Near 52w low (13% of range) — Mr. Market fearful; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
 ## Buffett Score: 4.0 / 10

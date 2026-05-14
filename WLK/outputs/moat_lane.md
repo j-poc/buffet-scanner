@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WLK
-*Generated: 2026-05-13 07:01 | Price: $96.54 | Mkt Cap: $12B*
+*Generated: 2026-05-14 07:05 | Price: $92.27 | Mkt Cap: $12B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals
@@ -23,7 +23,7 @@ Basic Materials / Specialty Chemicals
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 4.8% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 167% from prior peak; 5y price drawdown: 64% (severe cyclicality); FCF/NI: 115% (strong); Gross margin: 6% (below Basic Materials norm) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 74.3% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 73.7% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 6% — below Basic Materials moderate cutoff 18%; Operating margin -6% — thin for Basic Materials | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 24.1x — growth premium; 52w range position: 59%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 23.0x — growth premium; 52w range position: 53%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OXY
-*Generated: 2026-05-13 06:55 | Price: $56.27 | Mkt Cap: $56B*
+*Generated: 2026-05-14 06:54 | Price: $56.18 | Mkt Cap: $56B*
 
 ## Sector Context
 Energy / Oil & Gas E&P
