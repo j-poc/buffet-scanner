@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HIW
-*Generated: 2026-05-14 07:05 | Price: $26.04 | Mkt Cap: $3B*
+*Generated: 2026-05-15 07:39 | Price: $26.21 | Mkt Cap: $3B*
 
 ## Sector Context
 Real Estate / REIT - Office
@@ -20,13 +20,13 @@ Real Estate / REIT - Office
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: 3.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 36% from prior peak; 5y price drawdown: 58% (severe cyclicality); FCF/NI: 286% (strong); Gross margin: 68% (pricing power for Real Estate) | - |
+| Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: 3.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 36% from prior peak; 5y price drawdown: 0% (stable); FCF/NI: 286% (strong); Gross margin: 68% (pricing power for Real Estate) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.1% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 68% vs sector strong cutoff 55% — strong pricing power; Operating margin 25% | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 34.3x — expensive; 52w range position: 45%; Owner earnings yield: 12.2% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 34.5x — expensive; 52w range position: 47%; Owner earnings yield: 12.2% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
-## Buffett Score: 4.6 / 10
+## Buffett Score: 5.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

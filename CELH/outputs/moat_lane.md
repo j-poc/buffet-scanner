@@ -1,7 +1,7 @@
 # Buffett/Munger Moat Lane: CELH
-*Generated: 2026-05-14 07:00 | Price: $27.86 | Mkt Cap: $7B*
+*Generated: 2026-05-15 07:38 | Price: $29.01 | Mkt Cap: $7B*
 
-> ⚠ DATA: yfinance misclassified Blackrock Inc. (27.1% inst.) as insider
+> ⚠ DATA: yfinance misclassified Blackrock Inc. (27.9% inst.) as insider
 
 ## Sector Context
 Consumer Defensive / Beverages - Non-Alcoholic
@@ -23,9 +23,9 @@ Consumer Defensive / Beverages - Non-Alcoholic
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: -44.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 52% from prior peak; 5y price drawdown: 78% (severe cyclicality); FCF/NI: 116% (strong); Gross margin: 50% (pricing power for Consumer Defensive) | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 23.2% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 23.4% of shares (SBC concern) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 50% vs sector strong cutoff 45% — strong pricing power; Operating margin 20% — durable for Consumer Defensive; Rev growth 138% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.7x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 2.5% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.2x — deep value; Near 52w low (3% of range) — Mr. Market fearful; Owner earnings yield: 2.4% | - |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10
@@ -38,7 +38,7 @@ Consumer Defensive / Beverages - Non-Alcoholic
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Beverages - Non-Alcoholic
-- **Margin of Safety**: -61% — ABSENT ($28 > IV $11 at 25x for 25% growth)
+- **Margin of Safety**: -63% — ABSENT ($29 > IV $11 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

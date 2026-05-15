@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DCI
-*Generated: 2026-05-14 07:05 | Price: $83.93 | Mkt Cap: $10B*
+*Generated: 2026-05-15 07:36 | Price: $83.84 | Mkt Cap: $10B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery

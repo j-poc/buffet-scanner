@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CME
-*Generated: 2026-05-14 06:51 | Price: $297.13 | Mkt Cap: $108B*
+*Generated: 2026-05-15 07:30 | Price: $297.7 | Mkt Cap: $108B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges
@@ -36,7 +36,7 @@ Financial Services / Financial Data & Stock Exchanges
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Financial Data & Stock Exchanges
-- **Margin of Safety**: 2% — thin (IV $304 at 25x)
+- **Margin of Safety**: -1% — ABSENT ($298 > IV $293 at 25x for 21% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral

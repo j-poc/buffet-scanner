@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TW
-*Generated: 2026-05-14 07:04 | Price: $109.87 | Mkt Cap: $24B*
+*Generated: 2026-05-15 07:35 | Price: $109.78 | Mkt Cap: $24B*
 
 ## Sector Context
 Financial Services / Capital Markets

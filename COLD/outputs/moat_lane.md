@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COLD
-*Generated: 2026-05-14 07:01 | Price: $14.91 | Mkt Cap: $4B*
+*Generated: 2026-05-15 07:38 | Price: $14.59 | Mkt Cap: $4B*
 
 ## Sector Context
 Real Estate / REIT - Industrial
@@ -23,7 +23,7 @@ Real Estate / REIT - Industrial
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -0.2% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 71% (severe cyclicality); FCF/NI: 47% (weak conversion); Gross margin: 32% (below Real Estate norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 32% — below Real Estate moderate cutoff 35%; Operating margin 4% — thin for Real Estate | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 198.8x — extreme premium; 52w range position: 59%; Owner earnings yield: 11.1% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 194.5x — extreme premium; 52w range position: 55%; Owner earnings yield: 11.4% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **2.4/10** | **100%** | **2.4** | | |
 
 ## Buffett Score: 2.4 / 10

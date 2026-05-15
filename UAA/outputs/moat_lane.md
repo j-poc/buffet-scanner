@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UAA
-*Generated: 2026-05-14 07:06 | Price: $5.11 | Mkt Cap: $2B*
+*Generated: 2026-05-15 07:40 | Price: $5.1 | Mkt Cap: $2B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Manufacturing
@@ -23,7 +23,7 @@ Consumer Cyclical / Apparel Manufacturing
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 3.4% (3y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 154% from prior peak; 5y price drawdown: 85% (severe cyclicality); FCF/NI: 78%; Gross margin: 46% (pricing power for Consumer Cyclical) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -60.2% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 46% vs sector strong cutoff 45% — strong pricing power; Operating margin 0% — thin for Consumer Cyclical | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 21.7x — growth premium; Near 52w low (24% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 20.8x — growth premium; Near 52w low (24% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
 ## Buffett Score: 4.4 / 10

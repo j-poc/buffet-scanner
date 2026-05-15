@@ -1,5 +1,7 @@
 # Buffett/Munger Moat Lane: GTM
-*Generated: 2026-05-14 07:06 | Price: $3.96 | Mkt Cap: $1B*
+*Generated: 2026-05-15 07:40 | Price: $3.9 | Mkt Cap: $1B*
+
+> ⚠ DATA: yfinance misclassified Blackrock Inc. (11.1% inst.) as insider
 
 ## Sector Context
 Technology / Software - Application
@@ -12,7 +14,7 @@ Technology / Software - Application
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Software - Application | 25% | -35% | YES |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.7x | 30% | -40% | YES |
-| 3 | Management / Governance Failure | Insider ownership 12.6%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -21,12 +23,12 @@ Technology / Software - Application
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 6.1% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 73% from prior peak; 5y price drawdown: 95% (severe cyclicality); FCF/NI: 586% (strong); Gross margin: 87% (pricing power for Technology) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 12.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 22.1% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 27.4% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 87% vs sector strong cutoff 60% — strong pricing power; Operating margin 22% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 3.5x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 30.4% (>5%) | - |
-| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 3.5x — deep value; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 30.9% (>5%) | - |
+| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
-## Buffett Score: 6.0 / 10
+## Buffett Score: 5.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,9 +38,9 @@ Technology / Software - Application
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Application
-- **Margin of Safety**: 153% — PRESENT (IV $10 vs $4 at 25x)
+- **Margin of Safety**: 156% — PRESENT (IV $10 vs $4 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
-- **Incentive-Caused Bias**: Aligned — 12.6% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check

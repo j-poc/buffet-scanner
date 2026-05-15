@@ -1,7 +1,7 @@
 # Buffett/Munger Moat Lane: HUN
-*Generated: 2026-05-14 07:05 | Price: $14.39 | Mkt Cap: $3B*
+*Generated: 2026-05-15 07:39 | Price: $14.31 | Mkt Cap: $3B*
 
-> ⚠ DATA: yfinance misclassified AQR Capital Management, LLC (6.5% inst.) as insider
+> ⚠ DATA: yfinance misclassified Blackrock Inc. (7.2% inst.) as insider
 
 ## Sector Context
 Basic Materials / Chemicals
@@ -25,7 +25,7 @@ Basic Materials / Chemicals
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.0% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 118% from prior peak; 5y price drawdown: 79% (severe cyclicality); FCF/NI: 34% (weak conversion); Gross margin: 13% (below Basic Materials norm) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 12.7% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 13% — below Basic Materials moderate cutoff 18%; Operating margin -0% — thin for Basic Materials | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 60.2x — extreme premium; 52w range position: 82%; Owner earnings yield: 11.8% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 59.9x — extreme premium; 52w range position: 82%; Owner earnings yield: 11.9% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **2.2/10** | **100%** | **2.2** | | |
 
 ## Buffett Score: 2.2 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CHRD
-*Generated: 2026-05-14 06:59 | Price: $142.03 | Mkt Cap: $8B*
+*Generated: 2026-05-15 07:36 | Price: $142.54 | Mkt Cap: $8B*
 
 ## Sector Context
 Energy / Oil & Gas E&P
@@ -20,13 +20,13 @@ Energy / Oil & Gas E&P
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.0/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 13.5% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 98% from prior peak; 5y price drawdown: 54% (moderate cyclicality); FCF/NI: 458% (strong); Gross margin: 47% (pricing power for Energy) | ROIC declining |
+| Quality | 2.5/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 13.5% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 98% from prior peak; 5y price drawdown: 0% (stable); FCF/NI: 458% (strong); Gross margin: 47% (pricing power for Energy) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.1% of shares (SBC concern) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 47% vs sector strong cutoff 30% — strong pricing power; Operating margin 6%; Rev growth 38% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.3x — deep value; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 5.7% (>5%) | - |
-| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.2x — deep value; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 5.6% (>5%) | - |
+| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
-## Buffett Score: 5.6 / 10
+## Buffett Score: 5.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

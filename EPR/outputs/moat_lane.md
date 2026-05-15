@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EPR
-*Generated: 2026-05-14 07:01 | Price: $58.17 | Mkt Cap: $4B*
+*Generated: 2026-05-15 07:38 | Price: $57.89 | Mkt Cap: $4B*
 
 ## Sector Context
 Real Estate / REIT - Specialty
@@ -23,7 +23,7 @@ Real Estate / REIT - Specialty
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 4.8% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 36% (stable); FCF/NI: 233% (strong); Gross margin: 92% (pricing power for Real Estate) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.4% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 92% vs sector strong cutoff 55% — strong pricing power; Operating margin 51% — durable for Real Estate | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 18.7x — fair price; 52w range position: 72%; Owner earnings yield: 7.8% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 18.6x — fair price; 52w range position: 70%; Owner earnings yield: 7.8% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

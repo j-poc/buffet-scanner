@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALAB
-*Generated: 2026-05-14 06:56 | Price: $224.09 | Mkt Cap: $38B*
+*Generated: 2026-05-15 07:41 | Price: $228.64 | Mkt Cap: $39B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -21,9 +21,9 @@ Technology / Semiconductors
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 0.3% (2y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 64% (severe cyclicality); FCF/NI: 33% (weak conversion); Gross margin: 76% (pricing power for Technology) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 10.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 17.5% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 10.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 17.4% of shares (SBC concern) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 76% vs sector strong cutoff 60% — strong pricing power; Operating margin 20%; Rev growth 93% — demand pull | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 53.7x — extreme premium; 52w range position: 78%; Owner earnings yield: 0.6%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 54.7x — extreme premium; 52w range position: 81%; Owner earnings yield: 0.6%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
 ## Buffett Score: 5.1 / 10
@@ -36,7 +36,7 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: -83% — ABSENT ($224 > IV $37 at 25x for 25% growth)
+- **Margin of Safety**: -84% — ABSENT ($229 > IV $37 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Aligned — 10.8% insider ownership
 - **Mr. Market**: Neutral

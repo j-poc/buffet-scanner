@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FRHC
-*Generated: 2026-05-14 07:05 | Price: $141.89 | Mkt Cap: $9B*
+*Generated: 2026-05-15 07:39 | Price: $141.63 | Mkt Cap: $9B*
 
 ## Sector Context
 Financial Services / Financial Conglomerates

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FLEX
-*Generated: 2026-05-14 06:56 | Price: $143.8 | Mkt Cap: $53B*
+*Generated: 2026-05-15 07:41 | Price: $143.6 | Mkt Cap: $53B*
 
 ## Sector Context
 Technology / Electronic Components
@@ -12,7 +12,7 @@ Technology / Electronic Components
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Electronic Components | 25% | -35% | YES |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.2x | 15% | -25% | No |
-| 3 | Management / Governance Failure | Insider ownership 0.6%; key-man / succession risk | 20% | -30% | YES |
+| 3 | Management / Governance Failure | Insider ownership 0.7%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -21,7 +21,7 @@ Technology / Electronic Components
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.1/10 | 30% | 0.3 | Avg ROIC: 9.8% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 40% (stable); FCF/NI: 77%; Gross margin: 9% (below Technology norm) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 9% — below Technology moderate cutoff 40%; Operating margin 6% — thin for Technology | - |
 | Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 21.8x — growth premium; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 1.8%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **3.2/10** | **100%** | **3.2** | | |
@@ -38,7 +38,7 @@ Technology / Electronic Components
 - **Circle of Competence**: Technology / Electronic Components
 - **Margin of Safety**: -68% — ABSENT ($144 > IV $47 at 20x for 17% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
-- **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HOG
-*Generated: 2026-05-14 07:05 | Price: $25.6 | Mkt Cap: $3B*
+*Generated: 2026-05-15 07:39 | Price: $25.65 | Mkt Cap: $3B*
 
 ## Sector Context
 Consumer Cyclical / Recreational Vehicles

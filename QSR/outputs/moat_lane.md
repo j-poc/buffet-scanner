@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: QSR
-*Generated: 2026-05-14 06:56 | Price: $76.44 | Mkt Cap: $35B*
+*Generated: 2026-05-15 07:41 | Price: $76.44 | Mkt Cap: $35B*
 
 ## Sector Context
 Consumer Cyclical / Restaurants
@@ -36,7 +36,7 @@ Consumer Cyclical / Restaurants
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Restaurants
-- **Margin of Safety**: -1% — ABSENT ($76 > IV $76 at 25x for 25% growth)
+- **Margin of Safety**: 2% — thin (IV $78 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.3% insider ownership
 - **Mr. Market**: Neutral

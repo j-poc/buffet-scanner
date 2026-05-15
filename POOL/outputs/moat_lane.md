@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: POOL
-*Generated: 2026-05-14 06:54 | Price: $175.37 | Mkt Cap: $6B*
+*Generated: 2026-05-15 07:33 | Price: $175.24 | Mkt Cap: $6B*
 
 ## Sector Context
 Industrials / Industrial Distribution
@@ -20,14 +20,14 @@ Industrials / Industrial Distribution
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.9/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 24.2% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 46% from prior peak; 5y price drawdown: 68% (severe cyclicality); FCF/NI: 108% (strong); Gross margin: 30% | ROIC declining |
+| Quality | 3.4/10 | 30% | 1.0 | ROIC declining trend; Avg ROIC: 24.2% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 46% from prior peak; 5y price drawdown: 0% (stable); FCF/NI: 108% (strong); Gross margin: 30% | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 12.0% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 11.9% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 30% — moderate moat for Industrials; Operating margin 7% — thin for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.6x — deep value; Near 52w low (0% of range) — Mr. Market fearful; Owner earnings yield: 3.5%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.6x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 3.5%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
 
-## Buffett Score: 6.2 / 10
-## Alpha Adjustment: +0.12
+## Buffett Score: 6.6 / 10
+## Alpha Adjustment: +0.16
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.12 applied to composite alpha score
+Buffett Premium: +0.16 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

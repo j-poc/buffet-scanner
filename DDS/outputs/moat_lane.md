@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DDS
-*Generated: 2026-05-14 07:06 | Price: $532.92 | Mkt Cap: $8B*
+*Generated: 2026-05-15 07:39 | Price: $534.86 | Mkt Cap: $8B*
 
 ## Sector Context
 Consumer Cyclical / Department Stores
@@ -11,7 +11,7 @@ Consumer Cyclical / Department Stores
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.7x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.6x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 32.7%; key-man / succession risk | 8% | -15% | No |
 
 ---
@@ -20,14 +20,14 @@ Consumer Cyclical / Department Stores
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.0/10 | 30% | 0.9 | ROIC declining trend; Avg ROIC: 32.1% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 36% from prior peak; 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 102% (strong); Gross margin: 40% (thin by design for Department Stores) | ROIC declining |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 32.7% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 37.0% of shares (SBC concern) | - |
-| Moat | 8.0/10 | 25% | 2.0 | ROA 12% / ROE 32% — scale moat (Department Stores); Operating margin 10% | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 16.3x — fair price; 52w range position: 41%; Owner earnings yield: 5.6% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
+| Quality | 3.0/10 | 30% | 0.9 | ROIC declining trend; Avg ROIC: 32.1% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 36% from prior peak; 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 102% (strong); Gross margin: 41% (thin by design for Department Stores) | ROIC declining |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 32.7% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 37.1% of shares (SBC concern) | - |
+| Moat | 9.0/10 | 25% | 2.2 | ROA 11% / ROE 34% — scale moat (Department Stores); Operating margin 14% — durable for Consumer Cyclical | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 16.4x — fair price; 52w range position: 42%; Owner earnings yield: 6.1% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **7.2/10** | **100%** | **7.2** | | |
 
-## Buffett Score: 6.9 / 10
-## Alpha Adjustment: +0.19
+## Buffett Score: 7.2 / 10
+## Alpha Adjustment: +0.22
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Consumer Cyclical / Department Stores
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Department Stores
-- **Margin of Safety**: 2% — thin (IV $546 at 15x)
+- **Margin of Safety**: 70% — PRESENT (IV $910 vs $535 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 32.7% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (2 forces only: strong moat, attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.19 applied to composite alpha score
+Buffett Premium: +0.22 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

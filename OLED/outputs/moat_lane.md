@@ -1,7 +1,7 @@
 # Buffett/Munger Moat Lane: OLED
-*Generated: 2026-05-14 07:01 | Price: $90.79 | Mkt Cap: $4B*
+*Generated: 2026-05-15 07:38 | Price: $92.49 | Mkt Cap: $4B*
 
-> ⚠ DATA: yfinance misclassified Blackrock Inc. (8.8% inst.) as insider
+> ⚠ DATA: yfinance misclassified Blackrock Inc. (9.2% inst.) as insider
 
 ## Sector Context
 Technology / Electronic Components
@@ -25,7 +25,7 @@ Technology / Electronic Components
 | Quality | 2.2/10 | 30% | 0.7 | ROIC declining trend; Avg ROIC: 12.8% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 62% (severe cyclicality); FCF/NI: 52%; Gross margin: 74% (pricing power for Technology) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 8.2% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 74% vs sector strong cutoff 60% — strong pricing power; Operating margin 30% — durable for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 18.2x — fair price; Near 52w low (9% of range) — Mr. Market fearful; Owner earnings yield: 3.0%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 18.5x — fair price; Near 52w low (11% of range) — Mr. Market fearful; Owner earnings yield: 3.0%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10
@@ -38,7 +38,7 @@ Technology / Electronic Components
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Electronic Components
-- **Margin of Safety**: -26% — ABSENT ($91 > IV $67 at 15x for -44% growth)
+- **Margin of Safety**: -27% — ABSENT ($92 > IV $67 at 15x for -44% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

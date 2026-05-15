@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IONS
-*Generated: 2026-05-14 07:04 | Price: $77.6 | Mkt Cap: $13B*
+*Generated: 2026-05-15 07:36 | Price: $75.68 | Mkt Cap: $13B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -23,7 +23,7 @@ Healthcare / Biotechnology
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -12.4% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 52% (moderate cyclicality); FCF/NI: 102% (strong); Gross margin: 11% (below Healthcare norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 11% — below Healthcare moderate cutoff 35%; Operating margin -48% — thin for Healthcare; Rev growth 87% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -125.2x — deep value; 52w range position: 83% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -122.1x — deep value; 52w range position: 80% | - |
 | **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
 ## Buffett Score: 4.0 / 10

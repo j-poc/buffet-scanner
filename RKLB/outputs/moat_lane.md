@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RKLB
-*Generated: 2026-05-14 06:56 | Price: $124.15 | Mkt Cap: $72B*
+*Generated: 2026-05-15 07:41 | Price: $132.55 | Mkt Cap: $77B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -23,7 +23,7 @@ Industrials / Aerospace & Defense
 | Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: -14.2% (4y); Earnings: 3/3 down-years (unpredictable); 5y price drawdown: 83% (severe cyclicality); FCF/NI: 104% (strong); Gross margin: 37% (pricing power for Industrials) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.8% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 37% vs sector strong cutoff 35% — strong pricing power; Operating margin -22% — thin for Industrials; Rev growth 64% — demand pull | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E -14571.6x — deep value; Near 52w high (97% of range) — Mr. Market greedy | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E -15557.5x — deep value; Near 52w high (99% of range) — Mr. Market greedy | - |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
 ## Buffett Score: 5.1 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VIK
-*Generated: 2026-05-14 07:04 | Price: $82.17 | Mkt Cap: $37B*
+*Generated: 2026-05-15 07:35 | Price: $86.72 | Mkt Cap: $39B*
 
 ## Sector Context
 Consumer Cyclical / Travel Services
@@ -22,33 +22,33 @@ Consumer Cyclical / Travel Services
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.5/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: -1152.2% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 546% from prior peak; 5y price drawdown: 35% (stable); FCF/NI: 180% (strong); Gross margin: 44% | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 36.7% of shares (SBC concern) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 44% — moderate moat for Consumer Cyclical; Operating margin 21% — durable for Consumer Cyclical; Rev growth 28% — demand pull | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.8x — fair price; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 2.0%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
+| Moat | 6.0/10 | 25% | 1.5 | Gross margin 44% — moderate moat for Consumer Cyclical; Operating margin 1% — thin for Consumer Cyclical | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 20.8x — growth premium; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 1.4%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
 
-## Buffett Score: 4.8 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 3.8 / 10
+## Alpha Adjustment: -0.22
+## Conviction: AVOID
+## Verdict: Avoid
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Travel Services
-- **Margin of Safety**: -22% — ABSENT ($82 > IV $64 at 25x for 25% growth)
-- **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
+- **Margin of Safety**: -38% — ABSENT ($87 > IV $54 at 20x for 18% growth)
+- **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
-No (2 forces only: strong moat, secular growth)
+No (0 forces only: none)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
+Buffett Premium: -0.22 applied to composite alpha score
+Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BHF
-*Generated: 2026-05-14 07:01 | Price: $61.29 | Mkt Cap: $4B*
+*Generated: 2026-05-15 07:39 | Price: $61.42 | Mkt Cap: $4B*
 
 ## Sector Context
 Financial Services / Insurance - Life
@@ -23,7 +23,7 @@ Financial Services / Insurance - Life
 | Quality | 3.0/10 | 30% | 0.9 | ROE: -1.1% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 35% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.5% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | ROE -1% — weak (Financial Services); Operating margin -63% — thin for Financial Services | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 3.2x — deep value; 52w range position: 79% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 3.2x — deep value; 52w range position: 80% | - |
 | **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
 ## Buffett Score: 5.3 / 10

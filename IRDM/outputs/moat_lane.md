@@ -1,7 +1,7 @@
 # Buffett/Munger Moat Lane: IRDM
-*Generated: 2026-05-14 07:01 | Price: $43.09 | Mkt Cap: $5B*
+*Generated: 2026-05-15 07:38 | Price: $43.43 | Mkt Cap: $5B*
 
-> ⚠ DATA: yfinance misclassified Blackrock Inc. (13.1% inst.) as insider
+> ⚠ DATA: yfinance misclassified Blackrock Inc. (13.2% inst.) as insider
 
 ## Sector Context
 Communication Services / Telecom Services
@@ -25,7 +25,7 @@ Communication Services / Telecom Services
 | Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 5.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 75% (severe cyclicality); FCF/NI: 1309% (strong); Gross margin: 72% (pricing power for Communication Services) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 12.0% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 72% vs sector strong cutoff 55% — strong pricing power; Operating margin 23% | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 30.2x — expensive; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 5.6% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 32.4x — expensive; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 5.5% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
 ## Buffett Score: 4.9 / 10

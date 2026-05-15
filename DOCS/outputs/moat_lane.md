@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DOCS
-*Generated: 2026-05-14 07:01 | Price: $23.39 | Mkt Cap: $4B*
+*Generated: 2026-05-15 07:39 | Price: $18.01 | Mkt Cap: $3B*
 
 ## Sector Context
 Healthcare / Health Information Services
@@ -20,14 +20,14 @@ Healthcare / Health Information Services
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.3/10 | 30% | 1.6 | Avg ROIC: 13.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 81% (severe cyclicality); FCF/NI: 118% (strong); Gross margin: 90% (pricing power for Healthcare) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.4% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 90% vs sector strong cutoff 55% — strong pricing power; Operating margin 39% — durable for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.2x — deep value; Near 52w low (5% of range) — Mr. Market fearful; Owner earnings yield: 4.9% | - |
-| **TOTAL** | **7.2/10** | **100%** | **7.2** | | |
+| Quality | 5.3/10 | 30% | 1.6 | Avg ROIC: 13.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 82% (severe cyclicality); FCF/NI: 118% (strong); Gross margin: 89% (pricing power for Healthcare) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.3% (low) | - |
+| Moat | 8.0/10 | 25% | 2.0 | Gross margin 89% vs sector strong cutoff 55% — strong pricing power; Operating margin 17% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.3x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 7.5% (>5%) | - |
+| **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
 
-## Buffett Score: 7.2 / 10
-## Alpha Adjustment: +0.22
+## Buffett Score: 7.0 / 10
+## Alpha Adjustment: +0.20
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Healthcare / Health Information Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Health Information Services
-- **Margin of Safety**: -24% — ABSENT ($23 > IV $18 at 15x for -16% growth)
+- **Margin of Safety**: -18% — ABSENT ($18 > IV $15 at 15x for -68% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 2.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
@@ -48,7 +48,7 @@ No (2 forces only: strong moat, attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.22 applied to composite alpha score
+Buffett Premium: +0.20 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

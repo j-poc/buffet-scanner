@@ -1,7 +1,7 @@
 # Buffett/Munger Moat Lane: MTDR
-*Generated: 2026-05-14 06:59 | Price: $57.31 | Mkt Cap: $7B*
+*Generated: 2026-05-15 07:42 | Price: $57.94 | Mkt Cap: $7B*
 
-> ⚠ DATA: yfinance misclassified Blackrock Inc. (8.7% inst.) as insider
+> ⚠ DATA: yfinance misclassified Blackrock Inc. (9.0% inst.) as insider
 
 ## Sector Context
 Energy / Oil & Gas E&P
@@ -25,7 +25,7 @@ Energy / Oil & Gas E&P
 | Quality | 1.5/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 18.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 37% from prior peak; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 44% (weak conversion); Gross margin: 80% (pricing power for Energy) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.5% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 80% vs sector strong cutoff 30% — strong pricing power; Operating margin 5% — thin for Energy | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.8x — deep value; 52w range position: 68% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.9x — deep value; 52w range position: 70% | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
 ## Buffett Score: 5.2 / 10
@@ -38,7 +38,7 @@ Energy / Oil & Gas E&P
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas E&P
-- **Margin of Safety**: 2% — thin (IV $58 at 15x)
+- **Margin of Safety**: 0% — thin (IV $58 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ASTS
-*Generated: 2026-05-14 06:57 | Price: $74.81 | Mkt Cap: $29B*
+*Generated: 2026-05-15 07:42 | Price: $83.01 | Mkt Cap: $32B*
 
 ## Sector Context
 Technology / Communication Equipment
@@ -21,9 +21,9 @@ Technology / Communication Equipment
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: -59.3% (4y); Earnings: 3/3 down-years (unpredictable); 5y price drawdown: 86% (severe cyclicality); FCF/NI: 358% (strong); Gross margin: 45% | - |
-| Management | 6.5/10 | 25% | 1.6 | Insider ownership: 7.8%; Insider activity: 0B/0S last 6m; Restricted stock: 11.2% of shares (SBC concern) | - |
+| Management | 6.5/10 | 25% | 1.6 | Insider ownership: 7.8%; Insider activity: 0B/0S last 6m; Restricted stock: 11.0% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 45% — moderate moat for Technology; Operating margin -1014% — thin for Technology; Rev growth 1952% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -276.6x — deep value; 52w range position: 49% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -279.4x — deep value; 52w range position: 56% | - |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
 ## Buffett Score: 5.4 / 10

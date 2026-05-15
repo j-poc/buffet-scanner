@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PENN
-*Generated: 2026-05-14 07:05 | Price: $15.83 | Mkt Cap: $2B*
+*Generated: 2026-05-15 07:39 | Price: $15.83 | Mkt Cap: $2B*
 
 ## Sector Context
 Consumer Cyclical / Resorts & Casinos

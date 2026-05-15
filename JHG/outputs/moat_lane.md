@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JHG
-*Generated: 2026-05-14 06:59 | Price: $51.7 | Mkt Cap: $8B*
+*Generated: 2026-05-15 07:42 | Price: $51.7 | Mkt Cap: $8B*
 
 ## Sector Context
 Financial Services / Asset Management

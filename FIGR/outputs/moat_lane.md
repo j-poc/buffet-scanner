@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FIGR
-*Generated: 2026-05-14 07:06 | Price: $40.51 | Mkt Cap: $9B*
+*Generated: 2026-05-15 07:39 | Price: $43.22 | Mkt Cap: $10B*
 
 > ⚠ DATA: yfinance misclassified Ribbit Management Company, LLC (6.2% inst.) as insider
 
@@ -25,23 +25,23 @@ Financial Services / Capital Markets
 | Quality | 6.5/10 | 30% | 1.9 | ROE: 21.7% (financials — book-return proxy); Earnings: 2/2 up-years (monotonic); 5y price drawdown: 66% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 24.5% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | ROE 22% — strong franchise (Financial Services); Operating margin 25%; Rev growth 112% — demand pull | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 29.7x — growth premium; Near 52w low (29% of range) — Mr. Market fearful; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 31.7x — expensive; 52w range position: 34%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
-## Buffett Score: 6.2 / 10
-## Alpha Adjustment: +0.12
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 5.5 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Capital Markets
-- **Margin of Safety**: -49% — ABSENT ($41 > IV $20 at 25x for 25% growth)
+- **Margin of Safety**: -53% — ABSENT ($43 > IV $20 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (2 forces only: strong moat, secular growth)
@@ -50,7 +50,7 @@ No (2 forces only: strong moat, secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.12 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
 ```

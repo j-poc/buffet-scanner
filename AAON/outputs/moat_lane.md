@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AAON
-*Generated: 2026-05-14 06:58 | Price: $135.37 | Mkt Cap: $11B*
+*Generated: 2026-05-15 07:36 | Price: $140.0 | Mkt Cap: $11B*
 
 ## Sector Context
 Industrials / Building Products & Equipment
@@ -23,10 +23,10 @@ Industrials / Building Products & Equipment
 | Quality | 0.2/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 16.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 39% from prior peak; 5y price drawdown: 49% (moderate cyclicality); FCF/NI: -72% (weak conversion); Gross margin: 26% | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 16.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 16.9% of shares (SBC concern) | - |
 | Moat | 7.0/10 | 25% | 1.8 | Gross margin 26% — moderate moat for Industrials; Operating margin 12%; Rev growth 54% — demand pull | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 41.1x — expensive; 52w range position: 84%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 42.5x — expensive; Near 52w high (90% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
-## Buffett Score: 4.6 / 10
+## Buffett Score: 4.4 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Industrials / Building Products & Equipment
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Building Products & Equipment
-- **Margin of Safety**: -74% — ABSENT ($135 > IV $36 at 25x for 25% growth)
+- **Margin of Safety**: -75% — ABSENT ($140 > IV $35 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Aligned — 16.8% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (1 forces only: secular growth)

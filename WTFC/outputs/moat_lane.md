@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WTFC
-*Generated: 2026-05-14 07:05 | Price: $146.63 | Mkt Cap: $10B*
+*Generated: 2026-05-15 07:36 | Price: $146.49 | Mkt Cap: $10B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -36,7 +36,7 @@ Financial Services / Banks - Regional
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Regional
-- **Margin of Safety**: 63% — PRESENT (IV $239 vs $147 at 20x)
+- **Margin of Safety**: 63% — PRESENT (IV $239 vs $146 at 20x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.4% insider ownership
 - **Mr. Market**: Neutral

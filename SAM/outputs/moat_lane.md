@@ -1,7 +1,7 @@
 # Buffett/Munger Moat Lane: SAM
-*Generated: 2026-05-14 07:06 | Price: $179.19 | Mkt Cap: $2B*
+*Generated: 2026-05-15 07:39 | Price: $173.18 | Mkt Cap: $2B*
 
-> ⚠ DATA: yfinance misclassified Blackrock Inc. (8.7% inst.) as insider
+> ⚠ DATA: yfinance misclassified Blackrock Inc. (9.2% inst.) as insider
 
 ## Sector Context
 Consumer Defensive / Beverages - Brewers
@@ -22,10 +22,10 @@ Consumer Defensive / Beverages - Brewers
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.7/10 | 30% | 1.4 | Avg ROIC: 11.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 84% (severe cyclicality); FCF/NI: 229% (strong); Gross margin: 49% (pricing power for Consumer Defensive) | - |
+| Quality | 4.7/10 | 30% | 1.4 | Avg ROIC: 11.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 85% (severe cyclicality); FCF/NI: 229% (strong); Gross margin: 49% (pricing power for Consumer Defensive) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 11.0% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 49% vs sector strong cutoff 45% — strong pricing power; Operating margin 5% — thin for Consumer Defensive | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.2x — fair price; Near 52w low (3% of range) — Mr. Market fearful; Owner earnings yield: 19.9% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.6x — fair price; Near 52w low (3% of range) — Mr. Market fearful; Owner earnings yield: 20.6% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
 ## Buffett Score: 6.2 / 10

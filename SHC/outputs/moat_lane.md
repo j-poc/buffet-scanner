@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SHC
-*Generated: 2026-05-14 07:01 | Price: $15.48 | Mkt Cap: $4B*
+*Generated: 2026-05-15 07:38 | Price: $15.49 | Mkt Cap: $4B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research

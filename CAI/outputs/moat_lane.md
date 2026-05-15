@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CAI
-*Generated: 2026-05-14 07:06 | Price: $14.69 | Mkt Cap: $4B*
+*Generated: 2026-05-15 07:39 | Price: $15.25 | Mkt Cap: $4B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -21,9 +21,9 @@ Healthcare / Biotechnology
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: -0.9% (1y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 63% (severe cyclicality); FCF/NI: 45% (weak conversion); Gross margin: 69% (pricing power for Healthcare) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 48.5% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 65.8% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 48.5% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 65.1% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 69% vs sector strong cutoff 55% — strong pricing power; Operating margin 2% — thin for Healthcare; Rev growth 79% — demand pull | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 39.4x — expensive; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 2.5%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 40.9x — expensive; Near 52w low (4% of range) — Mr. Market fearful; Owner earnings yield: 2.4%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
 ## Buffett Score: 5.7 / 10

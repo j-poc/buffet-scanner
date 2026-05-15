@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AU
-*Generated: 2026-05-14 06:56 | Price: $102.37 | Mkt Cap: $52B*
+*Generated: 2026-05-15 07:41 | Price: $102.07 | Mkt Cap: $52B*
 
 ## Sector Context
 Basic Materials / Gold
@@ -36,7 +36,7 @@ Basic Materials / Gold
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Gold
-- **Margin of Safety**: 66% — PRESENT (IV $170 vs $102 at 25x)
+- **Margin of Safety**: 67% — PRESENT (IV $170 vs $102 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

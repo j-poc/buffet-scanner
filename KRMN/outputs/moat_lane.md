@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KRMN
-*Generated: 2026-05-14 07:05 | Price: $67.28 | Mkt Cap: $9B*
+*Generated: 2026-05-15 07:39 | Price: $66.02 | Mkt Cap: $9B*
 
 > ⚠ DATA: yfinance misclassified FMR, LLC (4.4% inst.) as insider
 
@@ -23,9 +23,9 @@ Industrials / Aerospace & Defense
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 6.7% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 49% (moderate cyclicality); FCF/NI: 30% (weak conversion); Gross margin: 41% (pricing power for Industrials) | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 22.5% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 22.7% of shares (SBC concern) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 41% vs sector strong cutoff 35% — strong pricing power; Operating margin 14%; Rev growth 51% — demand pull | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 71.4x — extreme premium; 52w range position: 34%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 70.1x — extreme premium; 52w range position: 32%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
 ## Buffett Score: 4.5 / 10
@@ -38,7 +38,7 @@ Industrials / Aerospace & Defense
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Aerospace & Defense
-- **Margin of Safety**: -91% — ABSENT ($67 > IV $6 at 25x for 25% growth)
+- **Margin of Safety**: -91% — ABSENT ($66 > IV $6 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

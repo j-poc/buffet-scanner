@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MORN
-*Generated: 2026-05-14 07:01 | Price: $166.22 | Mkt Cap: $6B*
+*Generated: 2026-05-15 07:38 | Price: $166.05 | Mkt Cap: $6B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges

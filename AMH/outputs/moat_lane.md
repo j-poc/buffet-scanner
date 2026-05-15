@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMH
-*Generated: 2026-05-14 07:04 | Price: $31.44 | Mkt Cap: $13B*
+*Generated: 2026-05-15 07:36 | Price: $31.36 | Mkt Cap: $13B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Portfolio Management LLC (8.0% inst.) as insider
 
@@ -23,9 +23,9 @@ Real Estate / REIT - Residential
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 4.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 32% (stable); FCF/NI: 171% (strong); Gross margin: 56% (pricing power for Real Estate) | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 14.1% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 14.2% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 56% vs sector strong cutoff 55% — strong pricing power; Operating margin 25% | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 48.0x — expensive; 52w range position: 36%; Owner earnings yield: 5.7% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 47.9x — expensive; 52w range position: 36%; Owner earnings yield: 5.7% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
 ## Buffett Score: 5.6 / 10

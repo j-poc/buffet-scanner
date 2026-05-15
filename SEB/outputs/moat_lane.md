@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SEB
-*Generated: 2026-05-14 07:06 | Price: $4751.25 | Mkt Cap: $5B*
+*Generated: 2026-05-15 07:39 | Price: $4712.28 | Mkt Cap: $5B*
 
 ## Sector Context
 Industrials / Conglomerates
@@ -20,10 +20,10 @@ Industrials / Conglomerates
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 5.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 85% from prior peak; 5y price drawdown: 0% (stable); FCF/NI: 34% (weak conversion); Gross margin: 8% (below Industrials norm) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 5.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 85% from prior peak; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 34% (weak conversion); Gross margin: 8% (below Industrials norm) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 74.6% (>10%); No insider transaction data; Restricted stock: 74.4% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 8% — below Industrials moderate cutoff 22%; Operating margin 4% — thin for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.8x — deep value; 52w range position: 65% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.8x — deep value; 52w range position: 64% | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10
@@ -36,7 +36,7 @@ Industrials / Conglomerates
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Conglomerates
-- **Margin of Safety**: 219% — PRESENT (IV $15144 vs $4751 at 25x)
+- **Margin of Safety**: 221% — PRESENT (IV $15138 vs $4712 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 74.6% insider ownership
 - **Mr. Market**: Neutral
