@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BXP
-*Generated: 2026-05-15 07:30 | Price: $58.96 | Mkt Cap: $11B*
+*Generated: 2026-05-16 06:27 | Price: $58.5 | Mkt Cap: $10B*
 
 ## Sector Context
 Real Estate / REIT - Office
@@ -23,10 +23,10 @@ Real Estate / REIT - Office
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 3.8% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 98% from prior peak; 5y price drawdown: 63% (severe cyclicality); FCF/NI: 2484% (strong); Gross margin: 56% (pricing power for Real Estate) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.2% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 56% vs sector strong cutoff 55% — strong pricing power; Operating margin 26% | - |
-| Valuation Fit | 6.5/10 | 20% | 1.3 | P/E 29.5x — growth premium; 52w range position: 31%; Owner earnings yield: 9.0% (>5%); Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
+| Valuation Fit | 8.0/10 | 20% | 1.6 | P/E 29.3x — growth premium; Near 52w low (30% of range) — Mr. Market fearful; Owner earnings yield: 9.0% (>5%); Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
-## Buffett Score: 4.2 / 10
+## Buffett Score: 4.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,13 +36,13 @@ Real Estate / REIT - Office
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Office
-- **Margin of Safety**: -16% — ABSENT ($59 > IV $50 at 25x for 25% growth)
-- **Lollapalooza Effect**: No (1 forces only: strong moat)
+- **Margin of Safety**: -15% — ABSENT ($58 > IV $50 at 25x for 25% growth)
+- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-No (1 forces only: strong moat)
+No (2 forces only: strong moat, attractive valuation)
 
 ---
 

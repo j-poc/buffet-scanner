@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FICO
-*Generated: 2026-05-15 07:31 | Price: $1076.93 | Mkt Cap: $25B*
+*Generated: 2026-05-16 06:28 | Price: $1098.59 | Mkt Cap: $25B*
 
 ## Sector Context
 Technology / Software - Application
@@ -23,32 +23,32 @@ Technology / Software - Application
 | Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 47.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 61% (severe cyclicality); FCF/NI: 119% (strong); Gross margin: 84% (pricing power for Technology) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.9% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 84% vs sector strong cutoff 60% — strong pricing power; Operating margin 58% — durable for Technology; Rev growth 39% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.8x — fair price; Near 52w low (15% of range) — Mr. Market fearful; Owner earnings yield: 2.9%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **8.3/10** | **100%** | **8.3** | | |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 20.2x — growth premium; Near 52w low (17% of range) — Mr. Market fearful; Owner earnings yield: 2.9%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **7.8/10** | **100%** | **7.8** | | |
 
-## Buffett Score: 8.3 / 10
-## Alpha Adjustment: +0.40
-## Conviction: HIGH
-## Verdict: Own Forever
+## Buffett Score: 7.8 / 10
+## Alpha Adjustment: +0.28
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Application
-- **Margin of Safety**: -27% — ABSENT ($1077 > IV $789 at 25x for 25% growth)
-- **Lollapalooza Effect**: YES — 4 forces aligning: high quality, strong moat, attractive valuation, secular growth
+- **Margin of Safety**: -28% — ABSENT ($1099 > IV $788 at 25x for 25% growth)
+- **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 2.8% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-YES — 4 forces aligning: high quality, strong moat, attractive valuation, secular growth
+YES — 3 forces aligning: high quality, strong moat, secular growth
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.40 applied to composite alpha score
-Conviction Gate: HIGH — Proceed
-Half-life adjustment: None
+Buffett Premium: +0.28 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

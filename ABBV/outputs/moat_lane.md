@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ABBV
-*Generated: 2026-05-15 07:29 | Price: $210.77 | Mkt Cap: $372B*
+*Generated: 2026-05-16 06:26 | Price: $210.39 | Mkt Cap: $372B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General
@@ -36,7 +36,7 @@ Healthcare / Drug Manufacturers - General
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Drug Manufacturers - General
-- **Margin of Safety**: -85% — ABSENT ($211 > IV $31 at 15x for -46% growth)
+- **Margin of Safety**: -85% — ABSENT ($210 > IV $31 at 15x for -46% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral
