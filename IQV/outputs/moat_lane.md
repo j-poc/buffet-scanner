@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IQV
-*Generated: 2026-05-16 06:29 | Price: $169.12 | Mkt Cap: $28B*
+*Generated: 2026-05-17 06:51 | Price: $169.12 | Mkt Cap: $28B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: INTC
-*Generated: 2026-05-16 06:29 | Price: $108.77 | Mkt Cap: $547B*
+*Generated: 2026-05-17 06:51 | Price: $108.77 | Mkt Cap: $547B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -12,7 +12,7 @@ Technology / Semiconductors
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Semiconductors | 25% | -35% | YES |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.2x | 15% | -25% | No |
-| 3 | Management / Governance Failure | Insider ownership 12.9%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 14.7%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -21,7 +21,7 @@ Technology / Semiconductors
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 0.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 334% from prior peak; 5y price drawdown: 66% (severe cyclicality); FCF/NI: 244% (strong); Gross margin: 37% (below Technology norm) | ROIC declining |
-| Management | 9.0/10 | 25% | 2.2 | Insider value: $71B (12.9%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
+| Management | 9.0/10 | 25% | 2.2 | Insider value: $80B (14.7%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 37% — below Technology moderate cutoff 40%; Operating margin 7% — thin for Technology | - |
 | Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 70.9x — extreme premium; 52w range position: 79%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.4/10** | **100%** | **3.4** | | |
@@ -38,7 +38,7 @@ Technology / Semiconductors
 - **Circle of Competence**: Technology / Semiconductors
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (0 forces only: none)
-- **Incentive-Caused Bias**: Aligned — 12.9% insider ownership
+- **Incentive-Caused Bias**: Aligned — 14.7% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

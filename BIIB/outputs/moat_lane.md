@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BIIB
-*Generated: 2026-05-16 06:27 | Price: $192.95 | Mkt Cap: $28B*
+*Generated: 2026-05-17 06:49 | Price: $192.95 | Mkt Cap: $28B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General

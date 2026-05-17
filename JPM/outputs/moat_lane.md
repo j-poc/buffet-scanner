@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JPM
-*Generated: 2026-05-16 06:29 | Price: $297.81 | Mkt Cap: $798B*
+*Generated: 2026-05-17 06:51 | Price: $297.81 | Mkt Cap: $798B*
 
 ## Sector Context
 Financial Services / Banks - Diversified

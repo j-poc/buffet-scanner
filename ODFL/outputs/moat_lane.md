@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ODFL
-*Generated: 2026-05-16 06:30 | Price: $203.12 | Mkt Cap: $42B*
+*Generated: 2026-05-17 06:52 | Price: $203.12 | Mkt Cap: $42B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.2% inst.) as insider
 

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AZO
-*Generated: 2026-05-16 06:27 | Price: $3321.15 | Mkt Cap: $55B*
+*Generated: 2026-05-17 06:49 | Price: $3321.15 | Mkt Cap: $55B*
 
 ## Sector Context
 Consumer Cyclical / Auto Parts

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COR
-*Generated: 2026-05-16 06:27 | Price: $257.71 | Mkt Cap: $50B*
+*Generated: 2026-05-17 06:49 | Price: $257.71 | Mkt Cap: $50B*
 
 ## Sector Context
 Healthcare / Medical Distribution
@@ -36,7 +36,7 @@ Healthcare / Medical Distribution
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Distribution
-- **Margin of Safety**: 27% — thin (IV $326 at 25x)
+- **Margin of Safety**: 26% — thin (IV $326 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 4.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

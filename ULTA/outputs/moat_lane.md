@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ULTA
-*Generated: 2026-05-16 06:31 | Price: $494.28 | Mkt Cap: $22B*
+*Generated: 2026-05-17 06:55 | Price: $494.28 | Mkt Cap: $22B*
 
 ## Sector Context
 Consumer Cyclical / Specialty Retail

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FICO
-*Generated: 2026-05-16 06:28 | Price: $1098.59 | Mkt Cap: $25B*
+*Generated: 2026-05-17 06:51 | Price: $1098.59 | Mkt Cap: $25B*
 
 ## Sector Context
 Technology / Software - Application

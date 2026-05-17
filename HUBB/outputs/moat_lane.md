@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HUBB
-*Generated: 2026-05-16 06:29 | Price: $479.97 | Mkt Cap: $25B*
+*Generated: 2026-05-17 06:51 | Price: $479.97 | Mkt Cap: $25B*
 
 ## Sector Context
 Industrials / Electrical Equipment & Parts

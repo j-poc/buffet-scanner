@@ -1,7 +1,7 @@
 # Buffett/Munger Moat Lane: LEN
-*Generated: 2026-05-16 06:29 | Price: $82.3 | Mkt Cap: $20B*
+*Generated: 2026-05-17 06:51 | Price: $82.3 | Mkt Cap: $20B*
 
-> ⚠ DATA: yfinance misclassified Vanguard Capital Management LLC (6.0% inst.) as insider
+> ⚠ DATA: yfinance misclassified Blackrock Inc. (8.5% inst.) as insider
 
 ## Sector Context
 Consumer Cyclical / Residential Construction
