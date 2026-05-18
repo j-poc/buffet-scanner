@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NVDA
-*Generated: 2026-05-17 06:52 | Price: $225.32 | Mkt Cap: $5457B*
+*Generated: 2026-05-18 08:13 | Price: $225.32 | Mkt Cap: $5457B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -23,7 +23,7 @@ Technology / Semiconductors
 | Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 51.3% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 66% (severe cyclicality); FCF/NI: 85% (strong); Gross margin: 71% (pricing power for Technology) | - |
 | Management | 9.0/10 | 25% | 2.2 | Insider value: $217B (4.0%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 3.7% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 71% vs sector strong cutoff 60% — strong pricing power; Operating margin 65% — durable for Technology; Rev growth 73% — demand pull | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.7x — fair price; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 1.1%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.8x — fair price; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 1.1%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **8.7/10** | **100%** | **8.7** | | |
 
 ## Buffett Score: 8.7 / 10

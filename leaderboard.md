@@ -1,7 +1,7 @@
-Here is today's Buffett/Munger analyst leaderboard for the S&P 100 universe, reflecting a market where high-quality, moated businesses are recognized, but many top names exhibit stretched valuations.
+```markdown
+# Leaderboard: 2026-05-18
 
-# Leaderboard: 2026-05-17
-The market currently values high-quality, moated businesses strongly, with many top contenders showing stretched valuations and a "greedy" Mr. Market, though some opportunities exist in overlooked names.
+The market currently rewards high-quality, high-moat businesses with robust valuations, reflecting strong investor confidence in durable competitive advantages.
 
 | # | Ticker | Score | Conviction | Alpha Adj | Verdict |
 |---|--------|-------|------------|-----------|--------|
@@ -183,83 +183,83 @@ The market currently values high-quality, moated businesses strongly, with many 
 | 176 | EBAY | 6.1 | MODERATE | 0.11 | Watchlist |
 | 177 | EOG | 6.1 | MODERATE | 0.11 | Watchlist |
 | 178 | GDDY | 6.1 | MODERATE | 0.11 | Watchlist |
-| 179 | MTB | 6.1 | MODERATE | 0.11 | Watchlist |
-| 180 | NOW | 6.1 | MODERATE | 0.11 | Watchlist |
-| 181 | TPR | 6.1 | MODERATE | 0.11 | Watchlist |
-| 182 | VZ | 6.1 | MODERATE | 0.11 | Watchlist |
-| 183 | LNT | 6.0 | LOW | 0.0 | Pass |
-| 184 | AMZN | 6.0 | LOW | 0.0 | Pass |
-| 185 | AEE | 6.0 | LOW | 0.0 | Pass |
-| 186 | AEP | 6.0 | LOW | 0.0 | Pass |
-| 187 | AMT | 6.0 | LOW | 0.0 | Pass |
-| 188 | AWK | 6.0 | LOW | 0.0 | Pass |
-| 189 | ARES | 6.0 | LOW | 0.0 | Pass |
-| 190 | BF-B | 6.0 | LOW | 0.0 | Pass |
-| 191 | CNP | 6.0 | LOW | 0.0 | Pass |
-| 192 | CHTR | 6.0 | LOW | 0.0 | Pass |
-| 193 | CMS | 6.0 | LOW | 0.0 | Pass |
-| 194 | ED | 6.0 | LOW | 0.0 | Pass |
-| 195 | COO | 6.0 | LOW | 0.0 | Pass |
-| 196 | CPAY | 6.0 | LOW | 0.0 | Pass |
-| 197 | CRH | 6.0 | LOW | 0.0 | Pass |
-| 198 | DRI | 6.0 | LOW | 0.0 | Pass |
-| 199 | DVA | 6.0 | LOW | 0.0 | Pass |
-| 200 | D | 6.0 | LOW | 0.0 | Pass |
-| 201 | DPZ | 6.0 | LOW | 0.0 | Pass |
-| 202 | DUK | 6.0 | LOW | 0.0 | Pass |
-| 203 | EIX | 6.0 | LOW | 0.0 | Pass |
-| 204 | ES | 6.0 | LOW | 0.0 | Pass |
-| 205 | EXC | 6.0 | LOW | 0.0 | Pass |
-| 206 | FE | 6.0 | LOW | 0.0 | Pass |
-| 207 | FOXA | 6.0 | LOW | 0.0 | Pass |
-| 208 | GPN | 6.0 | LOW | 0.0 | Pass |
-| 209 | HLT | 6.0 | LOW | 0.0 | Pass |
-| 210 | HON | 6.0 | LOW | 0.0 | Pass |
-| 211 | KVUE | 6.0 | LOW | 0.0 | Pass |
-| 212 | KDP | 6.0 | LOW | 0.0 | Pass |
-| 213 | KIM | 6.0 | LOW | 0.0 | Pass |
-| 214 | KMI | 6.0 | LOW | 0.0 | Pass |
-| 215 | KKR | 6.0 | LOW | 0.0 | Pass |
-| 216 | KHC | 6.0 | LOW | 0.0 | Pass |
-| 217 | MCK | 6.0 | LOW | 0.0 | Pass |
+| 179 | ISRG | 6.1 | MODERATE | 0.11 | Watchlist |
+| 180 | MTB | 6.1 | MODERATE | 0.11 | Watchlist |
+| 181 | NOW | 6.1 | MODERATE | 0.11 | Watchlist |
+| 182 | TPR | 6.1 | MODERATE | 0.11 | Watchlist |
+| 183 | VZ | 6.1 | MODERATE | 0.11 | Watchlist |
+| 184 | LNT | 6.0 | LOW | 0.0 | Pass |
+| 185 | AMZN | 6.0 | LOW | 0.0 | Pass |
+| 186 | AEE | 6.0 | LOW | 0.0 | Pass |
+| 187 | AEP | 6.0 | LOW | 0.0 | Pass |
+| 188 | AMT | 6.0 | LOW | 0.0 | Pass |
+| 189 | AWK | 6.0 | LOW | 0.0 | Pass |
+| 190 | ARES | 6.0 | LOW | 0.0 | Pass |
+| 191 | BF-B | 6.0 | LOW | 0.0 | Pass |
+| 192 | CNP | 6.0 | LOW | 0.0 | Pass |
+| 193 | CHTR | 6.0 | LOW | 0.0 | Pass |
+| 194 | CMS | 6.0 | LOW | 0.0 | Pass |
+| 195 | ED | 6.0 | LOW | 0.0 | Pass |
+| 196 | COO | 6.0 | LOW | 0.0 | Pass |
+| 197 | CPAY | 6.0 | LOW | 0.0 | Pass |
+| 198 | CRH | 6.0 | LOW | 0.0 | Pass |
+| 199 | DRI | 6.0 | LOW | 0.0 | Pass |
+| 200 | DVA | 6.0 | LOW | 0.0 | Pass |
+| 201 | D | 6.0 | LOW | 0.0 | Pass |
+| 202 | DPZ | 6.0 | LOW | 0.0 | Pass |
+| 203 | DUK | 6.0 | LOW | 0.0 | Pass |
+| 204 | EIX | 6.0 | LOW | 0.0 | Pass |
+| 205 | ES | 6.0 | LOW | 0.0 | Pass |
+| 206 | EXC | 6.0 | LOW | 0.0 | Pass |
+| 207 | FE | 6.0 | LOW | 0.0 | Pass |
+| 208 | FOXA | 6.0 | LOW | 0.0 | Pass |
+| 209 | GPN | 6.0 | LOW | 0.0 | Pass |
+| 210 | HLT | 6.0 | LOW | 0.0 | Pass |
+| 211 | HON | 6.0 | LOW | 0.0 | Pass |
+| 212 | KVUE | 6.0 | LOW | 0.0 | Pass |
+| 213 | KDP | 6.0 | LOW | 0.0 | Pass |
+| 214 | KIM | 6.0 | LOW | 0.0 | Pass |
+| 215 | KMI | 6.0 | LOW | 0.0 | Pass |
+| 216 | KKR | 6.0 | LOW | 0.0 | Pass |
+| 217 | KHC | 6.0 | LOW | 0.0 | Pass |
 | 218 | MDT | 6.0 | LOW | 0.0 | Pass |
-| 219 | MET | 6.0 | LOW | 0.0 | Pass |
-| 220 | NEM | 6.0 | LOW | 0.0 | Pass |
-| 221 | ORCL | 6.0 | LOW | 0.0 | Pass |
-| 222 | PNW | 6.0 | LOW | 0.0 | Pass |
-| 223 | PPL | 6.0 | LOW | 0.0 | Pass |
-| 224 | PRU | 6.0 | LOW | 0.0 | Pass |
-| 225 | RF | 6.0 | LOW | 0.0 | Pass |
-| 226 | SBAC | 6.0 | LOW | 0.0 | Pass |
-| 227 | SPG | 6.0 | LOW | 0.0 | Pass |
-| 228 | SOLV | 6.0 | LOW | 0.0 | Pass |
-| 229 | SO | 6.0 | LOW | 0.0 | Pass |
-| 230 | TDG | 6.0 | LOW | 0.0 | Pass |
-| 231 | UAL | 6.0 | LOW | 0.0 | Pass |
-| 232 | VICI | 6.0 | LOW | 0.0 | Pass |
-| 233 | WAB | 6.0 | LOW | 0.0 | Pass |
-| 234 | WEC | 6.0 | LOW | 0.0 | Pass |
-| 235 | WYNN | 6.0 | LOW | 0.0 | Pass |
-| 236 | XEL | 6.0 | LOW | 0.0 | Pass |
-| 237 | YUM | 6.0 | LOW | 0.0 | Pass |
-| 238 | A | 5.9 | LOW | 0.0 | Pass |
-| 239 | CDNS | 5.9 | LOW | 0.0 | Pass |
-| 240 | CCL | 5.9 | LOW | 0.0 | Pass |
-| 241 | CAT | 5.9 | LOW | 0.0 | Pass |
-| 242 | FIX | 5.9 | LOW | 0.0 | Pass |
-| 243 | FANG | 5.9 | LOW | 0.0 | Pass |
-| 244 | EA | 5.9 | LOW | 0.0 | Pass |
-| 245 | NTRS | 5.9 | LOW | 0.0 | Pass |
-| 246 | PCG | 5.9 | LOW | 0.0 | Pass |
-| 247 | STE | 5.9 | LOW | 0.0 | Pass |
-| 248 | VRTX | 5.9 | LOW | 0.0 | Pass |
-| 249 | APA | 5.8 | LOW | 0.0 | Pass |
-| 250 | BR | 5.8 | LOW | 0.0 | Pass |
-| 251 | COR | 5.8 | LOW | 0.0 | Pass |
-| 252 | HSY | 5.8 | LOW | 0.0 | Pass |
-| 253 | ISRG | 5.8 | LOW | 0.0 | Pass |
-| 254 | MU | 5.8 | LOW | 0.0 | Pass |
-| 255 | QCOM | 5.8 | LOW | 0.0 | Pass |
+| 219 | MCK | 6.0 | LOW | 0.0 | Pass |
+| 220 | MET | 6.0 | LOW | 0.0 | Pass |
+| 221 | NEM | 6.0 | LOW | 0.0 | Pass |
+| 222 | ORCL | 6.0 | LOW | 0.0 | Pass |
+| 223 | PNW | 6.0 | LOW | 0.0 | Pass |
+| 224 | PPL | 6.0 | LOW | 0.0 | Pass |
+| 225 | PRU | 6.0 | LOW | 0.0 | Pass |
+| 226 | QCOM | 6.0 | LOW | 0.0 | Pass |
+| 227 | YUM | 6.0 | LOW | 0.0 | Pass |
+| 228 | RF | 6.0 | LOW | 0.0 | Pass |
+| 229 | SBAC | 6.0 | LOW | 0.0 | Pass |
+| 230 | SPG | 6.0 | LOW | 0.0 | Pass |
+| 231 | SOLV | 6.0 | LOW | 0.0 | Pass |
+| 232 | SO | 6.0 | LOW | 0.0 | Pass |
+| 233 | TDG | 6.0 | LOW | 0.0 | Pass |
+| 234 | UAL | 6.0 | LOW | 0.0 | Pass |
+| 235 | VICI | 6.0 | LOW | 0.0 | Pass |
+| 236 | WAB | 6.0 | LOW | 0.0 | Pass |
+| 237 | WEC | 6.0 | LOW | 0.0 | Pass |
+| 238 | WYNN | 6.0 | LOW | 0.0 | Pass |
+| 239 | XEL | 6.0 | LOW | 0.0 | Pass |
+| 240 | A | 5.9 | LOW | 0.0 | Pass |
+| 241 | CDNS | 5.9 | LOW | 0.0 | Pass |
+| 242 | CCL | 5.9 | LOW | 0.0 | Pass |
+| 243 | CAT | 5.9 | LOW | 0.0 | Pass |
+| 244 | FIX | 5.9 | LOW | 0.0 | Pass |
+| 245 | FANG | 5.9 | LOW | 0.0 | Pass |
+| 246 | EA | 5.9 | LOW | 0.0 | Pass |
+| 247 | NTRS | 5.9 | LOW | 0.0 | Pass |
+| 248 | PCG | 5.9 | LOW | 0.0 | Pass |
+| 249 | STE | 5.9 | LOW | 0.0 | Pass |
+| 250 | VRTX | 5.9 | LOW | 0.0 | Pass |
+| 251 | APA | 5.8 | LOW | 0.0 | Pass |
+| 252 | BR | 5.8 | LOW | 0.0 | Pass |
+| 253 | COR | 5.8 | LOW | 0.0 | Pass |
+| 254 | HSY | 5.8 | LOW | 0.0 | Pass |
+| 255 | MU | 5.8 | LOW | 0.0 | Pass |
 | 256 | REGN | 5.8 | LOW | 0.0 | Pass |
 | 257 | TSCO | 5.8 | LOW | 0.0 | Pass |
 | 258 | UHS | 5.8 | LOW | 0.0 | Pass |
@@ -285,10 +285,10 @@ The market currently values high-quality, moated businesses strongly, with many 
 | 278 | BEN | 5.6 | LOW | 0.0 | Pass |
 | 279 | PODD | 5.6 | LOW | 0.0 | Pass |
 | 280 | PLTR | 5.6 | LOW | 0.0 | Pass |
-| 281 | ROP | 5.6 | LOW | 0.0 | Pass |
-| 282 | VMC | 5.6 | LOW | 0.0 | Pass |
-| 283 | WMB | 5.6 | LOW | 0.0 | Pass |
-| 284 | ZBH | 5.6 | LOW | 0.0 | Pass |
+| 281 | ZBH | 5.6 | LOW | 0.0 | Pass |
+| 282 | ROP | 5.6 | LOW | 0.0 | Pass |
+| 283 | VMC | 5.6 | LOW | 0.0 | Pass |
+| 284 | WMB | 5.6 | LOW | 0.0 | Pass |
 | 285 | APH | 5.5 | LOW | 0.0 | Pass |
 | 286 | C | 5.5 | LOW | 0.0 | Pass |
 | 287 | EME | 5.5 | LOW | 0.0 | Pass |
@@ -309,95 +309,95 @@ The market currently values high-quality, moated businesses strongly, with many 
 | 302 | FTV | 5.4 | LOW | 0.0 | Pass |
 | 303 | GE | 5.4 | LOW | 0.0 | Pass |
 | 304 | HBAN | 5.4 | LOW | 0.0 | Pass |
-| 305 | ALGN | 5.3 | LOW | 0.0 | Pass |
-| 306 | AJG | 5.3 | LOW | 0.0 | Pass |
-| 307 | AXON | 5.3 | LOW | 0.0 | Pass |
-| 308 | BLDR | 5.3 | LOW | 0.0 | Pass |
-| 309 | FRT | 5.3 | LOW | 0.0 | Pass |
-| 310 | GD | 5.3 | LOW | 0.0 | Pass |
-| 311 | INVH | 5.3 | LOW | 0.0 | Pass |
-| 312 | OKE | 5.3 | LOW | 0.0 | Pass |
-| 313 | POOL | 5.3 | LOW | 0.0 | Pass |
+| 305 | POOL | 5.4 | LOW | 0.0 | Pass |
+| 306 | SNDK | 5.4 | LOW | 0.0 | Pass |
+| 307 | ALGN | 5.3 | LOW | 0.0 | Pass |
+| 308 | AJG | 5.3 | LOW | 0.0 | Pass |
+| 309 | BLDR | 5.3 | LOW | 0.0 | Pass |
+| 310 | FRT | 5.3 | LOW | 0.0 | Pass |
+| 311 | GD | 5.3 | LOW | 0.0 | Pass |
+| 312 | INVH | 5.3 | LOW | 0.0 | Pass |
+| 313 | OKE | 5.3 | LOW | 0.0 | Pass |
 | 314 | REG | 5.3 | LOW | 0.0 | Pass |
-| 315 | SNDK | 5.3 | LOW | 0.0 | Pass |
-| 316 | TGT | 5.3 | LOW | 0.0 | Pass |
-| 317 | TKO | 5.3 | LOW | 0.0 | Pass |
-| 318 | TFC | 5.3 | LOW | 0.0 | Pass |
-| 319 | VRT | 5.3 | LOW | 0.0 | Pass |
-| 320 | ARE | 5.2 | LOW | 0.0 | Pass |
-| 321 | ADI | 5.2 | LOW | 0.0 | Pass |
-| 322 | AVY | 5.2 | LOW | 0.0 | Pass |
-| 323 | BIIB | 5.2 | LOW | 0.0 | Pass |
-| 324 | CPB | 5.2 | LOW | 0.0 | Pass |
-| 325 | CSCO | 5.2 | LOW | 0.0 | Pass |
-| 326 | CEG | 5.2 | LOW | 0.0 | Pass |
-| 327 | DELL | 5.2 | LOW | 0.0 | Pass |
-| 328 | DLTR | 5.2 | LOW | 0.0 | Pass |
-| 329 | HAS | 5.2 | LOW | 0.0 | Pass |
-| 330 | IQV | 5.2 | LOW | 0.0 | Pass |
-| 331 | LDOS | 5.2 | LOW | 0.0 | Pass |
-| 332 | LMT | 5.2 | LOW | 0.0 | Pass |
-| 333 | NVR | 5.2 | LOW | 0.0 | Pass |
-| 334 | PFE | 5.2 | LOW | 0.0 | Pass |
-| 335 | PSA | 5.2 | LOW | 0.0 | Pass |
-| 336 | SRE | 5.2 | LOW | 0.0 | Pass |
-| 337 | SJM | 5.2 | LOW | 0.0 | Pass |
-| 338 | ACN | 5.1 | LOW | 0.0 | Pass |
-| 339 | AIG | 5.1 | LOW | 0.0 | Pass |
-| 340 | AMAT | 5.1 | LOW | 0.0 | Pass |
-| 341 | BDX | 5.1 | LOW | 0.0 | Pass |
-| 342 | COF | 5.1 | LOW | 0.0 | Pass |
-| 343 | DVN | 5.1 | LOW | 0.0 | Pass |
-| 344 | ETR | 5.1 | LOW | 0.0 | Pass |
-| 345 | EXR | 5.1 | LOW | 0.0 | Pass |
-| 346 | XOM | 5.1 | LOW | 0.0 | Pass |
-| 347 | IEX | 5.1 | LOW | 0.0 | Pass |
-| 348 | KEY | 5.1 | LOW | 0.0 | Pass |
-| 349 | NDSN | 5.1 | LOW | 0.0 | Pass |
-| 350 | ROK | 5.1 | LOW | 0.0 | Pass |
-| 351 | WAT | 5.1 | LOW | 0.0 | Pass |
-| 352 | XYZ | 5.0 | LOW | 0.0 | Pass |
-| 353 | CTSH | 5.0 | LOW | 0.0 | Pass |
-| 354 | CCI | 5.0 | LOW | 0.0 | Pass |
-| 355 | EL | 5.0 | LOW | 0.0 | Pass |
-| 356 | FITB | 5.0 | LOW | 0.0 | Pass |
-| 357 | HAL | 5.0 | LOW | 0.0 | Pass |
-| 358 | JBL | 5.0 | LOW | 0.0 | Pass |
-| 359 | JCI | 5.0 | LOW | 0.0 | Pass |
-| 360 | LYB | 5.0 | LOW | 0.0 | Pass |
-| 361 | MLM | 5.0 | LOW | 0.0 | Pass |
-| 362 | NSC | 5.0 | LOW | 0.0 | Pass |
-| 363 | TDY | 5.0 | LOW | 0.0 | Pass |
-| 364 | TXT | 5.0 | LOW | 0.0 | Pass |
-| 365 | TYL | 5.0 | LOW | 0.0 | Pass |
-| 366 | CFG | 4.9 | LOW | 0.0 | Pass |
-| 367 | CSX | 4.9 | LOW | 0.0 | Pass |
-| 368 | CMI | 4.9 | LOW | 0.0 | Pass |
-| 369 | DAL | 4.9 | LOW | 0.0 | Pass |
-| 370 | ESS | 4.9 | LOW | 0.0 | Pass |
-| 371 | FDX | 4.9 | LOW | 0.0 | Pass |
-| 372 | IFF | 4.9 | LOW | 0.0 | Pass |
-| 373 | LH | 4.9 | LOW | 0.0 | Pass |
-| 374 | NXPI | 4.9 | LOW | 0.0 | Pass |
-| 375 | ODFL | 4.9 | LOW | 0.0 | Pass |
-| 376 | DGX | 4.9 | LOW | 0.0 | Pass |
-| 377 | LUV | 4.9 | LOW | 0.0 | Pass |
-| 378 | TRMB | 4.9 | LOW | 0.0 | Pass |
-| 379 | UPS | 4.9 | LOW | 0.0 | Pass |
-| 380 | TECH | 4.8 | LOW | 0.0 | Pass |
-| 381 | CASY | 4.8 | LOW | 0.0 | Pass |
-| 382 | EW | 4.8 | LOW | 0.0 | Pass |
-| 383 | FISV | 4.8 | LOW | 0.0 | Pass |
-| 384 | HPQ | 4.8 | LOW | 0.0 | Pass |
-| 385 | LRCX | 4.8 | LOW | 0.0 | Pass |
-| 386 | NEE | 4.8 | LOW | 0.0 | Pass |
-| 387 | NKE | 4.8 | LOW | 0.0 | Pass |
-| 388 | NCLH | 4.8 | LOW | 0.0 | Pass |
-| 389 | PHM | 4.8 | LOW | 0.0 | Pass |
-| 390 | UBER | 4.8 | LOW | 0.0 | Pass |
-| 391 | ALB | 4.7 | LOW | 0.0 | Pass |
-| 392 | AVB | 4.7 | LOW | 0.0 | Pass |
-| 393 | CDW | 4.7 | LOW | 0.0 | Pass |
+| 315 | TGT | 5.3 | LOW | 0.0 | Pass |
+| 316 | TKO | 5.3 | LOW | 0.0 | Pass |
+| 317 | TFC | 5.3 | LOW | 0.0 | Pass |
+| 318 | VRT | 5.3 | LOW | 0.0 | Pass |
+| 319 | ARE | 5.2 | LOW | 0.0 | Pass |
+| 320 | ADI | 5.2 | LOW | 0.0 | Pass |
+| 321 | AVY | 5.2 | LOW | 0.0 | Pass |
+| 322 | BIIB | 5.2 | LOW | 0.0 | Pass |
+| 323 | CPB | 5.2 | LOW | 0.0 | Pass |
+| 324 | CSCO | 5.2 | LOW | 0.0 | Pass |
+| 325 | CEG | 5.2 | LOW | 0.0 | Pass |
+| 326 | DELL | 5.2 | LOW | 0.0 | Pass |
+| 327 | DLTR | 5.2 | LOW | 0.0 | Pass |
+| 328 | HAS | 5.2 | LOW | 0.0 | Pass |
+| 329 | IQV | 5.2 | LOW | 0.0 | Pass |
+| 330 | LDOS | 5.2 | LOW | 0.0 | Pass |
+| 331 | LMT | 5.2 | LOW | 0.0 | Pass |
+| 332 | NVR | 5.2 | LOW | 0.0 | Pass |
+| 333 | PFE | 5.2 | LOW | 0.0 | Pass |
+| 334 | PSA | 5.2 | LOW | 0.0 | Pass |
+| 335 | SRE | 5.2 | LOW | 0.0 | Pass |
+| 336 | SJM | 5.2 | LOW | 0.0 | Pass |
+| 337 | ACN | 5.1 | LOW | 0.0 | Pass |
+| 338 | AIG | 5.1 | LOW | 0.0 | Pass |
+| 339 | AMAT | 5.1 | LOW | 0.0 | Pass |
+| 340 | BDX | 5.1 | LOW | 0.0 | Pass |
+| 341 | COF | 5.1 | LOW | 0.0 | Pass |
+| 342 | ETR | 5.1 | LOW | 0.0 | Pass |
+| 343 | EXR | 5.1 | LOW | 0.0 | Pass |
+| 344 | XOM | 5.1 | LOW | 0.0 | Pass |
+| 345 | IEX | 5.1 | LOW | 0.0 | Pass |
+| 346 | KEY | 5.1 | LOW | 0.0 | Pass |
+| 347 | NDSN | 5.1 | LOW | 0.0 | Pass |
+| 348 | ROK | 5.1 | LOW | 0.0 | Pass |
+| 349 | WAT | 5.1 | LOW | 0.0 | Pass |
+| 350 | XYZ | 5.0 | LOW | 0.0 | Pass |
+| 351 | CTSH | 5.0 | LOW | 0.0 | Pass |
+| 352 | CCI | 5.0 | LOW | 0.0 | Pass |
+| 353 | EL | 5.0 | LOW | 0.0 | Pass |
+| 354 | FITB | 5.0 | LOW | 0.0 | Pass |
+| 355 | HAL | 5.0 | LOW | 0.0 | Pass |
+| 356 | JBL | 5.0 | LOW | 0.0 | Pass |
+| 357 | JCI | 5.0 | LOW | 0.0 | Pass |
+| 358 | LYB | 5.0 | LOW | 0.0 | Pass |
+| 359 | MLM | 5.0 | LOW | 0.0 | Pass |
+| 360 | NSC | 5.0 | LOW | 0.0 | Pass |
+| 361 | TDY | 5.0 | LOW | 0.0 | Pass |
+| 362 | TXT | 5.0 | LOW | 0.0 | Pass |
+| 363 | TYL | 5.0 | LOW | 0.0 | Pass |
+| 364 | CFG | 4.9 | LOW | 0.0 | Pass |
+| 365 | CSX | 4.9 | LOW | 0.0 | Pass |
+| 366 | CMI | 4.9 | LOW | 0.0 | Pass |
+| 367 | DAL | 4.9 | LOW | 0.0 | Pass |
+| 368 | ESS | 4.9 | LOW | 0.0 | Pass |
+| 369 | FDX | 4.9 | LOW | 0.0 | Pass |
+| 370 | IFF | 4.9 | LOW | 0.0 | Pass |
+| 371 | LH | 4.9 | LOW | 0.0 | Pass |
+| 372 | NXPI | 4.9 | LOW | 0.0 | Pass |
+| 373 | ODFL | 4.9 | LOW | 0.0 | Pass |
+| 374 | DGX | 4.9 | LOW | 0.0 | Pass |
+| 375 | LUV | 4.9 | LOW | 0.0 | Pass |
+| 376 | TRMB | 4.9 | LOW | 0.0 | Pass |
+| 377 | UPS | 4.9 | LOW | 0.0 | Pass |
+| 378 | TECH | 4.8 | LOW | 0.0 | Pass |
+| 379 | CASY | 4.8 | LOW | 0.0 | Pass |
+| 380 | EW | 4.8 | LOW | 0.0 | Pass |
+| 381 | FISV | 4.8 | LOW | 0.0 | Pass |
+| 382 | HPQ | 4.8 | LOW | 0.0 | Pass |
+| 383 | LRCX | 4.8 | LOW | 0.0 | Pass |
+| 384 | NEE | 4.8 | LOW | 0.0 | Pass |
+| 385 | NKE | 4.8 | LOW | 0.0 | Pass |
+| 386 | NCLH | 4.8 | LOW | 0.0 | Pass |
+| 387 | PHM | 4.8 | LOW | 0.0 | Pass |
+| 388 | UBER | 4.8 | LOW | 0.0 | Pass |
+| 389 | ALB | 4.7 | LOW | 0.0 | Pass |
+| 390 | AVB | 4.7 | LOW | 0.0 | Pass |
+| 391 | AXON | 4.7 | LOW | 0.0 | Pass |
+| 392 | CDW | 4.7 | LOW | 0.0 | Pass |
+| 393 | DVN | 4.7 | LOW | 0.0 | Pass |
 | 394 | EXPD | 4.7 | LOW | 0.0 | Pass |
 | 395 | PKG | 4.7 | LOW | 0.0 | Pass |
 | 396 | STX | 4.7 | LOW | 0.0 | Pass |
@@ -407,42 +407,42 @@ The market currently values high-quality, moated businesses strongly, with many 
 | 400 | APTV | 4.6 | LOW | 0.0 | Pass |
 | 401 | CI | 4.6 | LOW | 0.0 | Pass |
 | 402 | DG | 4.6 | LOW | 0.0 | Pass |
-| 403 | HST | 4.6 | LOW | 0.0 | Pass |
-| 404 | KR | 4.6 | LOW | 0.0 | Pass |
-| 405 | LYV | 4.6 | LOW | 0.0 | Pass |
-| 406 | TAP | 4.6 | LOW | 0.0 | Pass |
-| 407 | NOC | 4.6 | LOW | 0.0 | Pass |
-| 408 | TEL | 4.6 | LOW | 0.0 | Pass |
-| 409 | UDR | 4.6 | LOW | 0.0 | Pass |
-| 410 | DIS | 4.6 | LOW | 0.0 | Pass |
-| 411 | BKR | 4.5 | LOW | 0.0 | Pass |
-| 412 | BXP | 4.5 | LOW | 0.0 | Pass |
-| 413 | DD | 4.5 | LOW | 0.0 | Pass |
-| 414 | FIS | 4.5 | LOW | 0.0 | Pass |
+| 403 | KR | 4.6 | LOW | 0.0 | Pass |
+| 404 | LYV | 4.6 | LOW | 0.0 | Pass |
+| 405 | TAP | 4.6 | LOW | 0.0 | Pass |
+| 406 | NOC | 4.6 | LOW | 0.0 | Pass |
+| 407 | TEL | 4.6 | LOW | 0.0 | Pass |
+| 408 | UDR | 4.6 | LOW | 0.0 | Pass |
+| 409 | DIS | 4.6 | LOW | 0.0 | Pass |
+| 410 | BKR | 4.5 | LOW | 0.0 | Pass |
+| 411 | BXP | 4.5 | LOW | 0.0 | Pass |
+| 412 | DD | 4.5 | LOW | 0.0 | Pass |
+| 413 | FIS | 4.5 | LOW | 0.0 | Pass |
+| 414 | HST | 4.5 | LOW | 0.0 | Pass |
 | 415 | IVZ | 4.5 | LOW | 0.0 | Pass |
 | 416 | MSCI | 4.5 | LOW | 0.0 | Pass |
 | 417 | OMC | 4.5 | LOW | 0.0 | Pass |
 | 418 | PLD | 4.5 | LOW | 0.0 | Pass |
-| 419 | SWKS | 4.5 | LOW | 0.0 | Pass |
-| 420 | VLO | 4.5 | LOW | 0.0 | Pass |
-| 421 | VTRS | 4.5 | LOW | 0.0 | Pass |
-| 422 | ZBRA | 4.5 | LOW | 0.0 | Pass |
+| 419 | ZBRA | 4.5 | LOW | 0.0 | Pass |
+| 420 | SWKS | 4.5 | LOW | 0.0 | Pass |
+| 421 | VLO | 4.5 | LOW | 0.0 | Pass |
+| 422 | VTRS | 4.5 | LOW | 0.0 | Pass |
 | 423 | DLR | 4.4 | LOW | 0.0 | Pass |
 | 424 | GNRC | 4.4 | LOW | 0.0 | Pass |
 | 425 | NUE | 4.4 | LOW | 0.0 | Pass |
 | 426 | PANW | 4.4 | LOW | 0.0 | Pass |
-| 427 | WST | 4.4 | LOW | 0.0 | Pass |
-| 428 | HII | 4.3 | LOW | 0.0 | Pass |
-| 429 | MAA | 4.3 | LOW | 0.0 | Pass |
-| 430 | CHRW | 4.2 | LOW | 0.0 | Pass |
-| 431 | EPAM | 4.2 | LOW | 0.0 | Pass |
-| 432 | GPC | 4.2 | LOW | 0.0 | Pass |
-| 433 | KEYS | 4.2 | LOW | 0.0 | Pass |
-| 434 | MPC | 4.2 | LOW | 0.0 | Pass |
-| 435 | MCHP | 4.2 | LOW | 0.0 | Pass |
-| 436 | NRG | 4.2 | LOW | 0.0 | Pass |
-| 437 | RVTY | 4.2 | LOW | 0.0 | Pass |
-| 438 | TSN | 4.2 | LOW | 0.0 | Pass |
+| 427 | HII | 4.3 | LOW | 0.0 | Pass |
+| 428 | MAA | 4.3 | LOW | 0.0 | Pass |
+| 429 | CHRW | 4.2 | LOW | 0.0 | Pass |
+| 430 | EPAM | 4.2 | LOW | 0.0 | Pass |
+| 431 | GPC | 4.2 | LOW | 0.0 | Pass |
+| 432 | KEYS | 4.2 | LOW | 0.0 | Pass |
+| 433 | MPC | 4.2 | LOW | 0.0 | Pass |
+| 434 | MCHP | 4.2 | LOW | 0.0 | Pass |
+| 435 | NRG | 4.2 | LOW | 0.0 | Pass |
+| 436 | RVTY | 4.2 | LOW | 0.0 | Pass |
+| 437 | TSN | 4.2 | LOW | 0.0 | Pass |
+| 438 | WST | 4.2 | LOW | 0.0 | Pass |
 | 439 | WDC | 4.2 | LOW | 0.0 | Pass |
 | 440 | AKAM | 4.1 | LOW | 0.0 | Pass |
 | 441 | AMCR | 4.1 | LOW | 0.0 | Pass |
@@ -511,23 +511,24 @@ The market currently values high-quality, moated businesses strongly, with many 
 
 ## Top 5 Deep Dives
 
-**NVDA (Score: 8.7)**
-NVDA faces a material risk of technology disruption in semiconductors (25% probability, -35% impact on FV), a significant concern. Despite this, its exceptional quality (8.5/10 with 51.3% Avg ROIC) and strong moat (9.5/10 with 71% gross margin and 65% operating margin) alongside a robust 73% revenue growth drive its 8.7 score, high conviction, and "Own Forever" verdict, supported by a Lollapalooza Effect. Valuation is considered fair at 19.7x P/E, but Mr. Market is deemed "Greedy" near its 52-week high, with no margin of safety.
+### NVDA
+Technology disruption poses a material threat with a 25% probability of a -35% impact on future value, representing the primary inversion killer. Despite a fair P/E of 19.8x for a 25% growth expectation, the stock trades near its 52-week high at 90% of its range, indicating Mr. Market is currently greedy. The "Own Forever" verdict is based on its outstanding quality score of 8.5/10 with 51.3% average ROIC, and a robust moat score of 9.5/10, evidenced by 71% gross margins and 73% revenue growth.
 
-**GOOGL (Score: 8.4)**
-GOOGL's primary inversion killer of technology disruption is deemed non-material with low probability (10%) and impact (-15% on FV). The company boasts outstanding quality (9.5/10 with 24.9% Avg ROIC and monotonic earnings growth) and an exceptional moat (9.5/10 with 60% gross margin and 36% operating margin). Despite a strong 8.4 score and "Own Forever" verdict due to Lollapalooza effects, its valuation is considered expensive at 27.5x P/E, with an earnings yield worse than bonds, indicating Mr. Market is "Greedy" with no margin of safety.
+### GOOGL
+Technology disruption is a non-material inversion killer for GOOGL, with a low 10% probability of a -15% impact on future value. Valuation is a significant concern, as the P/E of 27.5x is expensive, and an owner earnings yield of 0.6% performs worse than bonds, while trading at 97% of its 52-week high indicates Mr. Market is greedy. GOOGL earns an "Own Forever" verdict due to its exceptional quality (9.5/10) with 24.9% average ROIC and monotonic earnings growth, coupled with a wide moat (9.5/10) supported by 60% gross margins and 36% operating margins.
 
-**ROL (Score: 8.4)**
-ROL faces no material inversion killers, with low technology disruption risk. Its quality is perfect (10.0/10, 29.5% Avg ROIC, stable 27% 5-year price drawdown) and moat is robust (9.0/10, 53% gross margin), leading to an 8.4 score and "Own Forever" verdict. Insider ownership is exceptionally high at 38.4%, demonstrating strong alignment, and Mr. Market appears "Fearful" near its 52-week low. However, its valuation is expensive at 38.2x P/E, with a negative 69% margin of safety and no Lollapalooza Effect.
+### ROL
+Technology disruption represents a non-material inversion killer for ROL, carrying a 10% probability of a -15% impact on future value. The valuation is expensive at 38.2x P/E, with a 2.0% owner earnings yield that is worse than bonds; however, trading at 10% of its 52-week range suggests Mr. Market is fearful, presenting a potential opportunity. The "Own Forever" verdict is driven by its perfect 10.0/10 quality score, highlighted by 29.5% average ROIC and consistent earnings, along with a strong moat (9.0/10) from 53% gross margins and 16% operating margins.
 
-**CTAS (Score: 8.3)**
-CTAS has no material inversion killers, with low technology disruption risk. Its quality is near perfect (9.8/10, 23.4% Avg ROIC, stable 28% 5-year price drawdown) and moat is strong (9.0/10, 50% gross margin), contributing to an 8.3 score and "Own Forever" verdict. Management alignment is solid with 15.0% insider ownership. The deep dive does not provide an explicit valuation warning beyond valuation fit being 7.5/10.
+### CTAS
+Technology disruption is a non-material inversion killer for CTAS, with a 10% probability of a -15% impact on future value. Valuation is tight, trading near its 52-week high at 95% of its range, and Mr. Market is characterized as greedy. An "Own Forever" verdict is assigned due to its very high quality (9.8/10) with 23.4% average ROIC and stable earnings, and a commanding moat (9.0/10) supported by 50% gross margins and 19% operating margins.
 
-**RJF (Score: 8.3)**
-Detailed reports for RJF were not provided. Based on its high score of 8.3, "HIGH" conviction, and "Own Forever" verdict, it exhibits strong fundamental characteristics aligning with Buffett/Munger principles for long-term holding.
+### RJF
+Raymond James Financial, ticker RJF, achieved a high score of 8.3 with a HIGH conviction verdict of "Own Forever". Without specific deep dive details, it is inferred that its business likely possesses a strong moat and consistent quality, aligning with the highest echelon of conviction, despite current market conditions.
 
 ## Munger Inversion Alert
-NVDA is the only name in the top 20 with a material inversion killer ("Technology Disruption" with 25% probability, -35% impact on FV, flagged as "YES"). All other top-20 names explicitly state "No" for material killers or imply it.
+Based on the provided deep dive reports for NVDA, GOOGL, ROL, and CTAS, none of these companies exhibit two or more *material* inversion killers. NVDA has one material killer (Technology Disruption).
 
 ## Bottom Line
-Google (GOOGL) represents the single best risk-adjusted name today, offering a robust moat and high quality without the material inversion risks seen in NVDA, despite its currently high valuation.
+ROL stands out as the single best risk-adjusted name today, despite its high P/E, due to its perfect quality score of 10.0/10, strong moat, and Mr. Market's current fearful sentiment (10% of 52-week range) offering a superior entry point compared to other top-ranked companies.
+```

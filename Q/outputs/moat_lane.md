@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: Q
-*Generated: 2026-05-17 06:52 | Price: $157.23 | Mkt Cap: $33B*
+*Generated: 2026-05-18 08:15 | Price: $157.23 | Mkt Cap: $33B*
 
 ## Sector Context
 Technology / Semiconductor Equipment & Materials
@@ -21,7 +21,7 @@ Technology / Semiconductor Equipment & Materials
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 6.2% (3y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 34% from prior peak; 5y price drawdown: 27% (stable); FCF/NI: 130% (strong); Gross margin: 46% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 46% — moderate moat for Technology; Operating margin 23% | - |
 | Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 33.1x — expensive; Near 52w high (86% of range) — Mr. Market greedy; Owner earnings yield: 2.1%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.6/10** | **100%** | **3.6** | | |

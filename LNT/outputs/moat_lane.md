@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LNT
-*Generated: 2026-05-17 06:49 | Price: $70.9 | Mkt Cap: $18B*
+*Generated: 2026-05-18 08:10 | Price: $70.9 | Mkt Cap: $18B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric

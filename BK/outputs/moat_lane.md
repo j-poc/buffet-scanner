@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BK
-*Generated: 2026-05-17 06:49 | Price: $135.02 | Mkt Cap: $93B*
+*Generated: 2026-05-18 08:10 | Price: $135.02 | Mkt Cap: $93B*
 
 ## Sector Context
 Financial Services / Banks - Diversified

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: INTC
-*Generated: 2026-05-17 06:51 | Price: $108.77 | Mkt Cap: $547B*
+*Generated: 2026-05-18 08:12 | Price: $108.77 | Mkt Cap: $547B*
 
 ## Sector Context
 Technology / Semiconductors

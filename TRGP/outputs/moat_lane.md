@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TRGP
-*Generated: 2026-05-17 06:53 | Price: $271.99 | Mkt Cap: $58B*
+*Generated: 2026-05-18 08:16 | Price: $271.99 | Mkt Cap: $58B*
 
 ## Sector Context
 Energy / Oil & Gas Midstream
@@ -21,7 +21,7 @@ Energy / Oil & Gas Midstream
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.7/10 | 30% | 1.7 | Avg ROIC: 12.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 32% (stable); FCF/NI: 58%; Gross margin: 42% (pricing power for Energy) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.5% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.6% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 42% vs sector strong cutoff 30% — strong pricing power; Operating margin 21% — durable for Energy | - |
 | Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 22.8x — growth premium; Near 52w high (99% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.3/10** | **100%** | **6.3** | | |

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EG
-*Generated: 2026-05-17 06:50 | Price: $351.67 | Mkt Cap: $14B*
+*Generated: 2026-05-18 08:11 | Price: $351.67 | Mkt Cap: $14B*
 
 ## Sector Context
 Financial Services / Insurance - Reinsurance

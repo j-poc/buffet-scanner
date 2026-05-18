@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DVA
-*Generated: 2026-05-17 06:50 | Price: $199.74 | Mkt Cap: $13B*
+*Generated: 2026-05-18 08:11 | Price: $199.74 | Mkt Cap: $13B*
 
 ## Sector Context
 Healthcare / Medical Care Facilities
@@ -21,7 +21,7 @@ Healthcare / Medical Care Facilities
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.2/10 | 30% | 1.6 | Avg ROIC: 14.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 51% (moderate cyclicality); FCF/NI: 180% (strong); Gross margin: 32% (below Healthcare norm) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 50.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 47.1% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 50.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 46.9% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 32% — below Healthcare moderate cutoff 35%; Operating margin 14% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.6x — deep value; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 7.8% (>5%) | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |

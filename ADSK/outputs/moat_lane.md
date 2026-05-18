@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ADSK
-*Generated: 2026-05-17 06:49 | Price: $236.62 | Mkt Cap: $50B*
+*Generated: 2026-05-18 08:10 | Price: $236.62 | Mkt Cap: $50B*
 
 ## Sector Context
 Technology / Software - Application

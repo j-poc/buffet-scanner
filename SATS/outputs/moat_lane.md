@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SATS
-*Generated: 2026-05-17 06:50 | Price: $137.23 | Mkt Cap: $40B*
+*Generated: 2026-05-18 08:11 | Price: $137.23 | Mkt Cap: $40B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (11.9% inst.) as insider
 

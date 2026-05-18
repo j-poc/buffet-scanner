@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MCO
-*Generated: 2026-05-17 06:52 | Price: $428.9 | Mkt Cap: $75B*
+*Generated: 2026-05-18 08:12 | Price: $428.9 | Mkt Cap: $75B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges
@@ -21,7 +21,7 @@ Financial Services / Financial Data & Stock Exchanges
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 7.5/10 | 30% | 2.2 | ROE: 71.4% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 42% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 14.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 7.8% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 14.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 8.4% of shares (SBC concern) | - |
 | Moat | 8.5/10 | 25% | 2.1 | ROE 71% — strong franchise (Financial Services); Operating margin 46% — durable for Financial Services | - |
 | Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 23.1x — growth premium; Near 52w low (18% of range) — Mr. Market fearful; Owner earnings yield: 3.0%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **8.0/10** | **100%** | **8.0** | | |

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: POOL
-*Generated: 2026-05-17 06:52 | Price: $175.35 | Mkt Cap: $6B*
+*Generated: 2026-05-18 08:13 | Price: $175.35 | Mkt Cap: $6B*
 
 ## Sector Context
 Industrials / Industrial Distribution
@@ -21,12 +21,12 @@ Industrials / Industrial Distribution
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.9/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 24.2% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 46% from prior peak; 5y price drawdown: 68% (severe cyclicality); FCF/NI: 108% (strong); Gross margin: 30% | ROIC declining |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 3.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 12.0% of shares (SBC concern) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.5% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 30% — moderate moat for Industrials; Operating margin 7% — thin for Industrials | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.6x — deep value; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 3.5%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
+| **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
-## Buffett Score: 5.3 / 10
+## Buffett Score: 5.4 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

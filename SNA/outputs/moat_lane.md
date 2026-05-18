@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SNA
-*Generated: 2026-05-17 06:53 | Price: $359.65 | Mkt Cap: $19B*
+*Generated: 2026-05-18 08:16 | Price: $359.65 | Mkt Cap: $19B*
 
 ## Sector Context
 Industrials / Tools & Accessories

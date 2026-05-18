@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PLD
-*Generated: 2026-05-17 06:52 | Price: $140.53 | Mkt Cap: $131B*
+*Generated: 2026-05-18 08:13 | Price: $140.53 | Mkt Cap: $131B*
 
 ## Sector Context
 Real Estate / REIT - Industrial
