@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MSI
-*Generated: 2026-05-18 08:12 | Price: $393.28 | Mkt Cap: $65B*
+*Generated: 2026-05-19 07:56 | Price: $410.27 | Mkt Cap: $68B*
 
 ## Sector Context
 Technology / Communication Equipment
@@ -23,11 +23,11 @@ Technology / Communication Equipment
 | Quality | 7.8/10 | 30% | 2.3 | Avg ROIC: 23.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 27% (stable); FCF/NI: 119% (strong); Gross margin: 52% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 52% — moderate moat for Technology; Operating margin 20% | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 21.3x — growth premium; Near 52w low (26% of range) — Mr. Market fearful; Owner earnings yield: 2.8%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.2x — growth premium; 52w range position: 38%; Owner earnings yield: 2.7%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
-## Buffett Score: 6.5 / 10
-## Alpha Adjustment: +0.15
+## Buffett Score: 6.2 / 10
+## Alpha Adjustment: +0.12
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,10 +36,10 @@ Technology / Communication Equipment
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Communication Equipment
-- **Margin of Safety**: -53% — ABSENT ($393 > IV $186 at 15x for -14% growth)
+- **Margin of Safety**: -55% — ABSENT ($410 > IV $186 at 15x for -14% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (0 forces only: none)
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.15 applied to composite alpha score
+Buffett Premium: +0.12 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

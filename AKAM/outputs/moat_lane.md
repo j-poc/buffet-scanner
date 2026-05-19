@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AKAM
-*Generated: 2026-05-18 08:10 | Price: $150.88 | Mkt Cap: $22B*
+*Generated: 2026-05-19 07:52 | Price: $150.77 | Mkt Cap: $22B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -23,7 +23,7 @@ Technology / Software - Infrastructure
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 6.4% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 47% (moderate cyclicality); FCF/NI: 147% (strong); Gross margin: 58% | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.3% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 58% — moderate moat for Technology; Operating margin 11% — thin for Technology | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 21.0x — growth premium; 52w range position: 85%; Owner earnings yield: 3.2%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 21.1x — growth premium; 52w range position: 85%; Owner earnings yield: 3.2%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
 
 ## Buffett Score: 4.1 / 10

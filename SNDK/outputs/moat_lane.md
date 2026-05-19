@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SNDK
-*Generated: 2026-05-18 08:16 | Price: $1407.61 | Mkt Cap: $208B*
+*Generated: 2026-05-19 07:57 | Price: $1333.01 | Mkt Cap: $197B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.0% inst.) as insider
 
@@ -25,10 +25,10 @@ Technology / Computer Hardware
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: -6.6% (2y); Earnings: 1 down-year in 2 transitions; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 40% (weak conversion); Gross margin: 56% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.4% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 56% — moderate moat for Technology; Operating margin 70% — durable for Technology; Rev growth 251% — demand pull | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 8.2x — deep value; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 1.1% | - |
-| **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.7x — deep value; 52w range position: 83%; Owner earnings yield: 1.1% | - |
+| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
-## Buffett Score: 5.4 / 10
+## Buffett Score: 5.6 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,10 +38,10 @@ Technology / Computer Hardware
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Computer Hardware
-- **Margin of Safety**: -48% — ABSENT ($1408 > IV $732 at 25x for 25% growth)
+- **Margin of Safety**: -45% — ABSENT ($1333 > IV $733 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 YES — 3 forces aligning: strong moat, attractive valuation, secular growth

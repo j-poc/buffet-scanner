@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CVX
-*Generated: 2026-05-18 08:11 | Price: $191.1 | Mkt Cap: $381B*
+*Generated: 2026-05-19 07:53 | Price: $196.12 | Mkt Cap: $391B*
 
 ## Sector Context
 Energy / Oil & Gas Integrated
@@ -20,13 +20,13 @@ Energy / Oil & Gas Integrated
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.5/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 13.7% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 65% from prior peak; 5y price drawdown: 25% (stable); FCF/NI: 105% (strong); Gross margin: 42% (pricing power for Energy) | ROIC declining |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 4.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 5.5% of shares (SBC concern) | - |
+| Quality | 2.5/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 13.7% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 65% from prior peak; 5y price drawdown: 0% (stable); FCF/NI: 105% (strong); Gross margin: 42% (pricing power for Energy) | ROIC declining |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.3% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 42% vs sector strong cutoff 30% — strong pricing power; Operating margin 7% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.7x — fair price; 52w range position: 71%; Owner earnings yield: 3.1%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.1x — fair price; 52w range position: 77%; Owner earnings yield: 3.0%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
-## Buffett Score: 5.7 / 10
+## Buffett Score: 5.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Energy / Oil & Gas Integrated
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Integrated
-- **Margin of Safety**: -55% — ABSENT ($191 > IV $86 at 15x for -44% growth)
+- **Margin of Safety**: -56% — ABSENT ($196 > IV $86 at 15x for -44% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 4.7% insider ownership
 - **Mr. Market**: Neutral

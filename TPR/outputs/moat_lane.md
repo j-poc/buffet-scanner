@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TPR
-*Generated: 2026-05-18 08:16 | Price: $129.32 | Mkt Cap: $26B*
+*Generated: 2026-05-19 07:57 | Price: $131.17 | Mkt Cap: $27B*
 
 ## Sector Context
 Consumer Cyclical / Luxury Goods
@@ -20,10 +20,10 @@ Consumer Cyclical / Luxury Goods
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.6/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 15.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 80% from prior peak; 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 228% (strong); Gross margin: 76% (pricing power for Consumer Cyclical) | ROIC declining |
+| Quality | 2.6/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 15.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 80% from prior peak; 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 228% (strong); Gross margin: 76% (pricing power for Consumer Cyclical) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 76% vs sector strong cutoff 45% — strong pricing power; Operating margin 22% — durable for Consumer Cyclical; Rev growth 21% — demand pull | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 16.9x — fair price; 52w range position: 62%; Owner earnings yield: 5.9% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 17.1x — fair price; 52w range position: 64%; Owner earnings yield: 5.8% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
 
 ## Buffett Score: 6.1 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Luxury Goods
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Luxury Goods
-- **Margin of Safety**: -37% — ABSENT ($129 > IV $82 at 25x for 25% growth)
+- **Margin of Safety**: -37% — ABSENT ($131 > IV $82 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

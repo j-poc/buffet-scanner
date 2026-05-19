@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OTIS
-*Generated: 2026-05-18 08:13 | Price: $71.01 | Mkt Cap: $27B*
+*Generated: 2026-05-19 07:56 | Price: $71.13 | Mkt Cap: $27B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
@@ -23,7 +23,7 @@ Industrials / Specialty Industrial Machinery
 | Quality | 6.0/10 | 30% | 1.8 | ROIC declining trend; Avg ROIC: 72.8% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 31% (stable); FCF/NI: 103% (strong); Gross margin: 31% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 31% — moderate moat for Industrials; Operating margin 15% — durable for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.0x — fair price; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 6.2% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.1x — fair price; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 6.2% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
 
 ## Buffett Score: 6.7 / 10
