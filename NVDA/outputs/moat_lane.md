@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NVDA
-*Generated: 2026-05-19 07:56 | Price: $222.32 | Mkt Cap: $5385B*
+*Generated: 2026-05-20 07:55 | Price: $220.61 | Mkt Cap: $5343B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -21,9 +21,9 @@ Technology / Semiconductors
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 51.3% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 66% (severe cyclicality); FCF/NI: 85% (strong); Gross margin: 71% (pricing power for Technology) | - |
-| Management | 9.0/10 | 25% | 2.2 | Insider value: $214B (4.0%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 3.7% (low) | - |
+| Management | 9.0/10 | 25% | 2.2 | Insider value: $213B (4.0%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 3.7% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 71% vs sector strong cutoff 60% — strong pricing power; Operating margin 65% — durable for Technology; Rev growth 73% — demand pull | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.5x — fair price; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 1.1%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.0x — fair price; Near 52w high (85% of range) — Mr. Market greedy; Owner earnings yield: 1.1%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **8.7/10** | **100%** | **8.7** | | |
 
 ## Buffett Score: 8.7 / 10
@@ -36,7 +36,7 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: -45% — ABSENT ($222 > IV $122 at 25x for 25% growth)
+- **Margin of Safety**: -44% — ABSENT ($221 > IV $123 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 4.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

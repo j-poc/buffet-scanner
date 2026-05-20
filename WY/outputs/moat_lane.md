@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WY
-*Generated: 2026-05-19 07:58 | Price: $22.87 | Mkt Cap: $16B*
+*Generated: 2026-05-20 07:57 | Price: $22.89 | Mkt Cap: $17B*
 
 ## Sector Context
 Real Estate / REIT - Specialty

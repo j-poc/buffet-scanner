@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HRL
-*Generated: 2026-05-19 07:55 | Price: $20.38 | Mkt Cap: $11B*
+*Generated: 2026-05-20 07:54 | Price: $20.4 | Mkt Cap: $11B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods
@@ -36,7 +36,7 @@ Consumer Defensive / Packaged Foods
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Packaged Foods
-- **Margin of Safety**: -32% — ABSENT ($20 > IV $14 at 15x for -5% growth)
+- **Margin of Safety**: -35% — ABSENT ($20 > IV $13 at 15x for -5% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMD
-*Generated: 2026-05-19 07:52 | Price: $420.99 | Mkt Cap: $686B*
+*Generated: 2026-05-20 07:51 | Price: $414.05 | Mkt Cap: $675B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -21,12 +21,12 @@ Technology / Semiconductors
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 2.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 35% from prior peak; 5y price drawdown: 65% (severe cyclicality); FCF/NI: 167% (strong); Gross margin: 53% | - |
-| Management | 7.5/10 | 25% | 1.9 | Insider value: $2.9B (0.4%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Management | 7.5/10 | 25% | 1.9 | Insider value: $2.8B (0.4%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 53% — moderate moat for Technology; Operating margin 14% — thin for Technology; Rev growth 38% — demand pull | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 32.5x — expensive; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 1.0%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 32.0x — expensive; 52w range position: 85%; Owner earnings yield: 1.1%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
-## Buffett Score: 4.6 / 10
+## Buffett Score: 4.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: -82% — ABSENT ($421 > IV $75 at 25x for 25% growth)
+- **Margin of Safety**: -82% — ABSENT ($414 > IV $74 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: secular growth)

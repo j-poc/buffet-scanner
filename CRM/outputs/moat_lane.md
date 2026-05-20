@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CRM
-*Generated: 2026-05-19 07:57 | Price: $179.48 | Mkt Cap: $147B*
+*Generated: 2026-05-20 07:56 | Price: $179.42 | Mkt Cap: $147B*
 
 ## Sector Context
 Technology / Software - Application
@@ -23,7 +23,7 @@ Technology / Software - Application
 | Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 6.8% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 59% (severe cyclicality); FCF/NI: 915% (strong); Gross margin: 78% (pricing power for Technology) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: -9.3% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 78% vs sector strong cutoff 60% — strong pricing power; Operating margin 19% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.0x — deep value; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 11.1% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.0x — deep value; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 11.2% (>5%) | - |
 | **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
 
 ## Buffett Score: 6.7 / 10

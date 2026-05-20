@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TSCO
-*Generated: 2026-05-19 07:57 | Price: $31.72 | Mkt Cap: $17B*
+*Generated: 2026-05-20 07:57 | Price: $31.14 | Mkt Cap: $16B*
 
 ## Sector Context
 Consumer Cyclical / Specialty Retail
@@ -23,7 +23,7 @@ Consumer Cyclical / Specialty Retail
 | Quality | 2.5/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 30.1% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 52% (moderate cyclicality); FCF/NI: 58%; Gross margin: 36% (thin by design for Specialty Retail) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | ROA 8% / ROE 46% — scale moat (Specialty Retail); Operating margin 6% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.7x — deep value; Near 52w low (7% of range) — Mr. Market fearful; Owner earnings yield: 2.1% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.5x — deep value; Near 52w low (5% of range) — Mr. Market fearful; Owner earnings yield: 2.1% | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Specialty Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Specialty Retail
-- **Margin of Safety**: -4% — ABSENT ($32 > IV $30 at 15x for -8% growth)
+- **Margin of Safety**: -2% — ABSENT ($31 > IV $30 at 15x for -8% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

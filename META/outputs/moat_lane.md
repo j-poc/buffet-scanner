@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: META
-*Generated: 2026-05-19 07:56 | Price: $611.21 | Mkt Cap: $1552B*
+*Generated: 2026-05-20 07:55 | Price: $602.61 | Mkt Cap: $1530B*
 
 ## Sector Context
 Communication Services / Internet Content & Information
@@ -23,10 +23,10 @@ Communication Services / Internet Content & Information
 | Quality | 7.1/10 | 30% | 2.1 | Avg ROIC: 22.6% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 77% (severe cyclicality); FCF/NI: 90% (strong); Gross margin: 82% (pricing power for Communication Services) | - |
 | Management | 7.5/10 | 25% | 1.9 | Insider value: $1.6B (0.1%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 82% vs sector strong cutoff 55% — strong pricing power; Operating margin 41% — durable for Communication Services; Rev growth 33% — demand pull | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.9x — fair price; 52w range position: 33%; Owner earnings yield: 1.6%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **8.1/10** | **100%** | **8.1** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.7x — fair price; Near 52w low (30% of range) — Mr. Market fearful; Owner earnings yield: 1.7%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **8.4/10** | **100%** | **8.4** | | |
 
-## Buffett Score: 8.1 / 10
+## Buffett Score: 8.4 / 10
 ## Alpha Adjustment: +0.40
 ## Conviction: HIGH
 ## Verdict: Own Forever
@@ -36,10 +36,10 @@ Communication Services / Internet Content & Information
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Internet Content & Information
-- **Margin of Safety**: 12% — thin (IV $688 at 25x)
+- **Margin of Safety**: 14% — thin (IV $687 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 YES — 3 forces aligning: strong moat, attractive valuation, secular growth

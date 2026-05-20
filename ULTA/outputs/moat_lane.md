@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ULTA
-*Generated: 2026-05-19 07:57 | Price: $479.87 | Mkt Cap: $21B*
+*Generated: 2026-05-20 07:57 | Price: $481.56 | Mkt Cap: $21B*
 
 ## Sector Context
 Consumer Cyclical / Specialty Retail
@@ -36,7 +36,7 @@ Consumer Cyclical / Specialty Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Specialty Retail
-- **Margin of Safety**: -20% — ABSENT ($480 > IV $384 at 15x for -5% growth)
+- **Margin of Safety**: -20% — ABSENT ($482 > IV $384 at 15x for -5% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

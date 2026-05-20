@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EPAM
-*Generated: 2026-05-19 07:54 | Price: $100.44 | Mkt Cap: $5B*
+*Generated: 2026-05-20 07:53 | Price: $100.51 | Mkt Cap: $5B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -36,7 +36,7 @@ Technology / Information Technology Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Information Technology Services
-- **Margin of Safety**: 39% — PRESENT (IV $139 vs $100 at 20x)
+- **Margin of Safety**: 38% — PRESENT (IV $139 vs $101 at 20x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 3.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

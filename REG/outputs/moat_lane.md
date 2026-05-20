@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: REG
-*Generated: 2026-05-19 07:57 | Price: $77.33 | Mkt Cap: $14B*
+*Generated: 2026-05-20 07:56 | Price: $77.34 | Mkt Cap: $14B*
 
 ## Sector Context
 Real Estate / REIT - Retail

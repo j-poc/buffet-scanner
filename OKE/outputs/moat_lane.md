@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OKE
-*Generated: 2026-05-19 07:56 | Price: $93.76 | Mkt Cap: $59B*
+*Generated: 2026-05-20 07:56 | Price: $95.24 | Mkt Cap: $60B*
 
 ## Sector Context
 Energy / Oil & Gas Midstream
@@ -23,7 +23,7 @@ Energy / Oil & Gas Midstream
 | Quality | 3.0/10 | 30% | 0.9 | ROIC declining trend; Avg ROIC: 9.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 93% (strong); Gross margin: 30% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 30% — moderate moat for Energy; Operating margin 15% | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 15.1x — fair price; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 0.8%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 15.4x — fair price; Near 52w high (99% of range) — Mr. Market greedy; Owner earnings yield: 0.8%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10
@@ -36,7 +36,7 @@ Energy / Oil & Gas Midstream
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Midstream
-- **Margin of Safety**: 20% — thin (IV $112 at 20x)
+- **Margin of Safety**: 18% — thin (IV $112 at 20x)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TGT
-*Generated: 2026-05-19 07:57 | Price: $123.4 | Mkt Cap: $56B*
+*Generated: 2026-05-20 07:57 | Price: $127.24 | Mkt Cap: $58B*
 
 ## Sector Context
 Consumer Defensive / Discount Stores
@@ -20,13 +20,13 @@ Consumer Defensive / Discount Stores
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 13.5% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 0% (stable); FCF/NI: 56%; Gross margin: 28% (thin by design for Discount Stores) | - |
+| Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 13.5% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 64% (severe cyclicality); FCF/NI: 56%; Gross margin: 28% (thin by design for Discount Stores) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROA 5% / ROE 24% — scale moat (Discount Stores); Operating margin 5% — thin for Consumer Defensive | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.4x — deep value; 52w range position: 80%; Owner earnings yield: 4.6%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 14.8x — deep value; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 4.5%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
-## Buffett Score: 5.8 / 10
+## Buffett Score: 5.1 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Consumer Defensive / Discount Stores
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Discount Stores
-- **Margin of Safety**: -1% — ABSENT ($123 > IV $122 at 15x for -5% growth)
+- **Margin of Safety**: -4% — ABSENT ($127 > IV $122 at 15x for -5% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)
