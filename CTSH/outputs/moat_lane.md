@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CTSH
-*Generated: 2026-05-20 07:53 | Price: $50.88 | Mkt Cap: $24B*
+*Generated: 2026-05-21 08:00 | Price: $51.3 | Mkt Cap: $24B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -20,13 +20,13 @@ Technology / Information Technology Services
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.3/10 | 30% | 1.3 | Avg ROIC: 17.0% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 0% (stable); FCF/NI: 98% (strong); Gross margin: 34% (below Technology norm) | - |
+| Quality | 3.8/10 | 30% | 1.1 | Avg ROIC: 17.0% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 98% (strong); Gross margin: 34% (below Technology norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 34% — below Technology moderate cutoff 40%; Operating margin 16% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.3x — deep value; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 7.9% (>5%) | - |
-| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.3x — deep value; Near 52w low (14% of range) — Mr. Market fearful; Owner earnings yield: 7.9% (>5%) | - |
+| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
-## Buffett Score: 5.2 / 10
+## Buffett Score: 5.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Technology / Information Technology Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Information Technology Services
-- **Margin of Safety**: 36% — PRESENT (IV $69 vs $51 at 15x)
+- **Margin of Safety**: 35% — PRESENT (IV $69 vs $51 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

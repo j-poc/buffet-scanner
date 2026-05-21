@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: INTC
-*Generated: 2026-05-20 07:54 | Price: $110.8 | Mkt Cap: $557B*
+*Generated: 2026-05-21 08:01 | Price: $118.96 | Mkt Cap: $598B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -21,13 +21,13 @@ Technology / Semiconductors
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 0.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 334% from prior peak; 5y price drawdown: 66% (severe cyclicality); FCF/NI: 244% (strong); Gross margin: 37% (below Technology norm) | ROIC declining |
-| Management | 9.0/10 | 25% | 2.2 | Insider value: $82B (14.7%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
+| Management | 9.0/10 | 25% | 2.2 | Insider value: $88B (14.7%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 37% — below Technology moderate cutoff 40%; Operating margin 7% — thin for Technology | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 72.0x — extreme premium; 52w range position: 81%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.4/10** | **100%** | **3.4** | | |
+| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 77.3x — extreme premium; Near 52w high (88% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **3.2/10** | **100%** | **3.2** | | |
 
-## Buffett Score: 3.4 / 10
-## Alpha Adjustment: -0.25
+## Buffett Score: 3.2 / 10
+## Alpha Adjustment: -0.26
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -39,7 +39,7 @@ Technology / Semiconductors
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Aligned — 14.7% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (0 forces only: none)
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.25 applied to composite alpha score
+Buffett Premium: -0.26 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

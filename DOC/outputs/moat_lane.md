@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DOC
-*Generated: 2026-05-20 07:54 | Price: $19.3 | Mkt Cap: $13B*
+*Generated: 2026-05-21 08:01 | Price: $19.66 | Mkt Cap: $14B*
 
 ## Sector Context
 Real Estate / REIT - Healthcare Facilities
@@ -23,7 +23,7 @@ Real Estate / REIT - Healthcare Facilities
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 3.1% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 86% from prior peak; 5y price drawdown: 54% (moderate cyclicality); FCF/NI: 672% (strong); Gross margin: 58% (pricing power for Real Estate) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 58% vs sector strong cutoff 55% — strong pricing power; Operating margin 12% — thin for Real Estate | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 143.0x — extreme premium; Near 52w high (86% of range) — Mr. Market greedy; Owner earnings yield: 8.3% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 145.6x — extreme premium; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 8.2% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.2/10** | **100%** | **3.2** | | |
 
 ## Buffett Score: 3.2 / 10
@@ -36,7 +36,7 @@ Real Estate / REIT - Healthcare Facilities
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Healthcare Facilities
-- **Margin of Safety**: -59% — ABSENT ($19 > IV $8 at 25x for 25% growth)
+- **Margin of Safety**: -59% — ABSENT ($20 > IV $8 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Greedy — exercise caution

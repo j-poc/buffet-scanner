@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GD
-*Generated: 2026-05-20 07:54 | Price: $340.14 | Mkt Cap: $92B*
+*Generated: 2026-05-21 08:00 | Price: $339.75 | Mkt Cap: $92B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -36,7 +36,7 @@ Industrials / Aerospace & Defense
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Aerospace & Defense
-- **Margin of Safety**: -7% — ABSENT ($340 > IV $318 at 20x for 12% growth)
+- **Margin of Safety**: -6% — ABSENT ($340 > IV $318 at 20x for 12% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral

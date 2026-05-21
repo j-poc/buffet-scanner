@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GOOGL
-*Generated: 2026-05-20 07:52 | Price: $387.66 | Mkt Cap: $4697B*
+*Generated: 2026-05-21 07:59 | Price: $388.91 | Mkt Cap: $4712B*
 
 ## Sector Context
 Communication Services / Internet Content & Information
@@ -21,9 +21,9 @@ Communication Services / Internet Content & Information
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 9.5/10 | 30% | 2.9 | Avg ROIC: 24.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 81% (strong); Gross margin: 60% (pricing power for Communication Services) | - |
-| Management | 9.0/10 | 25% | 2.2 | Insider value: $55B (1.2%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: -85.7% (low) | - |
+| Management | 9.0/10 | 25% | 2.2 | Insider value: $56B (1.2%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: -85.7% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 60% vs sector strong cutoff 55% — strong pricing power; Operating margin 36% — durable for Communication Services; Rev growth 22% — demand pull | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 26.8x — growth premium; Near 52w high (92% of range) — Mr. Market greedy; Owner earnings yield: 0.6%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 26.9x — growth premium; Near 52w high (92% of range) — Mr. Market greedy; Owner earnings yield: 0.6%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **8.4/10** | **100%** | **8.4** | | |
 
 ## Buffett Score: 8.4 / 10
@@ -36,7 +36,7 @@ Communication Services / Internet Content & Information
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Internet Content & Information
-- **Margin of Safety**: -16% — ABSENT ($388 > IV $328 at 25x for 25% growth)
+- **Margin of Safety**: -16% — ABSENT ($389 > IV $328 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 1.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution

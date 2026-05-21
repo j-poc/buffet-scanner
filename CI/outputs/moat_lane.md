@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CI
-*Generated: 2026-05-20 07:53 | Price: $291.28 | Mkt Cap: $77B*
+*Generated: 2026-05-21 08:00 | Price: $283.1 | Mkt Cap: $75B*
 
 ## Sector Context
 Healthcare / Healthcare Plans
@@ -20,13 +20,13 @@ Healthcare / Healthcare Plans
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.1/10 | 30% | 0.3 | Avg ROIC: 8.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 49% from prior peak; 5y price drawdown: 32% (stable); FCF/NI: 177% (strong); Gross margin: 9% (below Healthcare norm) | - |
+| Quality | 5.6/10 | 30% | 1.7 | Avg ROIC: 15.7% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 87% from prior peak; 5y price drawdown: 32% (stable); FCF/NI: 138% (strong); Gross margin: 9% (below Healthcare norm) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 9% — below Healthcare moderate cutoff 35%; Operating margin 5% — thin for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.7x — deep value; 52w range position: 52%; Owner earnings yield: 9.0% (>5%) | - |
-| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.4x — deep value; 52w range position: 44%; Owner earnings yield: 9.2% (>5%) | - |
+| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
-## Buffett Score: 4.6 / 10
+## Buffett Score: 5.9 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Healthcare / Healthcare Plans
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Healthcare Plans
-- **Margin of Safety**: 876% — PRESENT (IV $2843 vs $291 at 25x)
+- **Margin of Safety**: 904% — PRESENT (IV $2843 vs $283 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.4% insider ownership
 - **Mr. Market**: Neutral
