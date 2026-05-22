@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SLB
-*Generated: 2026-05-21 08:04 | Price: $57.28 | Mkt Cap: $86B*
+*Generated: 2026-05-22 07:56 | Price: $57.25 | Mkt Cap: $86B*
 
 ## Sector Context
 Energy / Oil & Gas Equipment & Services

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AXP
-*Generated: 2026-05-21 07:59 | Price: $309.82 | Mkt Cap: $211B*
+*Generated: 2026-05-22 07:50 | Price: $309.7 | Mkt Cap: $211B*
 
 ## Sector Context
 Financial Services / Credit Services

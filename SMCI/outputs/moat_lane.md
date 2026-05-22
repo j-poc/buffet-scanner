@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SMCI
-*Generated: 2026-05-21 08:05 | Price: $33.46 | Mkt Cap: $20B*
+*Generated: 2026-05-22 07:56 | Price: $33.46 | Mkt Cap: $20B*
 
 ## Sector Context
 Technology / Computer Hardware
