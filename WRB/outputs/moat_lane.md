@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WRB
-*Generated: 2026-05-22 07:56 | Price: $67.47 | Mkt Cap: $25B*
+*Generated: 2026-05-23 06:45 | Price: $67.54 | Mkt Cap: $25B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty
@@ -36,7 +36,7 @@ Financial Services / Insurance - Property & Casualty
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Property & Casualty
-- **Margin of Safety**: 75% — PRESENT (IV $118 vs $67 at 25x)
+- **Margin of Safety**: 75% — PRESENT (IV $118 vs $68 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: high quality, attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 26.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

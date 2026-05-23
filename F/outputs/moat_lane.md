@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: F
-*Generated: 2026-05-22 07:52 | Price: $13.67 | Mkt Cap: $54B*
+*Generated: 2026-05-23 06:40 | Price: $14.93 | Mkt Cap: $59B*
 
 ## Sector Context
 Consumer Cyclical / Auto Manufacturers
@@ -23,11 +23,11 @@ Consumer Cyclical / Auto Manufacturers
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 0.1% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 239% from prior peak; 5y price drawdown: 57% (severe cyclicality); FCF/NI: 29% (weak conversion); Gross margin: 7% (below Consumer Cyclical norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 7% — below Consumer Cyclical moderate cutoff 30%; Operating margin 6% — thin for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.5x — deep value; 52w range position: 75% | - |
-| **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 8.2x — deep value; Near 52w high (100% of range) — Mr. Market greedy | - |
+| **TOTAL** | **3.7/10** | **100%** | **3.7** | | |
 
-## Buffett Score: 3.9 / 10
-## Alpha Adjustment: -0.21
+## Buffett Score: 3.7 / 10
+## Alpha Adjustment: -0.22
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -39,7 +39,7 @@ Consumer Cyclical / Auto Manufacturers
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.21 applied to composite alpha score
+Buffett Premium: -0.22 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

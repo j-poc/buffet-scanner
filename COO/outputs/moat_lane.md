@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COO
-*Generated: 2026-05-22 07:51 | Price: $62.85 | Mkt Cap: $12B*
+*Generated: 2026-05-23 06:40 | Price: $62.55 | Mkt Cap: $12B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies
@@ -23,7 +23,7 @@ Healthcare / Medical Instruments & Supplies
 | Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: 4.6% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 95% (strong); Gross margin: 65% (pricing power for Healthcare) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 65% vs sector strong cutoff 55% — strong pricing power; Operating margin 21% — durable for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.5x — deep value; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 3.0% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.5x — deep value; Near 52w low (12% of range) — Mr. Market fearful; Owner earnings yield: 3.0% | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

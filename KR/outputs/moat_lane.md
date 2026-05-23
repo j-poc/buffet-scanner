@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KR
-*Generated: 2026-05-22 07:52 | Price: $67.07 | Mkt Cap: $41B*
+*Generated: 2026-05-23 06:41 | Price: $67.25 | Mkt Cap: $41B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.7% inst.) as insider
 
@@ -25,7 +25,7 @@ Consumer Defensive / Grocery Stores
 | Quality | 0.5/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 10.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 62% from prior peak; 5y price drawdown: 31% (stable); FCF/NI: 151% (strong); Gross margin: 24% (thin by design for Grocery Stores) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -27.9% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | ROA 6% / ROE 14% — adequate scale (Grocery Stores); Operating margin 3% — thin for Consumer Defensive | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.9x — deep value; 52w range position: 47%; Owner earnings yield: 8.2% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.0x — deep value; 52w range position: 48%; Owner earnings yield: 8.2% (>5%) | - |
 | **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
 ## Buffett Score: 4.6 / 10

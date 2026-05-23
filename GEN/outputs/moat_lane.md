@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GEN
-*Generated: 2026-05-22 07:52 | Price: $24.85 | Mkt Cap: $15B*
+*Generated: 2026-05-23 06:40 | Price: $24.82 | Mkt Cap: $15B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.7% inst.) as insider
 
@@ -22,14 +22,14 @@ Technology / Software - Infrastructure
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.9/10 | 30% | 1.2 | ROIC declining trend; Avg ROIC: 13.4% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 54% from prior peak; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 174% (strong); Gross margin: 78% (pricing power for Technology) | ROIC declining |
+| Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 10.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 54% from prior peak; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 184% (strong); Gross margin: 78% (pricing power for Technology) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 24.4% of shares (SBC concern) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 78% vs sector strong cutoff 60% — strong pricing power; Operating margin 63% — durable for Technology; Rev growth 27% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.6x — deep value; 52w range position: 49%; Owner earnings yield: 9.6% (>5%) | - |
-| **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
+| **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
 
-## Buffett Score: 6.4 / 10
-## Alpha Adjustment: +0.14
+## Buffett Score: 6.8 / 10
+## Alpha Adjustment: +0.18
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -50,7 +50,7 @@ YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.14 applied to composite alpha score
+Buffett Premium: +0.18 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

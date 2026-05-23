@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MAS
-*Generated: 2026-05-22 07:52 | Price: $67.15 | Mkt Cap: $14B*
+*Generated: 2026-05-23 06:41 | Price: $67.26 | Mkt Cap: $14B*
 
 ## Sector Context
 Industrials / Building Products & Equipment
@@ -23,7 +23,7 @@ Industrials / Building Products & Equipment
 | Quality | 7.0/10 | 30% | 2.1 | Avg ROIC: 37.2% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 38% (stable); FCF/NI: 105% (strong); Gross margin: 36% (pricing power for Industrials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 36% vs sector strong cutoff 35% — strong pricing power; Operating margin 17% — durable for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.3x — deep value; 52w range position: 43%; Owner earnings yield: 5.5% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.3x — deep value; 52w range position: 43%; Owner earnings yield: 5.4% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.3/10** | **100%** | **7.3** | | |
 
 ## Buffett Score: 7.3 / 10

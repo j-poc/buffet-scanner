@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NWS
-*Generated: 2026-05-22 07:53 | Price: $30.08 | Mkt Cap: $16B*
+*Generated: 2026-05-23 06:41 | Price: $29.68 | Mkt Cap: $16B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -23,7 +23,7 @@ Communication Services / Entertainment
 | Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 6.1% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 76% from prior peak; 5y price drawdown: 40% (moderate cyclicality); FCF/NI: 169% (strong); Gross margin: 57% (pricing power for Communication Services) | - |
 | Management | 9.0/10 | 25% | 2.2 | Insider ownership: 34.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: -199.7% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 57% vs sector strong cutoff 55% — strong pricing power; Operating margin 10% — thin for Communication Services | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 23.5x — growth premium; 52w range position: 45%; Owner earnings yield: 10.6% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 23.2x — growth premium; 52w range position: 42%; Owner earnings yield: 10.8% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
 
 ## Buffett Score: 6.7 / 10
@@ -36,7 +36,7 @@ Communication Services / Entertainment
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Entertainment
-- **Margin of Safety**: -61% — ABSENT ($30 > IV $12 at 15x for -10% growth)
+- **Margin of Safety**: -60% — ABSENT ($30 > IV $12 at 15x for -10% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Aligned — 34.8% insider ownership
 - **Mr. Market**: Neutral

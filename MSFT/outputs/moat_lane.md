@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MSFT
-*Generated: 2026-05-22 07:52 | Price: $419.09 | Mkt Cap: $3113B*
+*Generated: 2026-05-23 06:41 | Price: $418.57 | Mkt Cap: $3109B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -23,7 +23,7 @@ Technology / Software - Infrastructure
 | Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 28.2% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 37% (stable); FCF/NI: 82% (strong); Gross margin: 68% (pricing power for Technology) | - |
 | Management | 7.5/10 | 25% | 1.9 | Insider value: $2.5B (0.1%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 68% vs sector strong cutoff 60% — strong pricing power; Operating margin 46% — durable for Technology | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 21.7x — growth premium; 52w range position: 32%; Owner earnings yield: 1.2%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 21.6x — growth premium; 52w range position: 31%; Owner earnings yield: 1.2%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **8.0/10** | **100%** | **8.0** | | |
 
 ## Buffett Score: 8.0 / 10

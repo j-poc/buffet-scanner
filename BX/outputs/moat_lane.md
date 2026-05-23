@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BX
-*Generated: 2026-05-22 07:50 | Price: $118.57 | Mkt Cap: $145B*
+*Generated: 2026-05-23 06:39 | Price: $118.51 | Mkt Cap: $145B*
 
 ## Sector Context
 Financial Services / Asset Management

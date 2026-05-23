@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TGT
-*Generated: 2026-05-22 07:56 | Price: $126.15 | Mkt Cap: $57B*
+*Generated: 2026-05-23 06:45 | Price: $125.6 | Mkt Cap: $57B*
 
 ## Sector Context
 Consumer Defensive / Discount Stores
@@ -23,10 +23,10 @@ Consumer Defensive / Discount Stores
 | Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 13.5% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 64% (severe cyclicality); FCF/NI: 56%; Gross margin: 28% (thin by design for Discount Stores) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROA 5% / ROE 22% — scale moat (Discount Stores); Operating margin 4% — thin for Consumer Defensive | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 14.2x — deep value; Near 52w high (86% of range) — Mr. Market greedy; Owner earnings yield: 4.8% | - |
-| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.1x — deep value; 52w range position: 85%; Owner earnings yield: 4.9% | - |
+| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
-## Buffett Score: 5.1 / 10
+## Buffett Score: 5.3 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -39,7 +39,7 @@ Consumer Defensive / Discount Stores
 - **Margin of Safety**: -10% — ABSENT ($126 > IV $114 at 15x for -25% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

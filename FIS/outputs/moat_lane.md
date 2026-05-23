@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FIS
-*Generated: 2026-05-22 07:52 | Price: $43.62 | Mkt Cap: $23B*
+*Generated: 2026-05-23 06:40 | Price: $43.56 | Mkt Cap: $23B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -23,7 +23,7 @@ Technology / Information Technology Services
 | Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 3.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 74% from prior peak; 5y price drawdown: 69% (severe cyclicality); FCF/NI: 127% (strong); Gross margin: 36% (below Technology norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 36% — below Technology moderate cutoff 40%; Operating margin 16% — thin for Technology; Rev growth 30% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.4x — deep value; Near 52w low (6% of range) — Mr. Market fearful; Owner earnings yield: 10.9% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.4x — deep value; Near 52w low (5% of range) — Mr. Market fearful; Owner earnings yield: 10.9% (>5%) | - |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
 ## Buffett Score: 4.5 / 10

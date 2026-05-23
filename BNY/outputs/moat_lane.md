@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: BNY
-*Generated: 2026-05-22 07:50 | Price: $N/A | Mkt Cap: N/A*
+*Generated: 2026-05-23 06:39 | Price: $139.15 | Mkt Cap: $96B*
 
 ## Sector Context
- / 
+Financial Services / Banks - Diversified
 
 ---
 
@@ -12,7 +12,7 @@
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
+| 3 | Management / Governance Failure | Insider ownership 0.2%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -20,34 +20,35 @@
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.5/10 | 30% | 1.9 | Fallback ROE: 0.0%; Earnings: 3/3 up-years (monotonic); FCF/NI: 189% (strong); Gross margin: 0% (below  norm) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 0% — below  moderate cutoff 40%; Operating margin 0% — thin for  | - |
-| Valuation Fit | 3.0/10 | 20% | 0.6 | No P/E data (unprofitable?) | Expensive |
-| **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
+| Quality | 6.4/10 | 30% | 1.9 | ROE: 13.5% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 40% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Moat | 7.0/10 | 25% | 1.8 | ROE 13% — adequate (Financial Services); Operating margin 38% — durable for Financial Services | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 14.4x — deep value; Near 52w high (97% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
-## Buffett Score: 4.4 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 6.5 / 10
+## Alpha Adjustment: +0.15
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
 ## Mental Models Applied
 
-- **Circle of Competence**:  / 
-- **Margin of Safety**: Cannot calculate (no positive EPS)
-- **Lollapalooza Effect**: No (0 forces only: none)
-- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
+- **Circle of Competence**: Financial Services / Banks - Diversified
+- **Margin of Safety**: 45% — PRESENT (IV $202 vs $139 at 25x)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
+- **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
-No (0 forces only: none)
+No (1 forces only: attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
-Half-life adjustment: N/A
+Buffett Premium: +0.15 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```
