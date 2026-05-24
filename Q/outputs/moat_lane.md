@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: Q
-*Generated: 2026-05-23 06:42 | Price: $156.93 | Mkt Cap: $33B*
+*Generated: 2026-05-24 07:29 | Price: $156.93 | Mkt Cap: $33B*
 
 ## Sector Context
 Technology / Semiconductor Equipment & Materials
@@ -36,7 +36,7 @@ Technology / Semiconductor Equipment & Materials
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductor Equipment & Materials
-- **Margin of Safety**: -70% — ABSENT ($157 > IV $46 at 15x for -22% growth)
+- **Margin of Safety**: -70% — ABSENT ($157 > IV $47 at 15x for -22% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Greedy — exercise caution

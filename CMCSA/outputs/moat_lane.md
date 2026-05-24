@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CMCSA
-*Generated: 2026-05-23 06:40 | Price: $25.205 | Mkt Cap: $90B*
+*Generated: 2026-05-24 07:27 | Price: $25.205 | Mkt Cap: $90B*
 
 ## Sector Context
 Communication Services / Telecom Services

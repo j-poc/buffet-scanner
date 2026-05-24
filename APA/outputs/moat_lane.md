@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APA
-*Generated: 2026-05-23 06:39 | Price: $38.8 | Mkt Cap: $14B*
+*Generated: 2026-05-24 07:26 | Price: $38.8 | Mkt Cap: $14B*
 
 ## Sector Context
 Energy / Oil & Gas E&P

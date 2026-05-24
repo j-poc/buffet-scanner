@@ -1,7 +1,7 @@
 ```markdown
-# Leaderboard: S&P 100 Insights - 2026-05-23
+# Leaderboard: Buffett/Munger Moat Lane Analysis
 
-The market today presents a mixed bag, with several high-quality enterprises warranting "Own Forever" status, though some exhibit growth premiums while others offer value amidst investor fear.
+Today is 2026-05-24. Market conditions imply a strong bias towards high-quality, high-conviction growth and value stocks, with limited deep value opportunities.
 
 | # | Ticker | Score | Conviction | Alpha Adj | Verdict |
 |---|--------|-------|------------|-----------|--------|
@@ -22,17 +22,17 @@ The market today presents a mixed bag, with several high-quality enterprises war
 | 15 | ALLE | 7.9 | MODERATE | 0.29 | Watchlist |
 | 16 | BKNG | 7.9 | MODERATE | 0.29 | Watchlist |
 | 17 | MCD | 7.9 | MODERATE | 0.29 | Watchlist |
-| 18 | SNA | 7.9 | MODERATE | 0.29 | Watchlist |
-| 19 | ADBE | 7.8 | MODERATE | 0.28 | Watchlist |
-| 20 | MO | 7.8 | MODERATE | 0.28 | Watchlist |
-| 21 | ADSK | 7.8 | MODERATE | 0.28 | Watchlist |
-| 22 | DECK | 7.8 | MODERATE | 0.28 | Watchlist |
-| 23 | RMD | 7.8 | MODERATE | 0.28 | Watchlist |
-| 24 | AOS | 7.7 | MODERATE | 0.27 | Watchlist |
-| 25 | CB | 7.7 | MODERATE | 0.27 | Watchlist |
-| 26 | MCO | 7.7 | MODERATE | 0.27 | Watchlist |
-| 27 | AON | 7.6 | MODERATE | 0.26 | Watchlist |
-| 28 | RL | 7.6 | MODERATE | 0.26 | Watchlist |
+| 18 | RL | 7.9 | MODERATE | 0.29 | Watchlist |
+| 19 | SNA | 7.9 | MODERATE | 0.29 | Watchlist |
+| 20 | ADBE | 7.8 | MODERATE | 0.28 | Watchlist |
+| 21 | MO | 7.8 | MODERATE | 0.28 | Watchlist |
+| 22 | ADSK | 7.8 | MODERATE | 0.28 | Watchlist |
+| 23 | DECK | 7.8 | MODERATE | 0.28 | Watchlist |
+| 24 | RMD | 7.8 | MODERATE | 0.28 | Watchlist |
+| 25 | AOS | 7.7 | MODERATE | 0.27 | Watchlist |
+| 26 | CB | 7.7 | MODERATE | 0.27 | Watchlist |
+| 27 | MCO | 7.7 | MODERATE | 0.27 | Watchlist |
+| 28 | AON | 7.6 | MODERATE | 0.26 | Watchlist |
 | 29 | BX | 7.5 | MODERATE | 0.25 | Watchlist |
 | 30 | BRO | 7.5 | MODERATE | 0.25 | Watchlist |
 | 31 | ERIE | 7.5 | MODERATE | 0.25 | Watchlist |
@@ -61,13 +61,13 @@ The market today presents a mixed bag, with several high-quality enterprises war
 | 54 | PG | 7.2 | MODERATE | 0.22 | Watchlist |
 | 55 | PGR | 7.2 | MODERATE | 0.22 | Watchlist |
 | 56 | PTC | 7.2 | MODERATE | 0.22 | Watchlist |
-| 57 | TROW | 7.2 | MODERATE | 0.22 | Watchlist |
-| 58 | AMGN | 7.1 | MODERATE | 0.21 | Watchlist |
-| 59 | STZ | 7.1 | MODERATE | 0.21 | Watchlist |
-| 60 | EXPE | 7.1 | MODERATE | 0.21 | Watchlist |
-| 61 | IDXX | 7.1 | MODERATE | 0.21 | Watchlist |
-| 62 | JNJ | 7.1 | MODERATE | 0.21 | Watchlist |
-| 63 | ROST | 7.1 | MODERATE | 0.21 | Watchlist |
+| 57 | ROST | 7.2 | MODERATE | 0.22 | Watchlist |
+| 58 | TROW | 7.2 | MODERATE | 0.22 | Watchlist |
+| 59 | AMGN | 7.1 | MODERATE | 0.21 | Watchlist |
+| 60 | STZ | 7.1 | MODERATE | 0.21 | Watchlist |
+| 61 | EXPE | 7.1 | MODERATE | 0.21 | Watchlist |
+| 62 | IDXX | 7.1 | MODERATE | 0.21 | Watchlist |
+| 63 | JNJ | 7.1 | MODERATE | 0.21 | Watchlist |
 | 64 | SYF | 7.1 | MODERATE | 0.21 | Watchlist |
 | 65 | AIZ | 7.0 | MODERATE | 0.2 | Watchlist |
 | 66 | AZO | 7.0 | MODERATE | 0.2 | Watchlist |
@@ -274,8 +274,8 @@ The market today presents a mixed bag, with several high-quality enterprises war
 | 267 | SLB | 5.7 | LOW | 0.0 | Pass |
 | 268 | STT | 5.7 | LOW | 0.0 | Pass |
 | 269 | TMO | 5.7 | LOW | 0.0 | Pass |
-| 270 | APD | 5.6 | LOW | 0.0 | Pass |
-| 271 | ABNB | 5.6 | LOW | 0.0 | Pass |
+| 270 | ABNB | 5.6 | LOW | 0.0 | Pass |
+| 271 | APD | 5.6 | LOW | 0.0 | Pass |
 | 272 | CMI | 5.6 | LOW | 0.0 | Pass |
 | 273 | EQR | 5.6 | LOW | 0.0 | Pass |
 | 274 | EXE | 5.6 | LOW | 0.0 | Pass |
@@ -295,18 +295,18 @@ The market today presents a mixed bag, with several high-quality enterprises war
 | 288 | LHX | 5.5 | LOW | 0.0 | Pass |
 | 289 | L | 5.5 | LOW | 0.0 | Pass |
 | 290 | NWSA | 5.5 | LOW | 0.0 | Pass |
-| 291 | PEG | 5.5 | LOW | 0.0 | Pass |
-| 292 | O | 5.5 | LOW | 0.0 | Pass |
-| 293 | SMCI | 5.5 | LOW | 0.0 | Pass |
-| 294 | VRT | 5.5 | LOW | 0.0 | Pass |
-| 295 | CSGP | 5.4 | LOW | 0.0 | Pass |
-| 296 | DTE | 5.4 | LOW | 0.0 | Pass |
-| 297 | EQT | 5.4 | LOW | 0.0 | Pass |
-| 298 | XOM | 5.4 | LOW | 0.0 | Pass |
-| 299 | FTV | 5.4 | LOW | 0.0 | Pass |
-| 300 | GE | 5.4 | LOW | 0.0 | Pass |
-| 301 | HBAN | 5.4 | LOW | 0.0 | Pass |
-| 302 | POOL | 5.4 | LOW | 0.0 | Pass |
+| 291 | O | 5.5 | LOW | 0.0 | Pass |
+| 292 | SMCI | 5.5 | LOW | 0.0 | Pass |
+| 293 | VRT | 5.5 | LOW | 0.0 | Pass |
+| 294 | CSGP | 5.4 | LOW | 0.0 | Pass |
+| 295 | DTE | 5.4 | LOW | 0.0 | Pass |
+| 296 | EQT | 5.4 | LOW | 0.0 | Pass |
+| 297 | XOM | 5.4 | LOW | 0.0 | Pass |
+| 298 | FTV | 5.4 | LOW | 0.0 | Pass |
+| 299 | GE | 5.4 | LOW | 0.0 | Pass |
+| 300 | HBAN | 5.4 | LOW | 0.0 | Pass |
+| 301 | POOL | 5.4 | LOW | 0.0 | Pass |
+| 302 | SNDK | 5.4 | LOW | 0.0 | Pass |
 | 303 | ALGN | 5.3 | LOW | 0.0 | Pass |
 | 304 | AJG | 5.3 | LOW | 0.0 | Pass |
 | 305 | AXON | 5.3 | LOW | 0.0 | Pass |
@@ -353,44 +353,44 @@ The market today presents a mixed bag, with several high-quality enterprises war
 | 346 | ROK | 5.1 | LOW | 0.0 | Pass |
 | 347 | SNPS | 5.1 | LOW | 0.0 | Pass |
 | 348 | WAT | 5.1 | LOW | 0.0 | Pass |
-| 349 | XYZ | 5.0 | LOW | 0.0 | Pass |
-| 350 | CASY | 5.0 | LOW | 0.0 | Pass |
-| 351 | CTSH | 5.0 | LOW | 0.0 | Pass |
-| 352 | FITB | 5.0 | LOW | 0.0 | Pass |
-| 353 | HAL | 5.0 | LOW | 0.0 | Pass |
-| 354 | LYB | 5.0 | LOW | 0.0 | Pass |
-| 355 | MLM | 5.0 | LOW | 0.0 | Pass |
-| 356 | NSC | 5.0 | LOW | 0.0 | Pass |
-| 357 | OKE | 5.0 | LOW | 0.0 | Pass |
-| 358 | TDY | 5.0 | LOW | 0.0 | Pass |
-| 359 | TXT | 5.0 | LOW | 0.0 | Pass |
-| 360 | TYL | 5.0 | LOW | 0.0 | Pass |
-| 361 | CFG | 4.9 | LOW | 0.0 | Pass |
-| 362 | CSX | 4.9 | LOW | 0.0 | Pass |
-| 363 | DAL | 4.9 | LOW | 0.0 | Pass |
-| 364 | ESS | 4.9 | LOW | 0.0 | Pass |
-| 365 | FDX | 4.9 | LOW | 0.0 | Pass |
-| 366 | IFF | 4.9 | LOW | 0.0 | Pass |
-| 367 | LH | 4.9 | LOW | 0.0 | Pass |
-| 368 | NDSN | 4.9 | LOW | 0.0 | Pass |
-| 369 | NXPI | 4.9 | LOW | 0.0 | Pass |
-| 370 | ODFL | 4.9 | LOW | 0.0 | Pass |
-| 371 | DGX | 4.9 | LOW | 0.0 | Pass |
-| 372 | LUV | 4.9 | LOW | 0.0 | Pass |
-| 373 | TRMB | 4.9 | LOW | 0.0 | Pass |
-| 374 | UPS | 4.9 | LOW | 0.0 | Pass |
-| 375 | TECH | 4.8 | LOW | 0.0 | Pass |
-| 376 | FISV | 4.8 | LOW | 0.0 | Pass |
-| 377 | HPQ | 4.8 | LOW | 0.0 | Pass |
-| 378 | JBL | 4.8 | LOW | 0.0 | Pass |
-| 379 | LRCX | 4.8 | LOW | 0.0 | Pass |
-| 380 | LYV | 4.8 | LOW | 0.0 | Pass |
-| 381 | NEE | 4.8 | LOW | 0.0 | Pass |
-| 382 | NKE | 4.8 | LOW | 0.0 | Pass |
-| 383 | NCLH | 4.8 | LOW | 0.0 | Pass |
-| 384 | PHM | 4.8 | LOW | 0.0 | Pass |
-| 385 | UBER | 4.8 | LOW | 0.0 | Pass |
-| 386 | ALB | 4.7 | LOW | 0.0 | Pass |
+| 349 | ALB | 5.0 | LOW | 0.0 | Pass |
+| 350 | XYZ | 5.0 | LOW | 0.0 | Pass |
+| 351 | CASY | 5.0 | LOW | 0.0 | Pass |
+| 352 | CTSH | 5.0 | LOW | 0.0 | Pass |
+| 353 | FITB | 5.0 | LOW | 0.0 | Pass |
+| 354 | HAL | 5.0 | LOW | 0.0 | Pass |
+| 355 | LYB | 5.0 | LOW | 0.0 | Pass |
+| 356 | MLM | 5.0 | LOW | 0.0 | Pass |
+| 357 | NSC | 5.0 | LOW | 0.0 | Pass |
+| 358 | OKE | 5.0 | LOW | 0.0 | Pass |
+| 359 | TDY | 5.0 | LOW | 0.0 | Pass |
+| 360 | TXT | 5.0 | LOW | 0.0 | Pass |
+| 361 | TYL | 5.0 | LOW | 0.0 | Pass |
+| 362 | CFG | 4.9 | LOW | 0.0 | Pass |
+| 363 | CSX | 4.9 | LOW | 0.0 | Pass |
+| 364 | DAL | 4.9 | LOW | 0.0 | Pass |
+| 365 | ESS | 4.9 | LOW | 0.0 | Pass |
+| 366 | FDX | 4.9 | LOW | 0.0 | Pass |
+| 367 | IFF | 4.9 | LOW | 0.0 | Pass |
+| 368 | LH | 4.9 | LOW | 0.0 | Pass |
+| 369 | NDSN | 4.9 | LOW | 0.0 | Pass |
+| 370 | NXPI | 4.9 | LOW | 0.0 | Pass |
+| 371 | ODFL | 4.9 | LOW | 0.0 | Pass |
+| 372 | DGX | 4.9 | LOW | 0.0 | Pass |
+| 373 | LUV | 4.9 | LOW | 0.0 | Pass |
+| 374 | TRMB | 4.9 | LOW | 0.0 | Pass |
+| 375 | UPS | 4.9 | LOW | 0.0 | Pass |
+| 376 | TECH | 4.8 | LOW | 0.0 | Pass |
+| 377 | FISV | 4.8 | LOW | 0.0 | Pass |
+| 378 | HPQ | 4.8 | LOW | 0.0 | Pass |
+| 379 | JBL | 4.8 | LOW | 0.0 | Pass |
+| 380 | LRCX | 4.8 | LOW | 0.0 | Pass |
+| 381 | LYV | 4.8 | LOW | 0.0 | Pass |
+| 382 | NEE | 4.8 | LOW | 0.0 | Pass |
+| 383 | NKE | 4.8 | LOW | 0.0 | Pass |
+| 384 | NCLH | 4.8 | LOW | 0.0 | Pass |
+| 385 | PHM | 4.8 | LOW | 0.0 | Pass |
+| 386 | UBER | 4.8 | LOW | 0.0 | Pass |
 | 387 | AVB | 4.7 | LOW | 0.0 | Pass |
 | 388 | CDW | 4.7 | LOW | 0.0 | Pass |
 | 389 | CEG | 4.7 | LOW | 0.0 | Pass |
@@ -406,22 +406,22 @@ The market today presents a mixed bag, with several high-quality enterprises war
 | 399 | APTV | 4.6 | LOW | 0.0 | Pass |
 | 400 | CARR | 4.6 | LOW | 0.0 | Pass |
 | 401 | DG | 4.6 | LOW | 0.0 | Pass |
-| 402 | KR | 4.6 | LOW | 0.0 | Pass |
-| 403 | TAP | 4.6 | LOW | 0.0 | Pass |
-| 404 | NOC | 4.6 | LOW | 0.0 | Pass |
-| 405 | PSA | 4.6 | LOW | 0.0 | Pass |
-| 406 | TTWO | 4.6 | LOW | 0.0 | Pass |
+| 402 | HST | 4.6 | LOW | 0.0 | Pass |
+| 403 | KR | 4.6 | LOW | 0.0 | Pass |
+| 404 | TAP | 4.6 | LOW | 0.0 | Pass |
+| 405 | NOC | 4.6 | LOW | 0.0 | Pass |
+| 406 | PSA | 4.6 | LOW | 0.0 | Pass |
 | 407 | TEL | 4.6 | LOW | 0.0 | Pass |
 | 408 | UDR | 4.6 | LOW | 0.0 | Pass |
 | 409 | DIS | 4.6 | LOW | 0.0 | Pass |
 | 410 | EW | 4.5 | LOW | 0.0 | Pass |
 | 411 | FIS | 4.5 | LOW | 0.0 | Pass |
-| 412 | HST | 4.5 | LOW | 0.0 | Pass |
-| 413 | HII | 4.5 | LOW | 0.0 | Pass |
-| 414 | IVZ | 4.5 | LOW | 0.0 | Pass |
-| 415 | MSCI | 4.5 | LOW | 0.0 | Pass |
-| 416 | OMC | 4.5 | LOW | 0.0 | Pass |
-| 417 | PLD | 4.5 | LOW | 0.0 | Pass |
+| 412 | HII | 4.5 | LOW | 0.0 | Pass |
+| 413 | IVZ | 4.5 | LOW | 0.0 | Pass |
+| 414 | MSCI | 4.5 | LOW | 0.0 | Pass |
+| 415 | OMC | 4.5 | LOW | 0.0 | Pass |
+| 416 | PLD | 4.5 | LOW | 0.0 | Pass |
+| 417 | TTWO | 4.5 | LOW | 0.0 | Pass |
 | 418 | VLO | 4.5 | LOW | 0.0 | Pass |
 | 419 | VTRS | 4.5 | LOW | 0.0 | Pass |
 | 420 | ZBRA | 4.5 | LOW | 0.0 | Pass |
@@ -507,23 +507,247 @@ The market today presents a mixed bag, with several high-quality enterprises war
 | 500 | WY | 2.6 | AVOID | -0.3 | Avoid |
 | 501 | GLW | 2.5 | AVOID | -0.31 | Avoid |
 
-## Top 5 Deep Dives
+## Top 4 Deep Dives
 
-**NVDA (Score: 8.9)**: The primary inversion killer for NVDA is a material 25% probability of technology disruption, which could reduce fair value by 35%. Despite an absent margin of safety at a 17.0x P/E with an owner earnings yield of 1.4%, its verdict is "Own Forever" due to exceptional quality (51.3% Avg ROIC), a strong moat (74% Gross Margin), and Lollapalooza effects from aligning forces.
+---
+# Buffett/Munger Moat Lane: NVDA
+*Generated: 2026-05-24 07:29 | Price: $215.33 | Mkt Cap: $5216B*
 
-**GOOGL (Score: 8.4)**: GOOGL faces no material inversion killers, bolstering its "Own Forever" verdict. The company boasts outstanding quality with 24.9% Avg ROIC and a robust moat with a 60% Gross Margin. However, Mr. Market is greedy, pricing GOOGL expensively at a 26.5x P/E, 90% of its 52-week high, and an owner earnings yield of only 0.6%.
+## Sector Context
+Technology / Semiconductors
 
-**AXP (Score: 8.4)**: American Express has no material inversion killers, reinforcing its "Own Forever" verdict. AXP exhibits strong quality with a 34.4% ROE and a solid moat, and Mr. Market is fearful, offering a fair P/E of 15.5x near its 52-week low (25% of range). Margin of safety is thin at 3%, but insider ownership is significantly aligned at 22.3%.
+---
 
-**ROL (Score: 8.4)**: ROL carries no material inversion killers, leading to an "Own Forever" verdict. It demonstrates exceptional quality with a 29.5% Avg ROIC and a strong moat, evident in its 120% FCF/NI and a 53% Gross Margin, indicative of pricing power in Consumer Cyclical. Insider ownership stands at an aligned 38.4%, ensuring management's skin in the game.
+## Inversion First: What Could Kill This?
 
-**CTAS (Score: 8.3)**: While a detailed report for CTAS is not provided, its high score and "Own Forever" verdict suggest strong fundamental quality, a durable moat, and prudent management, characteristic of Buffett/Munger investments. It is presumed to have no significant material inversion killers based on its high ranking.
+| # | Killer | Description | Prob | Impact on FV | Material? |
+|---|--------|-------------|------|-------------|-----------|
+| 1 | Technology Disruption | Competitive leapfrog in Semiconductors | 25% | -35% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.1x | 5% | -10% | No |
+| 3 | Management / Governance Failure | Insider ownership 4.0%; key-man / succession risk | 15% | -20% | No |
+
+---
+
+## Four-Pillar Score
+
+| Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
+|--------|-------|--------|----------|-----------|----------------|
+| Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 51.3% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 66% (severe cyclicality); FCF/NI: 85% (strong); Gross margin: 74% (pricing power for Technology) | - |
+| Management | 9.0/10 | 25% | 2.2 | Insider value: $208B (4.0%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 4.1% (low) | - |
+| Moat | 9.5/10 | 25% | 2.4 | Gross margin 74% vs sector strong cutoff 60% — strong pricing power; Operating margin 66% — durable for Technology; Rev growth 85% — demand pull | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.0x — fair price; 52w range position: 80%; Owner earnings yield: 0.9%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **8.9/10** | **100%** | **8.9** | | |
+
+## Buffett Score: 8.9 / 10
+## Alpha Adjustment: +0.40
+## Conviction: HIGH
+## Verdict: Own Forever
+
+---
+
+## Mental Models Applied
+
+- **Circle of Competence**: Technology / Semiconductors
+- **Margin of Safety**: -24% — ABSENT ($215 > IV $163 at 25x for 25% growth)
+- **Lollapalooza Effect**: YES — 4 forces aligning: high quality, strong moat, attractive valuation, secular growth
+- **Incentive-Caused Bias**: Weak alignment — only 4.0% insider ownership
+- **Mr. Market**: Neutral
+
+## Lollapalooza Check
+YES — 4 forces aligning: high quality, strong moat, attractive valuation, secular growth
+
+---
+
+## Alpha Thesis Integration
+```
+Buffett Premium: +0.40 applied to composite alpha score
+Conviction Gate: HIGH — Proceed
+Half-life adjustment: None
+```
+
+---
+# Buffett/Munger Moat Lane: GOOGL
+*Generated: 2026-05-24 07:26 | Price: $382.97 | Mkt Cap: $4640B*
+
+## Sector Context
+Communication Services / Internet Content & Information
+
+---
+
+## Inversion First: What Could Kill This?
+
+| # | Killer | Description | Prob | Impact on FV | Material? |
+|---|--------|-------------|------|-------------|-----------|
+| 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.6x | 5% | -10% | No |
+| 3 | Management / Governance Failure | Insider ownership 1.2%; key-man / succession risk | 15% | -20% | No |
+
+---
+
+## Four-Pillar Score
+
+| Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
+|--------|-------|--------|----------|-----------|----------------|
+| Quality | 9.5/10 | 30% | 2.9 | Avg ROIC: 24.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 81% (strong); Gross margin: 60% (pricing power for Communication Services) | - |
+| Management | 9.0/10 | 25% | 2.2 | Insider value: $55B (1.2%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: -85.7% (low) | - |
+| Moat | 9.5/10 | 25% | 2.4 | Gross margin 60% vs sector strong cutoff 55% — strong pricing power; Operating margin 36% — durable for Communication Services; Rev growth 22% — demand pull | - |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 26.5x — growth premium; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 0.6%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **8.4/10** | **100%** | **8.4** | | |
+
+## Buffett Score: 8.4 / 10
+## Alpha Adjustment: +0.40
+## Conviction: HIGH
+## Verdict: Own Forever
+
+---
+
+## Mental Models Applied
+
+- **Circle of Competence**: Communication Services / Internet Content & Information
+- **Margin of Safety**: -14% — ABSENT ($383 > IV $328 at 25x for 25% growth)
+- **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, secular growth
+- **Incentive-Caused Bias**: Weak alignment — only 1.2% insider ownership
+- **Mr. Market**: Greedy — exercise caution
+
+## Lollapalooza Check
+YES — 3 forces aligning: high quality, strong moat, secular growth
+
+---
+
+## Alpha Thesis Integration
+```
+Buffett Premium: +0.40 applied to composite alpha score
+Conviction Gate: HIGH — Proceed
+Half-life adjustment: None
+```
+
+---
+# Buffett/Munger Moat Lane: AXP
+*Generated: 2026-05-24 07:26 | Price: $311.78 | Mkt Cap: $213B*
+
+## Sector Context
+Financial Services / Credit Services
+
+---
+
+## Inversion First: What Could Kill This?
+
+| # | Killer | Description | Prob | Impact on FV | Material? |
+|---|--------|-------------|------|-------------|-----------|
+| 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
+| 3 | Management / Governance Failure | Insider ownership 22.3%; key-man / succession risk | 8% | -15% | No |
+
+---
+
+## Four-Pillar Score
+
+| Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
+|--------|-------|--------|----------|-----------|----------------|
+| Quality | 8.0/10 | 30% | 2.4 | ROE: 34.4% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 32% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 22.3% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 22.4% of shares (SBC concern) | - |
+| Moat | 7.5/10 | 25% | 1.9 | ROE 34% — strong franchise (Financial Services); Operating margin 21% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.5x — fair price; Near 52w low (25% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **8.4/10** | **100%** | **8.4** | | |
+
+## Buffett Score: 8.4 / 10
+## Alpha Adjustment: +0.40
+## Conviction: HIGH
+## Verdict: Own Forever
+
+---
+
+## Mental Models Applied
+
+- **Circle of Competence**: Financial Services / Credit Services
+- **Margin of Safety**: 3% — thin (IV $321 at 20x)
+- **Lollapalooza Effect**: No (2 forces only: high quality, attractive valuation)
+- **Incentive-Caused Bias**: Aligned — 22.3% insider ownership
+- **Mr. Market**: Fearful — potential opportunity
+
+## Lollapalooza Check
+No (2 forces only: high quality, attractive valuation)
+
+---
+
+## Alpha Thesis Integration
+```
+Buffett Premium: +0.40 applied to composite alpha score
+Conviction Gate: HIGH — Proceed
+Half-life adjustment: None
+```
+
+---
+# Buffett/Munger Moat Lane: ROL
+*Generated: 2026-05-24 07:29 | Price: $53.46 | Mkt Cap: $26B*
+
+## Sector Context
+Consumer Cyclical / Personal Services
+
+---
+
+## Inversion First: What Could Kill This?
+
+| # | Killer | Description | Prob | Impact on FV | Material? |
+|---|--------|-------------|------|-------------|-----------|
+| 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.2x | 5% | -10% | No |
+| 3 | Management / Governance Failure | Insider ownership 38.4%; key-man / succession risk | 8% | -15% | No |
+
+---
+
+## Four-Pillar Score
+
+| Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
+|--------|-------|--------|----------|-----------|----------------|
+| Quality | 10.0/10 | 30% | 3.0 | Avg ROIC: 29.5% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 27% (stable); FCF/NI: 120% (strong); Gross margin: 53% (pricing power for Consumer Cyclical) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 38.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 35.8% of shares (SBC concern) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 53% vs sector strong cutoff 55% — strong pricing power; Operating margin 22% — durable for Consumer Cyclical; Rev growth 10% — demand pull | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 24.5x — fair price; Near 52w high (85% of range) — Mr. Market neutral; Owner earnings yield: 0.9%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **8.4/10** | **100%** | **8.4** | | |
+
+## Buffett Score: 8.4 / 10
+## Alpha Adjustment: +0.40
+## Conviction: HIGH
+## Verdict: Own Forever
+
+---
+
+## Mental Models Applied
+
+- **Circle of Competence**: Consumer Cyclical / Personal Services
+- **Margin of Safety**: 3% — thin (IV $55 at 20x)
+- **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, secular growth
+- **Incentive-Caused Bias**: Aligned — 38.4% insider ownership
+- **Mr. Market**: Neutral
+
+## Lollapalooza Check
+YES — 3 forces aligning: high quality, strong moat, secular growth
+
+---
+
+## Alpha Thesis Integration
+```
+Buffett Premium: +0.40 applied to composite alpha score
+Conviction Gate: HIGH — Proceed
+Half-life adjustment: None
+```
+
+## Top 4 Deep Dives — for each: 2-3 sentences on inversion killers and verdict rationale. Be specific, cite numbers.
+
+*   **NVDA**: Technology Disruption is a material risk (25% probability, -35% impact on FV), presenting a notable downside. Despite a negative margin of safety (-24%), NVDA earns an "Own Forever" verdict due to its exceptional quality (avg ROIC 51.3%, 3/3 monotonic earnings), a powerful moat (74% gross margin), and strong management alignment (4.0% insider ownership), forming a Lollapalooza of four aligning forces.
+
+*   **GOOGL**: No material inversion killers are identified for GOOGL, implying lower inherent business risk. GOOGL receives an "Own Forever" verdict, driven by outstanding quality (24.9% Avg ROIC, 3/3 monotonic earnings) and a robust moat (60% gross margin, 36% operating margin). However, its valuation is considered expensive (P/E 26.5x, 4.5/10 Valuation Fit), and Mr. Market is currently greedy, presenting a negative margin of safety of -14%.
+
+*   **AXP**: AXP does not face any material inversion killers, suggesting a relatively stable business model. AXP is deemed an "Own Forever" stock, benefiting from a high-quality franchise (34.4% ROE, 3/3 monotonic earnings) and aligned management with 22.3% insider ownership. Critically, its valuation is attractive (15.5x P/E, 10.0/10 Valuation Fit), a thin 3% margin of safety, and Mr. Market's fearful sentiment creates a potential buying opportunity.
+
+*   **ROL**: ROL exhibits no material inversion killers, indicating strong business resilience. Awarded an "Own Forever" verdict, ROL boasts exceptional quality (29.5% Avg ROIC, 120% FCF/NI, 3/3 monotonic earnings) and a strong moat (53% gross margin). Management is highly aligned with 38.4% insider ownership, contributing to its high score, despite a thin 3% margin of safety.
 
 ## Munger Inversion Alert
 
-No names in the top 20 have 2 or more *material* inversion killers based on the provided detailed reports. NVDA has one material killer (Technology Disruption).
+Based on the provided detailed reports for the top-scoring companies, no names in the top 20 exhibit 2 or more material inversion killers. NVDA has one identified material killer (Technology Disruption).
 
 ## Bottom Line
 
-AXP stands as the single best risk-adjusted name today, offering compelling value at a fair P/E of 15.5x while boasting strong quality, a durable moat, and highly aligned management.
+American Express (AXP) stands out as today's single best risk-adjusted name, offering a rare combination of high quality, a strong moat, perfectly aligned management, and an attractive valuation with a fearful Mr. Market.
 ```

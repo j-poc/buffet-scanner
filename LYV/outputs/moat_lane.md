@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LYV
-*Generated: 2026-05-23 06:41 | Price: $165.55 | Mkt Cap: $39B*
+*Generated: 2026-05-24 07:28 | Price: $165.55 | Mkt Cap: $39B*
 
 ## Sector Context
 Communication Services / Entertainment
