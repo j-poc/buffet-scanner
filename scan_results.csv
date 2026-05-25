@@ -197,8 +197,8 @@ CPAY,6.0,0.0,LOW,Pass,2
 CRH,6.0,0.0,LOW,Pass,1
 DRI,6.0,0.0,LOW,Pass,2
 DVA,6.0,0.0,LOW,Pass,1
-DPZ,6.0,0.0,LOW,Pass,2
 D,6.0,0.0,LOW,Pass,2
+DPZ,6.0,0.0,LOW,Pass,2
 DUK,6.0,0.0,LOW,Pass,2
 EIX,6.0,0.0,LOW,Pass,2
 ES,6.0,0.0,LOW,Pass,2
@@ -210,8 +210,8 @@ HON,6.0,0.0,LOW,Pass,2
 KVUE,6.0,0.0,LOW,Pass,1
 KDP,6.0,0.0,LOW,Pass,1
 KIM,6.0,0.0,LOW,Pass,1
-KMI,6.0,0.0,LOW,Pass,1
 KKR,6.0,0.0,LOW,Pass,0
+KMI,6.0,0.0,LOW,Pass,1
 KHC,6.0,0.0,LOW,Pass,0
 MCK,6.0,0.0,LOW,Pass,1
 MDT,6.0,0.0,LOW,Pass,1
@@ -244,8 +244,8 @@ STE,5.9,0.0,LOW,Pass,1
 VRTX,5.9,0.0,LOW,Pass,2
 LNT,5.8,0.0,LOW,Pass,2
 AMZN,5.8,0.0,LOW,Pass,1
-ADI,5.8,0.0,LOW,Pass,2
 APA,5.8,0.0,LOW,Pass,1
+ADI,5.8,0.0,LOW,Pass,2
 BR,5.8,0.0,LOW,Pass,2
 COR,5.8,0.0,LOW,Pass,0
 HSY,5.8,0.0,LOW,Pass,1
@@ -268,8 +268,8 @@ MGM,5.7,0.0,LOW,Pass,1
 SLB,5.7,0.0,LOW,Pass,1
 STT,5.7,0.0,LOW,Pass,1
 TMO,5.7,0.0,LOW,Pass,1
-ABNB,5.6,0.0,LOW,Pass,0
 APD,5.6,0.0,LOW,Pass,1
+ABNB,5.6,0.0,LOW,Pass,0
 CMI,5.6,0.0,LOW,Pass,1
 EQR,5.6,0.0,LOW,Pass,2
 EXE,5.6,0.0,LOW,Pass,1
@@ -289,6 +289,7 @@ GIS,5.5,0.0,LOW,Pass,1
 LHX,5.5,0.0,LOW,Pass,1
 L,5.5,0.0,LOW,Pass,0
 NWSA,5.5,0.0,LOW,Pass,1
+PEG,5.5,0.0,LOW,Pass,2
 O,5.5,0.0,LOW,Pass,2
 SMCI,5.5,0.0,LOW,Pass,2
 VRT,5.5,0.0,LOW,Pass,1
@@ -300,7 +301,6 @@ FTV,5.4,0.0,LOW,Pass,2
 GE,5.4,0.0,LOW,Pass,1
 HBAN,5.4,0.0,LOW,Pass,1
 POOL,5.4,0.0,LOW,Pass,0
-SNDK,5.4,0.0,LOW,Pass,2
 ALGN,5.3,0.0,LOW,Pass,1
 AJG,5.3,0.0,LOW,Pass,1
 AXON,5.3,0.0,LOW,Pass,1

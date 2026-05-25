@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DTE
-*Generated: 2026-05-24 07:27 | Price: $145.3 | Mkt Cap: $30B*
+*Generated: 2026-05-25 08:26 | Price: $145.3 | Mkt Cap: $30B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric

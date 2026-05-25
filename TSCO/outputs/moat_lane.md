@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TSCO
-*Generated: 2026-05-24 07:32 | Price: $31.62 | Mkt Cap: $17B*
+*Generated: 2026-05-25 08:31 | Price: $31.62 | Mkt Cap: $17B*
 
 ## Sector Context
 Consumer Cyclical / Specialty Retail

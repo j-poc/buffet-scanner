@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GEHC
-*Generated: 2026-05-24 07:28 | Price: $64.23 | Mkt Cap: $29B*
+*Generated: 2026-05-25 08:27 | Price: $64.23 | Mkt Cap: $29B*
 
 ## Sector Context
 Healthcare / Medical Devices

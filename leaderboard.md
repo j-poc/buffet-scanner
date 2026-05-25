@@ -1,7 +1,7 @@
 ```markdown
-# Leaderboard: Buffett/Munger Moat Lane Analysis
+# Buffett/Munger Analyst Report: May 25, 2026
 
-Today is 2026-05-24. Market conditions imply a strong bias towards high-quality, high-conviction growth and value stocks, with limited deep value opportunities.
+Strong fundamentals dominate top picks, yet valuation caution is warranted for some market darlings, while opportunities exist elsewhere.
 
 | # | Ticker | Score | Conviction | Alpha Adj | Verdict |
 |---|--------|-------|------------|-----------|--------|
@@ -203,8 +203,8 @@ Today is 2026-05-24. Market conditions imply a strong bias towards high-quality,
 | 196 | CRH | 6.0 | LOW | 0.0 | Pass |
 | 197 | DRI | 6.0 | LOW | 0.0 | Pass |
 | 198 | DVA | 6.0 | LOW | 0.0 | Pass |
-| 199 | DPZ | 6.0 | LOW | 0.0 | Pass |
-| 200 | D | 6.0 | LOW | 0.0 | Pass |
+| 199 | D | 6.0 | LOW | 0.0 | Pass |
+| 200 | DPZ | 6.0 | LOW | 0.0 | Pass |
 | 201 | DUK | 6.0 | LOW | 0.0 | Pass |
 | 202 | EIX | 6.0 | LOW | 0.0 | Pass |
 | 203 | ES | 6.0 | LOW | 0.0 | Pass |
@@ -216,8 +216,8 @@ Today is 2026-05-24. Market conditions imply a strong bias towards high-quality,
 | 209 | KVUE | 6.0 | LOW | 0.0 | Pass |
 | 210 | KDP | 6.0 | LOW | 0.0 | Pass |
 | 211 | KIM | 6.0 | LOW | 0.0 | Pass |
-| 212 | KMI | 6.0 | LOW | 0.0 | Pass |
-| 213 | KKR | 6.0 | LOW | 0.0 | Pass |
+| 212 | KKR | 6.0 | LOW | 0.0 | Pass |
+| 213 | KMI | 6.0 | LOW | 0.0 | Pass |
 | 214 | KHC | 6.0 | LOW | 0.0 | Pass |
 | 215 | MCK | 6.0 | LOW | 0.0 | Pass |
 | 216 | MDT | 6.0 | LOW | 0.0 | Pass |
@@ -250,8 +250,8 @@ Today is 2026-05-24. Market conditions imply a strong bias towards high-quality,
 | 243 | VRTX | 5.9 | LOW | 0.0 | Pass |
 | 244 | LNT | 5.8 | LOW | 0.0 | Pass |
 | 245 | AMZN | 5.8 | LOW | 0.0 | Pass |
-| 246 | ADI | 5.8 | LOW | 0.0 | Pass |
-| 247 | APA | 5.8 | LOW | 0.0 | Pass |
+| 246 | APA | 5.8 | LOW | 0.0 | Pass |
+| 247 | ADI | 5.8 | LOW | 0.0 | Pass |
 | 248 | BR | 5.8 | LOW | 0.0 | Pass |
 | 249 | COR | 5.8 | LOW | 0.0 | Pass |
 | 250 | HSY | 5.8 | LOW | 0.0 | Pass |
@@ -274,8 +274,8 @@ Today is 2026-05-24. Market conditions imply a strong bias towards high-quality,
 | 267 | SLB | 5.7 | LOW | 0.0 | Pass |
 | 268 | STT | 5.7 | LOW | 0.0 | Pass |
 | 269 | TMO | 5.7 | LOW | 0.0 | Pass |
-| 270 | ABNB | 5.6 | LOW | 0.0 | Pass |
-| 271 | APD | 5.6 | LOW | 0.0 | Pass |
+| 270 | APD | 5.6 | LOW | 0.0 | Pass |
+| 271 | ABNB | 5.6 | LOW | 0.0 | Pass |
 | 272 | CMI | 5.6 | LOW | 0.0 | Pass |
 | 273 | EQR | 5.6 | LOW | 0.0 | Pass |
 | 274 | EXE | 5.6 | LOW | 0.0 | Pass |
@@ -295,18 +295,18 @@ Today is 2026-05-24. Market conditions imply a strong bias towards high-quality,
 | 288 | LHX | 5.5 | LOW | 0.0 | Pass |
 | 289 | L | 5.5 | LOW | 0.0 | Pass |
 | 290 | NWSA | 5.5 | LOW | 0.0 | Pass |
-| 291 | O | 5.5 | LOW | 0.0 | Pass |
-| 292 | SMCI | 5.5 | LOW | 0.0 | Pass |
-| 293 | VRT | 5.5 | LOW | 0.0 | Pass |
-| 294 | CSGP | 5.4 | LOW | 0.0 | Pass |
-| 295 | DTE | 5.4 | LOW | 0.0 | Pass |
-| 296 | EQT | 5.4 | LOW | 0.0 | Pass |
-| 297 | XOM | 5.4 | LOW | 0.0 | Pass |
-| 298 | FTV | 5.4 | LOW | 0.0 | Pass |
-| 299 | GE | 5.4 | LOW | 0.0 | Pass |
-| 300 | HBAN | 5.4 | LOW | 0.0 | Pass |
-| 301 | POOL | 5.4 | LOW | 0.0 | Pass |
-| 302 | SNDK | 5.4 | LOW | 0.0 | Pass |
+| 291 | PEG | 5.5 | LOW | 0.0 | Pass |
+| 292 | O | 5.5 | LOW | 0.0 | Pass |
+| 293 | SMCI | 5.5 | LOW | 0.0 | Pass |
+| 294 | VRT | 5.5 | LOW | 0.0 | Pass |
+| 295 | CSGP | 5.4 | LOW | 0.0 | Pass |
+| 296 | DTE | 5.4 | LOW | 0.0 | Pass |
+| 297 | EQT | 5.4 | LOW | 0.0 | Pass |
+| 298 | XOM | 5.4 | LOW | 0.0 | Pass |
+| 299 | FTV | 5.4 | LOW | 0.0 | Pass |
+| 300 | GE | 5.4 | LOW | 0.0 | Pass |
+| 301 | HBAN | 5.4 | LOW | 0.0 | Pass |
+| 302 | POOL | 5.4 | LOW | 0.0 | Pass |
 | 303 | ALGN | 5.3 | LOW | 0.0 | Pass |
 | 304 | AJG | 5.3 | LOW | 0.0 | Pass |
 | 305 | AXON | 5.3 | LOW | 0.0 | Pass |
@@ -507,247 +507,23 @@ Today is 2026-05-24. Market conditions imply a strong bias towards high-quality,
 | 500 | WY | 2.6 | AVOID | -0.3 | Avoid |
 | 501 | GLW | 2.5 | AVOID | -0.31 | Avoid |
 
-## Top 4 Deep Dives
+## Top 5 Deep Dives
 
----
-# Buffett/Munger Moat Lane: NVDA
-*Generated: 2026-05-24 07:29 | Price: $215.33 | Mkt Cap: $5216B*
+**NVDA (Score: 8.9)**: Technology Disruption represents a material inversion killer for NVDA with a 25% probability and -35% impact on fair value. Despite this risk, the company earns an "Own Forever" verdict due to its exceptional quality, evidenced by a 51.3% average ROIC and a 74% gross margin, a powerful moat from its pricing power and 85% revenue growth, and strong management with $208B in insider value.
 
-## Sector Context
-Technology / Semiconductors
+**GOOGL (Score: 8.4)**: While GOOGL faces no material inversion killers, its valuation is expensive at 26.5x P/E, resting near its 52-week high, indicating a greedy Mr. Market. The "Own Forever" verdict is driven by its exceptional quality with 24.9% average ROIC and 60% gross margin, a durable moat sustained by its 60% gross margin and 22% revenue growth, and aligned management.
 
----
+**AXP (Score: 8.4)**: American Express presents no material inversion killers, and its valuation is attractive at a 15.5x P/E, trading near its 52-week low, which signals a fearful Mr. Market offering a potential opportunity. The "Own Forever" verdict is based on its high quality with a 34.4% ROE, a robust moat stemming from its strong franchise, and excellent management alignment through 22.3% insider ownership.
 
-## Inversion First: What Could Kill This?
+**ROL (Score: 8.4)**: ROL exhibits no material inversion killers and strong management alignment with 38.4% insider ownership. The company secures an "Own Forever" verdict due to its outstanding quality, reflected in a 29.5% average ROIC, 120% FCF/NI, and a stable 5-year price drawdown of 27%, alongside a formidable moat indicated by a 53% gross margin.
 
-| # | Killer | Description | Prob | Impact on FV | Material? |
-|---|--------|-------------|------|-------------|-----------|
-| 1 | Technology Disruption | Competitive leapfrog in Semiconductors | 25% | -35% | YES |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.1x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 4.0%; key-man / succession risk | 15% | -20% | No |
-
----
-
-## Four-Pillar Score
-
-| Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
-|--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 51.3% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 66% (severe cyclicality); FCF/NI: 85% (strong); Gross margin: 74% (pricing power for Technology) | - |
-| Management | 9.0/10 | 25% | 2.2 | Insider value: $208B (4.0%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 4.1% (low) | - |
-| Moat | 9.5/10 | 25% | 2.4 | Gross margin 74% vs sector strong cutoff 60% — strong pricing power; Operating margin 66% — durable for Technology; Rev growth 85% — demand pull | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.0x — fair price; 52w range position: 80%; Owner earnings yield: 0.9%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **8.9/10** | **100%** | **8.9** | | |
-
-## Buffett Score: 8.9 / 10
-## Alpha Adjustment: +0.40
-## Conviction: HIGH
-## Verdict: Own Forever
-
----
-
-## Mental Models Applied
-
-- **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: -24% — ABSENT ($215 > IV $163 at 25x for 25% growth)
-- **Lollapalooza Effect**: YES — 4 forces aligning: high quality, strong moat, attractive valuation, secular growth
-- **Incentive-Caused Bias**: Weak alignment — only 4.0% insider ownership
-- **Mr. Market**: Neutral
-
-## Lollapalooza Check
-YES — 4 forces aligning: high quality, strong moat, attractive valuation, secular growth
-
----
-
-## Alpha Thesis Integration
-```
-Buffett Premium: +0.40 applied to composite alpha score
-Conviction Gate: HIGH — Proceed
-Half-life adjustment: None
-```
-
----
-# Buffett/Munger Moat Lane: GOOGL
-*Generated: 2026-05-24 07:26 | Price: $382.97 | Mkt Cap: $4640B*
-
-## Sector Context
-Communication Services / Internet Content & Information
-
----
-
-## Inversion First: What Could Kill This?
-
-| # | Killer | Description | Prob | Impact on FV | Material? |
-|---|--------|-------------|------|-------------|-----------|
-| 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.6x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 1.2%; key-man / succession risk | 15% | -20% | No |
-
----
-
-## Four-Pillar Score
-
-| Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
-|--------|-------|--------|----------|-----------|----------------|
-| Quality | 9.5/10 | 30% | 2.9 | Avg ROIC: 24.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 81% (strong); Gross margin: 60% (pricing power for Communication Services) | - |
-| Management | 9.0/10 | 25% | 2.2 | Insider value: $55B (1.2%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: -85.7% (low) | - |
-| Moat | 9.5/10 | 25% | 2.4 | Gross margin 60% vs sector strong cutoff 55% — strong pricing power; Operating margin 36% — durable for Communication Services; Rev growth 22% — demand pull | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 26.5x — growth premium; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 0.6%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **8.4/10** | **100%** | **8.4** | | |
-
-## Buffett Score: 8.4 / 10
-## Alpha Adjustment: +0.40
-## Conviction: HIGH
-## Verdict: Own Forever
-
----
-
-## Mental Models Applied
-
-- **Circle of Competence**: Communication Services / Internet Content & Information
-- **Margin of Safety**: -14% — ABSENT ($383 > IV $328 at 25x for 25% growth)
-- **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, secular growth
-- **Incentive-Caused Bias**: Weak alignment — only 1.2% insider ownership
-- **Mr. Market**: Greedy — exercise caution
-
-## Lollapalooza Check
-YES — 3 forces aligning: high quality, strong moat, secular growth
-
----
-
-## Alpha Thesis Integration
-```
-Buffett Premium: +0.40 applied to composite alpha score
-Conviction Gate: HIGH — Proceed
-Half-life adjustment: None
-```
-
----
-# Buffett/Munger Moat Lane: AXP
-*Generated: 2026-05-24 07:26 | Price: $311.78 | Mkt Cap: $213B*
-
-## Sector Context
-Financial Services / Credit Services
-
----
-
-## Inversion First: What Could Kill This?
-
-| # | Killer | Description | Prob | Impact on FV | Material? |
-|---|--------|-------------|------|-------------|-----------|
-| 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 22.3%; key-man / succession risk | 8% | -15% | No |
-
----
-
-## Four-Pillar Score
-
-| Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
-|--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.0/10 | 30% | 2.4 | ROE: 34.4% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 32% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 22.3% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 22.4% of shares (SBC concern) | - |
-| Moat | 7.5/10 | 25% | 1.9 | ROE 34% — strong franchise (Financial Services); Operating margin 21% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.5x — fair price; Near 52w low (25% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **8.4/10** | **100%** | **8.4** | | |
-
-## Buffett Score: 8.4 / 10
-## Alpha Adjustment: +0.40
-## Conviction: HIGH
-## Verdict: Own Forever
-
----
-
-## Mental Models Applied
-
-- **Circle of Competence**: Financial Services / Credit Services
-- **Margin of Safety**: 3% — thin (IV $321 at 20x)
-- **Lollapalooza Effect**: No (2 forces only: high quality, attractive valuation)
-- **Incentive-Caused Bias**: Aligned — 22.3% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
-
-## Lollapalooza Check
-No (2 forces only: high quality, attractive valuation)
-
----
-
-## Alpha Thesis Integration
-```
-Buffett Premium: +0.40 applied to composite alpha score
-Conviction Gate: HIGH — Proceed
-Half-life adjustment: None
-```
-
----
-# Buffett/Munger Moat Lane: ROL
-*Generated: 2026-05-24 07:29 | Price: $53.46 | Mkt Cap: $26B*
-
-## Sector Context
-Consumer Cyclical / Personal Services
-
----
-
-## Inversion First: What Could Kill This?
-
-| # | Killer | Description | Prob | Impact on FV | Material? |
-|---|--------|-------------|------|-------------|-----------|
-| 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.2x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 38.4%; key-man / succession risk | 8% | -15% | No |
-
----
-
-## Four-Pillar Score
-
-| Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
-|--------|-------|--------|----------|-----------|----------------|
-| Quality | 10.0/10 | 30% | 3.0 | Avg ROIC: 29.5% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 27% (stable); FCF/NI: 120% (strong); Gross margin: 53% (pricing power for Consumer Cyclical) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 38.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 35.8% of shares (SBC concern) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 53% vs sector strong cutoff 55% — strong pricing power; Operating margin 22% — durable for Consumer Cyclical; Rev growth 10% — demand pull | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 24.5x — fair price; Near 52w high (85% of range) — Mr. Market neutral; Owner earnings yield: 0.9%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **8.4/10** | **100%** | **8.4** | | |
-
-## Buffett Score: 8.4 / 10
-## Alpha Adjustment: +0.40
-## Conviction: HIGH
-## Verdict: Own Forever
-
----
-
-## Mental Models Applied
-
-- **Circle of Competence**: Consumer Cyclical / Personal Services
-- **Margin of Safety**: 3% — thin (IV $55 at 20x)
-- **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, secular growth
-- **Incentive-Caused Bias**: Aligned — 38.4% insider ownership
-- **Mr. Market**: Neutral
-
-## Lollapalooza Check
-YES — 3 forces aligning: high quality, strong moat, secular growth
-
----
-
-## Alpha Thesis Integration
-```
-Buffett Premium: +0.40 applied to composite alpha score
-Conviction Gate: HIGH — Proceed
-Half-life adjustment: None
-```
-
-## Top 4 Deep Dives — for each: 2-3 sentences on inversion killers and verdict rationale. Be specific, cite numbers.
-
-*   **NVDA**: Technology Disruption is a material risk (25% probability, -35% impact on FV), presenting a notable downside. Despite a negative margin of safety (-24%), NVDA earns an "Own Forever" verdict due to its exceptional quality (avg ROIC 51.3%, 3/3 monotonic earnings), a powerful moat (74% gross margin), and strong management alignment (4.0% insider ownership), forming a Lollapalooza of four aligning forces.
-
-*   **GOOGL**: No material inversion killers are identified for GOOGL, implying lower inherent business risk. GOOGL receives an "Own Forever" verdict, driven by outstanding quality (24.9% Avg ROIC, 3/3 monotonic earnings) and a robust moat (60% gross margin, 36% operating margin). However, its valuation is considered expensive (P/E 26.5x, 4.5/10 Valuation Fit), and Mr. Market is currently greedy, presenting a negative margin of safety of -14%.
-
-*   **AXP**: AXP does not face any material inversion killers, suggesting a relatively stable business model. AXP is deemed an "Own Forever" stock, benefiting from a high-quality franchise (34.4% ROE, 3/3 monotonic earnings) and aligned management with 22.3% insider ownership. Critically, its valuation is attractive (15.5x P/E, 10.0/10 Valuation Fit), a thin 3% margin of safety, and Mr. Market's fearful sentiment creates a potential buying opportunity.
-
-*   **ROL**: ROL exhibits no material inversion killers, indicating strong business resilience. Awarded an "Own Forever" verdict, ROL boasts exceptional quality (29.5% Avg ROIC, 120% FCF/NI, 3/3 monotonic earnings) and a strong moat (53% gross margin). Management is highly aligned with 38.4% insider ownership, contributing to its high score, despite a thin 3% margin of safety.
+**CTAS (Score: 8.3)**: (Detailed report not provided). CTAS earns an "Own Forever" verdict, implying it possesses a strong combination of high quality, a durable moat, sound management, and attractive valuation. Its high score of 8.3 indicates robust fundamentals align with Buffett/Munger investment principles.
 
 ## Munger Inversion Alert
 
-Based on the provided detailed reports for the top-scoring companies, no names in the top 20 exhibit 2 or more material inversion killers. NVDA has one identified material killer (Technology Disruption).
+No names in the top 20 list exhibit two or more *material* inversion killers based on the provided detail reports.
 
 ## Bottom Line
 
-American Express (AXP) stands out as today's single best risk-adjusted name, offering a rare combination of high quality, a strong moat, perfectly aligned management, and an attractive valuation with a fearful Mr. Market.
+AXP represents the single best risk-adjusted name today, offering a high-quality business with aligned management at a fearful market valuation.
 ```

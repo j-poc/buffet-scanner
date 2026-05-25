@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TTD
-*Generated: 2026-05-24 07:32 | Price: $22.38 | Mkt Cap: $11B*
+*Generated: 2026-05-25 08:31 | Price: $22.38 | Mkt Cap: $11B*
 
 ## Sector Context
 Communication Services / Advertising Agencies
@@ -21,7 +21,7 @@ Communication Services / Advertising Agencies
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.3/10 | 30% | 1.6 | Avg ROIC: 10.4% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 86% (severe cyclicality); FCF/NI: 374% (strong); Gross margin: 78% (pricing power for Communication Services) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.3% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.2% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 78% vs sector strong cutoff 55% — strong pricing power; Operating margin 10% — thin for Communication Services | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.3x — deep value; Near 52w low (4% of range) — Mr. Market fearful; Owner earnings yield: 5.4% (>5%) | - |
 | **TOTAL** | **6.8/10** | **100%** | **6.8** | | |

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EQIX
-*Generated: 2026-05-24 07:27 | Price: $1079.79 | Mkt Cap: $106B*
+*Generated: 2026-05-25 08:27 | Price: $1079.79 | Mkt Cap: $106B*
 
 ## Sector Context
 Real Estate / REIT - Specialty

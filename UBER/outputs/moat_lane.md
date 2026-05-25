@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UBER
-*Generated: 2026-05-24 07:32 | Price: $71.82 | Mkt Cap: $146B*
+*Generated: 2026-05-25 08:31 | Price: $71.82 | Mkt Cap: $146B*
 
 ## Sector Context
 Technology / Software - Application
