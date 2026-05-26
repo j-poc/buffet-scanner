@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MPWR
-*Generated: 2026-05-25 08:28 | Price: $1589.81 | Mkt Cap: $78B*
+*Generated: 2026-05-26 07:58 | Price: $1589.81 | Mkt Cap: $78B*
 
 ## Sector Context
 Technology / Semiconductors

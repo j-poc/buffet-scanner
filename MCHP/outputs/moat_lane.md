@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MCHP
-*Generated: 2026-05-25 08:28 | Price: $93.43 | Mkt Cap: $51B*
+*Generated: 2026-05-26 07:58 | Price: $93.43 | Mkt Cap: $51B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -20,7 +20,7 @@ Technology / Semiconductors
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 11.7% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 100% from prior peak; 5y price drawdown: 64% (severe cyclicality); FCF/NI: -38488% (weak conversion); Gross margin: 58% | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 10.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 100% from prior peak; 5y price drawdown: 64% (severe cyclicality); FCF/NI: -38441% (weak conversion); Gross margin: 58% | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.0% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 58% — moderate moat for Technology; Operating margin 17% — thin for Technology; Rev growth 35% — demand pull | - |
 | Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.8x — growth premium; 52w range position: 78%; Owner earnings yield: 2.3%; Earnings yield < 7% — tight vs index | - |

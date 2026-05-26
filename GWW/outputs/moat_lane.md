@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GWW
-*Generated: 2026-05-25 08:32 | Price: $1247.79 | Mkt Cap: $59B*
+*Generated: 2026-05-26 08:02 | Price: $1247.79 | Mkt Cap: $59B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Capital Management LLC (6.1% inst.) as insider
 

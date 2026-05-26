@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GD
-*Generated: 2026-05-25 08:27 | Price: $342.89 | Mkt Cap: $93B*
+*Generated: 2026-05-26 07:57 | Price: $342.89 | Mkt Cap: $93B*
 
 ## Sector Context
 Industrials / Aerospace & Defense

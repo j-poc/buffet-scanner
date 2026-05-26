@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WDAY
-*Generated: 2026-05-25 08:32 | Price: $128.14 | Mkt Cap: $32B*
+*Generated: 2026-05-26 08:02 | Price: $128.14 | Mkt Cap: $32B*
 
 ## Sector Context
 Technology / Software - Application
@@ -21,9 +21,9 @@ Technology / Software - Application
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 3.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 62% from prior peak; 5y price drawdown: 63% (severe cyclicality); FCF/NI: 151% (strong); Gross margin: 76% (pricing power for Technology) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.1% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 76% vs sector strong cutoff 60% — strong pricing power; Operating margin 13% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.2x — deep value; Near 52w low (12% of range) — Mr. Market fearful; Owner earnings yield: 9.7% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.2x — deep value; Near 52w low (12% of range) — Mr. Market fearful; Owner earnings yield: 9.9% (>5%) | - |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
 ## Buffett Score: 6.2 / 10

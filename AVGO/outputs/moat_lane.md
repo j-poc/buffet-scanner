@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AVGO
-*Generated: 2026-05-25 08:26 | Price: $414.14 | Mkt Cap: $1961B*
+*Generated: 2026-05-26 07:56 | Price: $414.14 | Mkt Cap: $1961B*
 
 ## Sector Context
 Technology / Semiconductors

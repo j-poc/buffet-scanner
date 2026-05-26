@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HLT
-*Generated: 2026-05-25 08:27 | Price: $321.08 | Mkt Cap: $73B*
+*Generated: 2026-05-26 07:57 | Price: $321.08 | Mkt Cap: $73B*
 
 ## Sector Context
 Consumer Cyclical / Lodging

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DHI
-*Generated: 2026-05-25 08:26 | Price: $143.73 | Mkt Cap: $41B*
+*Generated: 2026-05-26 07:57 | Price: $143.73 | Mkt Cap: $41B*
 
 > ⚠ DATA: yfinance misclassified Capital World Investors (13.0% inst.) as insider
 

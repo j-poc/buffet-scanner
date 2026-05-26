@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CAG
-*Generated: 2026-05-25 08:26 | Price: $13.56 | Mkt Cap: $6B*
+*Generated: 2026-05-26 07:57 | Price: $13.56 | Mkt Cap: $6B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods
