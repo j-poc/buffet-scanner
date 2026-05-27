@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NTAP
-*Generated: 2026-05-26 07:58 | Price: $139.36 | Mkt Cap: $28B*
+*Generated: 2026-05-27 08:10 | Price: $138.95 | Mkt Cap: $28B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -23,7 +23,7 @@ Technology / Software - Infrastructure
 | Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 27.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 110% (strong); Gross margin: 70% (pricing power for Technology) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 70% vs sector strong cutoff 60% — strong pricing power; Operating margin 25% | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 16.3x — fair price; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 4.0%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 16.3x — fair price; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 4.1%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
 
 ## Buffett Score: 7.0 / 10

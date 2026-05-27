@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LULU
-*Generated: 2026-05-26 07:58 | Price: $127.18 | Mkt Cap: $15B*
+*Generated: 2026-05-27 08:10 | Price: $127.35 | Mkt Cap: $15B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Retail
@@ -23,7 +23,7 @@ Consumer Cyclical / Apparel Retail
 | Quality | 5.5/10 | 30% | 1.6 | Avg ROIC: 41.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 77% (severe cyclicality); FCF/NI: 73%; Gross margin: 57% (thin by design for Apparel Retail) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.6% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | ROA 17% / ROE 34% — scale moat (Apparel Retail); Operating margin 22% — durable for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.6x — deep value; Near 52w low (5% of range) — Mr. Market fearful; Owner earnings yield: 5.4% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.7x — deep value; Near 52w low (5% of range) — Mr. Market fearful; Owner earnings yield: 5.4% (>5%) | - |
 | **TOTAL** | **7.3/10** | **100%** | **7.3** | | |
 
 ## Buffett Score: 7.3 / 10

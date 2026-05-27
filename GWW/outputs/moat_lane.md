@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GWW
-*Generated: 2026-05-26 08:02 | Price: $1247.79 | Mkt Cap: $59B*
+*Generated: 2026-05-27 08:14 | Price: $1249.22 | Mkt Cap: $59B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Capital Management LLC (6.1% inst.) as insider
 
@@ -38,7 +38,7 @@ Industrials / Industrial Distribution
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Industrial Distribution
-- **Margin of Safety**: -40% — ABSENT ($1248 > IV $744 at 20x for 18% growth)
+- **Margin of Safety**: -40% — ABSENT ($1249 > IV $745 at 20x for 18% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

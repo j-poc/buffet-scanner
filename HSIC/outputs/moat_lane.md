@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HSIC
-*Generated: 2026-05-26 07:57 | Price: $74.21 | Mkt Cap: $8B*
+*Generated: 2026-05-27 08:10 | Price: $73.9 | Mkt Cap: $8B*
 
 ## Sector Context
 Healthcare / Medical Distribution
@@ -23,7 +23,7 @@ Healthcare / Medical Distribution
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 9.6% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 33% (stable); FCF/NI: 116% (strong); Gross margin: 31% (below Healthcare norm) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 17.6% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 31% — below Healthcare moderate cutoff 35%; Operating margin 6% — thin for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.6x — deep value; 52w range position: 45%; Owner earnings yield: 3.4% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.5x — deep value; 52w range position: 44%; Owner earnings yield: 3.4% | - |
 | **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
 
 ## Buffett Score: 3.8 / 10

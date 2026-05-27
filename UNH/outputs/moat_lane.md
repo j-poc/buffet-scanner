@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UNH
-*Generated: 2026-05-26 08:02 | Price: $388.47 | Mkt Cap: $353B*
+*Generated: 2026-05-27 08:14 | Price: $376.86 | Mkt Cap: $342B*
 
 ## Sector Context
 Healthcare / Healthcare Plans
@@ -23,11 +23,11 @@ Healthcare / Healthcare Plans
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 13.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 46% from prior peak; 5y price drawdown: 61% (severe cyclicality); FCF/NI: 127% (strong); Gross margin: 19% (below Healthcare norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 19% — below Healthcare moderate cutoff 35%; Operating margin 8% — thin for Healthcare | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.7x — fair price; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 5.0% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **3.6/10** | **100%** | **3.6** | | |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 18.1x — fair price; 52w range position: 84%; Owner earnings yield: 5.2% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
 
-## Buffett Score: 3.6 / 10
-## Alpha Adjustment: -0.23
+## Buffett Score: 3.8 / 10
+## Alpha Adjustment: -0.22
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -36,10 +36,10 @@ Healthcare / Healthcare Plans
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Healthcare Plans
-- **Margin of Safety**: -49% — ABSENT ($388 > IV $199 at 15x for 1% growth)
+- **Margin of Safety**: -47% — ABSENT ($377 > IV $199 at 15x for 1% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.23 applied to composite alpha score
+Buffett Premium: -0.22 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```
