@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JBHT
-*Generated: 2026-05-29 08:04 | Price: $272.52 | Mkt Cap: $26B*
+*Generated: 2026-05-30 06:54 | Price: $276.43 | Mkt Cap: $26B*
 
 ## Sector Context
 Industrials / Integrated Freight & Logistics
@@ -23,11 +23,11 @@ Industrials / Integrated Freight & Logistics
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 15.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 41% from prior peak; 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 69%; Gross margin: 19% (below Industrials norm) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 20.3% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 20.8% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 19% — below Industrials moderate cutoff 22%; Operating margin 7% — thin for Industrials | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 30.0x — growth premium; Near 52w high (99% of range) — Mr. Market greedy; Owner earnings yield: 3.2%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 30.4x — expensive; Near 52w high (99% of range) — Mr. Market greedy; Owner earnings yield: 3.2%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **3.5/10** | **100%** | **3.5** | | |
 
-## Buffett Score: 3.9 / 10
-## Alpha Adjustment: -0.21
+## Buffett Score: 3.5 / 10
+## Alpha Adjustment: -0.24
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -36,7 +36,7 @@ Industrials / Integrated Freight & Logistics
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Integrated Freight & Logistics
-- **Margin of Safety**: -41% — ABSENT ($273 > IV $161 at 25x for 25% growth)
+- **Margin of Safety**: -42% — ABSENT ($276 > IV $161 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Aligned — 20.3% insider ownership
 - **Mr. Market**: Greedy — exercise caution
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.21 applied to composite alpha score
+Buffett Premium: -0.24 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

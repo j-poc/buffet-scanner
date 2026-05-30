@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TJX
-*Generated: 2026-05-29 08:08 | Price: $154.89 | Mkt Cap: $171B*
+*Generated: 2026-05-30 06:57 | Price: $154.75 | Mkt Cap: $171B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Retail
