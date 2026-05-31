@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TMUS
-*Generated: 2026-05-30 06:56 | Price: $187.53 | Mkt Cap: $203B*
+*Generated: 2026-05-31 07:55 | Price: $187.53 | Mkt Cap: $203B*
 
 ## Sector Context
 Communication Services / Telecom Services

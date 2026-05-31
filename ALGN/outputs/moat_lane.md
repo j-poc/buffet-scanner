@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALGN
-*Generated: 2026-05-30 06:52 | Price: $174.95 | Mkt Cap: $13B*
+*Generated: 2026-05-31 07:49 | Price: $174.95 | Mkt Cap: $13B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Capital Management LLC (6.1% inst.) as insider
 

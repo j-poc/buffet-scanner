@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ORCL
-*Generated: 2026-05-30 06:55 | Price: $225.78 | Mkt Cap: $649B*
+*Generated: 2026-05-31 07:52 | Price: $225.78 | Mkt Cap: $649B*
 
 ## Sector Context
 Technology / Software - Infrastructure

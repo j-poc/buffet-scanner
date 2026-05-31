@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HUM
-*Generated: 2026-05-30 06:54 | Price: $305.42 | Mkt Cap: $37B*
+*Generated: 2026-05-31 07:51 | Price: $305.42 | Mkt Cap: $37B*
 
 ## Sector Context
 Healthcare / Healthcare Plans

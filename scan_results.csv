@@ -312,6 +312,7 @@ INVH,5.3,0.0,LOW,Pass,2
 PLTR,5.3,0.0,LOW,Pass,1
 REG,5.3,0.0,LOW,Pass,2
 NOW,5.3,0.0,LOW,Pass,2
+TGT,5.3,0.0,LOW,Pass,1
 TKO,5.3,0.0,LOW,Pass,0
 TFC,5.3,0.0,LOW,Pass,1
 ARE,5.2,0.0,LOW,Pass,1
@@ -348,7 +349,6 @@ KEY,5.1,0.0,LOW,Pass,1
 NDSN,5.1,0.0,LOW,Pass,1
 QCOM,5.1,0.0,LOW,Pass,2
 ROK,5.1,0.0,LOW,Pass,1
-TGT,5.1,0.0,LOW,Pass,1
 WAT,5.1,0.0,LOW,Pass,2
 ALB,5.0,0.0,LOW,Pass,1
 CASY,5.0,0.0,LOW,Pass,1
@@ -356,8 +356,8 @@ CTSH,5.0,0.0,LOW,Pass,2
 FITB,5.0,0.0,LOW,Pass,1
 HAL,5.0,0.0,LOW,Pass,1
 LYB,5.0,0.0,LOW,Pass,1
-TXT,5.0,0.0,LOW,Pass,1
 TDY,5.0,0.0,LOW,Pass,2
+TXT,5.0,0.0,LOW,Pass,1
 TYL,5.0,0.0,LOW,Pass,2
 WBD,5.0,0.0,LOW,Pass,1
 CFG,4.9,0.0,LOW,Pass,1

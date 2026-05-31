@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: POOL
-*Generated: 2026-05-30 06:56 | Price: $181.4 | Mkt Cap: $7B*
+*Generated: 2026-05-31 07:52 | Price: $181.4 | Mkt Cap: $7B*
 
 ## Sector Context
 Industrials / Industrial Distribution

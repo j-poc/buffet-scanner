@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FANG
-*Generated: 2026-05-30 06:53 | Price: $191.48 | Mkt Cap: $54B*
+*Generated: 2026-05-31 07:50 | Price: $191.48 | Mkt Cap: $54B*
 
 ## Sector Context
 Energy / Oil & Gas E&P

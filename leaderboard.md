@@ -1,11 +1,6 @@
-# Leaderboard: A Buffett/Munger Analyst View
+# Buffett/Munger Moat Lane Leaderboard
 
-**Today's Date: 2026-05-30**
-The market continues to reward high-quality, moated businesses, with several top contenders exhibiting strong fundamentals despite stretched valuations in some instances. Opportunities exist where Mr. Market exhibits fear.
-
----
-
-## Full Ranked Table
+**Date: 2026-05-31** — The market shows strong scores for quality businesses, with several exhibiting durable moats and solid management, though some top names appear fully valued by a greedy Mr. Market.
 
 | # | Ticker | Score | Conviction | Alpha Adj | Verdict |
 |---|--------|-------|------------|-----------|--------|
@@ -322,43 +317,43 @@ The market continues to reward high-quality, moated businesses, with several top
 | 311 | PLTR | 5.3 | LOW | 0.0 | Pass |
 | 312 | REG | 5.3 | LOW | 0.0 | Pass |
 | 313 | NOW | 5.3 | LOW | 0.0 | Pass |
-| 314 | TKO | 5.3 | LOW | 0.0 | Pass |
-| 315 | TFC | 5.3 | LOW | 0.0 | Pass |
-| 316 | ARE | 5.2 | LOW | 0.0 | Pass |
-| 317 | AVY | 5.2 | LOW | 0.0 | Pass |
-| 318 | BIIB | 5.2 | LOW | 0.0 | Pass |
-| 319 | CPB | 5.2 | LOW | 0.0 | Pass |
-| 320 | EA | 5.2 | LOW | 0.0 | Pass |
-| 321 | EMR | 5.2 | LOW | 0.0 | Pass |
-| 322 | HAS | 5.2 | LOW | 0.0 | Pass |
-| 323 | IQV | 5.2 | LOW | 0.0 | Pass |
-| 324 | JCI | 5.2 | LOW | 0.0 | Pass |
-| 325 | LDOS | 5.2 | LOW | 0.0 | Pass |
-| 326 | LMT | 5.2 | LOW | 0.0 | Pass |
-| 327 | MGM | 5.2 | LOW | 0.0 | Pass |
-| 328 | NEE | 5.2 | LOW | 0.0 | Pass |
-| 329 | NSC | 5.2 | LOW | 0.0 | Pass |
-| 330 | NVR | 5.2 | LOW | 0.0 | Pass |
-| 331 | PFE | 5.2 | LOW | 0.0 | Pass |
-| 332 | SRE | 5.2 | LOW | 0.0 | Pass |
-| 333 | SJM | 5.2 | LOW | 0.0 | Pass |
-| 334 | VMC | 5.2 | LOW | 0.0 | Pass |
-| 335 | MMM | 5.1 | LOW | 0.0 | Pass |
-| 336 | ACN | 5.1 | LOW | 0.0 | Pass |
-| 337 | A | 5.1 | LOW | 0.0 | Pass |
-| 338 | AIG | 5.1 | LOW | 0.0 | Pass |
-| 339 | AMAT | 5.1 | LOW | 0.0 | Pass |
-| 340 | BDX | 5.1 | LOW | 0.0 | Pass |
-| 341 | COF | 5.1 | LOW | 0.0 | Pass |
-| 342 | CSCO | 5.1 | LOW | 0.0 | Pass |
-| 343 | DLTR | 5.1 | LOW | 0.0 | Pass |
-| 344 | ETR | 5.1 | LOW | 0.0 | Pass |
-| 345 | IEX | 5.1 | LOW | 0.0 | Pass |
-| 346 | KEY | 5.1 | LOW | 0.0 | Pass |
-| 347 | NDSN | 5.1 | LOW | 0.0 | Pass |
-| 348 | QCOM | 5.1 | LOW | 0.0 | Pass |
-| 349 | ROK | 5.1 | LOW | 0.0 | Pass |
-| 350 | TGT | 5.1 | LOW | 0.0 | Pass |
+| 314 | TGT | 5.3 | LOW | 0.0 | Pass |
+| 315 | TKO | 5.3 | LOW | 0.0 | Pass |
+| 316 | TFC | 5.3 | LOW | 0.0 | Pass |
+| 317 | ARE | 5.2 | LOW | 0.0 | Pass |
+| 318 | AVY | 5.2 | LOW | 0.0 | Pass |
+| 319 | BIIB | 5.2 | LOW | 0.0 | Pass |
+| 320 | CPB | 5.2 | LOW | 0.0 | Pass |
+| 321 | EA | 5.2 | LOW | 0.0 | Pass |
+| 322 | EMR | 5.2 | LOW | 0.0 | Pass |
+| 323 | HAS | 5.2 | LOW | 0.0 | Pass |
+| 324 | IQV | 5.2 | LOW | 0.0 | Pass |
+| 325 | JCI | 5.2 | LOW | 0.0 | Pass |
+| 326 | LDOS | 5.2 | LOW | 0.0 | Pass |
+| 327 | LMT | 5.2 | LOW | 0.0 | Pass |
+| 328 | MGM | 5.2 | LOW | 0.0 | Pass |
+| 329 | NEE | 5.2 | LOW | 0.0 | Pass |
+| 330 | NSC | 5.2 | LOW | 0.0 | Pass |
+| 331 | NVR | 5.2 | LOW | 0.0 | Pass |
+| 332 | PFE | 5.2 | LOW | 0.0 | Pass |
+| 333 | SRE | 5.2 | LOW | 0.0 | Pass |
+| 334 | SJM | 5.2 | LOW | 0.0 | Pass |
+| 335 | VMC | 5.2 | LOW | 0.0 | Pass |
+| 336 | MMM | 5.1 | LOW | 0.0 | Pass |
+| 337 | ACN | 5.1 | LOW | 0.0 | Pass |
+| 338 | A | 5.1 | LOW | 0.0 | Pass |
+| 339 | AIG | 5.1 | LOW | 0.0 | Pass |
+| 340 | AMAT | 5.1 | LOW | 0.0 | Pass |
+| 341 | BDX | 5.1 | LOW | 0.0 | Pass |
+| 342 | COF | 5.1 | LOW | 0.0 | Pass |
+| 343 | CSCO | 5.1 | LOW | 0.0 | Pass |
+| 344 | DLTR | 5.1 | LOW | 0.0 | Pass |
+| 345 | ETR | 5.1 | LOW | 0.0 | Pass |
+| 346 | IEX | 5.1 | LOW | 0.0 | Pass |
+| 347 | KEY | 5.1 | LOW | 0.0 | Pass |
+| 348 | NDSN | 5.1 | LOW | 0.0 | Pass |
+| 349 | QCOM | 5.1 | LOW | 0.0 | Pass |
+| 350 | ROK | 5.1 | LOW | 0.0 | Pass |
 | 351 | WAT | 5.1 | LOW | 0.0 | Pass |
 | 352 | ALB | 5.0 | LOW | 0.0 | Pass |
 | 353 | CASY | 5.0 | LOW | 0.0 | Pass |
@@ -366,8 +361,8 @@ The market continues to reward high-quality, moated businesses, with several top
 | 355 | FITB | 5.0 | LOW | 0.0 | Pass |
 | 356 | HAL | 5.0 | LOW | 0.0 | Pass |
 | 357 | LYB | 5.0 | LOW | 0.0 | Pass |
-| 358 | TXT | 5.0 | LOW | 0.0 | Pass |
-| 359 | TDY | 5.0 | LOW | 0.0 | Pass |
+| 358 | TDY | 5.0 | LOW | 0.0 | Pass |
+| 359 | TXT | 5.0 | LOW | 0.0 | Pass |
 | 360 | TYL | 5.0 | LOW | 0.0 | Pass |
 | 361 | WBD | 5.0 | LOW | 0.0 | Pass |
 | 362 | CFG | 4.9 | LOW | 0.0 | Pass |
@@ -518,28 +513,28 @@ The market continues to reward high-quality, moated businesses, with several top
 ## Top 5 Deep Dives
 
 ### NVDA
-NVDA faces a material inversion killer in Technology Disruption, posing a 25% probability of a -35% impact on intrinsic value. Despite this risk, NVDA earns an "Own Forever" verdict with a 8.9/10 score, propelled by exceptional quality (51.3% Avg ROIC, 74% Gross Margin) and an unshakeable moat (74% Gross Margin, 85% Rev Growth), indicating four powerful forces are aligning.
+NVDA faces a material risk from Technology Disruption, with a 25% probability and -35% impact on intrinsic value. Despite this, its "Own Forever" verdict is supported by exceptional Quality (4-year average ROIC of 51.3% and 74% gross margin) and a robust Moat (66% operating margin and 85% revenue growth), although it carries an absent Margin of Safety at a price of $211 versus an intrinsic value of $163.
 
 ### GOOGL
-GOOGL's primary inversion killers, Technology Disruption (10% prob, -15% FV) and Management/Governance Failure (15% prob, -20% FV), are not deemed material risks. The stock warrants an "Own Forever" verdict (8.4/10 score) due to its high quality (24.9% Avg ROIC, monotonic earnings) and robust moat (60% Gross Margin, 36% Operating Margin), even though Mr. Market is currently greedy with an expensive P/E of 26.2x and an absent margin of safety.
+GOOGL has no material inversion killers identified and exhibits strong Quality (24.9% average ROIC, 60% gross margin) and a durable Moat (36% operating margin, 22% revenue growth). However, Mr. Market is greedy, with an Expensive Valuation Fit (P/E 26.2x and an earnings yield below 4%), which results in an absent Margin of Safety at its current price of $380 versus an intrinsic value of $328.
 
 ### AXP
-AXP's inversion killers, Technology Disruption (10% prob, -15% FV) and Management/Governance Failure (8% prob, -15% FV), are not material. AXP receives an "Own Forever" verdict with an 8.4/10 score, fueled by strong quality (34.4% ROE, stable price drawdown) and an attractive valuation (P/E 15.7x, 30% of 52-week range), indicating Mr. Market is currently fearful and presenting a potential opportunity.
+AXP presents no material inversion killers and shows exceptional Valuation Fit, as Mr. Market is fearful, placing the stock near its 52-week low. Its high conviction "Own Forever" verdict is based on strong Quality (34.4% ROE and monotonic earnings) and highly aligned Management (22.3% insider ownership), despite a thin 1% Margin of Safety at a price of $316 versus an intrinsic value of $320.
 
 ### ROL
-ROL's inversion killers, Technology Disruption (10% prob, -15% FV) and Management/Governance Failure (8% prob, -15% FV), are not considered material. The company is an "Own Forever" pick with an 8.4/10 score, achieving a perfect 10.0 in Quality (29.5% Avg ROIC, 120% FCF/NI) and demonstrating a strong moat (53% Gross Margin), further strengthened by significant insider ownership at 38.4%.
+ROL demonstrates outstanding Quality, evidenced by a 29.5% average ROIC, monotonic earnings growth, and a strong 120% FCF/NI ratio, alongside a formidable Moat with 53% gross margin. Management aligns with shareholders through 38.4% insider ownership. No material inversion killers are identified, supporting its "Own Forever" verdict.
 
 ### CTAS
-A detailed report for CTAS, including its specific inversion killers and valuation fit, is not available. However, based on its 8.3/10 score and "HIGH" conviction, it is classified as an "Own Forever" stock, implying strong underlying fundamentals and a durable competitive advantage.
+The detailed report for CTAS is unavailable. Based on its overall high score of 8.3 and "Own Forever" verdict, it possesses strong fundamentals and a compelling investment profile that warrants deep analysis.
 
 ---
 
 ## Munger Inversion Alert
 
-There are no names in the top 20 with two or more material inversion killers identified in their detailed reports.
+No companies within the provided top 5 detail reports exhibit two or more material inversion killers. Details for other top 20 companies are not available to assess this criterion fully.
 
 ---
 
 ## Bottom Line
 
-AXP stands out as the single best risk-adjusted name today, exhibiting high quality and strong management, with Mr. Market signaling a fearful disposition that presents an attractive entry point.
+AXP represents the single best risk-adjusted name today, offering strong management alignment, high quality, and a fearful Mr. Market creating a potential opportunity for long-term investors.

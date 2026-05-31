@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IT
-*Generated: 2026-05-30 06:54 | Price: $162.2 | Mkt Cap: $11B*
+*Generated: 2026-05-31 07:50 | Price: $162.2 | Mkt Cap: $11B*
 
 ## Sector Context
 Technology / Information Technology Services
