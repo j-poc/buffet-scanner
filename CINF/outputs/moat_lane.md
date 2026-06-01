@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CINF
-*Generated: 2026-05-31 07:50 | Price: $157.42 | Mkt Cap: $24B*
+*Generated: 2026-06-01 09:32 | Price: $157.42 | Mkt Cap: $24B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty

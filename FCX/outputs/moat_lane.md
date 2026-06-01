@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FCX
-*Generated: 2026-05-31 07:50 | Price: $65.71 | Mkt Cap: $94B*
+*Generated: 2026-06-01 09:32 | Price: $65.71 | Mkt Cap: $94B*
 
 ## Sector Context
 Basic Materials / Copper

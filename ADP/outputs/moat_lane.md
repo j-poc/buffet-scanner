@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ADP
-*Generated: 2026-05-31 07:49 | Price: $221.84 | Mkt Cap: $89B*
+*Generated: 2026-06-01 09:31 | Price: $221.84 | Mkt Cap: $89B*
 
 ## Sector Context
 Technology / Software - Application

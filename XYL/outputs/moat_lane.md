@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: XYL
-*Generated: 2026-05-31 07:55 | Price: $109.54 | Mkt Cap: $26B*
+*Generated: 2026-06-01 09:37 | Price: $109.54 | Mkt Cap: $26B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery

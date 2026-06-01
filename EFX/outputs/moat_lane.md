@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EFX
-*Generated: 2026-05-31 07:50 | Price: $165.79 | Mkt Cap: $20B*
+*Generated: 2026-06-01 09:32 | Price: $165.79 | Mkt Cap: $20B*
 
 ## Sector Context
 Industrials / Consulting Services

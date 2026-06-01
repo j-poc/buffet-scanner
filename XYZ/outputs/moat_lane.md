@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: XYZ
-*Generated: 2026-05-31 07:49 | Price: $75.72 | Mkt Cap: $45B*
+*Generated: 2026-06-01 09:31 | Price: $75.72 | Mkt Cap: $45B*
 
 ## Sector Context
 Technology / Software - Infrastructure

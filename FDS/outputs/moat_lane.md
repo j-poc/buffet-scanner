@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FDS
-*Generated: 2026-05-31 07:50 | Price: $245.47 | Mkt Cap: $9B*
+*Generated: 2026-06-01 09:32 | Price: $245.47 | Mkt Cap: $9B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges

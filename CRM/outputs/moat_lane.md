@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CRM
-*Generated: 2026-05-31 07:55 | Price: $191.1 | Mkt Cap: $157B*
+*Generated: 2026-06-01 09:36 | Price: $191.1 | Mkt Cap: $157B*
 
 ## Sector Context
 Technology / Software - Application

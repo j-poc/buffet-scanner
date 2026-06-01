@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DD
-*Generated: 2026-05-31 07:50 | Price: $48.42 | Mkt Cap: $20B*
+*Generated: 2026-06-01 09:32 | Price: $48.42 | Mkt Cap: $20B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals

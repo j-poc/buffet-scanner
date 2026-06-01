@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SYY
-*Generated: 2026-05-31 07:55 | Price: $75.81 | Mkt Cap: $36B*
+*Generated: 2026-06-01 09:37 | Price: $75.81 | Mkt Cap: $36B*
 
 ## Sector Context
 Consumer Defensive / Food Distribution

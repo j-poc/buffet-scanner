@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MAS
-*Generated: 2026-05-31 07:51 | Price: $70.25 | Mkt Cap: $14B*
+*Generated: 2026-06-01 09:33 | Price: $70.25 | Mkt Cap: $14B*
 
 ## Sector Context
 Industrials / Building Products & Equipment

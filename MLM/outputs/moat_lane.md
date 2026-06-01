@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MLM
-*Generated: 2026-05-31 07:51 | Price: $581.64 | Mkt Cap: $35B*
+*Generated: 2026-06-01 09:33 | Price: $581.64 | Mkt Cap: $35B*
 
 ## Sector Context
 Basic Materials / Building Materials
