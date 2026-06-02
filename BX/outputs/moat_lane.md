@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BX
-*Generated: 2026-06-01 09:31 | Price: $116.97 | Mkt Cap: $143B*
+*Generated: 2026-06-02 08:42 | Price: $116.94 | Mkt Cap: $143B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -36,7 +36,7 @@ Financial Services / Asset Management
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Asset Management
-- **Margin of Safety**: -50% — ABSENT ($117 > IV $58 at 15x for 4% growth)
+- **Margin of Safety**: -50% — ABSENT ($117 > IV $59 at 15x for 4% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.1% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

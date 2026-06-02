@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: POOL
-*Generated: 2026-06-01 09:34 | Price: $181.4 | Mkt Cap: $7B*
+*Generated: 2026-06-02 08:44 | Price: $182.07 | Mkt Cap: $7B*
 
 ## Sector Context
 Industrials / Industrial Distribution
@@ -36,7 +36,7 @@ Industrials / Industrial Distribution
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Industrial Distribution
-- **Margin of Safety**: -10% — ABSENT ($181 > IV $163 at 15x for 2% growth)
+- **Margin of Safety**: -10% — ABSENT ($182 > IV $163 at 15x for 2% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 3.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

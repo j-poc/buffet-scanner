@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APP
-*Generated: 2026-06-01 09:31 | Price: $613.09 | Mkt Cap: $206B*
+*Generated: 2026-06-02 08:41 | Price: $613.7 | Mkt Cap: $206B*
 
 ## Sector Context
 Communication Services / Advertising Agencies
@@ -36,7 +36,7 @@ Communication Services / Advertising Agencies
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Advertising Agencies
-- **Margin of Safety**: -53% — ABSENT ($613 > IV $288 at 25x for 25% growth)
+- **Margin of Safety**: -53% — ABSENT ($614 > IV $287 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Aligned — 18.4% insider ownership
 - **Mr. Market**: Neutral

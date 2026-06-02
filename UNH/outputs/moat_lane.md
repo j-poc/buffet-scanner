@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UNH
-*Generated: 2026-06-01 09:37 | Price: $380.31 | Mkt Cap: $345B*
+*Generated: 2026-06-02 08:47 | Price: $379.86 | Mkt Cap: $345B*
 
 ## Sector Context
 Healthcare / Healthcare Plans
@@ -36,7 +36,7 @@ Healthcare / Healthcare Plans
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Healthcare Plans
-- **Margin of Safety**: -48% — ABSENT ($380 > IV $199 at 15x for 1% growth)
+- **Margin of Safety**: -47% — ABSENT ($380 > IV $200 at 15x for 1% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution
