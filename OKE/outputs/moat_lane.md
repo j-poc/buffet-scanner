@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OKE
-*Generated: 2026-06-03 09:02 | Price: $86.72 | Mkt Cap: $55B*
+*Generated: 2026-06-04 08:26 | Price: $86.75 | Mkt Cap: $55B*
 
 ## Sector Context
 Energy / Oil & Gas Midstream

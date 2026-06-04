@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EIX
-*Generated: 2026-06-03 09:00 | Price: $70.92 | Mkt Cap: $27B*
+*Generated: 2026-06-04 08:25 | Price: $70.86 | Mkt Cap: $27B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric

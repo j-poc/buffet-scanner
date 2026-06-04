@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AVGO
-*Generated: 2026-06-03 08:59 | Price: $481.57 | Mkt Cap: $2280B*
+*Generated: 2026-06-04 08:24 | Price: $479.23 | Mkt Cap: $2269B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -23,7 +23,7 @@ Technology / Semiconductors
 | Quality | 4.5/10 | 30% | 1.3 | ROIC declining trend; Avg ROIC: 15.3% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 58% from prior peak; 5y price drawdown: 41% (moderate cyclicality); FCF/NI: 178% (strong); Gross margin: 77% (pricing power for Technology) | ROIC declining |
 | Management | 9.0/10 | 25% | 2.2 | Insider value: $44B (1.9%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 77% vs sector strong cutoff 60% — strong pricing power; Operating margin 45% — durable for Technology; Rev growth 30% — demand pull | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 26.0x — growth premium; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 1.1%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 25.5x — growth premium; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 1.1%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
 
 ## Buffett Score: 6.9 / 10
@@ -36,7 +36,7 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: -73% — ABSENT ($482 > IV $129 at 25x for 25% growth)
+- **Margin of Safety**: -69% — ABSENT ($479 > IV $150 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 1.9% insider ownership
 - **Mr. Market**: Greedy — exercise caution

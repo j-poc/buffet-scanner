@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FSLR
-*Generated: 2026-06-03 09:01 | Price: $311.01 | Mkt Cap: $33B*
+*Generated: 2026-06-04 08:25 | Price: $318.25 | Mkt Cap: $34B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Capital Management LLC (6.3% inst.) as insider
 
@@ -25,7 +25,7 @@ Technology / Solar
 | Quality | 2.3/10 | 30% | 0.7 | Avg ROIC: 9.1% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 60% (severe cyclicality); FCF/NI: 7% (weak conversion); Gross margin: 42% | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.4% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 42% — moderate moat for Technology; Operating margin 33% — durable for Technology; Rev growth 24% — demand pull | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 13.3x — deep value; Near 52w high (98% of range) — Mr. Market greedy; Owner earnings yield: 3.4% | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 13.6x — deep value; Near 52w high (99% of range) — Mr. Market greedy; Owner earnings yield: 3.4% | - |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
 ## Buffett Score: 5.4 / 10
@@ -38,7 +38,7 @@ Technology / Solar
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Solar
-- **Margin of Safety**: 25% — thin (IV $387 at 25x)
+- **Margin of Safety**: 22% — thin (IV $387 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

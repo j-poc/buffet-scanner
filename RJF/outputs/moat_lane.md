@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RJF
-*Generated: 2026-06-03 09:02 | Price: $146.75 | Mkt Cap: $29B*
+*Generated: 2026-06-04 08:29 | Price: $146.56 | Mkt Cap: $29B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -36,7 +36,7 @@ Financial Services / Asset Management
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Asset Management
-- **Margin of Safety**: 44% — PRESENT (IV $212 vs $147 at 20x)
+- **Margin of Safety**: 45% — PRESENT (IV $212 vs $147 at 20x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 10.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
