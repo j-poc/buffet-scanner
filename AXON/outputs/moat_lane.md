@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AXON
-*Generated: 2026-06-04 08:24 | Price: $481.48 | Mkt Cap: $39B*
+*Generated: 2026-06-05 08:12 | Price: $513.2 | Mkt Cap: $41B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -20,13 +20,13 @@ Industrials / Aerospace & Defense
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.0/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 5.4% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 67% from prior peak; 5y price drawdown: 60% (severe cyclicality); FCF/NI: 86% (strong); Gross margin: 59% (pricing power for Industrials) | ROIC declining |
+| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 5.7% (1y); Earnings: 1 down-year in 3 transitions; NI drawdown: 67% from prior peak; 5y price drawdown: 60% (severe cyclicality); FCF/NI: 86% (strong); Gross margin: 59% (pricing power for Industrials) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.3% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 59% vs sector strong cutoff 35% — strong pricing power; Operating margin 4% — thin for Industrials; Rev growth 34% — demand pull | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 45.5x — expensive; Near 52w low (26% of range) — Mr. Market fearful; Owner earnings yield: 0.2%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 48.5x — expensive; 52w range position: 32%; Owner earnings yield: 0.2%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
-## Buffett Score: 4.7 / 10
+## Buffett Score: 5.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Industrials / Aerospace & Defense
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Aerospace & Defense
-- **Margin of Safety**: -87% — ABSENT ($481 > IV $62 at 25x for 25% growth)
+- **Margin of Safety**: -88% — ABSENT ($513 > IV $62 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 4.3% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (2 forces only: strong moat, secular growth)

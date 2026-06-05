@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AFL
-*Generated: 2026-06-04 08:23 | Price: $114.5 | Mkt Cap: $58B*
+*Generated: 2026-06-05 08:11 | Price: $115.29 | Mkt Cap: $59B*
 
 > ⚠ DATA: yfinance misclassified Japan Post Holdings Co., Ltd. (10.2% inst.) as insider
 
@@ -25,7 +25,7 @@ Financial Services / Insurance - Life
 | Quality | 6.6/10 | 30% | 2.0 | ROE: 16.5% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 20% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | ROE 16% — strong franchise (Financial Services); Operating margin 30%; Rev growth 28% — demand pull | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.1x — fair price; 52w range position: 77%; Owner earnings yield: 8.4% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.2x — fair price; 52w range position: 80%; Owner earnings yield: 8.4% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
 
 ## Buffett Score: 6.9 / 10
@@ -38,7 +38,7 @@ Financial Services / Insurance - Life
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Life
-- **Margin of Safety**: 91% — PRESENT (IV $219 vs $114 at 25x)
+- **Margin of Safety**: 90% — PRESENT (IV $219 vs $115 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

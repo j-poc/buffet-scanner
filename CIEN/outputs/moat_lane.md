@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CIEN
-*Generated: 2026-06-04 08:24 | Price: $620.37 | Mkt Cap: $88B*
+*Generated: 2026-06-05 08:12 | Price: $535.63 | Mkt Cap: $76B*
 
 ## Sector Context
 Technology / Communication Equipment
@@ -11,7 +11,7 @@ Technology / Communication Equipment
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Communication Equipment | 25% | -35% | YES |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.8x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.0x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.7%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,14 +20,14 @@ Technology / Communication Equipment
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 5.2% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 67% from prior peak; 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 211% (strong); Gross margin: 42% | - |
+| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 5.2% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 67% from prior peak; 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 211% (strong); Gross margin: 43% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 42% — moderate moat for Technology; Operating margin 13% — thin for Technology; Rev growth 33% — demand pull | - |
-| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 70.3x — extreme premium; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 0.8%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.6/10** | **100%** | **3.6** | | |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 43% — moderate moat for Technology; Operating margin 15% — thin for Technology; Rev growth 40% — demand pull | - |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 57.9x — extreme premium; 52w range position: 82%; Owner earnings yield: 0.9%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
 
-## Buffett Score: 3.6 / 10
-## Alpha Adjustment: -0.23
+## Buffett Score: 3.8 / 10
+## Alpha Adjustment: -0.22
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -36,10 +36,10 @@ Technology / Communication Equipment
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Communication Equipment
-- **Margin of Safety**: -94% — ABSENT ($620 > IV $39 at 25x for 25% growth)
+- **Margin of Safety**: -86% — ABSENT ($536 > IV $75 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: secular growth)
@@ -48,7 +48,7 @@ No (1 forces only: secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.23 applied to composite alpha score
+Buffett Premium: -0.22 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

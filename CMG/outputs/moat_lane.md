@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CMG
-*Generated: 2026-06-04 08:24 | Price: $28.74 | Mkt Cap: $37B*
+*Generated: 2026-06-05 08:12 | Price: $28.18 | Mkt Cap: $36B*
 
 ## Sector Context
 Consumer Cyclical / Restaurants
@@ -20,10 +20,10 @@ Consumer Cyclical / Restaurants
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 7.5/10 | 30% | 2.2 | Avg ROIC: 45.4% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 58% (severe cyclicality); FCF/NI: 97% (strong); Gross margin: 40% | - |
+| Quality | 7.5/10 | 30% | 2.2 | Avg ROIC: 45.4% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 59% (severe cyclicality); FCF/NI: 97% (strong); Gross margin: 40% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 40% — moderate moat for Consumer Cyclical; Operating margin 13% — durable for Consumer Cyclical | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 21.2x — growth premium; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 3.0%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 20.8x — growth premium; Near 52w low (0% of range) — Mr. Market fearful; Owner earnings yield: 3.0%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
 
 ## Buffett Score: 6.6 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Restaurants
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Restaurants
-- **Margin of Safety**: -43% — ABSENT ($29 > IV $16 at 15x for -18% growth)
+- **Margin of Safety**: -42% — ABSENT ($28 > IV $16 at 15x for -18% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

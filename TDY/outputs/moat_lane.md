@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TDY
-*Generated: 2026-06-04 08:29 | Price: $618.02 | Mkt Cap: $29B*
+*Generated: 2026-06-05 08:16 | Price: $618.59 | Mkt Cap: $29B*
 
 ## Sector Context
 Technology / Scientific & Technical Instruments
@@ -36,7 +36,7 @@ Technology / Scientific & Technical Instruments
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Scientific & Technical Instruments
-- **Margin of Safety**: -20% — ABSENT ($618 > IV $493 at 25x for 22% growth)
+- **Margin of Safety**: -20% — ABSENT ($619 > IV $493 at 25x for 22% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Neutral

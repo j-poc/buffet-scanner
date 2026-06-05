@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SNDK
-*Generated: 2026-06-04 08:29 | Price: $1831.5 | Mkt Cap: $271B*
+*Generated: 2026-06-05 08:16 | Price: $1759.68 | Mkt Cap: $261B*
 
 ## Sector Context
 Technology / Computer Hardware
@@ -23,7 +23,7 @@ Technology / Computer Hardware
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: -6.6% (2y); Earnings: 1 down-year in 2 transitions; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 40% (weak conversion); Gross margin: 56% | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.4% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 56% — moderate moat for Technology; Operating margin 70% — durable for Technology; Rev growth 251% — demand pull | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 10.3x — deep value; Near 52w high (98% of range) — Mr. Market greedy; Owner earnings yield: 0.8% | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 9.9x — deep value; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 0.9% | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10
@@ -36,7 +36,7 @@ Technology / Computer Hardware
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Computer Hardware
-- **Margin of Safety**: -60% — ABSENT ($1832 > IV $732 at 25x for 25% growth)
+- **Margin of Safety**: -59% — ABSENT ($1760 > IV $730 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 1.1% insider ownership
 - **Mr. Market**: Greedy — exercise caution

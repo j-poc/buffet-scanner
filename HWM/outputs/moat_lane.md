@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HWM
-*Generated: 2026-06-04 08:25 | Price: $248.63 | Mkt Cap: $99B*
+*Generated: 2026-06-05 08:14 | Price: $249.33 | Mkt Cap: $100B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -23,7 +23,7 @@ Industrials / Aerospace & Defense
 | Quality | 8.1/10 | 30% | 2.4 | Avg ROIC: 13.8% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 23% (stable); FCF/NI: 96% (strong); Gross margin: 35% (pricing power for Industrials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 35% vs sector strong cutoff 35% — strong pricing power; Operating margin 28% — durable for Industrials | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 41.3x — expensive; 52w range position: 72%; Owner earnings yield: 1.2%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 41.4x — expensive; 52w range position: 73%; Owner earnings yield: 1.2%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
 ## Buffett Score: 6.4 / 10

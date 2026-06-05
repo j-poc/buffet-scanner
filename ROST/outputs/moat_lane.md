@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ROST
-*Generated: 2026-06-04 08:29 | Price: $232.62 | Mkt Cap: $75B*
+*Generated: 2026-06-05 08:16 | Price: $233.06 | Mkt Cap: $75B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Retail

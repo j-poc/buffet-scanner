@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CASY
-*Generated: 2026-06-04 08:24 | Price: $774.19 | Mkt Cap: $29B*
+*Generated: 2026-06-05 08:12 | Price: $761.57 | Mkt Cap: $28B*
 
 ## Sector Context
 Consumer Cyclical / Specialty Retail
@@ -20,10 +20,10 @@ Consumer Cyclical / Specialty Retail
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 11.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 21% (stable); FCF/NI: 102% (strong); Gross margin: 25% (thin by design for Specialty Retail) | - |
+| Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 11.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 20% (stable); FCF/NI: 102% (strong); Gross margin: 25% (thin by design for Specialty Retail) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | ROA 7% / ROE 18% — adequate scale (Specialty Retail); Operating margin 5% — thin for Consumer Cyclical | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 38.0x — expensive; 52w range position: 73%; Owner earnings yield: 1.6%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 37.4x — expensive; 52w range position: 70%; Owner earnings yield: 1.7%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Specialty Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Specialty Retail
-- **Margin of Safety**: -44% — ABSENT ($774 > IV $436 at 25x for 25% growth)
+- **Margin of Safety**: -43% — ABSENT ($762 > IV $436 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral
