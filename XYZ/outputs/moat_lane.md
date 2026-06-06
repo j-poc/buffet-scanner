@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: XYZ
-*Generated: 2026-06-05 08:12 | Price: $70.89 | Mkt Cap: $42B*
+*Generated: 2026-06-06 06:57 | Price: $68.15 | Mkt Cap: $41B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -12,7 +12,7 @@ Technology / Software - Infrastructure
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Software - Infrastructure | 25% | -35% | YES |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 5.2x | 30% | -40% | YES |
-| 3 | Management / Governance Failure | Insider ownership 1.4%; key-man / succession risk | 15% | -20% | No |
+| 3 | Management / Governance Failure | Insider ownership 1.3%; key-man / succession risk | 15% | -20% | No |
 
 ---
 
@@ -21,9 +21,9 @@ Technology / Software - Infrastructure
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: 3.4% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 55% from prior peak; 5y price drawdown: 86% (severe cyclicality); FCF/NI: -69% (weak conversion); Gross margin: 45% | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 45% — moderate moat for Technology; Operating margin -3% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.2x — deep value; 52w range position: 66% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.7x — deep value; 52w range position: 58% | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10
@@ -36,9 +36,9 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: -73% — ABSENT ($71 > IV $19 at 15x for 5% growth)
+- **Margin of Safety**: -72% — ABSENT ($68 > IV $19 at 15x for 5% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
-- **Incentive-Caused Bias**: Weak alignment — only 1.4% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 1.3% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

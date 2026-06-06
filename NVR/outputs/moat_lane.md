@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NVR
-*Generated: 2026-06-05 08:15 | Price: $6177.27 | Mkt Cap: $17B*
+*Generated: 2026-06-06 06:59 | Price: $6182.55 | Mkt Cap: $17B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Capital Management LLC (6.6% inst.) as insider
 
@@ -38,7 +38,7 @@ Consumer Cyclical / Residential Construction
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Residential Construction
-- **Margin of Safety**: -1% — ABSENT ($6177 > IV $6143 at 15x for -28% growth)
+- **Margin of Safety**: -1% — ABSENT ($6183 > IV $6139 at 15x for -28% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

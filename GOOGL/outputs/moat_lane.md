@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GOOGL
-*Generated: 2026-06-05 08:11 | Price: $372.19 | Mkt Cap: $4528B*
+*Generated: 2026-06-06 06:57 | Price: $368.53 | Mkt Cap: $4494B*
 
 ## Sector Context
 Communication Services / Internet Content & Information
@@ -21,12 +21,12 @@ Communication Services / Internet Content & Information
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 9.5/10 | 30% | 2.9 | Avg ROIC: 24.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 81% (strong); Gross margin: 60% (pricing power for Communication Services) | - |
-| Management | 9.0/10 | 25% | 2.2 | Insider value: $53B (1.2%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: -84.9% (low) | - |
+| Management | 9.0/10 | 25% | 2.2 | Insider value: $53B (1.2%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: -84.6% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 60% vs sector strong cutoff 55% — strong pricing power; Operating margin 36% — durable for Communication Services; Rev growth 22% — demand pull | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 25.7x — growth premium; Near 52w high (85% of range) — Mr. Market greedy; Owner earnings yield: 0.6%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **8.4/10** | **100%** | **8.4** | | |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.5x — growth premium; 52w range position: 84%; Owner earnings yield: 0.6%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **8.6/10** | **100%** | **8.6** | | |
 
-## Buffett Score: 8.4 / 10
+## Buffett Score: 8.6 / 10
 ## Alpha Adjustment: +0.40
 ## Conviction: HIGH
 ## Verdict: Own Forever
@@ -36,10 +36,10 @@ Communication Services / Internet Content & Information
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Internet Content & Information
-- **Margin of Safety**: -12% — ABSENT ($372 > IV $328 at 25x for 25% growth)
+- **Margin of Safety**: -11% — ABSENT ($369 > IV $328 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 1.2% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 YES — 3 forces aligning: high quality, strong moat, secular growth

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ZTS
-*Generated: 2026-06-05 08:18 | Price: $79.52 | Mkt Cap: $33B*
+*Generated: 2026-06-06 07:01 | Price: $79.44 | Mkt Cap: $33B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - Specialty & Generic
@@ -36,7 +36,7 @@ Healthcare / Drug Manufacturers - Specialty & Generic
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Drug Manufacturers - Specialty & Generic
-- **Margin of Safety**: 30% — PRESENT (IV $104 vs $80 at 17x)
+- **Margin of Safety**: 31% — PRESENT (IV $104 vs $79 at 17x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

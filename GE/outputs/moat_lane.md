@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GE
-*Generated: 2026-06-05 08:14 | Price: $327.65 | Mkt Cap: $342B*
+*Generated: 2026-06-06 06:58 | Price: $328.0 | Mkt Cap: $343B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -23,7 +23,7 @@ Industrials / Aerospace & Defense
 | Quality | 5.6/10 | 30% | 1.7 | Avg ROIC: 15.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 31% from prior peak; 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 437% (strong); Gross margin: 31% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 31% — moderate moat for Industrials; Operating margin 20% — durable for Industrials; Rev growth 25% — demand pull | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 37.7x — expensive; 52w range position: 82%; Owner earnings yield: 1.7%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 37.8x — expensive; 52w range position: 82%; Owner earnings yield: 1.7%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
 ## Buffett Score: 5.4 / 10

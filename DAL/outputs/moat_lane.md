@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DAL
-*Generated: 2026-06-05 08:13 | Price: $79.51 | Mkt Cap: $52B*
+*Generated: 2026-06-06 06:58 | Price: $79.42 | Mkt Cap: $52B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (6.7% inst.) as insider
 
@@ -38,7 +38,7 @@ Industrials / Airlines
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Airlines
-- **Margin of Safety**: 72% — PRESENT (IV $137 vs $80 at 20x)
+- **Margin of Safety**: 73% — PRESENT (IV $137 vs $79 at 20x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

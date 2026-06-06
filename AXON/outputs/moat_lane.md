@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AXON
-*Generated: 2026-06-05 08:12 | Price: $513.2 | Mkt Cap: $41B*
+*Generated: 2026-06-06 06:57 | Price: $486.12 | Mkt Cap: $39B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -12,7 +12,7 @@ Industrials / Aerospace & Defense
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 17.9x | 30% | -40% | YES |
-| 3 | Management / Governance Failure | Insider ownership 4.3%; key-man / succession risk | 15% | -20% | No |
+| 3 | Management / Governance Failure | Insider ownership 4.2%; key-man / succession risk | 15% | -20% | No |
 
 ---
 
@@ -21,12 +21,12 @@ Industrials / Aerospace & Defense
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 5.7% (1y); Earnings: 1 down-year in 3 transitions; NI drawdown: 67% from prior peak; 5y price drawdown: 60% (severe cyclicality); FCF/NI: 86% (strong); Gross margin: 59% (pricing power for Industrials) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.3% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.4% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 59% vs sector strong cutoff 35% — strong pricing power; Operating margin 4% — thin for Industrials; Rev growth 34% — demand pull | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 48.5x — expensive; 52w range position: 32%; Owner earnings yield: 0.2%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 46.0x — expensive; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 0.2%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
-## Buffett Score: 5.0 / 10
+## Buffett Score: 5.3 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Industrials / Aerospace & Defense
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Aerospace & Defense
-- **Margin of Safety**: -88% — ABSENT ($513 > IV $62 at 25x for 25% growth)
+- **Margin of Safety**: -87% — ABSENT ($486 > IV $62 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
-- **Incentive-Caused Bias**: Weak alignment — only 4.3% insider ownership
-- **Mr. Market**: Neutral
+- **Incentive-Caused Bias**: Weak alignment — only 4.2% insider ownership
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (2 forces only: strong moat, secular growth)

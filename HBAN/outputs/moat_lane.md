@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HBAN
-*Generated: 2026-06-05 08:14 | Price: $16.53 | Mkt Cap: $34B*
+*Generated: 2026-06-06 06:58 | Price: $16.52 | Mkt Cap: $33B*
 
 ## Sector Context
 Financial Services / Banks - Regional
