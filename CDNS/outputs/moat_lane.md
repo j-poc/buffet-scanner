@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CDNS
-*Generated: 2026-06-06 06:57 | Price: $376.19 | Mkt Cap: $104B*
+*Generated: 2026-06-07 07:59 | Price: $376.19 | Mkt Cap: $104B*
 
 ## Sector Context
 Technology / Software - Application

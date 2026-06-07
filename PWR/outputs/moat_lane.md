@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PWR
-*Generated: 2026-06-06 07:02 | Price: $695.11 | Mkt Cap: $104B*
+*Generated: 2026-06-07 08:01 | Price: $695.11 | Mkt Cap: $104B*
 
 ## Sector Context
 Industrials / Engineering & Construction
@@ -20,8 +20,8 @@ Industrials / Engineering & Construction
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.7/10 | 30% | 1.4 | Avg ROIC: 8.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 34% (stable); FCF/NI: 154% (strong); Gross margin: 15% (below Industrials norm) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
+| Quality | 4.7/10 | 30% | 1.4 | Avg ROIC: 8.6% (4y); Earnings: 3/3 up-years (monotonic); FCF/NI: 154% (strong); Gross margin: 15% (below Industrials norm) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); No insider transaction data; Restricted stock: 0.9% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 15% — below Industrials moderate cutoff 22%; Operating margin 4% — thin for Industrials; Rev growth 26% — demand pull | - |
 | Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 42.2x — expensive; 52w range position: 79%; Owner earnings yield: 1.0%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.1/10** | **100%** | **4.1** | | |

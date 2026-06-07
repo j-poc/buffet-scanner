@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CNC
-*Generated: 2026-06-06 06:57 | Price: $62.33 | Mkt Cap: $31B*
+*Generated: 2026-06-07 07:59 | Price: $62.33 | Mkt Cap: $31B*
 
 ## Sector Context
 Healthcare / Healthcare Plans

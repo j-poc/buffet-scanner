@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HST
-*Generated: 2026-06-06 06:58 | Price: $24.62 | Mkt Cap: $17B*
+*Generated: 2026-06-07 08:00 | Price: $24.62 | Mkt Cap: $17B*
 
 ## Sector Context
 Real Estate / REIT - Hotel & Motel

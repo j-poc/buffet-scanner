@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NCLH
-*Generated: 2026-06-06 06:59 | Price: $18.75 | Mkt Cap: $9B*
+*Generated: 2026-06-07 08:01 | Price: $18.75 | Mkt Cap: $9B*
 
 ## Sector Context
 Consumer Cyclical / Travel Services

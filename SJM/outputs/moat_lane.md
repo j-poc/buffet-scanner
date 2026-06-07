@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SJM
-*Generated: 2026-06-06 07:02 | Price: $103.54 | Mkt Cap: $11B*
+*Generated: 2026-06-07 08:04 | Price: $103.54 | Mkt Cap: $11B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods

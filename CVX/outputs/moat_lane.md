@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CVX
-*Generated: 2026-06-06 06:57 | Price: $187.31 | Mkt Cap: $373B*
+*Generated: 2026-06-07 07:59 | Price: $187.31 | Mkt Cap: $373B*
 
 ## Sector Context
 Energy / Oil & Gas Integrated

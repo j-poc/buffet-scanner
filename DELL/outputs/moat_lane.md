@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DELL
-*Generated: 2026-06-06 06:58 | Price: $394.39 | Mkt Cap: $256B*
+*Generated: 2026-06-07 07:59 | Price: $394.39 | Mkt Cap: $256B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.6% inst.) as insider
 
@@ -25,7 +25,7 @@ Technology / Computer Hardware
 | Quality | 6.2/10 | 30% | 1.9 | Avg ROIC: 19.5% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 60% (severe cyclicality); FCF/NI: 96% (strong); Gross margin: 19% (below Technology norm) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.2% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 19% — below Technology moderate cutoff 40%; Operating margin 8% — thin for Technology; Rev growth 88% — demand pull | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.5x — fair price; 52w range position: 79%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.6x — fair price; 52w range position: 79%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
 ## Buffett Score: 5.4 / 10

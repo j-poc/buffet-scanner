@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: J
-*Generated: 2026-06-06 06:59 | Price: $122.55 | Mkt Cap: $14B*
+*Generated: 2026-06-07 08:00 | Price: $122.55 | Mkt Cap: $14B*
 
 ## Sector Context
 Industrials / Engineering & Construction

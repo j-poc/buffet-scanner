@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AOS
-*Generated: 2026-06-06 06:57 | Price: $57.2 | Mkt Cap: $8B*
+*Generated: 2026-06-07 07:58 | Price: $57.2 | Mkt Cap: $8B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery

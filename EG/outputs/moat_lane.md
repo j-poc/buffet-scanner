@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EG
-*Generated: 2026-06-06 06:58 | Price: $334.41 | Mkt Cap: $13B*
+*Generated: 2026-06-07 07:59 | Price: $334.41 | Mkt Cap: $13B*
 
 ## Sector Context
 Financial Services / Insurance - Reinsurance
@@ -21,7 +21,7 @@ Financial Services / Insurance - Reinsurance
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.0/10 | 30% | 1.8 | ROE: 13.8% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 24% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 31.7% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 31.6% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | ROE 14% — adequate (Financial Services); Operating margin 20% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.5x — deep value; 52w range position: 49%; Owner earnings yield: 30.2% (>5%) | - |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
