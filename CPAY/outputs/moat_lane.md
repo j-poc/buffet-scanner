@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CPAY
-*Generated: 2026-06-07 07:59 | Price: $347.45 | Mkt Cap: $23B*
+*Generated: 2026-06-08 08:59 | Price: $347.45 | Mkt Cap: $23B*
 
 ## Sector Context
 Technology / Software - Infrastructure

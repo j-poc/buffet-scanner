@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AEP
-*Generated: 2026-06-07 07:58 | Price: $129.14 | Mkt Cap: $70B*
+*Generated: 2026-06-08 08:58 | Price: $129.14 | Mkt Cap: $70B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric

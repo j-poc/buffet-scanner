@@ -181,7 +181,6 @@ FANG,6.1,0.11,MODERATE,Watchlist,0
 EOG,6.1,0.11,MODERATE,Watchlist,1
 GDDY,6.1,0.11,MODERATE,Watchlist,2
 GS,6.1,0.11,MODERATE,Watchlist,1
-ISRG,6.1,0.11,MODERATE,Watchlist,1
 MTB,6.1,0.11,MODERATE,Watchlist,1
 TPR,6.1,0.11,MODERATE,Watchlist,1
 VZ,6.1,0.11,MODERATE,Watchlist,1
@@ -223,7 +222,6 @@ NEM,6.0,0.0,LOW,Pass,1
 ORCL,6.0,0.0,LOW,Pass,2
 PPL,6.0,0.0,LOW,Pass,2
 PRU,6.0,0.0,LOW,Pass,2
-YUM,6.0,0.0,LOW,Pass,2
 RF,6.0,0.0,LOW,Pass,1
 SNDK,6.0,0.0,LOW,Pass,1
 SBAC,6.0,0.0,LOW,Pass,2
@@ -236,6 +234,7 @@ VICI,6.0,0.0,LOW,Pass,2
 WEC,6.0,0.0,LOW,Pass,2
 WYNN,6.0,0.0,LOW,Pass,1
 XEL,6.0,0.0,LOW,Pass,2
+YUM,6.0,0.0,LOW,Pass,2
 AMT,5.9,0.0,LOW,Pass,2
 BF-B,5.9,0.0,LOW,Pass,0
 CDNS,5.9,0.0,LOW,Pass,2
@@ -253,6 +252,7 @@ APA,5.8,0.0,LOW,Pass,1
 BR,5.8,0.0,LOW,Pass,2
 COR,5.8,0.0,LOW,Pass,0
 HSY,5.8,0.0,LOW,Pass,1
+ISRG,5.8,0.0,LOW,Pass,1
 PNW,5.8,0.0,LOW,Pass,2
 REGN,5.8,0.0,LOW,Pass,1
 TSCO,5.8,0.0,LOW,Pass,1
@@ -305,8 +305,10 @@ TMO,5.4,0.0,LOW,Pass,1
 ALGN,5.3,0.0,LOW,Pass,1
 AMAT,5.3,0.0,LOW,Pass,2
 AJG,5.3,0.0,LOW,Pass,1
+AXON,5.3,0.0,LOW,Pass,1
 BLDR,5.3,0.0,LOW,Pass,1
 C,5.3,0.0,LOW,Pass,1
+DVN,5.3,0.0,LOW,Pass,1
 FRT,5.3,0.0,LOW,Pass,1
 GD,5.3,0.0,LOW,Pass,1
 INVH,5.3,0.0,LOW,Pass,2
@@ -364,7 +366,6 @@ WBD,5.0,0.0,LOW,Pass,1
 CFG,4.9,0.0,LOW,Pass,1
 CSX,4.9,0.0,LOW,Pass,1
 DAL,4.9,0.0,LOW,Pass,1
-DVN,4.9,0.0,LOW,Pass,1
 FDX,4.9,0.0,LOW,Pass,1
 FDXF,4.9,0.0,LOW,Pass,1
 IBM,4.9,0.0,LOW,Pass,3
@@ -390,7 +391,6 @@ PHM,4.8,0.0,LOW,Pass,1
 TTWO,4.8,0.0,LOW,Pass,0
 UBER,4.8,0.0,LOW,Pass,2
 AVB,4.7,0.0,LOW,Pass,2
-AXON,4.7,0.0,LOW,Pass,1
 BKR,4.7,0.0,LOW,Pass,1
 CDW,4.7,0.0,LOW,Pass,2
 DD,4.7,0.0,LOW,Pass,1
@@ -442,6 +442,7 @@ NRG,4.2,0.0,LOW,Pass,1
 Q,4.2,0.0,LOW,Pass,2
 RVTY,4.2,0.0,LOW,Pass,1
 TSN,4.2,0.0,LOW,Pass,0
+WST,4.2,0.0,LOW,Pass,1
 AKAM,4.1,0.0,LOW,Pass,2
 AMCR,4.1,0.0,LOW,Pass,2
 CHRW,4.1,0.0,LOW,Pass,1
@@ -462,7 +463,6 @@ GM,4.0,-0.2,AVOID,Avoid,2
 MAA,4.0,-0.2,AVOID,Avoid,2
 RTX,4.0,-0.2,AVOID,Avoid,1
 SW,4.0,-0.2,AVOID,Avoid,1
-WST,4.0,-0.2,AVOID,Avoid,1
 BAX,3.9,-0.21,AVOID,Avoid,2
 CBRE,3.9,-0.21,AVOID,Avoid,2
 F,3.9,-0.21,AVOID,Avoid,2

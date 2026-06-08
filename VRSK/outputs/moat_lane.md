@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VRSK
-*Generated: 2026-06-07 08:04 | Price: $181.73 | Mkt Cap: $24B*
+*Generated: 2026-06-08 09:04 | Price: $181.73 | Mkt Cap: $24B*
 
 ## Sector Context
 Industrials / Consulting Services

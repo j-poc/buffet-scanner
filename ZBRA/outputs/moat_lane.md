@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ZBRA
-*Generated: 2026-06-07 08:02 | Price: $232.11 | Mkt Cap: $11B*
+*Generated: 2026-06-08 09:03 | Price: $232.11 | Mkt Cap: $11B*
 
 ## Sector Context
 Technology / Communication Equipment

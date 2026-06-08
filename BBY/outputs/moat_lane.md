@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BBY
-*Generated: 2026-06-07 07:58 | Price: $71.54 | Mkt Cap: $15B*
+*Generated: 2026-06-08 08:59 | Price: $71.54 | Mkt Cap: $15B*
 
 > ⚠ DATA: yfinance misclassified State Street Corporation (6.2% inst.) as insider
 

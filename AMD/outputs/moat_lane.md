@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMD
-*Generated: 2026-06-07 07:58 | Price: $466.38 | Mkt Cap: $760B*
+*Generated: 2026-06-08 08:58 | Price: $466.38 | Mkt Cap: $760B*
 
 ## Sector Context
 Technology / Semiconductors
