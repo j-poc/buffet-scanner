@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IDXX
-*Generated: 2026-06-08 09:00 | Price: $562.16 | Mkt Cap: $44B*
+*Generated: 2026-06-09 07:58 | Price: $561.17 | Mkt Cap: $44B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research
@@ -36,7 +36,7 @@ Healthcare / Diagnostics & Research
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Diagnostics & Research
-- **Margin of Safety**: -52% — ABSENT ($562 > IV $272 at 20x for 17% growth)
+- **Margin of Safety**: -52% — ABSENT ($561 > IV $272 at 20x for 17% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

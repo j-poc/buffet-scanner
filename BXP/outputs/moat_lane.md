@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BXP
-*Generated: 2026-06-08 08:59 | Price: $62.33 | Mkt Cap: $11B*
+*Generated: 2026-06-09 07:56 | Price: $64.53 | Mkt Cap: $12B*
 
 ## Sector Context
 Real Estate / REIT - Office
@@ -23,20 +23,20 @@ Real Estate / REIT - Office
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 3.8% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 98% from prior peak; 5y price drawdown: 63% (severe cyclicality); FCF/NI: 2484% (strong); Gross margin: 56% (pricing power for Real Estate) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.3% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 56% vs sector strong cutoff 55% — strong pricing power; Operating margin 26% | - |
-| Valuation Fit | 6.5/10 | 20% | 1.3 | P/E 29.3x — growth premium; 52w range position: 43%; Owner earnings yield: 8.5% (>5%); Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 30.4x — expensive; 52w range position: 50%; Owner earnings yield: 8.2% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
 
-## Buffett Score: 4.2 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 3.8 / 10
+## Alpha Adjustment: -0.22
+## Conviction: AVOID
+## Verdict: Avoid
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Office
-- **Margin of Safety**: -20% — ABSENT ($62 > IV $50 at 25x for 25% growth)
+- **Margin of Safety**: -23% — ABSENT ($65 > IV $50 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (1 forces only: strong moat)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
+Buffett Premium: -0.22 applied to composite alpha score
+Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

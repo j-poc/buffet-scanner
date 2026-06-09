@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DVA
-*Generated: 2026-06-08 08:59 | Price: $192.16 | Mkt Cap: $12B*
+*Generated: 2026-06-09 07:57 | Price: $192.08 | Mkt Cap: $12B*
 
 ## Sector Context
 Healthcare / Medical Care Facilities
@@ -36,7 +36,7 @@ Healthcare / Medical Care Facilities
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Care Facilities
-- **Margin of Safety**: 35% — PRESENT (IV $260 vs $192 at 25x)
+- **Margin of Safety**: 35% — PRESENT (IV $259 vs $192 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 50.5% insider ownership
 - **Mr. Market**: Greedy — exercise caution

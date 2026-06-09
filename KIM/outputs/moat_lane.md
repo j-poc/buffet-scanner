@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KIM
-*Generated: 2026-06-08 09:00 | Price: $24.23 | Mkt Cap: $16B*
+*Generated: 2026-06-09 07:58 | Price: $24.24 | Mkt Cap: $16B*
 
 ## Sector Context
 Real Estate / REIT - Retail
@@ -20,10 +20,10 @@ Real Estate / REIT - Retail
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 2.9% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 37% from prior peak; 5y price drawdown: 34% (stable); FCF/NI: 321% (strong); Gross margin: 69% (pricing power for Real Estate) | - |
+| Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 2.9% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 37% from prior peak; 5y price drawdown: 0% (stable); FCF/NI: 321% (strong); Gross margin: 69% (pricing power for Real Estate) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.4% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 69% vs sector strong cutoff 55% — strong pricing power; Operating margin 34% — durable for Real Estate | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 28.0x — growth premium; Near 52w high (92% of range) — Mr. Market greedy; Owner earnings yield: 5.1% (>5%); Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 28.1x — growth premium; Near 52w high (92% of range) — Mr. Market greedy; Owner earnings yield: 5.1% (>5%); Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
