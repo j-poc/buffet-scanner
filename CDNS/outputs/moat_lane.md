@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CDNS
-*Generated: 2026-06-09 07:56 | Price: $394.24 | Mkt Cap: $109B*
+*Generated: 2026-06-10 08:13 | Price: $390.9 | Mkt Cap: $108B*
 
 ## Sector Context
 Technology / Software - Application
@@ -23,10 +23,10 @@ Technology / Software - Application
 | Quality | 7.3/10 | 30% | 2.2 | ROIC declining trend; Avg ROIC: 20.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 30% (stable); FCF/NI: 125% (strong); Gross margin: 86% (pricing power for Technology) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 86% vs sector strong cutoff 60% — strong pricing power; Operating margin 30% | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 42.0x — expensive; Near 52w high (85% of range) — Mr. Market greedy; Owner earnings yield: 1.4%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 41.7x — expensive; 52w range position: 83%; Owner earnings yield: 1.4%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
-## Buffett Score: 5.7 / 10
+## Buffett Score: 5.9 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Technology / Software - Application
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Application
-- **Margin of Safety**: -73% — ABSENT ($394 > IV $108 at 25x for 23% growth)
+- **Margin of Safety**: -73% — ABSENT ($391 > IV $106 at 25x for 23% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: strong moat)

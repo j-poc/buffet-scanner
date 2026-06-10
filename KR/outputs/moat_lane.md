@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KR
-*Generated: 2026-06-09 07:58 | Price: $62.96 | Mkt Cap: $39B*
+*Generated: 2026-06-10 08:14 | Price: $62.99 | Mkt Cap: $39B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.7% inst.) as insider
 

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EL
-*Generated: 2026-06-09 07:57 | Price: $84.64 | Mkt Cap: $31B*
+*Generated: 2026-06-10 08:13 | Price: $86.56 | Mkt Cap: $31B*
 
 ## Sector Context
 Consumer Defensive / Household & Personal Products
@@ -12,7 +12,7 @@ Consumer Defensive / Household & Personal Products
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.0x | 15% | -25% | No |
-| 3 | Management / Governance Failure | Insider ownership 1.6%; key-man / succession risk | 15% | -20% | No |
+| 3 | Management / Governance Failure | Insider ownership 0.4%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -21,12 +21,12 @@ Consumer Defensive / Household & Personal Products
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.7% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 147% from prior peak; 5y price drawdown: 86% (severe cyclicality); FCF/NI: 60%; Gross margin: 75% (pricing power for Consumer Defensive) | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 75% vs sector strong cutoff 45% — strong pricing power; Operating margin 15% | - |
-| Valuation Fit | 6.5/10 | 20% | 1.3 | P/E 26.6x — growth premium; 52w range position: 33%; Owner earnings yield: 5.9% (>5%); Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
+| Valuation Fit | 6.5/10 | 20% | 1.3 | P/E 27.2x — growth premium; 52w range position: 37%; Owner earnings yield: 5.8% (>5%); Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
 
-## Buffett Score: 4.7 / 10
+## Buffett Score: 4.3 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,7 +38,7 @@ Consumer Defensive / Household & Personal Products
 - **Circle of Competence**: Consumer Defensive / Household & Personal Products
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
-- **Incentive-Caused Bias**: Weak alignment — only 1.6% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
