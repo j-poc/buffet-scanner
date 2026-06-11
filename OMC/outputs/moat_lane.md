@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OMC
-*Generated: 2026-06-10 08:15 | Price: $75.63 | Mkt Cap: $22B*
+*Generated: 2026-06-11 08:53 | Price: $73.98 | Mkt Cap: $21B*
 
 ## Sector Context
 Communication Services / Advertising Agencies
@@ -20,10 +20,10 @@ Communication Services / Advertising Agencies
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.8/10 | 30% | 0.5 | ROIC declining trend; Avg ROIC: 14.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 104% from prior peak; 5y price drawdown: 33% (stable); FCF/NI: -1212% (weak conversion); Gross margin: 18% (below Communication Services norm) | ROIC declining |
+| Quality | 1.8/10 | 30% | 0.5 | ROIC declining trend; Avg ROIC: 14.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 104% from prior peak; 5y price drawdown: 0% (stable); FCF/NI: -1212% (weak conversion); Gross margin: 18% (below Communication Services norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 18% — below Communication Services moderate cutoff 40%; Operating margin 12% — thin for Communication Services; Rev growth 69% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.1x — deep value; 52w range position: 45%; Owner earnings yield: 23.5% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.0x — deep value; 52w range position: 37%; Owner earnings yield: 24.0% (>5%) | - |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
 ## Buffett Score: 4.5 / 10
