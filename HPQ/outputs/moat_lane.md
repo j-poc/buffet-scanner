@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HPQ
-*Generated: 2026-06-11 08:52 | Price: $24.69 | Mkt Cap: $23B*
+*Generated: 2026-06-12 08:39 | Price: $24.68 | Mkt Cap: $23B*
 
 ## Sector Context
 Technology / Computer Hardware

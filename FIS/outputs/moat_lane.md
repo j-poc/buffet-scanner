@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FIS
-*Generated: 2026-06-11 08:52 | Price: $38.97 | Mkt Cap: $20B*
+*Generated: 2026-06-12 08:39 | Price: $38.35 | Mkt Cap: $20B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -20,13 +20,13 @@ Technology / Information Technology Services
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 3.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 74% from prior peak; 5y price drawdown: 0% (stable); FCF/NI: 127% (strong); Gross margin: 36% (below Technology norm) | - |
+| Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 3.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 74% from prior peak; 5y price drawdown: 71% (severe cyclicality); FCF/NI: 127% (strong); Gross margin: 36% (below Technology norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 36% — below Technology moderate cutoff 40%; Operating margin 16% — thin for Technology; Rev growth 30% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.7x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 12.1% (>5%) | - |
-| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.6x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 12.3% (>5%) | - |
+| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
-## Buffett Score: 4.9 / 10
+## Buffett Score: 4.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Technology / Information Technology Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Information Technology Services
-- **Margin of Safety**: 231% — PRESENT (IV $129 vs $39 at 25x)
+- **Margin of Safety**: 236% — PRESENT (IV $129 vs $38 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GIS
-*Generated: 2026-06-11 08:52 | Price: $33.82 | Mkt Cap: $18B*
+*Generated: 2026-06-12 08:39 | Price: $33.82 | Mkt Cap: $18B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods

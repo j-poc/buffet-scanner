@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KMB
-*Generated: 2026-06-11 08:52 | Price: $101.58 | Mkt Cap: $34B*
+*Generated: 2026-06-12 08:40 | Price: $101.54 | Mkt Cap: $34B*
 
 ## Sector Context
 Consumer Defensive / Household & Personal Products

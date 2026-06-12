@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DGX
-*Generated: 2026-06-11 08:53 | Price: $203.78 | Mkt Cap: $23B*
+*Generated: 2026-06-12 08:43 | Price: $203.83 | Mkt Cap: $23B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research
