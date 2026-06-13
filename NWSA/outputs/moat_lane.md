@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NWSA
-*Generated: 2026-06-12 08:40 | Price: $26.295 | Mkt Cap: $14B*
+*Generated: 2026-06-13 07:55 | Price: $25.68 | Mkt Cap: $14B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -21,12 +21,12 @@ Communication Services / Entertainment
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 6.1% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 76% from prior peak; 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 169% (strong); Gross margin: 57% (pricing power for Communication Services) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -50.3% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -50.4% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 57% vs sector strong cutoff 55% — strong pricing power; Operating margin 10% — thin for Communication Services | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 20.4x — growth premium; 52w range position: 44%; Owner earnings yield: 12.2% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 19.9x — fair price; 52w range position: 37%; Owner earnings yield: 12.5% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
-## Buffett Score: 5.5 / 10
+## Buffett Score: 6.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,13 +36,13 @@ Communication Services / Entertainment
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Entertainment
-- **Margin of Safety**: -55% — ABSENT ($26 > IV $12 at 15x for -10% growth)
-- **Lollapalooza Effect**: No (0 forces only: none)
+- **Margin of Safety**: -54% — ABSENT ($26 > IV $12 at 15x for -10% growth)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (0 forces only: none)
+No (1 forces only: attractive valuation)
 
 ---
 

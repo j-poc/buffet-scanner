@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STLD
-*Generated: 2026-06-12 08:43 | Price: $279.55 | Mkt Cap: $40B*
+*Generated: 2026-06-13 07:58 | Price: $282.76 | Mkt Cap: $41B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.6% inst.) as insider
 
@@ -25,7 +25,7 @@ Basic Materials / Steel
 | Quality | 1.3/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 20.1% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 69% from prior peak; 5y price drawdown: 32% (stable); FCF/NI: 52%; Gross margin: 14% (below Basic Materials norm) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.8% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 14% — below Basic Materials moderate cutoff 18%; Operating margin 10% | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 15.6x — fair price; Near 52w high (99% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 15.8x — fair price; Near 52w high (98% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
 
 ## Buffett Score: 3.8 / 10
@@ -38,7 +38,7 @@ Basic Materials / Steel
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Steel
-- **Margin of Safety**: -16% — ABSENT ($280 > IV $234 at 25x for 25% growth)
+- **Margin of Safety**: -18% — ABSENT ($283 > IV $233 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

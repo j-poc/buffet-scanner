@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MCD
-*Generated: 2026-06-12 08:40 | Price: $284.77 | Mkt Cap: $202B*
+*Generated: 2026-06-13 07:54 | Price: $284.81 | Mkt Cap: $202B*
 
 ## Sector Context
 Consumer Cyclical / Restaurants
@@ -23,7 +23,7 @@ Consumer Cyclical / Restaurants
 | Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 26.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 19% (stable); FCF/NI: 85% (strong); Gross margin: 57% (pricing power for Consumer Cyclical) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 57% vs sector strong cutoff 45% — strong pricing power; Operating margin 44% — durable for Consumer Cyclical | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 20.0x — growth premium; Near 52w low (18% of range) — Mr. Market fearful; Owner earnings yield: 2.9%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 20.0x — growth premium; Near 52w low (19% of range) — Mr. Market fearful; Owner earnings yield: 2.9%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
 
 ## Buffett Score: 7.4 / 10

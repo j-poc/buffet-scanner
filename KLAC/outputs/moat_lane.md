@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KLAC
-*Generated: 2026-06-12 08:40 | Price: $2411.64 | Mkt Cap: $3150B*
+*Generated: 2026-06-13 07:54 | Price: $254.54 | Mkt Cap: $332B*
 
 ## Sector Context
 Technology / Semiconductor Equipment & Materials
@@ -20,35 +20,35 @@ Technology / Semiconductor Equipment & Materials
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 34.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 40% (moderate cyclicality); FCF/NI: 98% (strong); Gross margin: 61% (pricing power for Technology) | - |
-| Management | 7.0/10 | 25% | 1.8 | Insider value: $3.0B (0.1%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 90.0% of shares (SBC concern) | - |
+| Quality | 7.5/10 | 30% | 2.2 | Avg ROIC: 34.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 90% (severe cyclicality); FCF/NI: 98% (strong); Gross margin: 61% (pricing power for Technology) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 61% vs sector strong cutoff 60% — strong pricing power; Operating margin 41% — durable for Technology | - |
-| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 479.3x — extreme premium; Near 52w high (99% of range) — Mr. Market greedy; Owner earnings yield: 0.1%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
+| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 50.6x — extreme premium; Near 52w high (100% of range) — Mr. Market greedy; Owner earnings yield: 0.9%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
-## Buffett Score: 6.6 / 10
-## Alpha Adjustment: +0.16
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 5.6 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductor Equipment & Materials
-- **Margin of Safety**: -97% — ABSENT ($2412 > IV $70 at 20x for 12% growth)
-- **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
+- **Margin of Safety**: -72% — ABSENT ($255 > IV $71 at 20x for 12% growth)
+- **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
-No (2 forces only: high quality, strong moat)
+No (1 forces only: strong moat)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.16 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
 ```

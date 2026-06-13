@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ANET
-*Generated: 2026-06-12 08:38 | Price: $156.4 | Mkt Cap: $197B*
+*Generated: 2026-06-13 07:52 | Price: $163.24 | Mkt Cap: $206B*
 
 ## Sector Context
 Technology / Computer Hardware
@@ -21,9 +21,9 @@ Technology / Computer Hardware
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 9.4/10 | 30% | 2.8 | Avg ROIC: 24.3% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 95% (strong); Gross margin: 64% (pricing power for Technology) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 17.3% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 17.2% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 17.3% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 17.1% of shares (SBC concern) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 64% vs sector strong cutoff 60% — strong pricing power; Operating margin 43% — durable for Technology; Rev growth 35% — demand pull | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 35.1x — expensive; 52w range position: 75%; Owner earnings yield: 2.2%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 36.7x — expensive; 52w range position: 82%; Owner earnings yield: 2.1%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **8.0/10** | **100%** | **8.0** | | |
 
 ## Buffett Score: 8.0 / 10
@@ -36,7 +36,7 @@ Technology / Computer Hardware
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Computer Hardware
-- **Margin of Safety**: -53% — ABSENT ($156 > IV $73 at 25x for 25% growth)
+- **Margin of Safety**: -55% — ABSENT ($163 > IV $73 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, secular growth
 - **Incentive-Caused Bias**: Aligned — 17.3% insider ownership
 - **Mr. Market**: Neutral

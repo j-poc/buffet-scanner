@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CPB
-*Generated: 2026-06-12 08:38 | Price: $22.73 | Mkt Cap: $7B*
+*Generated: 2026-06-13 07:53 | Price: $22.81 | Mkt Cap: $7B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods
@@ -23,7 +23,7 @@ Consumer Defensive / Packaged Foods
 | Quality | 0.1/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 9.9% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 34% from prior peak; 5y price drawdown: 60% (severe cyclicality); FCF/NI: 112% (strong); Gross margin: 29% (below Consumer Defensive norm) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 37.5% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 35.5% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 29% — below Consumer Defensive moderate cutoff 30%; Operating margin 13% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.4x — deep value; Near 52w low (22% of range) — Mr. Market fearful; Owner earnings yield: 8.9% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.5x — deep value; Near 52w low (22% of range) — Mr. Market fearful; Owner earnings yield: 8.9% (>5%) | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
 ## Buffett Score: 5.2 / 10
