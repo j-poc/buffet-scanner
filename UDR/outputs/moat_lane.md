@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UDR
-*Generated: 2026-06-13 07:58 | Price: $39.4 | Mkt Cap: $15B*
+*Generated: 2026-06-14 08:24 | Price: $39.4 | Mkt Cap: $15B*
 
 ## Sector Context
 Real Estate / REIT - Residential

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LYB
-*Generated: 2026-06-13 07:54 | Price: $64.58 | Mkt Cap: $21B*
+*Generated: 2026-06-14 08:20 | Price: $64.58 | Mkt Cap: $21B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals

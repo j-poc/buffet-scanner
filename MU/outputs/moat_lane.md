@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MU
-*Generated: 2026-06-13 07:54 | Price: $981.61 | Mkt Cap: $1107B*
+*Generated: 2026-06-14 08:20 | Price: $981.61 | Mkt Cap: $1107B*
 
 ## Sector Context
 Technology / Semiconductors

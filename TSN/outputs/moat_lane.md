@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TSN
-*Generated: 2026-06-13 07:58 | Price: $57.43 | Mkt Cap: $20B*
+*Generated: 2026-06-14 08:24 | Price: $57.43 | Mkt Cap: $20B*
 
 ## Sector Context
 Consumer Defensive / Farm Products

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CAH
-*Generated: 2026-06-13 07:53 | Price: $223.85 | Mkt Cap: $52B*
+*Generated: 2026-06-14 08:18 | Price: $223.85 | Mkt Cap: $52B*
 
 ## Sector Context
 Healthcare / Medical Distribution

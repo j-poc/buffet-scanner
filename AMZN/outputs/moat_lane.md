@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMZN
-*Generated: 2026-06-13 07:52 | Price: $238.55 | Mkt Cap: $2566B*
+*Generated: 2026-06-14 08:18 | Price: $238.55 | Mkt Cap: $2566B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (6.8% inst.) as insider
 

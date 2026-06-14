@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PTC
-*Generated: 2026-06-13 07:55 | Price: $113.68 | Mkt Cap: $13B*
+*Generated: 2026-06-14 08:21 | Price: $113.68 | Mkt Cap: $13B*
 
 ## Sector Context
 Technology / Software - Application

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AKAM
-*Generated: 2026-06-13 07:52 | Price: $133.5 | Mkt Cap: $19B*
+*Generated: 2026-06-14 08:18 | Price: $133.5 | Mkt Cap: $19B*
 
 ## Sector Context
 Technology / Software - Infrastructure

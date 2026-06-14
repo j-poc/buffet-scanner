@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UNP
-*Generated: 2026-06-13 07:58 | Price: $272.7 | Mkt Cap: $162B*
+*Generated: 2026-06-14 08:24 | Price: $272.7 | Mkt Cap: $162B*
 
 ## Sector Context
 Industrials / Railroads
