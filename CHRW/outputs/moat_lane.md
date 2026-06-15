@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CHRW
-*Generated: 2026-06-14 08:18 | Price: $193.74 | Mkt Cap: $23B*
+*Generated: 2026-06-15 10:28 | Price: $193.74 | Mkt Cap: $23B*
 
 ## Sector Context
 Industrials / Integrated Freight & Logistics

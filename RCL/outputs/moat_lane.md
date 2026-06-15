@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RCL
-*Generated: 2026-06-14 08:23 | Price: $294.38 | Mkt Cap: $79B*
+*Generated: 2026-06-15 10:33 | Price: $294.38 | Mkt Cap: $79B*
 
 ## Sector Context
 Consumer Cyclical / Travel Services

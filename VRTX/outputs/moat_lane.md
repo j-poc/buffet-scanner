@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VRTX
-*Generated: 2026-06-14 08:24 | Price: $444.925 | Mkt Cap: $113B*
+*Generated: 2026-06-15 10:34 | Price: $444.925 | Mkt Cap: $113B*
 
 ## Sector Context
 Healthcare / Biotechnology

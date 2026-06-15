@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PWR
-*Generated: 2026-06-14 08:21 | Price: $707.74 | Mkt Cap: $106B*
+*Generated: 2026-06-15 10:31 | Price: $707.74 | Mkt Cap: $106B*
 
 ## Sector Context
 Industrials / Engineering & Construction

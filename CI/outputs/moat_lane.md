@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CI
-*Generated: 2026-06-14 08:18 | Price: $298.0 | Mkt Cap: $79B*
+*Generated: 2026-06-15 10:29 | Price: $298.0 | Mkt Cap: $79B*
 
 ## Sector Context
 Healthcare / Healthcare Plans

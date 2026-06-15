@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MCD
-*Generated: 2026-06-14 08:20 | Price: $284.81 | Mkt Cap: $202B*
+*Generated: 2026-06-15 10:30 | Price: $284.81 | Mkt Cap: $202B*
 
 ## Sector Context
 Consumer Cyclical / Restaurants

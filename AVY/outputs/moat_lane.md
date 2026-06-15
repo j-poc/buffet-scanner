@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AVY
-*Generated: 2026-06-14 08:18 | Price: $159.25 | Mkt Cap: $12B*
+*Generated: 2026-06-15 10:28 | Price: $159.25 | Mkt Cap: $12B*
 
 ## Sector Context
 Consumer Cyclical / Packaging & Containers

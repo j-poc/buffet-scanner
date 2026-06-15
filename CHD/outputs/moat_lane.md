@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CHD
-*Generated: 2026-06-14 08:18 | Price: $97.56 | Mkt Cap: $23B*
+*Generated: 2026-06-15 10:28 | Price: $97.56 | Mkt Cap: $23B*
 
 ## Sector Context
 Consumer Defensive / Household & Personal Products
