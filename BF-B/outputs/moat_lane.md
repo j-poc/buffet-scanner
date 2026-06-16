@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BF-B
-*Generated: 2026-06-15 10:28 | Price: $27.01 | Mkt Cap: $12B*
+*Generated: 2026-06-16 09:31 | Price: $26.94 | Mkt Cap: $12B*
 
 ## Sector Context
 Consumer Defensive / Beverages - Wineries & Distilleries
@@ -20,16 +20,16 @@ Consumer Defensive / Beverages - Wineries & Distilleries
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.2/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 16.0% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 68% (severe cyclicality); FCF/NI: 61%; Gross margin: 61% (pricing power for Consumer Defensive) | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: -9.8% (low) | - |
+| Quality | 2.2/10 | 30% | 0.7 | Avg ROIC: 14.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 30% from prior peak; 5y price drawdown: 68% (severe cyclicality); FCF/NI: 68%; Gross margin: 61% (pricing power for Consumer Defensive) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: -9.7% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 61% vs sector strong cutoff 45% — strong pricing power; Operating margin 23% — durable for Consumer Defensive | - |
 | Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.8x — fair price; 52w range position: 47%; Owner earnings yield: 6.0% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
+| **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
-## Buffett Score: 5.9 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 6.2 / 10
+## Alpha Adjustment: +0.12
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
@@ -48,7 +48,7 @@ No (2 forces only: strong moat, attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
-Half-life adjustment: N/A
+Buffett Premium: +0.12 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

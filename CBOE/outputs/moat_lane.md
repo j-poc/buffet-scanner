@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CBOE
-*Generated: 2026-06-15 10:28 | Price: $294.91 | Mkt Cap: $31B*
+*Generated: 2026-06-16 09:31 | Price: $292.91 | Mkt Cap: $31B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges
@@ -23,11 +23,11 @@ Financial Services / Financial Data & Stock Exchanges
 | Quality | 8.0/10 | 30% | 2.4 | ROE: 25.1% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 25% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | ROE 25% — strong franchise (Financial Services); Operating margin 40% — durable for Financial Services | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.0x — growth premium; 52w range position: 48%; Owner earnings yield: 3.3%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.9x — fair price; 52w range position: 47%; Owner earnings yield: 3.3%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **7.2/10** | **100%** | **7.2** | | |
 
-## Buffett Score: 6.7 / 10
-## Alpha Adjustment: +0.17
+## Buffett Score: 7.2 / 10
+## Alpha Adjustment: +0.22
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,19 +36,19 @@ Financial Services / Financial Data & Stock Exchanges
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Financial Data & Stock Exchanges
-- **Margin of Safety**: -1% — ABSENT ($295 > IV $293 at 25x for 25% growth)
-- **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
+- **Margin of Safety**: 0% — thin (IV $293 at 25x)
+- **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (2 forces only: high quality, strong moat)
+YES — 3 forces aligning: high quality, strong moat, attractive valuation
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.17 applied to composite alpha score
+Buffett Premium: +0.22 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ARES
-*Generated: 2026-06-15 10:28 | Price: $134.9 | Mkt Cap: $44B*
+*Generated: 2026-06-16 09:30 | Price: $135.36 | Mkt Cap: $45B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -20,10 +20,10 @@ Financial Services / Asset Management
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.5/10 | 30% | 1.6 | ROE: 14.2% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 50% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Quality | 6.0/10 | 30% | 1.8 | ROE: 14.2% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 0% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 9.0/10 | 25% | 2.2 | Insider ownership: 11.3% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 2.7% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | ROE 14% — adequate (Financial Services); Operating margin 18%; Rev growth 28% — demand pull | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.4x — fair price; 52w range position: 39%; Owner earnings yield: 3.9%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.5x — fair price; 52w range position: 40%; Owner earnings yield: 3.9%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

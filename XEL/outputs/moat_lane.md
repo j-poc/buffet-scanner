@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: XEL
-*Generated: 2026-06-15 10:34 | Price: $79.22 | Mkt Cap: $49B*
+*Generated: 2026-06-16 09:37 | Price: $79.35 | Mkt Cap: $50B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric
