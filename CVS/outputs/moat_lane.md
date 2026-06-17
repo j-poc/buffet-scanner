@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CVS
-*Generated: 2026-06-16 09:31 | Price: $100.68 | Mkt Cap: $128B*
+*Generated: 2026-06-17 09:07 | Price: $100.72 | Mkt Cap: $129B*
 
 ## Sector Context
 Healthcare / Healthcare Plans

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WDC
-*Generated: 2026-06-16 09:37 | Price: $653.53 | Mkt Cap: $225B*
+*Generated: 2026-06-17 09:12 | Price: $681.08 | Mkt Cap: $235B*
 
 ## Sector Context
 Technology / Computer Hardware
@@ -20,10 +20,10 @@ Technology / Computer Hardware
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: 4.5% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 209% from prior peak; 5y price drawdown: 59% (severe cyclicality); FCF/NI: 72%; Gross margin: 45% | - |
+| Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: 4.5% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 209% from prior peak; 5y price drawdown: 58% (severe cyclicality); FCF/NI: 72%; Gross margin: 45% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 45% — moderate moat for Technology; Operating margin 37% — durable for Technology; Rev growth 46% — demand pull | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 36.2x — expensive; Near 52w high (99% of range) — Mr. Market greedy; Owner earnings yield: 0.9%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 37.7x — expensive; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 0.9%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
 
 ## Buffett Score: 3.8 / 10
@@ -36,7 +36,7 @@ Technology / Computer Hardware
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Computer Hardware
-- **Margin of Safety**: -36% — ABSENT ($654 > IV $418 at 25x for 25% growth)
+- **Margin of Safety**: -39% — ABSENT ($681 > IV $417 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Greedy — exercise caution

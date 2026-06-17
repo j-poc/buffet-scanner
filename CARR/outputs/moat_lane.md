@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CARR
-*Generated: 2026-06-16 09:31 | Price: $71.13 | Mkt Cap: $59B*
+*Generated: 2026-06-17 09:07 | Price: $71.15 | Mkt Cap: $59B*
 
 ## Sector Context
 Industrials / Building Products & Equipment

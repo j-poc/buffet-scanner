@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FISV
-*Generated: 2026-06-16 09:32 | Price: $47.91 | Mkt Cap: $26B*
+*Generated: 2026-06-17 09:08 | Price: $49.83 | Mkt Cap: $27B*
 
 ## Sector Context
  / 
@@ -20,10 +20,10 @@
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 7.7% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 78% (severe cyclicality); FCF/NI: 133% (strong); Gross margin: 0% (below  norm) | - |
+| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 7.7% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 80% (severe cyclicality); FCF/NI: 133% (strong); Gross margin: 0% (below  norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.0% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 0% — below  moderate cutoff 40%; Operating margin 0% — thin for  | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.4x — deep value; Near 52w low (0% of range) — Mr. Market fearful | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.6x — deep value; Near 52w low (2% of range) — Mr. Market fearful | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10

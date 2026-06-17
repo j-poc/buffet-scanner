@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AVB
-*Generated: 2026-06-16 09:30 | Price: $184.48 | Mkt Cap: $26B*
+*Generated: 2026-06-17 09:06 | Price: $184.73 | Mkt Cap: $26B*
 
 ## Sector Context
 Real Estate / REIT - Residential

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HCA
-*Generated: 2026-06-16 09:32 | Price: $389.97 | Mkt Cap: $87B*
+*Generated: 2026-06-17 09:08 | Price: $396.93 | Mkt Cap: $88B*
 
 ## Sector Context
 Healthcare / Medical Care Facilities
@@ -20,10 +20,10 @@ Healthcare / Medical Care Facilities
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 7.5/10 | 30% | 2.2 | Avg ROIC: 21.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 0% (stable); FCF/NI: 93% (strong); Gross margin: 42% | - |
+| Quality | 7.5/10 | 30% | 2.2 | Avg ROIC: 21.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 39% (stable); FCF/NI: 93% (strong); Gross margin: 42% | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 16.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 32.6% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 42% — moderate moat for Healthcare; Operating margin 15% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.8x — deep value; Near 52w low (26% of range) — Mr. Market fearful; Owner earnings yield: 6.6% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.0x — deep value; Near 52w low (30% of range) — Mr. Market fearful; Owner earnings yield: 6.5% (>5%) | - |
 | **TOTAL** | **8.0/10** | **100%** | **8.0** | | |
 
 ## Buffett Score: 8.0 / 10
@@ -36,7 +36,7 @@ Healthcare / Medical Care Facilities
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Care Facilities
-- **Margin of Safety**: 49% — PRESENT (IV $580 vs $390 at 20x)
+- **Margin of Safety**: 46% — PRESENT (IV $580 vs $397 at 20x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 16.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GOOG
-*Generated: 2026-06-16 09:30 | Price: $367.11 | Mkt Cap: $4480B*
+*Generated: 2026-06-17 09:06 | Price: $371.1 | Mkt Cap: $4528B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (6.7% inst.) as insider
 
@@ -25,11 +25,11 @@ Communication Services / Internet Content & Information
 | Quality | 9.5/10 | 30% | 2.9 | Avg ROIC: 24.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 81% (strong); Gross margin: 60% (pricing power for Communication Services) | - |
 | Management | 4.5/10 | 25% | 1.1 | Insider ownership: 0.0% — low for mega-cap; Insider activity: 0B/0S last 6m; Restricted stock: -96.8% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 60% vs sector strong cutoff 55% — strong pricing power; Operating margin 36% — durable for Communication Services; Rev growth 22% — demand pull | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.4x — growth premium; 52w range position: 85%; Owner earnings yield: 0.6%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 25.6x — growth premium; Near 52w high (86% of range) — Mr. Market greedy; Owner earnings yield: 0.6%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **7.2/10** | **100%** | **7.2** | | |
 
-## Buffett Score: 7.4 / 10
-## Alpha Adjustment: +0.24
+## Buffett Score: 7.2 / 10
+## Alpha Adjustment: +0.22
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -38,10 +38,10 @@ Communication Services / Internet Content & Information
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Internet Content & Information
-- **Margin of Safety**: -11% — ABSENT ($367 > IV $328 at 25x for 25% growth)
+- **Margin of Safety**: -12% — ABSENT ($371 > IV $328 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 YES — 3 forces aligning: high quality, strong moat, secular growth
@@ -50,7 +50,7 @@ YES — 3 forces aligning: high quality, strong moat, secular growth
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.24 applied to composite alpha score
+Buffett Premium: +0.22 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```
