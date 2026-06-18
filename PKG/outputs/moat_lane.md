@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PKG
-*Generated: 2026-06-17 09:10 | Price: $229.55 | Mkt Cap: $20B*
+*Generated: 2026-06-18 08:53 | Price: $229.26 | Mkt Cap: $20B*
 
 ## Sector Context
 Consumer Cyclical / Packaging & Containers
@@ -36,7 +36,7 @@ Consumer Cyclical / Packaging & Containers
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Packaging & Containers
-- **Margin of Safety**: -46% — ABSENT ($230 > IV $124 at 15x for -16% growth)
+- **Margin of Safety**: -46% — ABSENT ($229 > IV $124 at 15x for -16% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.6% insider ownership
 - **Mr. Market**: Neutral

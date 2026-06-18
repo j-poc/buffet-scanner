@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EMR
-*Generated: 2026-06-17 09:08 | Price: $148.81 | Mkt Cap: $83B*
+*Generated: 2026-06-18 08:51 | Price: $149.0 | Mkt Cap: $83B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
@@ -36,7 +36,7 @@ Industrials / Specialty Industrial Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Industrial Machinery
-- **Margin of Safety**: -27% — ABSENT ($149 > IV $108 at 25x for 25% growth)
+- **Margin of Safety**: -28% — ABSENT ($149 > IV $108 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

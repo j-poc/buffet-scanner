@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SJM
-*Generated: 2026-06-17 09:10 | Price: $115.99 | Mkt Cap: $12B*
+*Generated: 2026-06-18 08:56 | Price: $112.96 | Mkt Cap: $12B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods
@@ -20,13 +20,13 @@ Consumer Defensive / Packaged Foods
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 265% from prior peak; 5y price drawdown: 38% (stable); FCF/NI: -163% (weak conversion); Gross margin: 34% | ROIC declining |
+| Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 1.4% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 265% from prior peak; 5y price drawdown: 38% (stable); FCF/NI: -400% (weak conversion); Gross margin: 34% | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.2% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 34% — moderate moat for Consumer Defensive; Operating margin 18% — durable for Consumer Defensive | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.8x — deep value; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 8.1% (>5%) | - |
-| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.5x — deep value; 52w range position: 79%; Owner earnings yield: 8.3% (>5%) | - |
+| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
-## Buffett Score: 5.2 / 10
+## Buffett Score: 5.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -39,7 +39,7 @@ Consumer Defensive / Packaged Foods
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 2.3% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

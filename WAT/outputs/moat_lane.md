@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WAT
-*Generated: 2026-06-16 09:37 | Price: $357.76 | Mkt Cap: $35B*
+*Generated: 2026-06-18 08:56 | Price: $357.0 | Mkt Cap: $35B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research
@@ -36,7 +36,7 @@ Healthcare / Diagnostics & Research
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Diagnostics & Research
-- **Margin of Safety**: -45% — ABSENT ($358 > IV $197 at 25x for 25% growth)
+- **Margin of Safety**: -45% — ABSENT ($357 > IV $196 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral
