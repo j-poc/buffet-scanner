@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ICE
-*Generated: 2026-06-18 08:52 | Price: $134.59 | Mkt Cap: $76B*
+*Generated: 2026-06-19 09:10 | Price: $133.88 | Mkt Cap: $76B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges
@@ -23,7 +23,7 @@ Financial Services / Financial Data & Stock Exchanges
 | Quality | 7.0/10 | 30% | 2.1 | ROE: 13.9% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 34% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 14% — adequate (Financial Services); Operating margin 57% — durable for Financial Services; Rev growth 20% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.3x — fair price; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 4.9%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.2x — fair price; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 4.9%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
 
 ## Buffett Score: 7.0 / 10

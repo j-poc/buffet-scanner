@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CVNA
-*Generated: 2026-06-18 08:51 | Price: $62.86 | Mkt Cap: $69B*
+*Generated: 2026-06-19 09:08 | Price: $66.56 | Mkt Cap: $73B*
 
 ## Sector Context
 Consumer Cyclical / Auto & Truck Dealerships
@@ -23,20 +23,20 @@ Consumer Cyclical / Auto & Truck Dealerships
 | Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: -1.5% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 53% from prior peak; 5y price drawdown: 99% (severe cyclicality); FCF/NI: 183% (strong); Gross margin: 20% (below Consumer Cyclical norm) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.0% (low) | - |
 | Moat | 4.5/10 | 25% | 1.1 | Gross margin 20% — below Consumer Cyclical moderate cutoff 30%; Operating margin 9%; Rev growth 52% — demand pull | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 29.0x — growth premium; Near 52w low (20% of range) — Mr. Market fearful; Owner earnings yield: 0.3%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 30.8x — expensive; Near 52w low (28% of range) — Mr. Market fearful; Owner earnings yield: 0.3%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
-## Buffett Score: 4.4 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 4.0 / 10
+## Alpha Adjustment: -0.20
+## Conviction: AVOID
+## Verdict: Avoid
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Auto & Truck Dealerships
-- **Margin of Safety**: -45% — ABSENT ($63 > IV $34 at 20x for 12% growth)
+- **Margin of Safety**: -48% — ABSENT ($67 > IV $34 at 20x for 12% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 2.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
@@ -48,7 +48,7 @@ No (1 forces only: secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
+Buffett Premium: -0.20 applied to composite alpha score
+Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

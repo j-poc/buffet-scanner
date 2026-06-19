@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UPS
-*Generated: 2026-06-18 08:56 | Price: $105.13 | Mkt Cap: $89B*
+*Generated: 2026-06-19 09:14 | Price: $104.86 | Mkt Cap: $89B*
 
 ## Sector Context
 Industrials / Integrated Freight & Logistics

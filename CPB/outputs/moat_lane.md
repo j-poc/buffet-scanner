@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CPB
-*Generated: 2026-06-18 08:51 | Price: $21.11 | Mkt Cap: $6B*
+*Generated: 2026-06-19 09:08 | Price: $21.15 | Mkt Cap: $6B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods
@@ -36,7 +36,7 @@ Consumer Defensive / Packaged Foods
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Packaged Foods
-- **Margin of Safety**: 142% — PRESENT (IV $51 vs $21 at 25x)
+- **Margin of Safety**: 141% — PRESENT (IV $51 vs $21 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 37.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UDR
-*Generated: 2026-06-18 08:56 | Price: $37.65 | Mkt Cap: $14B*
+*Generated: 2026-06-19 09:14 | Price: $37.56 | Mkt Cap: $14B*
 
 ## Sector Context
 Real Estate / REIT - Residential
@@ -23,7 +23,7 @@ Real Estate / REIT - Residential
 | Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 3.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 80% from prior peak; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 407% (strong); Gross margin: 67% (pricing power for Real Estate) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.0% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 67% vs sector strong cutoff 55% — strong pricing power; Operating margin 22% | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 67.2x — extreme premium; 52w range position: 54%; Owner earnings yield: 7.2% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 67.1x — extreme premium; 52w range position: 53%; Owner earnings yield: 7.2% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
 ## Buffett Score: 4.6 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CARR
-*Generated: 2026-06-18 08:51 | Price: $69.49 | Mkt Cap: $58B*
+*Generated: 2026-06-19 09:08 | Price: $71.81 | Mkt Cap: $60B*
 
 ## Sector Context
 Industrials / Building Products & Equipment
@@ -23,7 +23,7 @@ Industrials / Building Products & Equipment
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 74% from prior peak; 5y price drawdown: 41% (moderate cyclicality); FCF/NI: 86% (strong); Gross margin: 25% | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.8% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 25% — moderate moat for Industrials; Operating margin 7% — thin for Industrials | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 21.7x — growth premium; 52w range position: 62%; Owner earnings yield: 1.5%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.4x — growth premium; 52w range position: 70%; Owner earnings yield: 1.4%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
 
 ## Buffett Score: 4.1 / 10
@@ -36,7 +36,7 @@ Industrials / Building Products & Equipment
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Building Products & Equipment
-- **Margin of Safety**: -68% — ABSENT ($69 > IV $22 at 15x for -41% growth)
+- **Margin of Safety**: -69% — ABSENT ($72 > IV $22 at 15x for -41% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 4.7% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: REGN
-*Generated: 2026-06-18 08:56 | Price: $607.93 | Mkt Cap: $64B*
+*Generated: 2026-06-19 09:13 | Price: $609.94 | Mkt Cap: $64B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -23,7 +23,7 @@ Healthcare / Biotechnology
 | Quality | 2.3/10 | 30% | 0.7 | ROIC declining trend; Avg ROIC: 13.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 60% (severe cyclicality); FCF/NI: 84% (strong); Gross margin: 44% | ROIC declining |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 2.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 5.2% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 44% — moderate moat for Healthcare; Operating margin 21% — durable for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.3x — deep value; 52w range position: 32%; Owner earnings yield: 5.1% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.3x — deep value; 52w range position: 33%; Owner earnings yield: 5.1% (>5%) | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10
