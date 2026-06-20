@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CCL
-*Generated: 2026-06-19 09:08 | Price: $30.87 | Mkt Cap: $43B*
+*Generated: 2026-06-20 07:54 | Price: $30.87 | Mkt Cap: $43B*
 
 ## Sector Context
 Consumer Cyclical / Travel Services

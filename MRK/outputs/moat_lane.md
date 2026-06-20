@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MRK
-*Generated: 2026-06-19 09:10 | Price: $113.87 | Mkt Cap: $281B*
+*Generated: 2026-06-20 07:56 | Price: $113.87 | Mkt Cap: $281B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General

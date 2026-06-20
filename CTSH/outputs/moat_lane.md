@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CTSH
-*Generated: 2026-06-19 09:09 | Price: $43.7 | Mkt Cap: $21B*
+*Generated: 2026-06-20 07:55 | Price: $43.7 | Mkt Cap: $21B*
 
 ## Sector Context
 Technology / Information Technology Services

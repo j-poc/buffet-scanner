@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KMI
-*Generated: 2026-06-19 09:10 | Price: $31.59 | Mkt Cap: $70B*
+*Generated: 2026-06-20 07:56 | Price: $31.59 | Mkt Cap: $70B*
 
 ## Sector Context
 Energy / Oil & Gas Midstream

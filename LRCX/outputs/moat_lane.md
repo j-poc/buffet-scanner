@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LRCX
-*Generated: 2026-06-19 09:10 | Price: $389.04 | Mkt Cap: $487B*
+*Generated: 2026-06-20 07:56 | Price: $389.04 | Mkt Cap: $487B*
 
 ## Sector Context
 Technology / Semiconductor Equipment & Materials

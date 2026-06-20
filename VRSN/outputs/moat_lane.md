@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VRSN
-*Generated: 2026-06-19 09:14 | Price: $264.64 | Mkt Cap: $24B*
+*Generated: 2026-06-20 08:00 | Price: $264.64 | Mkt Cap: $24B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (10.2% inst.) as insider
 

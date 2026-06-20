@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KLAC
-*Generated: 2026-06-19 09:10 | Price: $259.56 | Mkt Cap: $339B*
+*Generated: 2026-06-20 07:56 | Price: $259.56 | Mkt Cap: $339B*
 
 ## Sector Context
 Technology / Semiconductor Equipment & Materials

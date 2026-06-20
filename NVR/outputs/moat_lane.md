@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NVR
-*Generated: 2026-06-19 09:11 | Price: $6490.93 | Mkt Cap: $18B*
+*Generated: 2026-06-20 07:56 | Price: $6490.93 | Mkt Cap: $18B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Capital Management LLC (6.6% inst.) as insider
 

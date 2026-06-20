@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AES
-*Generated: 2026-06-19 09:08 | Price: $14.62 | Mkt Cap: $10B*
+*Generated: 2026-06-20 07:54 | Price: $14.62 | Mkt Cap: $10B*
 
 ## Sector Context
 Utilities / Utilities - Diversified

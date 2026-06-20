@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SYF
-*Generated: 2026-06-19 09:14 | Price: $75.26 | Mkt Cap: $25B*
+*Generated: 2026-06-20 08:00 | Price: $75.26 | Mkt Cap: $25B*
 
 ## Sector Context
 Financial Services / Credit Services

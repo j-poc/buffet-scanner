@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COF
-*Generated: 2026-06-19 09:08 | Price: $201.53 | Mkt Cap: $125B*
+*Generated: 2026-06-20 07:54 | Price: $201.53 | Mkt Cap: $125B*
 
 ## Sector Context
 Financial Services / Credit Services

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TYL
-*Generated: 2026-06-19 09:14 | Price: $278.91 | Mkt Cap: $11B*
+*Generated: 2026-06-20 08:00 | Price: $278.91 | Mkt Cap: $11B*
 
 ## Sector Context
 Technology / Software - Application
@@ -20,7 +20,7 @@ Technology / Software - Application
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 5.8% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 57% (severe cyclicality); FCF/NI: 204% (strong); Gross margin: 47% | - |
+| Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 5.8% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 56% (severe cyclicality); FCF/NI: 204% (strong); Gross margin: 47% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 4.0% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 47% — moderate moat for Technology; Operating margin 17% — thin for Technology | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 18.9x — fair price; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 4.7%; Earnings yield < 7% — tight vs index | - |

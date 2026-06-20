@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VST
-*Generated: 2026-06-19 09:14 | Price: $163.75 | Mkt Cap: $55B*
+*Generated: 2026-06-20 08:00 | Price: $163.75 | Mkt Cap: $55B*
 
 ## Sector Context
 Utilities / Utilities - Independent Power Producers
