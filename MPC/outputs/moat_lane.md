@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MPC
-*Generated: 2026-06-20 07:56 | Price: $242.91 | Mkt Cap: $71B*
+*Generated: 2026-06-21 08:40 | Price: $242.91 | Mkt Cap: $71B*
 
 ## Sector Context
 Energy / Oil & Gas Refining & Marketing

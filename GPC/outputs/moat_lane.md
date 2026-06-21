@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GPC
-*Generated: 2026-06-20 07:55 | Price: $108.7 | Mkt Cap: $15B*
+*Generated: 2026-06-21 08:40 | Price: $108.7 | Mkt Cap: $15B*
 
 ## Sector Context
 Consumer Cyclical / Auto Parts
@@ -36,7 +36,7 @@ Consumer Cyclical / Auto Parts
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Auto Parts
-- **Margin of Safety**: -94% — ABSENT ($109 > IV $7 at 15x for -2% growth)
+- **Margin of Safety**: -94% — ABSENT ($109 > IV $6 at 15x for -2% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

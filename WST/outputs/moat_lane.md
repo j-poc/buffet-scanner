@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WST
-*Generated: 2026-06-20 08:00 | Price: $327.95 | Mkt Cap: $23B*
+*Generated: 2026-06-21 08:44 | Price: $327.95 | Mkt Cap: $23B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies

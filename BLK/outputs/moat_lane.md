@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BLK
-*Generated: 2026-06-20 07:54 | Price: $1050.09 | Mkt Cap: $171B*
+*Generated: 2026-06-21 08:38 | Price: $1050.09 | Mkt Cap: $171B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -36,7 +36,7 @@ Financial Services / Asset Management
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Asset Management
-- **Margin of Safety**: -5% — ABSENT ($1050 > IV $994 at 25x for 25% growth)
+- **Margin of Safety**: -6% — ABSENT ($1050 > IV $992 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 1.9% insider ownership
 - **Mr. Market**: Neutral

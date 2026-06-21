@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CTAS
-*Generated: 2026-06-20 07:55 | Price: $170.85 | Mkt Cap: $68B*
+*Generated: 2026-06-21 08:39 | Price: $170.85 | Mkt Cap: $68B*
 
 ## Sector Context
 Industrials / Specialty Business Services
@@ -36,7 +36,7 @@ Industrials / Specialty Business Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Business Services
-- **Margin of Safety**: -53% — ABSENT ($171 > IV $81 at 17x for 10% growth)
+- **Margin of Safety**: -53% — ABSENT ($171 > IV $80 at 17x for 10% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Aligned — 15.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

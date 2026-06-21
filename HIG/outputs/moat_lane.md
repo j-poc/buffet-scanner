@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HIG
-*Generated: 2026-06-20 07:55 | Price: $128.25 | Mkt Cap: $35B*
+*Generated: 2026-06-21 08:40 | Price: $128.25 | Mkt Cap: $35B*
 
 ## Sector Context
 Financial Services / Insurance - Diversified
@@ -36,7 +36,7 @@ Financial Services / Insurance - Diversified
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Diversified
-- **Margin of Safety**: 177% — PRESENT (IV $356 vs $128 at 25x)
+- **Margin of Safety**: 177% — PRESENT (IV $355 vs $128 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: high quality, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral

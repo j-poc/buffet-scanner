@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SBAC
-*Generated: 2026-06-20 07:59 | Price: $186.87 | Mkt Cap: $20B*
+*Generated: 2026-06-21 08:42 | Price: $186.87 | Mkt Cap: $20B*
 
 ## Sector Context
 Real Estate / REIT - Specialty

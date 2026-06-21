@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CAT
-*Generated: 2026-06-20 07:54 | Price: $985.82 | Mkt Cap: $454B*
+*Generated: 2026-06-21 08:38 | Price: $985.82 | Mkt Cap: $454B*
 
 ## Sector Context
 Industrials / Farm & Heavy Construction Machinery
@@ -36,7 +36,7 @@ Industrials / Farm & Heavy Construction Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Farm & Heavy Construction Machinery
-- **Margin of Safety**: -49% — ABSENT ($986 > IV $501 at 25x for 25% growth)
+- **Margin of Safety**: -49% — ABSENT ($986 > IV $503 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution

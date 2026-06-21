@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STX
-*Generated: 2026-06-20 07:59 | Price: $1070.23 | Mkt Cap: $240B*
+*Generated: 2026-06-21 08:42 | Price: $1070.23 | Mkt Cap: $240B*
 
 ## Sector Context
 Technology / Computer Hardware
@@ -36,7 +36,7 @@ Technology / Computer Hardware
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Computer Hardware
-- **Margin of Safety**: -75% — ABSENT ($1070 > IV $263 at 25x for 25% growth)
+- **Margin of Safety**: -75% — ABSENT ($1070 > IV $262 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution
