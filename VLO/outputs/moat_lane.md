@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VLO
-*Generated: 2026-06-21 08:44 | Price: $236.3 | Mkt Cap: $70B*
+*Generated: 2026-06-22 09:57 | Price: $236.3 | Mkt Cap: $70B*
 
 ## Sector Context
 Energy / Oil & Gas Refining & Marketing

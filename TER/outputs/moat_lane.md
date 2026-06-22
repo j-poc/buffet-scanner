@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TER
-*Generated: 2026-06-21 08:42 | Price: $437.92 | Mkt Cap: $69B*
+*Generated: 2026-06-22 09:57 | Price: $437.92 | Mkt Cap: $69B*
 
 ## Sector Context
 Technology / Semiconductor Equipment & Materials

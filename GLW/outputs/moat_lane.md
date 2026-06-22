@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GLW
-*Generated: 2026-06-21 08:39 | Price: $194.92 | Mkt Cap: $168B*
+*Generated: 2026-06-22 09:52 | Price: $194.92 | Mkt Cap: $168B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.8% inst.) as insider
 
@@ -25,7 +25,7 @@ Technology / Electronic Components
 | Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: 7.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 62% from prior peak; 5y price drawdown: 35% (stable); FCF/NI: 116% (strong); Gross margin: 36% (below Technology norm) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 8.2% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 36% — below Technology moderate cutoff 40%; Operating margin 16% — thin for Technology | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 46.6x — expensive; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 0.4%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 46.4x — expensive; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 0.4%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **2.5/10** | **100%** | **2.5** | | |
 
 ## Buffett Score: 2.5 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ADBE
-*Generated: 2026-06-21 08:38 | Price: $195.16 | Mkt Cap: $78B*
+*Generated: 2026-06-22 09:51 | Price: $195.16 | Mkt Cap: $78B*
 
 ## Sector Context
 Technology / Software - Application

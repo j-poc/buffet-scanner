@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: A
-*Generated: 2026-06-21 08:38 | Price: $127.06 | Mkt Cap: $36B*
+*Generated: 2026-06-22 09:51 | Price: $127.06 | Mkt Cap: $36B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research

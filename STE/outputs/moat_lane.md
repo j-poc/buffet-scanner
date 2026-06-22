@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STE
-*Generated: 2026-06-21 08:42 | Price: $202.61 | Mkt Cap: $20B*
+*Generated: 2026-06-22 09:57 | Price: $202.61 | Mkt Cap: $20B*
 
 ## Sector Context
 Healthcare / Medical Devices

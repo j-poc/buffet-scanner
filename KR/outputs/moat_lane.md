@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KR
-*Generated: 2026-06-21 08:40 | Price: $56.61 | Mkt Cap: $35B*
+*Generated: 2026-06-22 09:53 | Price: $56.61 | Mkt Cap: $35B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.7% inst.) as insider
 
@@ -13,7 +13,7 @@ Consumer Defensive / Grocery Stores
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.1x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.0x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -25,7 +25,7 @@ Consumer Defensive / Grocery Stores
 | Quality | 0.5/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 10.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 62% from prior peak; 5y price drawdown: 31% (stable); FCF/NI: 151% (strong); Gross margin: 24% (thin by design for Grocery Stores) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -29.4% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | ROA 6% / ROE 14% — adequate scale (Grocery Stores); Operating margin 3% — thin for Consumer Defensive | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.2x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 9.8% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.2x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 8.7% (>5%) | - |
 | **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
 ## Buffett Score: 4.6 / 10
@@ -38,7 +38,7 @@ Consumer Defensive / Grocery Stores
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Grocery Stores
-- **Margin of Safety**: -24% — ABSENT ($57 > IV $43 at 25x for 25% growth)
+- **Margin of Safety**: -40% — ABSENT ($57 > IV $34 at 20x for 13% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
