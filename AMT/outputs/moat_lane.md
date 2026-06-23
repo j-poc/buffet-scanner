@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMT
-*Generated: 2026-06-22 09:51 | Price: $176.05 | Mkt Cap: $82B*
+*Generated: 2026-06-23 07:54 | Price: $176.43 | Mkt Cap: $82B*
 
 ## Sector Context
 Real Estate / REIT - Specialty
