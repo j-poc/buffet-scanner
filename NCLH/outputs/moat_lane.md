@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NCLH
-*Generated: 2026-06-25 07:53 | Price: $21.01 | Mkt Cap: $10B*
+*Generated: 2026-06-26 08:00 | Price: $20.98 | Mkt Cap: $10B*
 
 ## Sector Context
 Consumer Cyclical / Travel Services
@@ -20,7 +20,7 @@ Consumer Cyclical / Travel Services
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: 2.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 54% from prior peak; 5y price drawdown: 67% (severe cyclicality); FCF/NI: -141% (weak conversion); Gross margin: 43% | - |
+| Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: 2.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 54% from prior peak; 5y price drawdown: 65% (severe cyclicality); FCF/NI: -141% (weak conversion); Gross margin: 43% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 43% — moderate moat for Consumer Cyclical; Operating margin 11% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.4x — deep value; 52w range position: 51% | - |

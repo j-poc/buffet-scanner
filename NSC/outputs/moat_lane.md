@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NSC
-*Generated: 2026-06-25 07:53 | Price: $303.82 | Mkt Cap: $68B*
+*Generated: 2026-06-26 08:00 | Price: $312.06 | Mkt Cap: $70B*
 
 ## Sector Context
 Industrials / Railroads
@@ -23,7 +23,7 @@ Industrials / Railroads
 | Quality | 2.4/10 | 30% | 0.7 | ROIC declining trend; Avg ROIC: 10.7% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 44% from prior peak; 5y price drawdown: 36% (stable); FCF/NI: 64%; Gross margin: 46% (pricing power for Industrials) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 46% vs sector strong cutoff 35% — strong pricing power; Operating margin 32% — durable for Industrials | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.4x — growth premium; 52w range position: 70%; Owner earnings yield: 1.9%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.9x — growth premium; 52w range position: 81%; Owner earnings yield: 1.9%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
 ## Buffett Score: 5.2 / 10
@@ -36,7 +36,7 @@ Industrials / Railroads
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Railroads
-- **Margin of Safety**: -41% — ABSENT ($304 > IV $178 at 15x for -27% growth)
+- **Margin of Safety**: -43% — ABSENT ($312 > IV $178 at 15x for -27% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

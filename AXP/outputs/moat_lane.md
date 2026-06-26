@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AXP
-*Generated: 2026-06-25 07:50 | Price: $342.56 | Mkt Cap: $234B*
+*Generated: 2026-06-26 07:58 | Price: $342.46 | Mkt Cap: $234B*
 
 ## Sector Context
 Financial Services / Credit Services
@@ -36,7 +36,7 @@ Financial Services / Credit Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Credit Services
-- **Margin of Safety**: -6% — ABSENT ($343 > IV $321 at 20x for 18% growth)
+- **Margin of Safety**: -6% — ABSENT ($342 > IV $321 at 20x for 18% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 22.3% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PKG
-*Generated: 2026-06-25 07:53 | Price: $237.85 | Mkt Cap: $21B*
+*Generated: 2026-06-26 08:00 | Price: $241.09 | Mkt Cap: $21B*
 
 ## Sector Context
 Consumer Cyclical / Packaging & Containers
@@ -23,10 +23,10 @@ Consumer Cyclical / Packaging & Containers
 | Quality | 1.4/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 13.4% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 32% (stable); FCF/NI: 84% (strong); Gross margin: 22% (below Consumer Cyclical norm) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.4% (low) | - |
 | Moat | 5.0/10 | 25% | 1.2 | Gross margin 22% — below Consumer Cyclical moderate cutoff 30%; Operating margin 13% — durable for Consumer Cyclical | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.4x — fair price; 52w range position: 82%; Owner earnings yield: 1.8%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.7x — fair price; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 1.8%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
-## Buffett Score: 4.7 / 10
+## Buffett Score: 4.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,13 +36,13 @@ Consumer Cyclical / Packaging & Containers
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Packaging & Containers
-- **Margin of Safety**: -48% — ABSENT ($238 > IV $123 at 15x for -16% growth)
-- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
+- **Margin of Safety**: -49% — ABSENT ($241 > IV $123 at 15x for -16% growth)
+- **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 1.6% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
-No (1 forces only: attractive valuation)
+No (0 forces only: none)
 
 ---
 

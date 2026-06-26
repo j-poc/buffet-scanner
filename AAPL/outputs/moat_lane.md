@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AAPL
-*Generated: 2026-06-25 07:51 | Price: $293.08 | Mkt Cap: $4305B*
+*Generated: 2026-06-26 07:58 | Price: $275.15 | Mkt Cap: $4041B*
 
 ## Sector Context
 Technology / Consumer Electronics
@@ -21,13 +21,13 @@ Technology / Consumer Electronics
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 57.0% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 33% (stable); FCF/NI: 105% (strong); Gross margin: 48% | - |
-| Management | 9.0/10 | 25% | 2.2 | Insider value: $70B (1.6%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
+| Management | 9.0/10 | 25% | 2.2 | Insider value: $66B (1.6%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 48% — moderate moat for Technology; Operating margin 32% — durable for Technology | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 30.5x — expensive; 52w range position: 79%; Owner earnings yield: 2.3%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 28.6x — growth premium; 52w range position: 64%; Owner earnings yield: 2.5%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
 
-## Buffett Score: 6.6 / 10
-## Alpha Adjustment: +0.16
+## Buffett Score: 7.0 / 10
+## Alpha Adjustment: +0.20
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Technology / Consumer Electronics
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Consumer Electronics
-- **Margin of Safety**: -30% — ABSENT ($293 > IV $206 at 25x for 22% growth)
+- **Margin of Safety**: -25% — ABSENT ($275 > IV $206 at 25x for 22% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 1.6% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.16 applied to composite alpha score
+Buffett Premium: +0.20 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

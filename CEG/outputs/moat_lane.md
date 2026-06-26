@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CEG
-*Generated: 2026-06-25 07:51 | Price: $267.97 | Mkt Cap: $96B*
+*Generated: 2026-06-26 07:58 | Price: $268.69 | Mkt Cap: $96B*
 
 ## Sector Context
 Utilities / Utilities - Independent Power Producers
@@ -23,7 +23,7 @@ Utilities / Utilities - Independent Power Producers
 | Quality | 3.3/10 | 30% | 1.0 | Avg ROIC: 10.4% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 38% from prior peak; 5y price drawdown: 51% (moderate cyclicality); FCF/NI: 493% (strong); Gross margin: 23% (below Utilities norm) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.4% of shares (SBC concern) | - |
 | Moat | 5.5/10 | 25% | 1.4 | Gross margin 23% — below Utilities moderate cutoff 25%; Operating margin 22% — durable for Utilities; Rev growth 64% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.8x — fair price; Near 52w low (16% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.9x — fair price; Near 52w low (16% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
 ## Buffett Score: 5.2 / 10

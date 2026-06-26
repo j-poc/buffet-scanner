@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ROL
-*Generated: 2026-06-25 07:54 | Price: $44.54 | Mkt Cap: $21B*
+*Generated: 2026-06-26 08:03 | Price: $42.8 | Mkt Cap: $21B*
 
 ## Sector Context
 Consumer Cyclical / Personal Services
@@ -20,10 +20,10 @@ Consumer Cyclical / Personal Services
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 10.0/10 | 30% | 3.0 | Avg ROIC: 29.5% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 32% (stable); FCF/NI: 120% (strong); Gross margin: 53% (pricing power for Consumer Cyclical) | - |
+| Quality | 10.0/10 | 30% | 3.0 | Avg ROIC: 29.5% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 34% (stable); FCF/NI: 120% (strong); Gross margin: 53% (pricing power for Consumer Cyclical) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 38.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 35.8% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 53% vs sector strong cutoff 45% — strong pricing power; Operating margin 16% — durable for Consumer Cyclical | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 31.9x — expensive; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 2.4%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 30.7x — expensive; Near 52w low (0% of range) — Mr. Market fearful; Owner earnings yield: 2.5%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **8.4/10** | **100%** | **8.4** | | |
 
 ## Buffett Score: 8.4 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Personal Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Personal Services
-- **Margin of Safety**: -63% — ABSENT ($45 > IV $16 at 15x for 1% growth)
+- **Margin of Safety**: -62% — ABSENT ($43 > IV $16 at 15x for 1% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Aligned — 38.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
