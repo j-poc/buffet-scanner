@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NXPI
-*Generated: 2026-06-27 07:00 | Price: $277.02 | Mkt Cap: $70B*
+*Generated: 2026-06-28 07:57 | Price: $277.02 | Mkt Cap: $70B*
 
 ## Sector Context
 Technology / Semiconductors

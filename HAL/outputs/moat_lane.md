@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HAL
-*Generated: 2026-06-27 06:59 | Price: $34.21 | Mkt Cap: $29B*
+*Generated: 2026-06-28 07:56 | Price: $34.21 | Mkt Cap: $29B*
 
 ## Sector Context
 Energy / Oil & Gas Equipment & Services

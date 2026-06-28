@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GEN
-*Generated: 2026-06-27 06:59 | Price: $24.45 | Mkt Cap: $15B*
+*Generated: 2026-06-28 07:56 | Price: $24.45 | Mkt Cap: $15B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.8% inst.) as insider
 

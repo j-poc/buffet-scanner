@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BA
-*Generated: 2026-06-27 06:57 | Price: $217.25 | Mkt Cap: $171B*
+*Generated: 2026-06-28 07:55 | Price: $217.25 | Mkt Cap: $171B*
 
 ## Sector Context
 Industrials / Aerospace & Defense

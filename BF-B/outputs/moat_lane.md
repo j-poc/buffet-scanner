@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BF-B
-*Generated: 2026-06-27 06:57 | Price: $27.96 | Mkt Cap: $13B*
+*Generated: 2026-06-28 07:55 | Price: $27.96 | Mkt Cap: $13B*
 
 ## Sector Context
 Consumer Defensive / Beverages - Wineries & Distilleries

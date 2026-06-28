@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HSIC
-*Generated: 2026-06-27 06:59 | Price: $84.95 | Mkt Cap: $10B*
+*Generated: 2026-06-28 07:56 | Price: $84.95 | Mkt Cap: $10B*
 
 ## Sector Context
 Healthcare / Medical Distribution

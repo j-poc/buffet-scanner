@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WDC
-*Generated: 2026-06-27 07:03 | Price: $586.45 | Mkt Cap: $202B*
+*Generated: 2026-06-28 08:01 | Price: $586.45 | Mkt Cap: $202B*
 
 ## Sector Context
 Technology / Computer Hardware

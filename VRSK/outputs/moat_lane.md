@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VRSK
-*Generated: 2026-06-27 07:03 | Price: $182.18 | Mkt Cap: $24B*
+*Generated: 2026-06-28 08:01 | Price: $182.18 | Mkt Cap: $24B*
 
 ## Sector Context
 Industrials / Consulting Services
@@ -36,7 +36,7 @@ Industrials / Consulting Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Consulting Services
-- **Margin of Safety**: -46% — ABSENT ($182 > IV $99 at 15x for 5% growth)
+- **Margin of Safety**: -46% — ABSENT ($182 > IV $98 at 15x for 5% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
