@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NOW
-*Generated: 2026-06-28 08:00 | Price: $98.34 | Mkt Cap: $101B*
+*Generated: 2026-06-29 09:08 | Price: $98.34 | Mkt Cap: $101B*
 
 ## Sector Context
 Technology / Software - Application

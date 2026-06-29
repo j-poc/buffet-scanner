@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SWK
-*Generated: 2026-06-28 08:00 | Price: $91.98 | Mkt Cap: $14B*
+*Generated: 2026-06-29 09:08 | Price: $91.98 | Mkt Cap: $14B*
 
 ## Sector Context
 Industrials / Tools & Accessories

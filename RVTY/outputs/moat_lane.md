@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RVTY
-*Generated: 2026-06-28 07:58 | Price: $113.02 | Mkt Cap: $13B*
+*Generated: 2026-06-29 09:08 | Price: $113.02 | Mkt Cap: $13B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research

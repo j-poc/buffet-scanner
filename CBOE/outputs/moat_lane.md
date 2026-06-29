@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CBOE
-*Generated: 2026-06-28 07:55 | Price: $242.21 | Mkt Cap: $25B*
+*Generated: 2026-06-29 09:03 | Price: $242.21 | Mkt Cap: $25B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges
@@ -20,7 +20,7 @@ Financial Services / Financial Data & Stock Exchanges
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.0/10 | 30% | 2.4 | ROE: 25.1% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 33% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Quality | 8.0/10 | 30% | 2.4 | ROE: 25.1% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 34% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | ROE 25% — strong franchise (Financial Services); Operating margin 40% — durable for Financial Services | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.5x — fair price; Near 52w low (10% of range) — Mr. Market fearful; Owner earnings yield: 4.0%; Earnings yield < 7% — tight vs index | - |

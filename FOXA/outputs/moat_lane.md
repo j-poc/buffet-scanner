@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FOXA
-*Generated: 2026-06-28 07:56 | Price: $50.1 | Mkt Cap: $21B*
+*Generated: 2026-06-29 09:04 | Price: $50.1 | Mkt Cap: $21B*
 
 ## Sector Context
 Communication Services / Entertainment

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: QCOM
-*Generated: 2026-06-28 07:57 | Price: $189.39 | Mkt Cap: $200B*
+*Generated: 2026-06-29 09:05 | Price: $189.39 | Mkt Cap: $200B*
 
 ## Sector Context
 Technology / Semiconductors

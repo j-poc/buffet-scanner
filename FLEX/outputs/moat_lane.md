@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FLEX
-*Generated: 2026-06-28 07:56 | Price: $146.7 | Mkt Cap: $54B*
+*Generated: 2026-06-29 09:04 | Price: $146.7 | Mkt Cap: $54B*
 
 ## Sector Context
 Technology / Electronic Components

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GILD
-*Generated: 2026-06-28 07:56 | Price: $127.88 | Mkt Cap: $159B*
+*Generated: 2026-06-29 09:04 | Price: $127.88 | Mkt Cap: $159B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General

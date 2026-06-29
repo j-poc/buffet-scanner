@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UHS
-*Generated: 2026-06-28 08:00 | Price: $145.69 | Mkt Cap: $9B*
+*Generated: 2026-06-29 09:08 | Price: $145.69 | Mkt Cap: $9B*
 
 ## Sector Context
 Healthcare / Medical Care Facilities

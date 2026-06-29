@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IRM
-*Generated: 2026-06-28 07:56 | Price: $132.44 | Mkt Cap: $39B*
+*Generated: 2026-06-29 09:04 | Price: $132.44 | Mkt Cap: $39B*
 
 ## Sector Context
 Real Estate / REIT - Specialty
