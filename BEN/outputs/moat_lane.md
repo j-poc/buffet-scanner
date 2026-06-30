@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BEN
-*Generated: 2026-06-29 09:04 | Price: $33.21 | Mkt Cap: $17B*
+*Generated: 2026-06-30 07:58 | Price: $33.17 | Mkt Cap: $17B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -20,13 +20,13 @@ Financial Services / Asset Management
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.3/10 | 30% | 0.7 | ROE: 6.7% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 47% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Quality | 2.8/10 | 30% | 0.8 | ROE: 6.7% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 0% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 48.5% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 41.8% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | ROE 7% — weak (Financial Services); Operating margin 17% — thin for Financial Services | Weak pricing |
 | Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 10.9x — deep value; Near 52w high (91% of range) — Mr. Market greedy | - |
-| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
+| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
-## Buffett Score: 5.6 / 10
+## Buffett Score: 5.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
