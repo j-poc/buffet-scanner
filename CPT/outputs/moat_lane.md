@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CPT
-*Generated: 2026-06-30 07:57 | Price: $116.74 | Mkt Cap: $12B*
+*Generated: 2026-07-01 08:17 | Price: $114.49 | Mkt Cap: $11B*
 
 ## Sector Context
 Real Estate / REIT - Residential
@@ -20,14 +20,14 @@ Real Estate / REIT - Residential
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.5/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 5.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 75% from prior peak; 5y price drawdown: 0% (stable); FCF/NI: 119% (strong); Gross margin: 62% (pricing power for Real Estate) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 5.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 75% from prior peak; 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 119% (strong); Gross margin: 62% (pricing power for Real Estate) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: -3.0% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 62% vs sector strong cutoff 55% — strong pricing power; Operating margin 4% — thin for Real Estate | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 73.1x — extreme premium; Near 52w high (100% of range) — Mr. Market greedy; Owner earnings yield: 5.9% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.7/10** | **100%** | **3.7** | | |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 71.7x — extreme premium; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 6.1% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **3.5/10** | **100%** | **3.5** | | |
 
-## Buffett Score: 3.7 / 10
-## Alpha Adjustment: -0.22
+## Buffett Score: 3.5 / 10
+## Alpha Adjustment: -0.24
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -36,7 +36,7 @@ Real Estate / REIT - Residential
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Residential
-- **Margin of Safety**: -39% — ABSENT ($117 > IV $72 at 20x for 12% growth)
+- **Margin of Safety**: -37% — ABSENT ($114 > IV $72 at 20x for 12% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 1.5% insider ownership
 - **Mr. Market**: Greedy — exercise caution
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.22 applied to composite alpha score
+Buffett Premium: -0.24 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```
