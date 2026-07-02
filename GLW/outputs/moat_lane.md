@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GLW
-*Generated: 2026-07-01 08:18 | Price: $255.43 | Mkt Cap: $220B*
+*Generated: 2026-07-02 07:38 | Price: $220.63 | Mkt Cap: $190B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.8% inst.) as insider
 
@@ -25,11 +25,11 @@ Technology / Electronic Components
 | Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: 7.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 62% from prior peak; 5y price drawdown: 35% (stable); FCF/NI: 116% (strong); Gross margin: 36% (below Technology norm) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 8.2% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 36% — below Technology moderate cutoff 40%; Operating margin 16% — thin for Technology | - |
-| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 60.2x — extreme premium; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 0.3%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **2.1/10** | **100%** | **2.1** | | |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 52.0x — extreme premium; 52w range position: 77%; Owner earnings yield: 0.3%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **2.3/10** | **100%** | **2.3** | | |
 
-## Buffett Score: 2.1 / 10
-## Alpha Adjustment: -0.34
+## Buffett Score: 2.3 / 10
+## Alpha Adjustment: -0.33
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -38,10 +38,10 @@ Technology / Electronic Components
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Electronic Components
-- **Margin of Safety**: -80% — ABSENT ($255 > IV $52 at 25x for 25% growth)
+- **Margin of Safety**: -77% — ABSENT ($221 > IV $52 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (0 forces only: none)
@@ -50,7 +50,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.34 applied to composite alpha score
+Buffett Premium: -0.33 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```
