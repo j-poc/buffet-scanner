@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TTWO
-*Generated: 2026-07-02 07:42 | Price: $250.32 | Mkt Cap: $46B*
+*Generated: 2026-07-03 07:35 | Price: $254.99 | Mkt Cap: $47B*
 
 ## Sector Context
 Communication Services / Electronic Gaming & Multimedia
@@ -23,10 +23,10 @@ Communication Services / Electronic Gaming & Multimedia
 | Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: -24.8% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 51% (moderate cyclicality); FCF/NI: -32% (weak conversion); Gross margin: 58% (pricing power for Communication Services) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 58% vs sector strong cutoff 55% — strong pricing power; Operating margin 2% — thin for Communication Services | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.1x — growth premium; 52w range position: 81%; Owner earnings yield: 3.1%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 25.6x — growth premium; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 3.1%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
-## Buffett Score: 4.7 / 10
+## Buffett Score: 4.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -39,7 +39,7 @@ Communication Services / Electronic Gaming & Multimedia
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 1.4% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (0 forces only: none)

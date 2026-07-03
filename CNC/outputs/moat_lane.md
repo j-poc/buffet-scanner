@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CNC
-*Generated: 2026-07-02 07:37 | Price: $68.35 | Mkt Cap: $34B*
+*Generated: 2026-07-03 07:29 | Price: $67.86 | Mkt Cap: $34B*
 
 ## Sector Context
 Healthcare / Healthcare Plans
@@ -23,7 +23,7 @@ Healthcare / Healthcare Plans
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.2% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 302% from prior peak; 5y price drawdown: 74% (severe cyclicality); FCF/NI: 157% (strong); Gross margin: 11% (below Healthcare norm) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.1% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 11% — below Healthcare moderate cutoff 35%; Operating margin 5% — thin for Healthcare | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.3x — fair price; Near 52w high (100% of range) — Mr. Market greedy; Owner earnings yield: 20.3% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.2x — fair price; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 20.4% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **3.5/10** | **100%** | **3.5** | | |
 
 ## Buffett Score: 3.5 / 10

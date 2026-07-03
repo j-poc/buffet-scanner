@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LLY
-*Generated: 2026-07-02 07:39 | Price: $1191.74 | Mkt Cap: $1063B*
+*Generated: 2026-07-03 07:31 | Price: $1213.91 | Mkt Cap: $1082B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General
@@ -21,9 +21,9 @@ Healthcare / Drug Manufacturers - General
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 7.5/10 | 30% | 2.2 | Avg ROIC: 26.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 34% (stable); FCF/NI: 12% (weak conversion); Gross margin: 83% (pricing power for Healthcare) | - |
-| Management | 7.5/10 | 25% | 1.9 | Insider value: $1.6B (0.2%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Management | 7.5/10 | 25% | 1.9 | Insider value: $1.7B (0.2%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 83% vs sector strong cutoff 55% — strong pricing power; Operating margin 49% — durable for Healthcare; Rev growth 56% — demand pull | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 26.8x — growth premium; Near 52w high (92% of range) — Mr. Market greedy; Owner earnings yield: 0.9%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 27.3x — growth premium; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 0.8%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
 
 ## Buffett Score: 7.4 / 10
@@ -36,7 +36,7 @@ Healthcare / Drug Manufacturers - General
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Drug Manufacturers - General
-- **Margin of Safety**: -41% — ABSENT ($1192 > IV $703 at 25x for 25% growth)
+- **Margin of Safety**: -42% — ABSENT ($1214 > IV $704 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution
