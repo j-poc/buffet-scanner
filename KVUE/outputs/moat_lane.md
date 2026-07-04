@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KVUE
-*Generated: 2026-07-03 07:31 | Price: $19.83 | Mkt Cap: $38B*
+*Generated: 2026-07-04 06:55 | Price: $19.83 | Mkt Cap: $38B*
 
 ## Sector Context
 Consumer Defensive / Household & Personal Products

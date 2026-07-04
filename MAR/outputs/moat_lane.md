@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MAR
-*Generated: 2026-07-03 07:31 | Price: $372.95 | Mkt Cap: $98B*
+*Generated: 2026-07-04 06:56 | Price: $372.95 | Mkt Cap: $98B*
 
 ## Sector Context
 Consumer Cyclical / Lodging

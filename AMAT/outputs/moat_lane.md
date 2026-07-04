@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMAT
-*Generated: 2026-07-03 07:29 | Price: $603.04 | Mkt Cap: $479B*
+*Generated: 2026-07-04 06:52 | Price: $603.04 | Mkt Cap: $479B*
 
 ## Sector Context
 Technology / Semiconductor Equipment & Materials

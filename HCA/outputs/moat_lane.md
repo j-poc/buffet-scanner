@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HCA
-*Generated: 2026-07-03 07:31 | Price: $410.5 | Mkt Cap: $91B*
+*Generated: 2026-07-04 06:55 | Price: $410.5 | Mkt Cap: $91B*
 
 ## Sector Context
 Healthcare / Medical Care Facilities
