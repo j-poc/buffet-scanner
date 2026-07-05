@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AIG
-*Generated: 2026-07-04 06:52 | Price: $79.39 | Mkt Cap: $42B*
+*Generated: 2026-07-05 07:33 | Price: $79.39 | Mkt Cap: $42B*
 
 ## Sector Context
 Financial Services / Insurance - Diversified
