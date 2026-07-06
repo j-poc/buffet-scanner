@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PCG
-*Generated: 2026-07-05 07:35 | Price: $17.05 | Mkt Cap: $38B*
+*Generated: 2026-07-06 08:29 | Price: $17.05 | Mkt Cap: $38B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric

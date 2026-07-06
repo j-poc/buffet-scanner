@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WDC
-*Generated: 2026-07-05 07:38 | Price: $539.0 | Mkt Cap: $186B*
+*Generated: 2026-07-06 08:32 | Price: $539.0 | Mkt Cap: $186B*
 
 ## Sector Context
 Technology / Computer Hardware
@@ -23,7 +23,7 @@ Technology / Computer Hardware
 | Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: 4.5% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 209% from prior peak; 5y price drawdown: 57% (severe cyclicality); FCF/NI: 72%; Gross margin: 45% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 45% — moderate moat for Technology; Operating margin 37% — durable for Technology; Rev growth 46% — demand pull | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 29.7x — growth premium; 52w range position: 65%; Owner earnings yield: 1.1%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 29.5x — growth premium; 52w range position: 65%; Owner earnings yield: 1.1%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
 ## Buffett Score: 4.4 / 10

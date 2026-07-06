@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PSX
-*Generated: 2026-07-05 07:35 | Price: $176.42 | Mkt Cap: $71B*
+*Generated: 2026-07-06 08:29 | Price: $176.42 | Mkt Cap: $71B*
 
 ## Sector Context
 Energy / Oil & Gas Refining & Marketing

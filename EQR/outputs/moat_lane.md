@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EQR
-*Generated: 2026-07-05 07:34 | Price: $69.83 | Mkt Cap: $27B*
+*Generated: 2026-07-06 08:27 | Price: $69.83 | Mkt Cap: $27B*
 
 ## Sector Context
 Real Estate / REIT - Residential

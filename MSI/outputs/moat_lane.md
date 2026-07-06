@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MSI
-*Generated: 2026-07-05 07:35 | Price: $422.66 | Mkt Cap: $70B*
+*Generated: 2026-07-06 08:29 | Price: $422.66 | Mkt Cap: $70B*
 
 ## Sector Context
 Technology / Communication Equipment

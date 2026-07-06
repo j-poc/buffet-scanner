@@ -175,6 +175,7 @@ EBAY,6.1,0.11,MODERATE,Watchlist,1
 EOG,6.1,0.11,MODERATE,Watchlist,1
 GDDY,6.1,0.11,MODERATE,Watchlist,2
 HSY,6.1,0.11,MODERATE,Watchlist,1
+ISRG,6.1,0.11,MODERATE,Watchlist,1
 JKHY,6.1,0.11,MODERATE,Watchlist,2
 STE,6.1,0.11,MODERATE,Watchlist,1
 TPR,6.1,0.11,MODERATE,Watchlist,1
@@ -215,7 +216,6 @@ QCOM,6.0,0.0,LOW,Pass,2
 SNDK,6.0,0.0,LOW,Pass,1
 SBAC,6.0,0.0,LOW,Pass,2
 SPG,6.0,0.0,LOW,Pass,1
-SOLV,6.0,0.0,LOW,Pass,1
 SO,6.0,0.0,LOW,Pass,2
 TDG,6.0,0.0,LOW,Pass,2
 URI,6.0,0.0,LOW,Pass,1
@@ -241,7 +241,6 @@ ED,5.8,0.0,LOW,Pass,2
 EME,5.8,0.0,LOW,Pass,1
 HON,5.8,0.0,LOW,Pass,2
 IR,5.8,0.0,LOW,Pass,1
-ISRG,5.8,0.0,LOW,Pass,1
 PNW,5.8,0.0,LOW,Pass,2
 REGN,5.8,0.0,LOW,Pass,1
 RF,5.8,0.0,LOW,Pass,1
@@ -282,8 +281,8 @@ OKE,5.5,0.0,LOW,Pass,2
 O,5.5,0.0,LOW,Pass,2
 SMCI,5.5,0.0,LOW,Pass,2
 VRT,5.5,0.0,LOW,Pass,1
-APD,5.4,0.0,LOW,Pass,1
 ABNB,5.4,0.0,LOW,Pass,0
+APD,5.4,0.0,LOW,Pass,1
 APH,5.4,0.0,LOW,Pass,2
 CSCO,5.4,0.0,LOW,Pass,2
 CSGP,5.4,0.0,LOW,Pass,1
@@ -302,7 +301,6 @@ AEP,5.3,0.0,LOW,Pass,2
 BLDR,5.3,0.0,LOW,Pass,1
 CNP,5.3,0.0,LOW,Pass,2
 C,5.3,0.0,LOW,Pass,1
-DVN,5.3,0.0,LOW,Pass,1
 DLTR,5.3,0.0,LOW,Pass,1
 FRT,5.3,0.0,LOW,Pass,1
 INVH,5.3,0.0,LOW,Pass,2
@@ -360,12 +358,13 @@ TYL,5.0,0.0,LOW,Pass,2
 AMAT,4.9,0.0,LOW,Pass,2
 CSX,4.9,0.0,LOW,Pass,1
 DAL,4.9,0.0,LOW,Pass,1
+DVN,4.9,0.0,LOW,Pass,1
 ETR,4.9,0.0,LOW,Pass,2
 IBM,4.9,0.0,LOW,Pass,3
 IEX,4.9,0.0,LOW,Pass,1
 JBL,4.9,0.0,LOW,Pass,1
-KEY,4.9,0.0,LOW,Pass,1
 KEYS,4.9,0.0,LOW,Pass,2
+KEY,4.9,0.0,LOW,Pass,1
 ODFL,4.9,0.0,LOW,Pass,1
 STX,4.9,0.0,LOW,Pass,2
 LUV,4.9,0.0,LOW,Pass,0
@@ -398,7 +397,6 @@ TER,4.7,0.0,LOW,Pass,2
 AMD,4.6,0.0,LOW,Pass,2
 AKAM,4.6,0.0,LOW,Pass,2
 APTV,4.6,0.0,LOW,Pass,1
-AXON,4.6,0.0,LOW,Pass,1
 CI,4.6,0.0,LOW,Pass,0
 DLR,4.6,0.0,LOW,Pass,2
 GNRC,4.6,0.0,LOW,Pass,0
@@ -440,7 +438,6 @@ MCHP,4.2,0.0,LOW,Pass,2
 NRG,4.2,0.0,LOW,Pass,1
 Q,4.2,0.0,LOW,Pass,2
 TSN,4.2,0.0,LOW,Pass,0
-WST,4.2,0.0,LOW,Pass,1
 AMCR,4.1,0.0,LOW,Pass,2
 CARR,4.1,0.0,LOW,Pass,1
 MDLZ,4.1,0.0,LOW,Pass,2
@@ -450,6 +447,7 @@ PSX,4.1,0.0,LOW,Pass,1
 PWR,4.1,0.0,LOW,Pass,1
 TXN,4.1,0.0,LOW,Pass,2
 AES,4.0,-0.2,AVOID,Avoid,2
+AXON,4.0,-0.2,AVOID,Avoid,1
 BALL,4.0,-0.2,AVOID,Avoid,1
 DDOG,4.0,-0.2,AVOID,Avoid,3
 DE,4.0,-0.2,AVOID,Avoid,2
@@ -458,6 +456,7 @@ GM,4.0,-0.2,AVOID,Avoid,2
 MAA,4.0,-0.2,AVOID,Avoid,2
 RVTY,4.0,-0.2,AVOID,Avoid,1
 SW,4.0,-0.2,AVOID,Avoid,1
+WST,4.0,-0.2,AVOID,Avoid,1
 ADM,3.9,-0.21,AVOID,Avoid,2
 BAX,3.9,-0.21,AVOID,Avoid,2
 BG,3.9,-0.21,AVOID,Avoid,2

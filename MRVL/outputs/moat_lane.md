@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MRVL
-*Generated: 2026-07-05 07:35 | Price: $245.29 | Mkt Cap: $215B*
+*Generated: 2026-07-06 08:28 | Price: $245.29 | Mkt Cap: $215B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -21,7 +21,7 @@ Technology / Semiconductors
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: 2.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 62% (severe cyclicality); FCF/NI: -217% (weak conversion); Gross margin: 52% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 52% — moderate moat for Technology; Operating margin 14% — thin for Technology; Rev growth 28% — demand pull | - |
 | Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 39.7x — expensive; 52w range position: 68%; Owner earnings yield: 1.1%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.6/10** | **100%** | **3.6** | | |
