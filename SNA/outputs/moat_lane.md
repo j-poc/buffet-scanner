@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SNA
-*Generated: 2026-07-08 06:38 | Price: $408.74 | Mkt Cap: $21B*
+*Generated: 2026-07-09 07:47 | Price: $401.11 | Mkt Cap: $21B*
 
 ## Sector Context
 Industrials / Tools & Accessories
@@ -23,11 +23,11 @@ Industrials / Tools & Accessories
 | Quality | 7.8/10 | 30% | 2.3 | Avg ROIC: 16.8% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 21% (stable); FCF/NI: 94% (strong); Gross margin: 52% (pricing power for Industrials) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.5% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 52% vs sector strong cutoff 35% — strong pricing power; Operating margin 25% — durable for Industrials | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.2x — fair price; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 5.0%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **7.5/10** | **100%** | **7.5** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.8x — fair price; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 5.0% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **7.7/10** | **100%** | **7.7** | | |
 
-## Buffett Score: 7.5 / 10
-## Alpha Adjustment: +0.25
+## Buffett Score: 7.7 / 10
+## Alpha Adjustment: +0.27
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,19 +36,19 @@ Industrials / Tools & Accessories
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Tools & Accessories
-- **Margin of Safety**: -30% — ABSENT ($409 > IV $287 at 15x for 4% growth)
-- **Lollapalooza Effect**: No (1 forces only: strong moat)
+- **Margin of Safety**: -29% — ABSENT ($401 > IV $285 at 15x for 4% growth)
+- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 2.4% insider ownership
 - **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
-No (1 forces only: strong moat)
+No (2 forces only: strong moat, attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.25 applied to composite alpha score
+Buffett Premium: +0.27 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

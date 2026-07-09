@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CINF
-*Generated: 2026-07-08 06:34 | Price: $189.06 | Mkt Cap: $29B*
+*Generated: 2026-07-09 07:44 | Price: $181.565 | Mkt Cap: $28B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty
@@ -23,11 +23,11 @@ Financial Services / Insurance - Property & Casualty
 | Quality | 8.0/10 | 30% | 2.4 | ROE: 18.7% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 36% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.9% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 19% — strong franchise (Financial Services); Operating margin 12% — thin for Financial Services | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.6x — growth premium; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 9.4% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 19.7x — fair price; 52w range position: 74%; Owner earnings yield: 9.8% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
 
-## Buffett Score: 6.7 / 10
-## Alpha Adjustment: +0.17
+## Buffett Score: 7.4 / 10
+## Alpha Adjustment: +0.24
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,19 +36,19 @@ Financial Services / Insurance - Property & Casualty
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Property & Casualty
-- **Margin of Safety**: 85% — PRESENT (IV $349 vs $189 at 20x)
-- **Lollapalooza Effect**: No (1 forces only: high quality)
+- **Margin of Safety**: 85% — PRESENT (IV $336 vs $182 at 20x)
+- **Lollapalooza Effect**: No (2 forces only: high quality, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.7% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (1 forces only: high quality)
+No (2 forces only: high quality, attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.17 applied to composite alpha score
+Buffett Premium: +0.24 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

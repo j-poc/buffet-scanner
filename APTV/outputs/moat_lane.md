@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APTV
-*Generated: 2026-07-08 06:34 | Price: $58.85 | Mkt Cap: $12B*
+*Generated: 2026-07-09 07:43 | Price: $58.57 | Mkt Cap: $12B*
 
 ## Sector Context
 Consumer Cyclical / Auto Parts
@@ -23,7 +23,7 @@ Consumer Cyclical / Auto Parts
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: 7.7% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 94% from prior peak; 5y price drawdown: 73% (severe cyclicality); FCF/NI: 280% (strong); Gross margin: 19% (thin by design for Auto Parts) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | ROA 6% / ROE 4% — adequate scale (Auto Parts); Operating margin 10% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.7x — deep value; Near 52w low (19% of range) — Mr. Market fearful; Owner earnings yield: 8.8% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.6x — deep value; Near 52w low (18% of range) — Mr. Market fearful; Owner earnings yield: 8.8% (>5%) | - |
 | **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
 ## Buffett Score: 4.6 / 10
