@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: INTU
-*Generated: 2026-07-09 07:45 | Price: $272.1 | Mkt Cap: $74B*
+*Generated: 2026-07-10 07:44 | Price: $273.38 | Mkt Cap: $75B*
 
 ## Sector Context
 Technology / Software - Application
@@ -20,14 +20,14 @@ Technology / Software - Application
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.9/10 | 30% | 1.8 | Avg ROIC: 11.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 68% (severe cyclicality); FCF/NI: 173% (strong); Gross margin: 81% (pricing power for Technology) | - |
+| Quality | 7.4/10 | 30% | 2.2 | Avg ROIC: 11.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 0% (stable); FCF/NI: 173% (strong); Gross margin: 81% (pricing power for Technology) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.3% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 81% vs sector strong cutoff 60% — strong pricing power; Operating margin 47% — durable for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.0x — deep value; Near 52w low (3% of range) — Mr. Market fearful; Owner earnings yield: 7.0% (>5%) | - |
-| **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.0x — deep value; Near 52w low (4% of range) — Mr. Market fearful; Owner earnings yield: 7.0% (>5%) | - |
+| **TOTAL** | **7.8/10** | **100%** | **7.8** | | |
 
-## Buffett Score: 7.4 / 10
-## Alpha Adjustment: +0.24
+## Buffett Score: 7.8 / 10
+## Alpha Adjustment: +0.28
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Technology / Software - Application
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Application
-- **Margin of Safety**: 17% — thin (IV $317 at 20x)
+- **Margin of Safety**: 20% — thin (IV $329 at 20x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 2.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
@@ -48,7 +48,7 @@ No (2 forces only: strong moat, attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.24 applied to composite alpha score
+Buffett Premium: +0.28 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

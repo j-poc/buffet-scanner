@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NKE
-*Generated: 2026-07-09 07:46 | Price: $42.89 | Mkt Cap: $64B*
+*Generated: 2026-07-10 07:45 | Price: $42.78 | Mkt Cap: $63B*
 
 ## Sector Context
 Consumer Cyclical / Footwear & Accessories
@@ -36,7 +36,7 @@ Consumer Cyclical / Footwear & Accessories
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Footwear & Accessories
-- **Margin of Safety**: 21% — thin (IV $52 at 25x)
+- **Margin of Safety**: 23% — thin (IV $52 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

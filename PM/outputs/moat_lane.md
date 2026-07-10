@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PM
-*Generated: 2026-07-09 07:46 | Price: $187.07 | Mkt Cap: $292B*
+*Generated: 2026-07-10 07:45 | Price: $181.17 | Mkt Cap: $282B*
 
 ## Sector Context
 Consumer Defensive / Tobacco
@@ -23,11 +23,11 @@ Consumer Defensive / Tobacco
 | Quality | 7.0/10 | 30% | 2.1 | Avg ROIC: 29.6% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 23% (stable); FCF/NI: 114% (strong); Gross margin: 67% (pricing power for Consumer Defensive) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 67% vs sector strong cutoff 45% — strong pricing power; Operating margin 36% — durable for Consumer Defensive | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 20.5x — growth premium; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 2.9%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.9x — fair price; 52w range position: 77%; Owner earnings yield: 3.0%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
 
-## Buffett Score: 6.3 / 10
-## Alpha Adjustment: +0.13
+## Buffett Score: 7.0 / 10
+## Alpha Adjustment: +0.20
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,19 +36,19 @@ Consumer Defensive / Tobacco
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Tobacco
-- **Margin of Safety**: -43% — ABSENT ($187 > IV $106 at 15x for -9% growth)
-- **Lollapalooza Effect**: No (1 forces only: strong moat)
+- **Margin of Safety**: -43% — ABSENT ($181 > IV $103 at 15x for -9% growth)
+- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (1 forces only: strong moat)
+No (2 forces only: strong moat, attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.13 applied to composite alpha score
+Buffett Premium: +0.20 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

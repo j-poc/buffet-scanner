@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ETR
-*Generated: 2026-07-09 07:44 | Price: $114.34 | Mkt Cap: $53B*
+*Generated: 2026-07-10 07:43 | Price: $113.93 | Mkt Cap: $53B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric
@@ -23,7 +23,7 @@ Utilities / Utilities - Regulated Electric
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 5.0% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 55% from prior peak; 5y price drawdown: 25% (stable); FCF/NI: -143% (weak conversion); Gross margin: 47% (pricing power for Utilities) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 2.4% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 47% vs sector strong cutoff 40% — strong pricing power; Operating margin 19% | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 22.6x — growth premium; Near 52w high (89% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 22.5x — growth premium; Near 52w high (88% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
 ## Buffett Score: 4.9 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALB
-*Generated: 2026-07-09 07:43 | Price: $129.38 | Mkt Cap: $15B*
+*Generated: 2026-07-10 07:42 | Price: $128.42 | Mkt Cap: $15B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals
@@ -23,7 +23,7 @@ Basic Materials / Specialty Chemicals
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 1.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 144% from prior peak; 5y price drawdown: 84% (severe cyclicality); FCF/NI: -20% (weak conversion); Gross margin: 19% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 19% — moderate moat for Basic Materials; Operating margin 25% — durable for Basic Materials; Rev growth 33% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.0x — deep value; 52w range position: 41%; Owner earnings yield: 4.7% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.9x — deep value; 52w range position: 41%; Owner earnings yield: 4.7% | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10

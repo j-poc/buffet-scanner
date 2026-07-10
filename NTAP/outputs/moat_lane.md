@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NTAP
-*Generated: 2026-07-09 07:46 | Price: $165.4 | Mkt Cap: $32B*
+*Generated: 2026-07-10 07:44 | Price: $171.73 | Mkt Cap: $34B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -20,14 +20,14 @@ Technology / Software - Infrastructure
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 29.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 0% (stable); FCF/NI: 121% (strong); Gross margin: 71% (pricing power for Technology) | - |
+| Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 29.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 121% (strong); Gross margin: 71% (pricing power for Technology) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 71% vs sector strong cutoff 60% — strong pricing power; Operating margin 27% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.8x — fair price; 52w range position: 72%; Owner earnings yield: 4.0%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.4x — fair price; 52w range position: 79%; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **7.2/10** | **100%** | **7.2** | | |
 
-## Buffett Score: 7.4 / 10
-## Alpha Adjustment: +0.24
+## Buffett Score: 7.2 / 10
+## Alpha Adjustment: +0.22
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: -4% — ABSENT ($165 > IV $158 at 25x for 23% growth)
+- **Margin of Safety**: -4% — ABSENT ($172 > IV $165 at 25x for 23% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ YES — 3 forces aligning: high quality, strong moat, attractive valuation
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.24 applied to composite alpha score
+Buffett Premium: +0.22 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

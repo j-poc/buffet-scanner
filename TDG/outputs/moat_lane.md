@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TDG
-*Generated: 2026-07-09 07:47 | Price: $1296.43 | Mkt Cap: $73B*
+*Generated: 2026-07-10 07:48 | Price: $1295.71 | Mkt Cap: $72B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -23,7 +23,7 @@ Industrials / Aerospace & Defense
 | Quality | 8.0/10 | 30% | 2.4 | Avg ROIC: 13.7% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 25% (stable); FCF/NI: 97% (strong); Gross margin: 60% (pricing power for Industrials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 60% vs sector strong cutoff 35% — strong pricing power; Operating margin 47% — durable for Industrials | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 27.6x — growth premium; 52w range position: 35%; Owner earnings yield: 2.1%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 27.6x — growth premium; 52w range position: 34%; Owner earnings yield: 2.1%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,7 +36,7 @@ Industrials / Aerospace & Defense
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Aerospace & Defense
-- **Margin of Safety**: -52% — ABSENT ($1296 > IV $625 at 20x for 12% growth)
+- **Margin of Safety**: -51% — ABSENT ($1296 > IV $640 at 20x for 12% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral
