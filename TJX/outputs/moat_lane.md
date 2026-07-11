@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TJX
-*Generated: 2026-07-10 07:48 | Price: $150.9 | Mkt Cap: $167B*
+*Generated: 2026-07-11 06:24 | Price: $150.9 | Mkt Cap: $167B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Retail
@@ -36,7 +36,7 @@ Consumer Cyclical / Apparel Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Apparel Retail
-- **Margin of Safety**: -16% — ABSENT ($151 > IV $127 at 25x for 25% growth)
+- **Margin of Safety**: -15% — ABSENT ($151 > IV $129 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

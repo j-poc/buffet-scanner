@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CFG
-*Generated: 2026-07-10 07:42 | Price: $69.86 | Mkt Cap: $30B*
+*Generated: 2026-07-11 06:20 | Price: $69.86 | Mkt Cap: $30B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -36,7 +36,7 @@ Financial Services / Banks - Regional
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Regional
-- **Margin of Safety**: 54% — PRESENT (IV $108 vs $70 at 25x)
+- **Margin of Safety**: 52% — PRESENT (IV $106 vs $70 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Greedy — exercise caution

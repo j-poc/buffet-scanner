@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EOG
-*Generated: 2026-07-10 07:43 | Price: $133.54 | Mkt Cap: $71B*
+*Generated: 2026-07-11 06:21 | Price: $133.73 | Mkt Cap: $71B*
 
 ## Sector Context
 Energy / Oil & Gas E&P
@@ -36,7 +36,7 @@ Energy / Oil & Gas E&P
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas E&P
-- **Margin of Safety**: 85% — PRESENT (IV $247 vs $134 at 25x)
+- **Margin of Safety**: 91% — PRESENT (IV $256 vs $134 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

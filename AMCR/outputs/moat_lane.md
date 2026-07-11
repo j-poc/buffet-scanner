@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMCR
-*Generated: 2026-07-10 07:42 | Price: $42.7 | Mkt Cap: $20B*
+*Generated: 2026-07-11 06:19 | Price: $42.7 | Mkt Cap: $20B*
 
 ## Sector Context
 Consumer Cyclical / Packaging & Containers
@@ -36,7 +36,7 @@ Consumer Cyclical / Packaging & Containers
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Packaging & Containers
-- **Margin of Safety**: -55% — ABSENT ($43 > IV $19 at 15x for -12% growth)
+- **Margin of Safety**: -56% — ABSENT ($43 > IV $19 at 15x for -12% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

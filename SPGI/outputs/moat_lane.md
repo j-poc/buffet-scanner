@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SPGI
-*Generated: 2026-07-10 07:45 | Price: $432.96 | Mkt Cap: $128B*
+*Generated: 2026-07-11 06:24 | Price: $432.96 | Mkt Cap: $128B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges
@@ -36,7 +36,7 @@ Financial Services / Financial Data & Stock Exchanges
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Financial Data & Stock Exchanges
-- **Margin of Safety**: -8% — ABSENT ($433 > IV $397 at 25x for 25% growth)
+- **Margin of Safety**: -9% — ABSENT ($433 > IV $393 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SYY
-*Generated: 2026-07-10 07:48 | Price: $82.03 | Mkt Cap: $39B*
+*Generated: 2026-07-11 06:24 | Price: $82.03 | Mkt Cap: $39B*
 
 ## Sector Context
 Consumer Defensive / Food Distribution
@@ -36,7 +36,7 @@ Consumer Defensive / Food Distribution
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Food Distribution
-- **Margin of Safety**: -35% — ABSENT ($82 > IV $53 at 15x for -14% growth)
+- **Margin of Safety**: -33% — ABSENT ($82 > IV $55 at 15x for -14% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

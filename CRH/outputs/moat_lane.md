@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CRH
-*Generated: 2026-07-10 07:43 | Price: $104.36 | Mkt Cap: $70B*
+*Generated: 2026-07-11 06:21 | Price: $104.36 | Mkt Cap: $70B*
 
 ## Sector Context
 Basic Materials / Building Materials
@@ -36,7 +36,7 @@ Basic Materials / Building Materials
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Building Materials
-- **Margin of Safety**: -11% — ABSENT ($104 > IV $93 at 17x for 9% growth)
+- **Margin of Safety**: -12% — ABSENT ($104 > IV $92 at 17x for 9% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

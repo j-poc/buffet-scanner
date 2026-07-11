@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ABBV
-*Generated: 2026-07-10 07:41 | Price: $249.91 | Mkt Cap: $442B*
+*Generated: 2026-07-11 06:19 | Price: $249.91 | Mkt Cap: $442B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General

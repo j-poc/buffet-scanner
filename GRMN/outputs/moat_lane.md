@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GRMN
-*Generated: 2026-07-10 07:43 | Price: $244.51 | Mkt Cap: $47B*
+*Generated: 2026-07-11 06:22 | Price: $244.51 | Mkt Cap: $47B*
 
 ## Sector Context
 Technology / Scientific & Technical Instruments
@@ -12,7 +12,7 @@ Technology / Scientific & Technical Instruments
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Scientific & Technical Instruments | 25% | -35% | YES |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.1x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 14.9%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 14.7%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -21,7 +21,7 @@ Technology / Scientific & Technical Instruments
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.8/10 | 30% | 1.7 | Avg ROIC: 14.5% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 55% (moderate cyclicality); FCF/NI: 79%; Gross margin: 59% | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 14.9% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 14.6% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 14.7% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 14.6% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 59% — moderate moat for Technology; Operating margin 25% | - |
 | Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 23.7x — growth premium; 52w range position: 67%; Owner earnings yield: 1.7%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
@@ -36,9 +36,9 @@ Technology / Scientific & Technical Instruments
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Scientific & Technical Instruments
-- **Margin of Safety**: -8% — ABSENT ($245 > IV $225 at 25x for 22% growth)
+- **Margin of Safety**: -9% — ABSENT ($245 > IV $222 at 25x for 22% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
-- **Incentive-Caused Bias**: Aligned — 14.9% insider ownership
+- **Incentive-Caused Bias**: Aligned — 14.7% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

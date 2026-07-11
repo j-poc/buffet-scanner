@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ABNB
-*Generated: 2026-07-10 07:42 | Price: $146.89 | Mkt Cap: $87B*
+*Generated: 2026-07-11 06:19 | Price: $146.89 | Mkt Cap: $87B*
 
 ## Sector Context
 Consumer Cyclical / Travel Services
@@ -36,7 +36,7 @@ Consumer Cyclical / Travel Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Travel Services
-- **Margin of Safety**: -53% — ABSENT ($147 > IV $69 at 17x for 6% growth)
+- **Margin of Safety**: -53% — ABSENT ($147 > IV $70 at 17x for 6% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 1.1% insider ownership
 - **Mr. Market**: Greedy — exercise caution

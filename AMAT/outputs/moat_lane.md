@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMAT
-*Generated: 2026-07-10 07:42 | Price: $588.66 | Mkt Cap: $467B*
+*Generated: 2026-07-11 06:19 | Price: $588.66 | Mkt Cap: $467B*
 
 ## Sector Context
 Technology / Semiconductor Equipment & Materials
@@ -36,7 +36,7 @@ Technology / Semiconductor Equipment & Materials
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductor Equipment & Materials
-- **Margin of Safety**: -53% — ABSENT ($589 > IV $274 at 25x for 25% growth)
+- **Margin of Safety**: -54% — ABSENT ($589 > IV $273 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

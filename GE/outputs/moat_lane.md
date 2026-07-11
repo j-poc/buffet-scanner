@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GE
-*Generated: 2026-07-10 07:43 | Price: $359.04 | Mkt Cap: $375B*
+*Generated: 2026-07-11 06:22 | Price: $359.04 | Mkt Cap: $375B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -36,7 +36,7 @@ Industrials / Aerospace & Defense
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Aerospace & Defense
-- **Margin of Safety**: -66% — ABSENT ($359 > IV $122 at 15x for -2% growth)
+- **Margin of Safety**: -66% — ABSENT ($359 > IV $121 at 15x for -2% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

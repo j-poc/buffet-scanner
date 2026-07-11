@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CTVA
-*Generated: 2026-07-10 07:43 | Price: $83.86 | Mkt Cap: $56B*
+*Generated: 2026-07-11 06:20 | Price: $83.86 | Mkt Cap: $56B*
 
 ## Sector Context
 Basic Materials / Agricultural Inputs
@@ -36,7 +36,7 @@ Basic Materials / Agricultural Inputs
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Agricultural Inputs
-- **Margin of Safety**: -57% — ABSENT ($84 > IV $36 at 20x for 12% growth)
+- **Margin of Safety**: -55% — ABSENT ($84 > IV $38 at 20x for 12% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Greedy — exercise caution

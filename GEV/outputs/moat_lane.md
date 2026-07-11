@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GEV
-*Generated: 2026-07-10 07:43 | Price: $1075.26 | Mkt Cap: $289B*
+*Generated: 2026-07-11 06:22 | Price: $1075.26 | Mkt Cap: $289B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
@@ -36,7 +36,7 @@ Industrials / Specialty Industrial Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Industrial Machinery
-- **Margin of Safety**: -20% — ABSENT ($1075 > IV $860 at 25x for 25% growth)
+- **Margin of Safety**: -19% — ABSENT ($1075 > IV $868 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral
