@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KO
-*Generated: 2026-07-11 06:20 | Price: $83.485 | Mkt Cap: $359B*
+*Generated: 2026-07-12 06:40 | Price: $83.49 | Mkt Cap: $359B*
 
 ## Sector Context
 Consumer Defensive / Beverages - Non-Alcoholic
@@ -36,7 +36,7 @@ Consumer Defensive / Beverages - Non-Alcoholic
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Beverages - Non-Alcoholic
-- **Margin of Safety**: -23% — ABSENT ($83 > IV $64 at 20x for 18% growth)
+- **Margin of Safety**: -24% — ABSENT ($83 > IV $64 at 20x for 18% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Aligned — 9.9% insider ownership
 - **Mr. Market**: Greedy — exercise caution

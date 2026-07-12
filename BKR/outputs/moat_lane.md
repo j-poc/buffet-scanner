@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BKR
-*Generated: 2026-07-11 06:20 | Price: $57.5599 | Mkt Cap: $57B*
+*Generated: 2026-07-12 06:40 | Price: $57.56 | Mkt Cap: $57B*
 
 ## Sector Context
 Energy / Oil & Gas Equipment & Services
@@ -36,7 +36,7 @@ Energy / Oil & Gas Equipment & Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Equipment & Services
-- **Margin of Safety**: 37% — PRESENT (IV $79 vs $58 at 25x)
+- **Margin of Safety**: 36% — PRESENT (IV $78 vs $58 at 25x)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

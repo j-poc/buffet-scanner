@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HUM
-*Generated: 2026-07-11 06:22 | Price: $393.87 | Mkt Cap: $47B*
+*Generated: 2026-07-12 06:41 | Price: $392.22 | Mkt Cap: $47B*
 
 ## Sector Context
 Healthcare / Healthcare Plans
@@ -23,10 +23,10 @@ Healthcare / Healthcare Plans
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.8% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 58% from prior peak; 5y price drawdown: 70% (severe cyclicality); FCF/NI: 118% (strong); Gross margin: 14% (below Healthcare norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 14% — below Healthcare moderate cutoff 35%; Operating margin 5% — thin for Healthcare; Rev growth 24% — demand pull | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 25.0x — growth premium; Near 52w high (92% of range) — Mr. Market greedy; Owner earnings yield: 3.0%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **2.9/10** | **100%** | **2.9** | | |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 24.9x — growth premium; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 3.0%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **3.0/10** | **100%** | **3.0** | | |
 
-## Buffett Score: 2.9 / 10
+## Buffett Score: 3.0 / 10
 ## Alpha Adjustment: -0.28
 ## Conviction: AVOID
 ## Verdict: Avoid
@@ -36,7 +36,7 @@ Healthcare / Healthcare Plans
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Healthcare Plans
-- **Margin of Safety**: -65% — ABSENT ($394 > IV $139 at 15x for -5% growth)
+- **Margin of Safety**: -64% — ABSENT ($392 > IV $141 at 15x for -5% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution

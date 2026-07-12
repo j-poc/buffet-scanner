@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HUBB
-*Generated: 2026-07-11 06:22 | Price: $491.175 | Mkt Cap: $26B*
+*Generated: 2026-07-12 06:41 | Price: $490.94 | Mkt Cap: $26B*
 
 ## Sector Context
 Industrials / Electrical Equipment & Parts
@@ -36,7 +36,7 @@ Industrials / Electrical Equipment & Parts
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Electrical Equipment & Parts
-- **Margin of Safety**: -30% — ABSENT ($491 > IV $343 at 20x for 12% growth)
+- **Margin of Safety**: -31% — ABSENT ($491 > IV $339 at 20x for 12% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral
