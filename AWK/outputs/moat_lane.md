@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AWK
-*Generated: 2026-07-12 06:39 | Price: $130.69 | Mkt Cap: $26B*
+*Generated: 2026-07-13 07:27 | Price: $130.69 | Mkt Cap: $26B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Water

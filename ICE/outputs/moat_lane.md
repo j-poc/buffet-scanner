@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ICE
-*Generated: 2026-07-12 06:41 | Price: $135.26 | Mkt Cap: $76B*
+*Generated: 2026-07-13 07:29 | Price: $135.26 | Mkt Cap: $76B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges

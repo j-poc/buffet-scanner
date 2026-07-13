@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AIZ
-*Generated: 2026-07-12 06:39 | Price: $278.89 | Mkt Cap: $14B*
+*Generated: 2026-07-13 07:28 | Price: $278.89 | Mkt Cap: $14B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty

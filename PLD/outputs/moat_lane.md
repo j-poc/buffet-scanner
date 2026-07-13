@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PLD
-*Generated: 2026-07-12 06:43 | Price: $140.87 | Mkt Cap: $134B*
+*Generated: 2026-07-13 07:31 | Price: $140.87 | Mkt Cap: $134B*
 
 ## Sector Context
 Real Estate / REIT - Industrial
@@ -21,7 +21,7 @@ Real Estate / REIT - Industrial
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: 4.2% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 145% (strong); Gross margin: 76% (pricing power for Real Estate) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 76% vs sector strong cutoff 55% — strong pricing power; Operating margin 38% — durable for Real Estate | - |
 | Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 41.6x — expensive; 52w range position: 80%; Owner earnings yield: 3.6%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.7/10** | **100%** | **4.7** | | |

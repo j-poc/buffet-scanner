@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: INVH
-*Generated: 2026-07-12 06:42 | Price: $29.6 | Mkt Cap: $18B*
+*Generated: 2026-07-13 07:30 | Price: $29.6 | Mkt Cap: $18B*
 
 ## Sector Context
 Real Estate / REIT - Residential

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PHM
-*Generated: 2026-07-12 06:43 | Price: $124.75 | Mkt Cap: $24B*
+*Generated: 2026-07-13 07:33 | Price: $124.75 | Mkt Cap: $24B*
 
 ## Sector Context
 Consumer Cyclical / Residential Construction

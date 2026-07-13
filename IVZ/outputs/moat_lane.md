@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IVZ
-*Generated: 2026-07-12 06:42 | Price: $28.98 | Mkt Cap: $13B*
+*Generated: 2026-07-13 07:30 | Price: $28.98 | Mkt Cap: $13B*
 
 ## Sector Context
 Financial Services / Asset Management

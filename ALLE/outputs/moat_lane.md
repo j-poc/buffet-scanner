@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALLE
-*Generated: 2026-07-12 06:39 | Price: $136.63 | Mkt Cap: $12B*
+*Generated: 2026-07-13 07:27 | Price: $136.63 | Mkt Cap: $12B*
 
 ## Sector Context
 Industrials / Security & Protection Services

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MPC
-*Generated: 2026-07-12 06:42 | Price: $283.74 | Mkt Cap: $83B*
+*Generated: 2026-07-13 07:30 | Price: $283.74 | Mkt Cap: $83B*
 
 ## Sector Context
 Energy / Oil & Gas Refining & Marketing
@@ -23,7 +23,7 @@ Energy / Oil & Gas Refining & Marketing
 | Quality | 1.8/10 | 30% | 0.5 | ROIC declining trend; Avg ROIC: 20.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 76% from prior peak; 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 130% (strong); Gross margin: 11% (below Energy norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 11% — below Energy moderate cutoff 15%; Operating margin 4% — thin for Energy | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 11.8x — deep value; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 4.2% | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 12.0x — deep value; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 4.2% | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10

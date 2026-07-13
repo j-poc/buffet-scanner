@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TPR
-*Generated: 2026-07-12 06:45 | Price: $140.73 | Mkt Cap: $28B*
+*Generated: 2026-07-13 07:34 | Price: $140.73 | Mkt Cap: $28B*
 
 ## Sector Context
 Consumer Cyclical / Luxury Goods

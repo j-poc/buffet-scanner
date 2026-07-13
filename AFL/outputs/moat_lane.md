@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AFL
-*Generated: 2026-07-12 06:39 | Price: $121.91 | Mkt Cap: $62B*
+*Generated: 2026-07-13 07:27 | Price: $121.91 | Mkt Cap: $62B*
 
 > ⚠ DATA: yfinance misclassified Japan Post Holdings Co., Ltd. (10.2% inst.) as insider
 

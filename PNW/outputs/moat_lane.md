@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PNW
-*Generated: 2026-07-12 06:43 | Price: $108.12 | Mkt Cap: $13B*
+*Generated: 2026-07-13 07:31 | Price: $108.12 | Mkt Cap: $13B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric

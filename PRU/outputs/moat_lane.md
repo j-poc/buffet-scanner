@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PRU
-*Generated: 2026-07-12 06:43 | Price: $115.37 | Mkt Cap: $40B*
+*Generated: 2026-07-13 07:31 | Price: $115.37 | Mkt Cap: $40B*
 
 ## Sector Context
 Financial Services / Insurance - Life

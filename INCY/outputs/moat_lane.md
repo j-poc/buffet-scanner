@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: INCY
-*Generated: 2026-07-12 06:41 | Price: $116.71 | Mkt Cap: $23B*
+*Generated: 2026-07-13 07:29 | Price: $116.71 | Mkt Cap: $23B*
 
 ## Sector Context
 Healthcare / Biotechnology

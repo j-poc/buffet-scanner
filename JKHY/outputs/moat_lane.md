@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JKHY
-*Generated: 2026-07-12 06:42 | Price: $150.32 | Mkt Cap: $11B*
+*Generated: 2026-07-13 07:30 | Price: $150.32 | Mkt Cap: $11B*
 
 ## Sector Context
 Technology / Information Technology Services

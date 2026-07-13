@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APH
-*Generated: 2026-07-12 06:39 | Price: $159.06 | Mkt Cap: $196B*
+*Generated: 2026-07-13 07:28 | Price: $159.06 | Mkt Cap: $196B*
 
 ## Sector Context
 Technology / Electronic Components

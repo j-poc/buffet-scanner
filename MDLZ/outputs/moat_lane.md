@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MDLZ
-*Generated: 2026-07-12 06:42 | Price: $58.83 | Mkt Cap: $76B*
+*Generated: 2026-07-13 07:30 | Price: $58.83 | Mkt Cap: $76B*
 
 ## Sector Context
 Consumer Defensive / Confectioners

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FSLR
-*Generated: 2026-07-12 06:41 | Price: $227.83 | Mkt Cap: $24B*
+*Generated: 2026-07-13 07:29 | Price: $227.83 | Mkt Cap: $24B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Capital Management LLC (6.3% inst.) as insider
 
