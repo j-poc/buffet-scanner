@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IBKR
-*Generated: 2026-07-13 07:29 | Price: $94.09 | Mkt Cap: $160B*
+*Generated: 2026-07-14 06:19 | Price: $93.56 | Mkt Cap: $159B*
 
 ## Sector Context
 Financial Services / Capital Markets
@@ -23,7 +23,7 @@ Financial Services / Capital Markets
 | Quality | 8.0/10 | 30% | 2.4 | ROE: 23.6% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 39% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.9% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | ROE 24% — strong franchise (Financial Services); Operating margin 77% — durable for Financial Services | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 31.6x — expensive; Near 52w high (91% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 31.4x — expensive; Near 52w high (89% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
 ## Buffett Score: 6.4 / 10

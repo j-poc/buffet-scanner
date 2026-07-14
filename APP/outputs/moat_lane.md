@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APP
-*Generated: 2026-07-13 07:28 | Price: $506.98 | Mkt Cap: $170B*
+*Generated: 2026-07-14 06:17 | Price: $442.85 | Mkt Cap: $149B*
 
 ## Sector Context
 Communication Services / Advertising Agencies
@@ -23,23 +23,23 @@ Communication Services / Advertising Agencies
 | Quality | 7.5/10 | 30% | 2.2 | Avg ROIC: 26.2% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 92% (severe cyclicality); FCF/NI: 79%; Gross margin: 88% (pricing power for Communication Services) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 14.3% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 16.4% of shares (SBC concern) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 88% vs sector strong cutoff 55% — strong pricing power; Operating margin 78% — durable for Communication Services; Rev growth 59% — demand pull | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 23.4x — growth premium; 52w range position: 41%; Owner earnings yield: 1.9%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **8.0/10** | **100%** | **8.0** | | |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 20.4x — growth premium; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 2.1%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **8.2/10** | **100%** | **8.2** | | |
 
-## Buffett Score: 8.0 / 10
-## Alpha Adjustment: +0.30
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 8.2 / 10
+## Alpha Adjustment: +0.40
+## Conviction: HIGH
+## Verdict: Own Forever
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Advertising Agencies
-- **Margin of Safety**: -43% — ABSENT ($507 > IV $288 at 25x for 25% growth)
+- **Margin of Safety**: -35% — ABSENT ($443 > IV $288 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Aligned — 14.3% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (2 forces only: strong moat, secular growth)
@@ -48,7 +48,7 @@ No (2 forces only: strong moat, secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.30 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.40 applied to composite alpha score
+Conviction Gate: HIGH — Proceed
+Half-life adjustment: None
 ```

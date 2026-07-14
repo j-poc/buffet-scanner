@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GEHC
-*Generated: 2026-07-13 07:29 | Price: $64.7 | Mkt Cap: $29B*
+*Generated: 2026-07-14 06:18 | Price: $65.31 | Mkt Cap: $30B*
 
 ## Sector Context
 Healthcare / Medical Devices
@@ -23,7 +23,7 @@ Healthcare / Medical Devices
 | Quality | 5.8/10 | 30% | 1.7 | Avg ROIC: 13.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 37% (stable); FCF/NI: 88% (strong); Gross margin: 39% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 39% — moderate moat for Healthcare; Operating margin 11% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.1x — deep value; Near 52w low (19% of range) — Mr. Market fearful; Owner earnings yield: 5.0% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.2x — deep value; Near 52w low (21% of range) — Mr. Market fearful; Owner earnings yield: 5.0% | - |
 | **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
 ## Buffett Score: 6.4 / 10

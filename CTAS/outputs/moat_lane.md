@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CTAS
-*Generated: 2026-07-13 07:28 | Price: $179.64 | Mkt Cap: $72B*
+*Generated: 2026-07-14 06:17 | Price: $183.75 | Mkt Cap: $74B*
 
 ## Sector Context
 Industrials / Specialty Business Services
@@ -23,23 +23,23 @@ Industrials / Specialty Business Services
 | Quality | 9.8/10 | 30% | 2.9 | Avg ROIC: 23.4% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 28% (stable); FCF/NI: 100% (strong); Gross margin: 50% (pricing power for Industrials) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 15.0% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 14.5% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 50% vs sector strong cutoff 35% — strong pricing power; Operating margin 23% — durable for Industrials | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 33.1x — expensive; Near 52w low (28% of range) — Mr. Market fearful; Owner earnings yield: 2.1%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **8.3/10** | **100%** | **8.3** | | |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 33.8x — expensive; 52w range position: 34%; Owner earnings yield: 2.1%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **8.0/10** | **100%** | **8.0** | | |
 
-## Buffett Score: 8.3 / 10
-## Alpha Adjustment: +0.40
-## Conviction: HIGH
-## Verdict: Own Forever
+## Buffett Score: 8.0 / 10
+## Alpha Adjustment: +0.30
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Business Services
-- **Margin of Safety**: -55% — ABSENT ($180 > IV $81 at 17x for 10% growth)
+- **Margin of Safety**: -55% — ABSENT ($184 > IV $82 at 17x for 10% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Aligned — 15.0% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (2 forces only: high quality, strong moat)
@@ -48,7 +48,7 @@ No (2 forces only: high quality, strong moat)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.40 applied to composite alpha score
-Conviction Gate: HIGH — Proceed
-Half-life adjustment: None
+Buffett Premium: +0.30 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

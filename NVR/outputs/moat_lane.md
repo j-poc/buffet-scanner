@@ -1,8 +1,10 @@
 # Buffett/Munger Moat Lane: NVR
-*Generated: 2026-07-13 07:30 | Price: $N/A | Mkt Cap: $17B*
+*Generated: 2026-07-14 06:19 | Price: $6437.99 | Mkt Cap: $17B*
+
+> ⚠ DATA: yfinance misclassified Vanguard Capital Management LLC (6.6% inst.) as insider
 
 ## Sector Context
- / 
+Consumer Cyclical / Residential Construction
 
 ---
 
@@ -11,7 +13,7 @@
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.7x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,13 +22,13 @@
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.0/10 | 30% | 0.9 | ROIC declining trend; Avg ROIC: 33.2% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 90% (strong); Gross margin: 0% (below  norm) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.0% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 0% — below  moderate cutoff 40%; Operating margin 0% — thin for  | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.4x — fair price; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
+| Quality | 3.0/10 | 30% | 0.9 | ROIC declining trend; Avg ROIC: 33.2% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 90% (strong); Gross margin: 22% (below Consumer Cyclical norm) | ROIC declining |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.6% (low) | - |
+| Moat | 5.0/10 | 25% | 1.2 | Gross margin 22% — below Consumer Cyclical moderate cutoff 30%; Operating margin 14% — durable for Consumer Cyclical | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.3x — fair price; 52w range position: 30%; Owner earnings yield: 7.2% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
-## Buffett Score: 4.5 / 10
+## Buffett Score: 5.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,10 +37,11 @@
 
 ## Mental Models Applied
 
-- **Circle of Competence**:  / 
-- **Margin of Safety**: Cannot calculate (no positive EPS)
+- **Circle of Competence**: Consumer Cyclical / Residential Construction
+- **Margin of Safety**: -5% — ABSENT ($6438 > IV $6142 at 15x for -28% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)
