@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RL
-*Generated: 2026-07-14 06:22 | Price: $374.49 | Mkt Cap: $22B*
+*Generated: 2026-07-15 06:24 | Price: $368.97 | Mkt Cap: $22B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Manufacturing
@@ -23,7 +23,7 @@ Consumer Cyclical / Apparel Manufacturing
 | Quality | 9.2/10 | 30% | 2.8 | Avg ROIC: 19.8% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 37% (stable); FCF/NI: 97% (strong); Gross margin: 70% (pricing power for Consumer Cyclical) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 70% vs sector strong cutoff 45% — strong pricing power; Operating margin 13% — durable for Consumer Cyclical | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.4x — fair price; 52w range position: 68%; Owner earnings yield: 2.9%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.1x — fair price; 52w range position: 65%; Owner earnings yield: 3.0%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **8.1/10** | **100%** | **8.1** | | |
 
 ## Buffett Score: 8.1 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Apparel Manufacturing
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Apparel Manufacturing
-- **Margin of Safety**: -23% — ABSENT ($374 > IV $287 at 20x for 20% growth)
+- **Margin of Safety**: -19% — ABSENT ($369 > IV $297 at 20x for 20% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
 - **Incentive-Caused Bias**: Weak alignment — only 2.5% insider ownership
 - **Mr. Market**: Neutral

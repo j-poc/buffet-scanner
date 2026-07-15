@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EMR
-*Generated: 2026-07-14 06:18 | Price: $135.38 | Mkt Cap: $76B*
+*Generated: 2026-07-15 06:22 | Price: $136.09 | Mkt Cap: $76B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
@@ -23,10 +23,10 @@ Industrials / Specialty Industrial Machinery
 | Quality | 2.5/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 8.2% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 85% from prior peak; 5y price drawdown: 30% (stable); FCF/NI: 87% (strong); Gross margin: 53% (pricing power for Industrials) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 53% vs sector strong cutoff 35% — strong pricing power; Operating margin 24% — durable for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 18.9x — fair price; Near 52w low (30% of range) — Mr. Market fearful; Owner earnings yield: 4.3%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.0x — fair price; 52w range position: 32%; Owner earnings yield: 4.3%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
-## Buffett Score: 6.0 / 10
+## Buffett Score: 5.7 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Industrials / Specialty Industrial Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Industrial Machinery
-- **Margin of Safety**: -22% — ABSENT ($135 > IV $105 at 25x for 25% growth)
+- **Margin of Safety**: -20% — ABSENT ($136 > IV $108 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (2 forces only: strong moat, attractive valuation)

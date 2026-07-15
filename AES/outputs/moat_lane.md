@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AES
-*Generated: 2026-07-14 06:17 | Price: $14.76 | Mkt Cap: $11B*
+*Generated: 2026-07-15 06:20 | Price: $14.8 | Mkt Cap: $11B*
 
 ## Sector Context
 Utilities / Utilities - Diversified
@@ -36,7 +36,7 @@ Utilities / Utilities - Diversified
 ## Mental Models Applied
 
 - **Circle of Competence**: Utilities / Utilities - Diversified
-- **Margin of Safety**: 225% — PRESENT (IV $48 vs $15 at 25x)
+- **Margin of Safety**: 226% — PRESENT (IV $48 vs $15 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral

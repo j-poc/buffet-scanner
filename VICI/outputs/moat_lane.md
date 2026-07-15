@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VICI
-*Generated: 2026-07-14 06:23 | Price: $26.4 | Mkt Cap: $29B*
+*Generated: 2026-07-15 06:27 | Price: $26.28 | Mkt Cap: $29B*
 
 ## Sector Context
 Real Estate / REIT - Diversified
@@ -23,7 +23,7 @@ Real Estate / REIT - Diversified
 | Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 5.8% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 19% (stable); FCF/NI: 110% (strong); Gross margin: 99% (pricing power for Real Estate) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 3.3% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 99% vs sector strong cutoff 55% — strong pricing power; Operating margin 107% — durable for Real Estate | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.0x — deep value; Near 52w low (7% of range) — Mr. Market fearful; Owner earnings yield: 4.4% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.0x — deep value; Near 52w low (6% of range) — Mr. Market fearful; Owner earnings yield: 4.4% | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

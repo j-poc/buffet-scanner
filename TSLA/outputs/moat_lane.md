@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TSLA
-*Generated: 2026-07-14 06:23 | Price: $394.76 | Mkt Cap: $1483B*
+*Generated: 2026-07-15 06:25 | Price: $396.18 | Mkt Cap: $1488B*
 
 ## Sector Context
 Consumer Cyclical / Auto Manufacturers
@@ -21,9 +21,9 @@ Consumer Cyclical / Auto Manufacturers
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 12.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 75% from prior peak; 5y price drawdown: 74% (severe cyclicality); FCF/NI: 76%; Gross margin: 19% (below Consumer Cyclical norm) | ROIC declining |
-| Management | 8.5/10 | 25% | 2.1 | Insider value: $278B (18.7%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 30.1% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider value: $279B (18.7%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 30.1% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 19% — below Consumer Cyclical moderate cutoff 30%; Operating margin 4% — thin for Consumer Cyclical | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 153.2x — extreme premium; 52w range position: 48%; Owner earnings yield: 0.4%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 152.8x — extreme premium; 52w range position: 49%; Owner earnings yield: 0.4%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.3/10** | **100%** | **3.3** | | |
 
 ## Buffett Score: 3.3 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Auto Manufacturers
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Auto Manufacturers
-- **Margin of Safety**: -95% — ABSENT ($395 > IV $19 at 17x for 8% growth)
+- **Margin of Safety**: -95% — ABSENT ($396 > IV $19 at 17x for 8% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Aligned — 18.7% insider ownership
 - **Mr. Market**: Neutral
