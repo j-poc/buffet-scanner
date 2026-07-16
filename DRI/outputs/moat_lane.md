@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DRI
-*Generated: 2026-07-15 06:22 | Price: $195.74 | Mkt Cap: $22B*
+*Generated: 2026-07-16 06:25 | Price: $196.06 | Mkt Cap: $22B*
 
 ## Sector Context
 Consumer Cyclical / Restaurants
@@ -36,7 +36,7 @@ Consumer Cyclical / Restaurants
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Restaurants
-- **Margin of Safety**: 33% — PRESENT (IV $260 vs $196 at 25x)
+- **Margin of Safety**: 33% — PRESENT (IV $261 vs $196 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: high quality, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

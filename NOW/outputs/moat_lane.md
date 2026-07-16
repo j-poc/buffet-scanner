@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NOW
-*Generated: 2026-07-15 06:25 | Price: $104.85 | Mkt Cap: $108B*
+*Generated: 2026-07-16 06:28 | Price: $104.73 | Mkt Cap: $108B*
 
 ## Sector Context
 Technology / Software - Application
@@ -36,7 +36,7 @@ Technology / Software - Application
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Application
-- **Margin of Safety**: -77% — ABSENT ($105 > IV $24 at 15x for 2% growth)
+- **Margin of Safety**: -76% — ABSENT ($105 > IV $25 at 15x for 2% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

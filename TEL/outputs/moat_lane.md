@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TEL
-*Generated: 2026-07-15 06:25 | Price: $200.98 | Mkt Cap: $59B*
+*Generated: 2026-07-16 06:28 | Price: $201.34 | Mkt Cap: $59B*
 
 ## Sector Context
 Technology / Electronic Components
@@ -36,7 +36,7 @@ Technology / Electronic Components
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Electronic Components
-- **Margin of Safety**: 24% — thin (IV $248 at 25x)
+- **Margin of Safety**: 22% — thin (IV $245 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral
