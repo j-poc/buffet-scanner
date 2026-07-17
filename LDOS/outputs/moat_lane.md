@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LDOS
-*Generated: 2026-07-16 06:27 | Price: $108.21 | Mkt Cap: $14B*
+*Generated: 2026-07-17 06:24 | Price: $108.29 | Mkt Cap: $14B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -36,7 +36,7 @@ Technology / Information Technology Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Information Technology Services
-- **Margin of Safety**: 54% — PRESENT (IV $166 vs $108 at 15x)
+- **Margin of Safety**: 52% — PRESENT (IV $164 vs $108 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

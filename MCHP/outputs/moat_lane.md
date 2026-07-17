@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MCHP
-*Generated: 2026-07-16 06:27 | Price: $86.26 | Mkt Cap: $47B*
+*Generated: 2026-07-17 06:24 | Price: $81.68 | Mkt Cap: $44B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -23,10 +23,10 @@ Technology / Semiconductors
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 10.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 100% from prior peak; 5y price drawdown: 64% (severe cyclicality); FCF/NI: -38441% (weak conversion); Gross margin: 58% | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.0% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 58% — moderate moat for Technology; Operating margin 17% — thin for Technology; Rev growth 35% — demand pull | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.8x — growth premium; 52w range position: 66%; Owner earnings yield: 2.4%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.7x — fair price; 52w range position: 58%; Owner earnings yield: 2.6%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
-## Buffett Score: 4.2 / 10
+## Buffett Score: 4.7 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,13 +36,13 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: -94% — ABSENT ($86 > IV $6 at 25x for 25% growth)
-- **Lollapalooza Effect**: No (1 forces only: secular growth)
+- **Margin of Safety**: -94% — ABSENT ($82 > IV $5 at 25x for 25% growth)
+- **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 1.8% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (1 forces only: secular growth)
+No (2 forces only: attractive valuation, secular growth)
 
 ---
 

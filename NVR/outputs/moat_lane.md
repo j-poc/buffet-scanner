@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NVR
-*Generated: 2026-07-16 06:27 | Price: $6497.57 | Mkt Cap: $18B*
+*Generated: 2026-07-17 06:24 | Price: $6701.1 | Mkt Cap: $18B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Capital Management LLC (6.6% inst.) as insider
 
@@ -25,7 +25,7 @@ Consumer Cyclical / Residential Construction
 | Quality | 3.0/10 | 30% | 0.9 | ROIC declining trend; Avg ROIC: 33.2% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 90% (strong); Gross margin: 22% (below Consumer Cyclical norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.6% (low) | - |
 | Moat | 5.0/10 | 25% | 1.2 | Gross margin 22% — below Consumer Cyclical moderate cutoff 30%; Operating margin 14% — durable for Consumer Cyclical | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.5x — fair price; 52w range position: 32%; Owner earnings yield: 7.1% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 16.0x — fair price; 52w range position: 38%; Owner earnings yield: 6.9% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10
@@ -38,7 +38,7 @@ Consumer Cyclical / Residential Construction
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Residential Construction
-- **Margin of Safety**: -4% — ABSENT ($6498 > IV $6257 at 15x for -28% growth)
+- **Margin of Safety**: -5% — ABSENT ($6701 > IV $6333 at 15x for -28% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FLEX
-*Generated: 2026-07-16 06:26 | Price: $128.72 | Mkt Cap: $47B*
+*Generated: 2026-07-17 06:23 | Price: $121.12 | Mkt Cap: $44B*
 
 ## Sector Context
 Technology / Electronic Components
@@ -23,7 +23,7 @@ Technology / Electronic Components
 | Quality | 4.2/10 | 30% | 1.3 | Avg ROIC: 10.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 40% (stable); FCF/NI: 91% (strong); Gross margin: 9% (below Technology norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 9% — below Technology moderate cutoff 40%; Operating margin 6% — thin for Technology | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.6x — fair price; 52w range position: 68%; Owner earnings yield: 1.8%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.5x — fair price; 52w range position: 62%; Owner earnings yield: 1.9%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10
@@ -36,7 +36,7 @@ Technology / Electronic Components
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Electronic Components
-- **Margin of Safety**: -65% — ABSENT ($129 > IV $45 at 20x for 17% growth)
+- **Margin of Safety**: -64% — ABSENT ($121 > IV $44 at 20x for 17% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ABBV
-*Generated: 2026-07-16 06:24 | Price: $244.11 | Mkt Cap: $431B*
+*Generated: 2026-07-17 06:22 | Price: $254.39 | Mkt Cap: $449B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General
@@ -23,10 +23,10 @@ Healthcare / Drug Manufacturers - General
 | Quality | 1.5/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 11.0% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 64% from prior peak; 5y price drawdown: 22% (stable); FCF/NI: 374% (strong); Gross margin: 72% (pricing power for Healthcare) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 72% vs sector strong cutoff 55% — strong pricing power; Operating margin 32% — durable for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.0x — deep value; 52w range position: 77%; Owner earnings yield: 4.8%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 15.6x — fair price; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 4.6%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
-## Buffett Score: 5.7 / 10
+## Buffett Score: 5.2 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,13 +36,13 @@ Healthcare / Drug Manufacturers - General
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Drug Manufacturers - General
-- **Margin of Safety**: -88% — ABSENT ($244 > IV $30 at 15x for -46% growth)
-- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
+- **Margin of Safety**: -88% — ABSENT ($254 > IV $31 at 15x for -46% growth)
+- **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
-No (2 forces only: strong moat, attractive valuation)
+No (1 forces only: strong moat)
 
 ---
 

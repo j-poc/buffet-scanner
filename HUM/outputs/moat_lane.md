@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HUM
-*Generated: 2026-07-16 06:26 | Price: $407.78 | Mkt Cap: $49B*
+*Generated: 2026-07-17 06:23 | Price: $386.48 | Mkt Cap: $46B*
 
 ## Sector Context
 Healthcare / Healthcare Plans
@@ -23,11 +23,11 @@ Healthcare / Healthcare Plans
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.8% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 58% from prior peak; 5y price drawdown: 70% (severe cyclicality); FCF/NI: 118% (strong); Gross margin: 14% (below Healthcare norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 14% — below Healthcare moderate cutoff 35%; Operating margin 5% — thin for Healthcare; Rev growth 24% — demand pull | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 25.4x — growth premium; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 2.9%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **2.9/10** | **100%** | **2.9** | | |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 24.1x — growth premium; 52w range position: 84%; Owner earnings yield: 3.1%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **3.2/10** | **100%** | **3.2** | | |
 
-## Buffett Score: 2.9 / 10
-## Alpha Adjustment: -0.28
+## Buffett Score: 3.2 / 10
+## Alpha Adjustment: -0.26
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -36,10 +36,10 @@ Healthcare / Healthcare Plans
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Healthcare Plans
-- **Margin of Safety**: -65% — ABSENT ($408 > IV $141 at 15x for -5% growth)
+- **Margin of Safety**: -65% — ABSENT ($386 > IV $133 at 15x for -5% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: secular growth)
@@ -48,7 +48,7 @@ No (1 forces only: secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.28 applied to composite alpha score
+Buffett Premium: -0.26 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

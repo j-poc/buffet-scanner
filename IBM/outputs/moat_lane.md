@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IBM
-*Generated: 2026-07-16 06:26 | Price: $211.2 | Mkt Cap: $199B*
+*Generated: 2026-07-17 06:24 | Price: $219.05 | Mkt Cap: $206B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -23,7 +23,7 @@ Technology / Information Technology Services
 | Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 7.6% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 36% (stable); FCF/NI: 245% (strong); Gross margin: 58% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 58% — moderate moat for Technology; Operating margin 14% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.9x — fair price; Near 52w low (0% of range) — Mr. Market fearful; Owner earnings yield: 6.6% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.5x — fair price; Near 52w low (11% of range) — Mr. Market fearful; Owner earnings yield: 6.4% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
 ## Buffett Score: 5.7 / 10
@@ -36,7 +36,7 @@ Technology / Information Technology Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Information Technology Services
-- **Margin of Safety**: 4% — thin (IV $220 at 20x)
+- **Margin of Safety**: 7% — thin (IV $234 at 20x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

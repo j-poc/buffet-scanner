@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ELV
-*Generated: 2026-07-16 06:25 | Price: $390.33 | Mkt Cap: $85B*
+*Generated: 2026-07-17 06:23 | Price: $372.85 | Mkt Cap: $81B*
 
 ## Sector Context
 Healthcare / Healthcare Plans
@@ -11,7 +11,7 @@ Healthcare / Healthcare Plans
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.7x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.8x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.2%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,9 +21,9 @@ Healthcare / Healthcare Plans
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 10.0% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 92% (strong); Gross margin: 26% (below Healthcare norm) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.3% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 26% — below Healthcare moderate cutoff 35%; Operating margin 5% — thin for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.3x — deep value; 52w range position: 72%; Owner earnings yield: 5.1% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.6x — deep value; 52w range position: 61%; Owner earnings yield: 5.3% (>5%) | - |
 | **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 
 ## Buffett Score: 3.9 / 10
@@ -36,7 +36,7 @@ Healthcare / Healthcare Plans
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Healthcare Plans
-- **Margin of Safety**: -17% — ABSENT ($390 > IV $324 at 15x for -17% growth)
+- **Margin of Safety**: -13% — ABSENT ($373 > IV $324 at 15x for -13% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BG
-*Generated: 2026-07-16 06:25 | Price: $115.72 | Mkt Cap: $22B*
+*Generated: 2026-07-17 06:22 | Price: $115.83 | Mkt Cap: $22B*
 
 > ⚠ DATA: yfinance misclassified Glencore Plc (16.9% inst.) as insider
 

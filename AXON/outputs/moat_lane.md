@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AXON
-*Generated: 2026-07-16 06:24 | Price: $541.12 | Mkt Cap: $44B*
+*Generated: 2026-07-17 06:22 | Price: $541.75 | Mkt Cap: $44B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -36,7 +36,7 @@ Industrials / Aerospace & Defense
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Aerospace & Defense
-- **Margin of Safety**: -89% — ABSENT ($541 > IV $61 at 25x for 25% growth)
+- **Margin of Safety**: -89% — ABSENT ($542 > IV $62 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 4.1% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NKE
-*Generated: 2026-07-16 06:27 | Price: $42.77 | Mkt Cap: $63B*
+*Generated: 2026-07-17 06:24 | Price: $44.57 | Mkt Cap: $66B*
 
 ## Sector Context
 Consumer Cyclical / Footwear & Accessories
@@ -20,13 +20,13 @@ Consumer Cyclical / Footwear & Accessories
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.1/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 19.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 47% from prior peak; 5y price drawdown: 75% (severe cyclicality); FCF/NI: 97% (strong); Gross margin: 43% | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.0% (low) | - |
+| Quality | 0.8/10 | 30% | 0.2 | ROIC declining trend; Avg ROIC: 17.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 45% from prior peak; 5y price drawdown: 75% (severe cyclicality); FCF/NI: 96% (strong); Gross margin: 43% | ROIC declining |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.2% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 43% — moderate moat for Consumer Cyclical; Operating margin 12% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 18.1x — fair price; Near 52w low (7% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 18.9x — fair price; Near 52w low (11% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
-## Buffett Score: 5.3 / 10
+## Buffett Score: 5.2 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Consumer Cyclical / Footwear & Accessories
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Footwear & Accessories
-- **Margin of Safety**: 23% — thin (IV $52 at 25x)
+- **Margin of Safety**: 23% — thin (IV $55 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
