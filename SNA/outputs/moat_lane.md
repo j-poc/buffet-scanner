@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SNA
-*Generated: 2026-07-18 06:15 | Price: $410.99 | Mkt Cap: $21B*
+*Generated: 2026-07-19 06:39 | Price: $410.99 | Mkt Cap: $21B*
 
 ## Sector Context
 Industrials / Tools & Accessories
@@ -36,7 +36,7 @@ Industrials / Tools & Accessories
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Tools & Accessories
-- **Margin of Safety**: -30% — ABSENT ($411 > IV $288 at 15x for 4% growth)
+- **Margin of Safety**: -29% — ABSENT ($411 > IV $290 at 15x for 4% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 2.4% insider ownership
 - **Mr. Market**: Greedy — exercise caution

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CMS
-*Generated: 2026-07-18 06:10 | Price: $73.65 | Mkt Cap: $23B*
+*Generated: 2026-07-19 06:36 | Price: $73.65 | Mkt Cap: $23B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric
@@ -36,7 +36,7 @@ Utilities / Utilities - Regulated Electric
 ## Mental Models Applied
 
 - **Circle of Competence**: Utilities / Utilities - Regulated Electric
-- **Margin of Safety**: -17% — ABSENT ($74 > IV $61 at 17x for 9% growth)
+- **Margin of Safety**: -16% — ABSENT ($74 > IV $62 at 17x for 9% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral

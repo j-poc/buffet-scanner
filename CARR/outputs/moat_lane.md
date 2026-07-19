@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CARR
-*Generated: 2026-07-18 06:10 | Price: $68.69 | Mkt Cap: $57B*
+*Generated: 2026-07-19 06:36 | Price: $68.69 | Mkt Cap: $57B*
 
 ## Sector Context
 Industrials / Building Products & Equipment
@@ -36,7 +36,7 @@ Industrials / Building Products & Equipment
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Building Products & Equipment
-- **Margin of Safety**: -68% — ABSENT ($69 > IV $22 at 15x for -41% growth)
+- **Margin of Safety**: -67% — ABSENT ($69 > IV $22 at 15x for -41% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 4.7% insider ownership
 - **Mr. Market**: Neutral

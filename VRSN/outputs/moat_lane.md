@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VRSN
-*Generated: 2026-07-18 06:16 | Price: $277.66 | Mkt Cap: $25B*
+*Generated: 2026-07-19 06:41 | Price: $277.66 | Mkt Cap: $25B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (10.2% inst.) as insider
 
@@ -38,7 +38,7 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: -34% — ABSENT ($278 > IV $183 at 20x for 11% growth)
+- **Margin of Safety**: -35% — ABSENT ($278 > IV $181 at 20x for 11% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

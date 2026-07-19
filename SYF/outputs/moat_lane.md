@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SYF
-*Generated: 2026-07-18 06:15 | Price: $73.62 | Mkt Cap: $25B*
+*Generated: 2026-07-19 06:39 | Price: $73.62 | Mkt Cap: $25B*
 
 ## Sector Context
 Financial Services / Credit Services
@@ -36,7 +36,7 @@ Financial Services / Credit Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Credit Services
-- **Margin of Safety**: 225% — PRESENT (IV $239 vs $74 at 25x)
+- **Margin of Safety**: 228% — PRESENT (IV $242 vs $74 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FTV
-*Generated: 2026-07-18 06:11 | Price: $61.78 | Mkt Cap: $19B*
+*Generated: 2026-07-19 06:37 | Price: $61.78 | Mkt Cap: $19B*
 
 ## Sector Context
 Technology / Scientific & Technical Instruments
@@ -36,7 +36,7 @@ Technology / Scientific & Technical Instruments
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Scientific & Technical Instruments
-- **Margin of Safety**: -59% — ABSENT ($62 > IV $25 at 15x for -12% growth)
+- **Margin of Safety**: -58% — ABSENT ($62 > IV $26 at 15x for -12% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Greedy — exercise caution

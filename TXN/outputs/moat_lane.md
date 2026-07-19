@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TXN
-*Generated: 2026-07-18 06:15 | Price: $284.02 | Mkt Cap: $258B*
+*Generated: 2026-07-19 06:41 | Price: $284.02 | Mkt Cap: $258B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -36,7 +36,7 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: -50% — ABSENT ($284 > IV $143 at 25x for 25% growth)
+- **Margin of Safety**: -49% — ABSENT ($284 > IV $146 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

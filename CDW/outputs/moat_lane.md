@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CDW
-*Generated: 2026-07-18 06:10 | Price: $133.24 | Mkt Cap: $17B*
+*Generated: 2026-07-19 06:36 | Price: $133.24 | Mkt Cap: $17B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -36,7 +36,7 @@ Technology / Information Technology Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Information Technology Services
-- **Margin of Safety**: 4% — thin (IV $138 at 17x)
+- **Margin of Safety**: 5% — thin (IV $140 at 17x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral

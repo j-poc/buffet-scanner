@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MCD
-*Generated: 2026-07-18 06:12 | Price: $267.71 | Mkt Cap: $190B*
+*Generated: 2026-07-19 06:38 | Price: $267.71 | Mkt Cap: $190B*
 
 ## Sector Context
 Consumer Cyclical / Restaurants
@@ -36,7 +36,7 @@ Consumer Cyclical / Restaurants
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Restaurants
-- **Margin of Safety**: -24% — ABSENT ($268 > IV $202 at 17x for 7% growth)
+- **Margin of Safety**: -23% — ABSENT ($268 > IV $206 at 17x for 7% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

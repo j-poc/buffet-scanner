@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IRM
-*Generated: 2026-07-18 06:11 | Price: $123.82 | Mkt Cap: $37B*
+*Generated: 2026-07-19 06:38 | Price: $123.82 | Mkt Cap: $37B*
 
 ## Sector Context
 Real Estate / REIT - Specialty
@@ -36,7 +36,7 @@ Real Estate / REIT - Specialty
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Specialty
-- **Margin of Safety**: -81% — ABSENT ($124 > IV $24 at 25x for 25% growth)
+- **Margin of Safety**: -81% — ABSENT ($124 > IV $23 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Neutral

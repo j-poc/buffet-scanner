@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TMO
-*Generated: 2026-07-18 06:15 | Price: $532.48 | Mkt Cap: $198B*
+*Generated: 2026-07-19 06:41 | Price: $532.48 | Mkt Cap: $198B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research
@@ -36,7 +36,7 @@ Healthcare / Diagnostics & Research
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Diagnostics & Research
-- **Margin of Safety**: -33% — ABSENT ($532 > IV $357 at 20x for 11% growth)
+- **Margin of Safety**: -32% — ABSENT ($532 > IV $364 at 20x for 11% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

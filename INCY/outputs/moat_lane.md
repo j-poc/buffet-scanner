@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: INCY
-*Generated: 2026-07-18 06:11 | Price: $117.25 | Mkt Cap: $23B*
+*Generated: 2026-07-19 06:37 | Price: $117.25 | Mkt Cap: $23B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -12,7 +12,7 @@ Healthcare / Biotechnology
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Biotechnology | 25% | -35% | YES |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 1.9%; key-man / succession risk | 15% | -20% | No |
+| 3 | Management / Governance Failure | Insider ownership 1.8%; key-man / succession risk | 15% | -20% | No |
 
 ---
 
@@ -21,7 +21,7 @@ Healthcare / Biotechnology
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.1/10 | 30% | 1.5 | Avg ROIC: 13.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 95% from prior peak; 5y price drawdown: 40% (moderate cyclicality); FCF/NI: 290% (strong); Gross margin: 53% | - |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: 16.3% of shares (SBC concern) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 16.3% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 53% — moderate moat for Healthcare; Operating margin 26% — durable for Healthcare; Rev growth 21% — demand pull | - |
 | Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 13.4x — deep value; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 2.4% | - |
 | **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
@@ -36,9 +36,9 @@ Healthcare / Biotechnology
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Biotechnology
-- **Margin of Safety**: 52% — PRESENT (IV $178 vs $117 at 25x)
+- **Margin of Safety**: 51% — PRESENT (IV $177 vs $117 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
-- **Incentive-Caused Bias**: Weak alignment — only 1.9% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 1.8% insider ownership
 - **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IFF
-*Generated: 2026-07-18 06:11 | Price: $78.2 | Mkt Cap: $20B*
+*Generated: 2026-07-19 06:38 | Price: $78.2 | Mkt Cap: $20B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals
@@ -36,7 +36,7 @@ Basic Materials / Specialty Chemicals
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Specialty Chemicals
-- **Margin of Safety**: -38% — ABSENT ($78 > IV $49 at 15x for -4% growth)
+- **Margin of Safety**: -38% — ABSENT ($78 > IV $48 at 15x for -4% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

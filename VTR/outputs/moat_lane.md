@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VTR
-*Generated: 2026-07-18 06:16 | Price: $96.1 | Mkt Cap: $47B*
+*Generated: 2026-07-19 06:41 | Price: $96.1 | Mkt Cap: $47B*
 
 ## Sector Context
 Real Estate / REIT - Healthcare Facilities
@@ -36,7 +36,7 @@ Real Estate / REIT - Healthcare Facilities
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Healthcare Facilities
-- **Margin of Safety**: -90% — ABSENT ($96 > IV $10 at 17x for 10% growth)
+- **Margin of Safety**: -90% — ABSENT ($96 > IV $9 at 17x for 10% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Greedy — exercise caution

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMZN
-*Generated: 2026-07-18 06:10 | Price: $247.23 | Mkt Cap: $2659B*
+*Generated: 2026-07-19 06:35 | Price: $247.23 | Mkt Cap: $2659B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (6.8% inst.) as insider
 
@@ -38,7 +38,7 @@ Consumer Cyclical / Internet Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Internet Retail
-- **Margin of Safety**: -16% — ABSENT ($247 > IV $207 at 25x for 25% growth)
+- **Margin of Safety**: -15% — ABSENT ($247 > IV $209 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

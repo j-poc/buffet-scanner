@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ROP
-*Generated: 2026-07-18 06:15 | Price: $363.14 | Mkt Cap: $37B*
+*Generated: 2026-07-19 06:39 | Price: $363.14 | Mkt Cap: $37B*
 
 ## Sector Context
 Technology / Software - Application

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AIG
-*Generated: 2026-07-18 06:10 | Price: $80.5 | Mkt Cap: $43B*
+*Generated: 2026-07-19 06:35 | Price: $80.5 | Mkt Cap: $43B*
 
 ## Sector Context
 Financial Services / Insurance - Diversified
@@ -36,7 +36,7 @@ Financial Services / Insurance - Diversified
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Diversified
-- **Margin of Safety**: 82% — PRESENT (IV $146 vs $80 at 25x)
+- **Margin of Safety**: 76% — PRESENT (IV $142 vs $80 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral

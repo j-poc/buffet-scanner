@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WDC
-*Generated: 2026-07-18 06:16 | Price: $477.22 | Mkt Cap: $164B*
+*Generated: 2026-07-19 06:42 | Price: $477.22 | Mkt Cap: $164B*
 
 ## Sector Context
 Technology / Computer Hardware
@@ -36,7 +36,7 @@ Technology / Computer Hardware
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Computer Hardware
-- **Margin of Safety**: -11% — ABSENT ($477 > IV $427 at 25x for 25% growth)
+- **Margin of Safety**: -13% — ABSENT ($477 > IV $418 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral

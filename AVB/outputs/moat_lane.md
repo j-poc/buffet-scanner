@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AVB
-*Generated: 2026-07-18 06:10 | Price: $192.53 | Mkt Cap: $27B*
+*Generated: 2026-07-19 06:36 | Price: $192.53 | Mkt Cap: $27B*
 
 ## Sector Context
 Real Estate / REIT - Residential
@@ -36,7 +36,7 @@ Real Estate / REIT - Residential
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Residential
-- **Margin of Safety**: 3% — thin (IV $199 at 25x)
+- **Margin of Safety**: 5% — thin (IV $202 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral

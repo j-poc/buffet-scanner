@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DXCM
-*Generated: 2026-07-18 06:11 | Price: $76.65 | Mkt Cap: $30B*
+*Generated: 2026-07-19 06:36 | Price: $76.65 | Mkt Cap: $30B*
 
 ## Sector Context
 Healthcare / Medical Devices
@@ -36,7 +36,7 @@ Healthcare / Medical Devices
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Devices
-- **Margin of Safety**: -25% — ABSENT ($77 > IV $57 at 25x for 25% growth)
+- **Margin of Safety**: -24% — ABSENT ($77 > IV $58 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

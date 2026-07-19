@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TPR
-*Generated: 2026-07-18 06:15 | Price: $141.46 | Mkt Cap: $29B*
+*Generated: 2026-07-19 06:39 | Price: $141.46 | Mkt Cap: $29B*
 
 ## Sector Context
 Consumer Cyclical / Luxury Goods
@@ -36,7 +36,7 @@ Consumer Cyclical / Luxury Goods
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Luxury Goods
-- **Margin of Safety**: -43% — ABSENT ($141 > IV $80 at 25x for 25% growth)
+- **Margin of Safety**: -42% — ABSENT ($141 > IV $82 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

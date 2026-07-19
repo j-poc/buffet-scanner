@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GILD
-*Generated: 2026-07-18 06:11 | Price: $134.28 | Mkt Cap: $167B*
+*Generated: 2026-07-19 06:37 | Price: $134.28 | Mkt Cap: $167B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General
@@ -36,7 +36,7 @@ Healthcare / Drug Manufacturers - General
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Drug Manufacturers - General
-- **Margin of Safety**: 35% — PRESENT (IV $181 vs $134 at 25x)
+- **Margin of Safety**: 37% — PRESENT (IV $184 vs $134 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

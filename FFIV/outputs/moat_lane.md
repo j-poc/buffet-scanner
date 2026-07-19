@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FFIV
-*Generated: 2026-07-18 06:11 | Price: $409.095 | Mkt Cap: $23B*
+*Generated: 2026-07-19 06:37 | Price: $409.095 | Mkt Cap: $23B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -36,7 +36,7 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: -55% — ABSENT ($409 > IV $185 at 15x for 4% growth)
+- **Margin of Safety**: -55% — ABSENT ($409 > IV $183 at 15x for 4% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Greedy — exercise caution

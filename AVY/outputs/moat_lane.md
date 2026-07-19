@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AVY
-*Generated: 2026-07-18 06:10 | Price: $160.41 | Mkt Cap: $12B*
+*Generated: 2026-07-19 06:36 | Price: $160.41 | Mkt Cap: $12B*
 
 ## Sector Context
 Consumer Cyclical / Packaging & Containers
@@ -36,7 +36,7 @@ Consumer Cyclical / Packaging & Containers
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Packaging & Containers
-- **Margin of Safety**: -18% — ABSENT ($160 > IV $131 at 15x for 4% growth)
+- **Margin of Safety**: -17% — ABSENT ($160 > IV $133 at 15x for 4% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

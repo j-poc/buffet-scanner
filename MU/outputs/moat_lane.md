@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MU
-*Generated: 2026-07-18 06:12 | Price: $848.95 | Mkt Cap: $959B*
+*Generated: 2026-07-19 06:38 | Price: $848.95 | Mkt Cap: $959B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -36,7 +36,7 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: 30% — thin (IV $1102 at 25x)
+- **Margin of Safety**: 30% — PRESENT (IV $1106 vs $849 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

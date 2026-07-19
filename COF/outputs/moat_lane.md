@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COF
-*Generated: 2026-07-18 06:10 | Price: $208.03 | Mkt Cap: $128B*
+*Generated: 2026-07-19 06:36 | Price: $208.03 | Mkt Cap: $128B*
 
 ## Sector Context
 Financial Services / Credit Services
@@ -36,7 +36,7 @@ Financial Services / Credit Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Credit Services
-- **Margin of Safety**: -77% — ABSENT ($208 > IV $48 at 15x for -3% growth)
+- **Margin of Safety**: -77% — ABSENT ($208 > IV $49 at 15x for -3% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 1.9% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WEC
-*Generated: 2026-07-18 06:16 | Price: $113.35 | Mkt Cap: $37B*
+*Generated: 2026-07-19 06:42 | Price: $113.35 | Mkt Cap: $37B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric
@@ -36,7 +36,7 @@ Utilities / Utilities - Regulated Electric
 ## Mental Models Applied
 
 - **Circle of Competence**: Utilities / Utilities - Regulated Electric
-- **Margin of Safety**: -26% — ABSENT ($113 > IV $84 at 17x for 8% growth)
+- **Margin of Safety**: -25% — ABSENT ($113 > IV $85 at 17x for 8% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

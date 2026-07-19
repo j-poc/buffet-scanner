@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: QCOM
-*Generated: 2026-07-18 06:15 | Price: $171.78 | Mkt Cap: $181B*
+*Generated: 2026-07-19 06:39 | Price: $171.78 | Mkt Cap: $181B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -36,7 +36,7 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: 36% — PRESENT (IV $234 vs $172 at 25x)
+- **Margin of Safety**: 35% — PRESENT (IV $232 vs $172 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

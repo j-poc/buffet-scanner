@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BDX
-*Generated: 2026-07-18 06:10 | Price: $158.17 | Mkt Cap: $44B*
+*Generated: 2026-07-19 06:36 | Price: $158.17 | Mkt Cap: $44B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies
@@ -36,7 +36,7 @@ Healthcare / Medical Instruments & Supplies
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Instruments & Supplies
-- **Margin of Safety**: -39% — ABSENT ($158 > IV $96 at 17x for 5% growth)
+- **Margin of Safety**: -38% — ABSENT ($158 > IV $97 at 17x for 5% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral

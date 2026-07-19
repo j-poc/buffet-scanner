@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ODFL
-*Generated: 2026-07-18 06:12 | Price: $233.84 | Mkt Cap: $49B*
+*Generated: 2026-07-19 06:38 | Price: $233.84 | Mkt Cap: $49B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.2% inst.) as insider
 
@@ -38,7 +38,7 @@ Industrials / Trucking
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Trucking
-- **Margin of Safety**: -70% — ABSENT ($234 > IV $71 at 15x for -4% growth)
+- **Margin of Safety**: -69% — ABSENT ($234 > IV $72 at 15x for -4% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

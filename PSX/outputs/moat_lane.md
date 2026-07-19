@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PSX
-*Generated: 2026-07-18 06:12 | Price: $206.86 | Mkt Cap: $83B*
+*Generated: 2026-07-19 06:39 | Price: $206.86 | Mkt Cap: $83B*
 
 ## Sector Context
 Energy / Oil & Gas Refining & Marketing
@@ -36,7 +36,7 @@ Energy / Oil & Gas Refining & Marketing
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Refining & Marketing
-- **Margin of Safety**: -25% — ABSENT ($207 > IV $156 at 15x for -57% growth)
+- **Margin of Safety**: -27% — ABSENT ($207 > IV $152 at 15x for -57% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution

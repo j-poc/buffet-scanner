@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VEEV
-*Generated: 2026-07-18 06:16 | Price: $195.38 | Mkt Cap: $32B*
+*Generated: 2026-07-19 06:41 | Price: $195.38 | Mkt Cap: $32B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.1% inst.) as insider
 
@@ -38,7 +38,7 @@ Healthcare / Health Information Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Health Information Services
-- **Margin of Safety**: -43% — ABSENT ($195 > IV $112 at 20x for 15% growth)
+- **Margin of Safety**: -42% — ABSENT ($195 > IV $113 at 20x for 15% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

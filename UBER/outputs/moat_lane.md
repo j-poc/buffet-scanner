@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UBER
-*Generated: 2026-07-18 06:16 | Price: $72.46 | Mkt Cap: $147B*
+*Generated: 2026-07-19 06:41 | Price: $72.46 | Mkt Cap: $147B*
 
 ## Sector Context
 Technology / Software - Application
@@ -36,7 +36,7 @@ Technology / Software - Application
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Application
-- **Margin of Safety**: -18% — ABSENT ($72 > IV $59 at 15x for -85% growth)
+- **Margin of Safety**: -17% — ABSENT ($72 > IV $60 at 15x for -85% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

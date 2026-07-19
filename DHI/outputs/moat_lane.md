@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DHI
-*Generated: 2026-07-18 06:11 | Price: $149.39 | Mkt Cap: $42B*
+*Generated: 2026-07-19 06:37 | Price: $149.39 | Mkt Cap: $42B*
 
 > ⚠ DATA: yfinance misclassified Capital World Investors (13.0% inst.) as insider
 
@@ -38,7 +38,7 @@ Consumer Cyclical / Residential Construction
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Residential Construction
-- **Margin of Safety**: 4% — thin (IV $155 at 15x)
+- **Margin of Safety**: 7% — thin (IV $160 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JCI
-*Generated: 2026-07-18 06:12 | Price: $140.46 | Mkt Cap: $86B*
+*Generated: 2026-07-19 06:38 | Price: $140.46 | Mkt Cap: $86B*
 
 ## Sector Context
 Industrials / Building Products & Equipment
@@ -36,7 +36,7 @@ Industrials / Building Products & Equipment
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Building Products & Equipment
-- **Margin of Safety**: -42% — ABSENT ($140 > IV $81 at 25x for 25% growth)
+- **Margin of Safety**: -42% — ABSENT ($140 > IV $82 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

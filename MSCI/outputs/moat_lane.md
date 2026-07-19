@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MSCI
-*Generated: 2026-07-18 06:12 | Price: $628.66 | Mkt Cap: $46B*
+*Generated: 2026-07-19 06:38 | Price: $628.66 | Mkt Cap: $46B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges
@@ -36,7 +36,7 @@ Financial Services / Financial Data & Stock Exchanges
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Financial Data & Stock Exchanges
-- **Margin of Safety**: -31% — ABSENT ($629 > IV $432 at 25x for 25% growth)
+- **Margin of Safety**: -30% — ABSENT ($629 > IV $438 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 3.6% insider ownership
 - **Mr. Market**: Greedy — exercise caution

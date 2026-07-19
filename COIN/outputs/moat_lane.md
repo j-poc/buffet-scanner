@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COIN
-*Generated: 2026-07-18 06:10 | Price: $157.12 | Mkt Cap: $41B*
+*Generated: 2026-07-19 06:36 | Price: $157.12 | Mkt Cap: $41B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges
@@ -36,7 +36,7 @@ Financial Services / Financial Data & Stock Exchanges
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Financial Data & Stock Exchanges
-- **Margin of Safety**: -75% — ABSENT ($157 > IV $40 at 15x for -31% growth)
+- **Margin of Safety**: -74% — ABSENT ($157 > IV $41 at 15x for -31% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 1.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

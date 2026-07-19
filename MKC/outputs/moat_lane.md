@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MKC
-*Generated: 2026-07-18 06:12 | Price: $51.7 | Mkt Cap: $14B*
+*Generated: 2026-07-19 06:38 | Price: $51.7 | Mkt Cap: $14B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods
@@ -36,7 +36,7 @@ Consumer Defensive / Packaged Foods
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Packaged Foods
-- **Margin of Safety**: 70% — PRESENT (IV $88 vs $52 at 15x)
+- **Margin of Safety**: 74% — PRESENT (IV $90 vs $52 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

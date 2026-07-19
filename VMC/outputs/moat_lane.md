@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VMC
-*Generated: 2026-07-18 06:16 | Price: $288.33 | Mkt Cap: $37B*
+*Generated: 2026-07-19 06:42 | Price: $288.33 | Mkt Cap: $37B*
 
 ## Sector Context
 Basic Materials / Building Materials
@@ -36,7 +36,7 @@ Basic Materials / Building Materials
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Building Materials
-- **Margin of Safety**: -28% — ABSENT ($288 > IV $208 at 25x for 25% growth)
+- **Margin of Safety**: -27% — ABSENT ($288 > IV $211 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

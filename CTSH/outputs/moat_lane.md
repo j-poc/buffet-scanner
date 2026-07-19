@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CTSH
-*Generated: 2026-07-18 06:10 | Price: $44.77 | Mkt Cap: $21B*
+*Generated: 2026-07-19 06:36 | Price: $44.77 | Mkt Cap: $21B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -36,7 +36,7 @@ Technology / Information Technology Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Information Technology Services
-- **Margin of Safety**: 55% — PRESENT (IV $69 vs $45 at 15x)
+- **Margin of Safety**: 54% — PRESENT (IV $69 vs $45 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WM
-*Generated: 2026-07-18 06:16 | Price: $239.31 | Mkt Cap: $96B*
+*Generated: 2026-07-19 06:42 | Price: $239.31 | Mkt Cap: $96B*
 
 ## Sector Context
 Industrials / Waste Management
@@ -36,7 +36,7 @@ Industrials / Waste Management
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Waste Management
-- **Margin of Safety**: -43% — ABSENT ($239 > IV $136 at 20x for 13% growth)
+- **Margin of Safety**: -42% — ABSENT ($239 > IV $138 at 20x for 13% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

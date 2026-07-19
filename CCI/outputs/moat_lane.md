@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CCI
-*Generated: 2026-07-18 06:11 | Price: $79.17 | Mkt Cap: $35B*
+*Generated: 2026-07-19 06:36 | Price: $79.17 | Mkt Cap: $35B*
 
 ## Sector Context
 Real Estate / REIT - Specialty
@@ -23,7 +23,7 @@ Real Estate / REIT - Specialty
 | Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: 6.5% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 333% from prior peak; 5y price drawdown: 55% (severe cyclicality); FCF/NI: 216% (strong); Gross margin: 74% (pricing power for Real Estate) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 74% vs sector strong cutoff 55% — strong pricing power; Operating margin 48% — durable for Real Estate | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 27.3x — growth premium; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 3.5%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 26.8x — growth premium; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 3.5%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10

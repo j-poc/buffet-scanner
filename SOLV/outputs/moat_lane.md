@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SOLV
-*Generated: 2026-07-18 06:15 | Price: $81.31 | Mkt Cap: $14B*
+*Generated: 2026-07-19 06:39 | Price: $81.31 | Mkt Cap: $14B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies
@@ -36,7 +36,7 @@ Healthcare / Medical Instruments & Supplies
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Instruments & Supplies
-- **Margin of Safety**: 50% — PRESENT (IV $122 vs $81 at 15x)
+- **Margin of Safety**: 51% — PRESENT (IV $123 vs $81 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 15.1% insider ownership
 - **Mr. Market**: Neutral

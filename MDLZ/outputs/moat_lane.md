@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MDLZ
-*Generated: 2026-07-18 06:12 | Price: $61.0 | Mkt Cap: $78B*
+*Generated: 2026-07-19 06:38 | Price: $61.0 | Mkt Cap: $78B*
 
 ## Sector Context
 Consumer Defensive / Confectioners
@@ -36,7 +36,7 @@ Consumer Defensive / Confectioners
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Confectioners
-- **Margin of Safety**: -18% — ABSENT ($61 > IV $50 at 25x for 25% growth)
+- **Margin of Safety**: -17% — ABSENT ($61 > IV $50 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

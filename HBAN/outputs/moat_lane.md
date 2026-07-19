@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HBAN
-*Generated: 2026-07-18 06:11 | Price: $18.25 | Mkt Cap: $37B*
+*Generated: 2026-07-19 06:37 | Price: $18.25 | Mkt Cap: $37B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -36,7 +36,7 @@ Financial Services / Banks - Regional
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Regional
-- **Margin of Safety**: 5% — thin (IV $19 at 15x)
+- **Margin of Safety**: 7% — thin (IV $20 at 15x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
 - **Mr. Market**: Neutral

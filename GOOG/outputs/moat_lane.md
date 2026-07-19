@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GOOG
-*Generated: 2026-07-18 06:10 | Price: $346.12 | Mkt Cap: $4224B*
+*Generated: 2026-07-19 06:35 | Price: $346.12 | Mkt Cap: $4224B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (6.7% inst.) as insider
 
@@ -38,7 +38,7 @@ Communication Services / Internet Content & Information
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Internet Content & Information
-- **Margin of Safety**: -7% — ABSENT ($346 > IV $321 at 25x for 25% growth)
+- **Margin of Safety**: -5% — ABSENT ($346 > IV $328 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral
