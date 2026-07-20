@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HOOD
-*Generated: 2026-07-19 06:39 | Price: $99.96 | Mkt Cap: $90B*
+*Generated: 2026-07-20 06:58 | Price: $99.96 | Mkt Cap: $90B*
 
 ## Sector Context
 Financial Services / Capital Markets

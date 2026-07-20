@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NEM
-*Generated: 2026-07-19 06:38 | Price: $89.7 | Mkt Cap: $96B*
+*Generated: 2026-07-20 06:57 | Price: $89.7 | Mkt Cap: $96B*
 
 ## Sector Context
 Basic Materials / Gold

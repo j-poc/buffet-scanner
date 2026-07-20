@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RSG
-*Generated: 2026-07-19 06:39 | Price: $222.31 | Mkt Cap: $68B*
+*Generated: 2026-07-20 06:58 | Price: $222.31 | Mkt Cap: $68B*
 
 ## Sector Context
 Industrials / Waste Management

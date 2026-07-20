@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ISRG
-*Generated: 2026-07-19 06:38 | Price: $345.42 | Mkt Cap: $122B*
+*Generated: 2026-07-20 06:56 | Price: $345.42 | Mkt Cap: $122B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies

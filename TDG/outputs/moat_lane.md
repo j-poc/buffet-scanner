@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TDG
-*Generated: 2026-07-19 06:41 | Price: $1214.43 | Mkt Cap: $68B*
+*Generated: 2026-07-20 06:58 | Price: $1214.43 | Mkt Cap: $68B*
 
 ## Sector Context
 Industrials / Aerospace & Defense

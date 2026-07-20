@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CHTR
-*Generated: 2026-07-19 06:36 | Price: $131.37 | Mkt Cap: $21B*
+*Generated: 2026-07-20 06:54 | Price: $131.37 | Mkt Cap: $21B*
 
 ## Sector Context
 Communication Services / Telecom Services

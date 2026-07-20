@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AEE
-*Generated: 2026-07-19 06:35 | Price: $111.55 | Mkt Cap: $31B*
+*Generated: 2026-07-20 06:53 | Price: $111.55 | Mkt Cap: $31B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric

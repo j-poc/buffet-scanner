@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CFG
-*Generated: 2026-07-19 06:36 | Price: $72.39 | Mkt Cap: $31B*
+*Generated: 2026-07-20 06:54 | Price: $72.39 | Mkt Cap: $31B*
 
 ## Sector Context
 Financial Services / Banks - Regional

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GNRC
-*Generated: 2026-07-19 06:37 | Price: $214.91 | Mkt Cap: $13B*
+*Generated: 2026-07-20 06:55 | Price: $214.91 | Mkt Cap: $13B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery

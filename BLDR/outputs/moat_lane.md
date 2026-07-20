@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BLDR
-*Generated: 2026-07-19 06:36 | Price: $74.26 | Mkt Cap: $8B*
+*Generated: 2026-07-20 06:54 | Price: $74.26 | Mkt Cap: $8B*
 
 ## Sector Context
 Industrials / Building Products & Equipment

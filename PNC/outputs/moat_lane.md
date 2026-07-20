@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PNC
-*Generated: 2026-07-19 06:39 | Price: $252.86 | Mkt Cap: $101B*
+*Generated: 2026-07-20 06:57 | Price: $252.86 | Mkt Cap: $101B*
 
 ## Sector Context
 Financial Services / Banks - Regional

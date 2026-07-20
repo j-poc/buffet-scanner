@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CASY
-*Generated: 2026-07-19 06:36 | Price: $859.12 | Mkt Cap: $32B*
+*Generated: 2026-07-20 06:54 | Price: $859.12 | Mkt Cap: $32B*
 
 ## Sector Context
 Consumer Cyclical / Specialty Retail

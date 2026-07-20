@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FDXF
-*Generated: 2026-07-19 06:37 | Price: $152.26 | Mkt Cap: $23B*
+*Generated: 2026-07-20 06:55 | Price: $152.26 | Mkt Cap: $23B*
 
 ## Sector Context
 Industrials / Integrated Freight & Logistics
