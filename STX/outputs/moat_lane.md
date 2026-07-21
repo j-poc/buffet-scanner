@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STX
-*Generated: 2026-07-20 06:58 | Price: $787.66 | Mkt Cap: $177B*
+*Generated: 2026-07-21 06:39 | Price: $802.45 | Mkt Cap: $180B*
 
 ## Sector Context
 Technology / Computer Hardware
@@ -23,7 +23,7 @@ Technology / Computer Hardware
 | Quality | 3.9/10 | 30% | 1.2 | Avg ROIC: 17.4% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 132% from prior peak; 5y price drawdown: 57% (severe cyclicality); FCF/NI: 53%; Gross margin: 42% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 42% — moderate moat for Technology; Operating margin 36% — durable for Technology; Rev growth 44% — demand pull | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 27.7x — growth premium; 52w range position: 65%; Owner earnings yield: 0.9%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 28.2x — growth premium; 52w range position: 66%; Owner earnings yield: 0.9%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
 ## Buffett Score: 5.3 / 10
@@ -36,7 +36,7 @@ Technology / Computer Hardware
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Computer Hardware
-- **Margin of Safety**: -67% — ABSENT ($788 > IV $264 at 25x for 25% growth)
+- **Margin of Safety**: -67% — ABSENT ($802 > IV $269 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

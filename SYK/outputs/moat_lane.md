@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SYK
-*Generated: 2026-07-20 06:58 | Price: $319.87 | Mkt Cap: $123B*
+*Generated: 2026-07-21 06:39 | Price: $319.14 | Mkt Cap: $122B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.2% inst.) as insider
 
@@ -38,7 +38,7 @@ Healthcare / Medical Devices
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Devices
-- **Margin of Safety**: -46% — ABSENT ($320 > IV $173 at 20x for 14% growth)
+- **Margin of Safety**: -46% — ABSENT ($319 > IV $172 at 20x for 14% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TPR
-*Generated: 2026-07-20 06:58 | Price: $141.46 | Mkt Cap: $29B*
+*Generated: 2026-07-21 06:39 | Price: $141.12 | Mkt Cap: $29B*
 
 ## Sector Context
 Consumer Cyclical / Luxury Goods
@@ -23,7 +23,7 @@ Consumer Cyclical / Luxury Goods
 | Quality | 2.6/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 15.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 80% from prior peak; 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 228% (strong); Gross margin: 76% (pricing power for Consumer Cyclical) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 76% vs sector strong cutoff 45% — strong pricing power; Operating margin 22% — durable for Consumer Cyclical; Rev growth 21% — demand pull | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 18.2x — fair price; 52w range position: 70%; Owner earnings yield: 5.4% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 18.1x — fair price; 52w range position: 70%; Owner earnings yield: 5.4% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
 
 ## Buffett Score: 6.1 / 10

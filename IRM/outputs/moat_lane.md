@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IRM
-*Generated: 2026-07-20 06:56 | Price: $123.82 | Mkt Cap: $37B*
+*Generated: 2026-07-21 06:37 | Price: $124.23 | Mkt Cap: $37B*
 
 ## Sector Context
 Real Estate / REIT - Specialty
@@ -23,7 +23,7 @@ Real Estate / REIT - Specialty
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 6.1% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 74% from prior peak; 5y price drawdown: 39% (stable); FCF/NI: -295% (weak conversion); Gross margin: 55% (pricing power for Real Estate) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 55% vs sector strong cutoff 55% — strong pricing power; Operating margin 21%; Rev growth 22% — demand pull | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 46.3x — expensive; 52w range position: 81%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 46.4x — expensive; 52w range position: 82%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
 
 ## Buffett Score: 3.8 / 10

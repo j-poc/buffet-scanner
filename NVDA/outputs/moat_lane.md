@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NVDA
-*Generated: 2026-07-20 06:57 | Price: $202.81 | Mkt Cap: $4912B*
+*Generated: 2026-07-21 06:38 | Price: $203.28 | Mkt Cap: $4924B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -20,13 +20,13 @@ Technology / Semiconductors
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 51.3% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 66% (severe cyclicality); FCF/NI: 85% (strong); Gross margin: 74% (pricing power for Technology) | - |
+| Quality | 10.0/10 | 30% | 3.0 | Avg ROIC: 51.3% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 0% (stable); FCF/NI: 85% (strong); Gross margin: 74% (pricing power for Technology) | - |
 | Management | 9.0/10 | 25% | 2.2 | Insider value: $196B (4.0%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 4.1% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 74% vs sector strong cutoff 60% — strong pricing power; Operating margin 66% — durable for Technology; Rev growth 85% — demand pull | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.8x — fair price; 52w range position: 53%; Owner earnings yield: 0.9%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **8.9/10** | **100%** | **8.9** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.8x — fair price; 52w range position: 54%; Owner earnings yield: 0.9%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **9.3/10** | **100%** | **9.3** | | |
 
-## Buffett Score: 8.9 / 10
+## Buffett Score: 9.3 / 10
 ## Alpha Adjustment: +0.40
 ## Conviction: HIGH
 ## Verdict: Own Forever
@@ -36,7 +36,7 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: -20% — ABSENT ($203 > IV $163 at 25x for 25% growth)
+- **Margin of Safety**: -19% — ABSENT ($203 > IV $164 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 4 forces aligning: high quality, strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 4.0% insider ownership
 - **Mr. Market**: Neutral
