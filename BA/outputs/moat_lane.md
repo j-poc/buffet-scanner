@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BA
-*Generated: 2026-07-22 06:35 | Price: $204.8 | Mkt Cap: $161B*
+*Generated: 2026-07-23 06:35 | Price: $208.65 | Mkt Cap: $164B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -23,11 +23,11 @@ Industrials / Aerospace & Defense
 | Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: -2.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 52% (moderate cyclicality); FCF/NI: -52% (weak conversion); Gross margin: 5% (below Industrials norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 4.0% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 5% — below Industrials moderate cutoff 22%; Operating margin 2% — thin for Industrials | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 49.9x — expensive; 52w range position: 36%; Owner earnings yield: 1.6%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.0/10** | **100%** | **3.0** | | |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 50.8x — extreme premium; 52w range position: 41%; Owner earnings yield: 1.6%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **2.6/10** | **100%** | **2.6** | | |
 
-## Buffett Score: 3.0 / 10
-## Alpha Adjustment: -0.28
+## Buffett Score: 2.6 / 10
+## Alpha Adjustment: -0.30
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -36,7 +36,7 @@ Industrials / Aerospace & Defense
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Aerospace & Defense
-- **Margin of Safety**: -76% — ABSENT ($205 > IV $50 at 20x for 14% growth)
+- **Margin of Safety**: -75% — ABSENT ($209 > IV $52 at 20x for 14% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.28 applied to composite alpha score
+Buffett Premium: -0.30 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

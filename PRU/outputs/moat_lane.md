@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PRU
-*Generated: 2026-07-22 06:38 | Price: $118.59 | Mkt Cap: $41B*
+*Generated: 2026-07-23 06:38 | Price: $118.85 | Mkt Cap: $41B*
 
 ## Sector Context
 Financial Services / Insurance - Life
@@ -23,7 +23,7 @@ Financial Services / Insurance - Life
 | Quality | 6.2/10 | 30% | 1.9 | ROE: 10.7% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 33% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 5.5/10 | 25% | 1.4 | ROE 11% — adequate (Financial Services); Operating margin 5% — thin for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.1x — deep value; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 25.2% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.2x — deep value; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 25.1% (>5%) | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

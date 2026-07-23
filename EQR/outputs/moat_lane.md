@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EQR
-*Generated: 2026-07-22 06:36 | Price: $68.29 | Mkt Cap: $26B*
+*Generated: 2026-07-23 06:36 | Price: $68.29 | Mkt Cap: $26B*
 
 ## Sector Context
 Real Estate / REIT - Residential
@@ -36,7 +36,7 @@ Real Estate / REIT - Residential
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Residential
-- **Margin of Safety**: -46% — ABSENT ($68 > IV $37 at 15x for -65% growth)
+- **Margin of Safety**: -45% — ABSENT ($68 > IV $38 at 15x for -65% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PLD
-*Generated: 2026-07-22 06:38 | Price: $149.94 | Mkt Cap: $143B*
+*Generated: 2026-07-23 06:38 | Price: $144.7 | Mkt Cap: $138B*
 
 ## Sector Context
 Real Estate / REIT - Industrial
@@ -21,12 +21,12 @@ Real Estate / REIT - Industrial
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: 4.2% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 145% (strong); Gross margin: 76% (pricing power for Real Estate) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 76% vs sector strong cutoff 55% — strong pricing power; Operating margin 43% — durable for Real Estate | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 43.6x — expensive; Near 52w high (93% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 42.1x — expensive; 52w range position: 83%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
-## Buffett Score: 4.5 / 10
+## Buffett Score: 4.7 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Real Estate / REIT - Industrial
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Industrial
-- **Margin of Safety**: -24% — ABSENT ($150 > IV $114 at 25x for 25% growth)
+- **Margin of Safety**: -25% — ABSENT ($145 > IV $108 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: strong moat)

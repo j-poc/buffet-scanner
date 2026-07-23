@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CMI
-*Generated: 2026-07-22 06:36 | Price: $660.45 | Mkt Cap: $91B*
+*Generated: 2026-07-23 06:35 | Price: $660.75 | Mkt Cap: $91B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
@@ -36,7 +36,7 @@ Industrials / Specialty Industrial Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Industrial Machinery
-- **Margin of Safety**: -55% — ABSENT ($660 > IV $298 at 15x for -21% growth)
+- **Margin of Safety**: -56% — ABSENT ($661 > IV $288 at 15x for -21% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

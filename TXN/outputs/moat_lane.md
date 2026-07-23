@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TXN
-*Generated: 2026-07-22 06:41 | Price: $291.3 | Mkt Cap: $265B*
+*Generated: 2026-07-23 06:39 | Price: $294.19 | Mkt Cap: $268B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -23,10 +23,10 @@ Technology / Semiconductors
 | Quality | 1.6/10 | 30% | 0.5 | ROIC declining trend; Avg ROIC: 22.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 45% from prior peak; 5y price drawdown: 33% (stable); FCF/NI: 43% (weak conversion); Gross margin: 57% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 57% — moderate moat for Technology; Operating margin 38% — durable for Technology | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 30.4x — expensive; 52w range position: 76%; Owner earnings yield: 0.4%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 29.9x — growth premium; 52w range position: 78%; Owner earnings yield: 0.4%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
-## Buffett Score: 4.1 / 10
+## Buffett Score: 4.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: -49% — ABSENT ($291 > IV $150 at 25x for 25% growth)
+- **Margin of Safety**: -50% — ABSENT ($294 > IV $148 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

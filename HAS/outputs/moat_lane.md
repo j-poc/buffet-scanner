@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HAS
-*Generated: 2026-07-22 06:37 | Price: $88.78 | Mkt Cap: $13B*
+*Generated: 2026-07-23 06:36 | Price: $89.04 | Mkt Cap: $13B*
 
 ## Sector Context
 Consumer Cyclical / Leisure
@@ -11,7 +11,7 @@ Consumer Cyclical / Leisure
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.0x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.7x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.6%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,9 +21,9 @@ Consumer Cyclical / Leisure
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -2.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 832% from prior peak; 5y price drawdown: 55% (severe cyclicality); FCF/NI: 4% (weak conversion); Gross margin: 64% (pricing power for Consumer Cyclical) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 64% vs sector strong cutoff 45% — strong pricing power; Operating margin 28% — durable for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.7x — deep value; 52w range position: 51%; Owner earnings yield: 4.4% | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 64% vs sector strong cutoff 45% — strong pricing power; Operating margin 22% — durable for Consumer Cyclical | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.7x — deep value; 52w range position: 52%; Owner earnings yield: 5.7% (>5%) | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
 ## Buffett Score: 5.2 / 10
