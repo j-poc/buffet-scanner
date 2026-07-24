@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TRMB
-*Generated: 2026-07-23 06:39 | Price: $50.1 | Mkt Cap: $12B*
+*Generated: 2026-07-24 06:37 | Price: $50.35 | Mkt Cap: $12B*
 
 ## Sector Context
 Technology / Scientific & Technical Instruments
@@ -36,7 +36,7 @@ Technology / Scientific & Technical Instruments
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Scientific & Technical Instruments
-- **Margin of Safety**: -8% — ABSENT ($50 > IV $46 at 25x for 25% growth)
+- **Margin of Safety**: -5% — ABSENT ($50 > IV $48 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

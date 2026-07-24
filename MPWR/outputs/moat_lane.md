@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MPWR
-*Generated: 2026-07-23 06:37 | Price: $1398.45 | Mkt Cap: $69B*
+*Generated: 2026-07-24 06:34 | Price: $1397.15 | Mkt Cap: $69B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -36,7 +36,7 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: -75% — ABSENT ($1398 > IV $353 at 25x for 25% growth)
+- **Margin of Safety**: -75% — ABSENT ($1397 > IV $349 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 3.6% insider ownership
 - **Mr. Market**: Neutral

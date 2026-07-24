@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MCO
-*Generated: 2026-07-23 06:37 | Price: $489.7 | Mkt Cap: $86B*
+*Generated: 2026-07-24 06:34 | Price: $472.24 | Mkt Cap: $82B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges
@@ -20,10 +20,10 @@ Financial Services / Financial Data & Stock Exchanges
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 7.5/10 | 30% | 2.2 | ROE: 71.4% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 42% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 14.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 8.4% of shares (SBC concern) | - |
-| Moat | 8.5/10 | 25% | 2.1 | ROE 71% — strong franchise (Financial Services); Operating margin 46% — durable for Financial Services | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 26.1x — growth premium; 52w range position: 60%; Owner earnings yield: 2.6%; Earnings yield < 4% — worse than bonds | - |
+| Quality | 7.5/10 | 30% | 2.2 | ROE: 76.9% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 42% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 14.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 8.7% of shares (SBC concern) | - |
+| Moat | 8.5/10 | 25% | 2.1 | ROE 77% — strong franchise (Financial Services); Operating margin 49% — durable for Financial Services | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.1x — growth premium; 52w range position: 48%; Owner earnings yield: 3.1%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **7.6/10** | **100%** | **7.6** | | |
 
 ## Buffett Score: 7.6 / 10
@@ -36,7 +36,7 @@ Financial Services / Financial Data & Stock Exchanges
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Financial Data & Stock Exchanges
-- **Margin of Safety**: -52% — ABSENT ($490 > IV $236 at 17x for 8% growth)
+- **Margin of Safety**: -19% — ABSENT ($472 > IV $380 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Aligned — 14.2% insider ownership
 - **Mr. Market**: Neutral
