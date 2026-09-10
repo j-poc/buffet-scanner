@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FTNT
-*Generated: 2026-09-09 08:53 | Price: $157.47 | Mkt Cap: $116B*
+*Generated: 2026-09-10 08:52 | Price: $157.22 | Mkt Cap: $115B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -23,7 +23,7 @@ Technology / Software - Infrastructure
 | Quality | 8.0/10 | 30% | 2.4 | ROIC declining trend; Avg ROIC: 114.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 38% (stable); FCF/NI: 137% (strong); Gross margin: 80% (pricing power for Technology) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 17.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 15.6% of shares (SBC concern) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 80% vs sector strong cutoff 60% — strong pricing power; Operating margin 34% — durable for Technology; Rev growth 26% — demand pull | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 41.8x — expensive; 52w range position: 84%; Owner earnings yield: 2.0%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 41.7x — expensive; 52w range position: 83%; Owner earnings yield: 2.0%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **7.6/10** | **100%** | **7.6** | | |
 
 ## Buffett Score: 7.6 / 10

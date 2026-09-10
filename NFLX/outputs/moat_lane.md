@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NFLX
-*Generated: 2026-09-09 08:55 | Price: $76.77 | Mkt Cap: $320B*
+*Generated: 2026-09-10 08:54 | Price: $76.03 | Mkt Cap: $317B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -23,11 +23,11 @@ Communication Services / Entertainment
 | Quality | 6.6/10 | 30% | 2.0 | Avg ROIC: 19.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 76% (severe cyclicality); FCF/NI: 82% (strong); Gross margin: 49% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 49% — moderate moat for Communication Services; Operating margin 33% — durable for Communication Services | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 20.1x — growth premium; Near 52w low (19% of range) — Mr. Market fearful; Owner earnings yield: 7.9% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.9x — fair price; Near 52w low (18% of range) — Mr. Market fearful; Owner earnings yield: 8.0% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
 
-## Buffett Score: 6.6 / 10
-## Alpha Adjustment: +0.16
+## Buffett Score: 6.9 / 10
+## Alpha Adjustment: +0.19
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Communication Services / Entertainment
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Entertainment
-- **Margin of Safety**: -17% — ABSENT ($77 > IV $64 at 20x for 11% growth)
+- **Margin of Safety**: -17% — ABSENT ($76 > IV $63 at 20x for 11% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.16 applied to composite alpha score
+Buffett Premium: +0.19 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

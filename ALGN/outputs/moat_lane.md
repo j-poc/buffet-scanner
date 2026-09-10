@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALGN
-*Generated: 2026-09-09 08:52 | Price: $153.49 | Mkt Cap: $11B*
+*Generated: 2026-09-10 08:51 | Price: $152.92 | Mkt Cap: $11B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (6.2% inst.) as insider
 
@@ -25,7 +25,7 @@ Healthcare / Medical Instruments & Supplies
 | Quality | 1.4/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 13.5% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 83% (severe cyclicality); FCF/NI: 120% (strong); Gross margin: 70% (pricing power for Healthcare) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.8% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 70% vs sector strong cutoff 55% — strong pricing power; Operating margin 18% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.2x — deep value; 52w range position: 40%; Owner earnings yield: 5.4% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.2x — deep value; 52w range position: 39%; Owner earnings yield: 5.4% (>5%) | - |
 | **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
 ## Buffett Score: 5.3 / 10
