@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ADM
-*Generated: 2026-09-10 08:51 | Price: $86.55 | Mkt Cap: $42B*
+*Generated: 2026-09-11 08:49 | Price: $86.91 | Mkt Cap: $42B*
 
 ## Sector Context
 Consumer Defensive / Farm Products
@@ -36,7 +36,7 @@ Consumer Defensive / Farm Products
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Farm Products
-- **Margin of Safety**: 8% — thin (IV $94 at 25x)
+- **Margin of Safety**: 6% — thin (IV $92 at 25x)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Greedy — exercise caution

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WY
-*Generated: 2026-09-10 08:55 | Price: $22.59 | Mkt Cap: $16B*
+*Generated: 2026-09-11 08:55 | Price: $21.99 | Mkt Cap: $16B*
 
 ## Sector Context
 Real Estate / REIT - Specialty
@@ -23,7 +23,7 @@ Real Estate / REIT - Specialty
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 6.4% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 83% from prior peak; 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 46% (weak conversion); Gross margin: 15% (below Real Estate norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 15% — below Real Estate moderate cutoff 35%; Operating margin 8% — thin for Real Estate | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 33.6x — expensive; Near 52w low (22% of range) — Mr. Market fearful; Owner earnings yield: 0.1%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 32.7x — expensive; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 0.1%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **2.9/10** | **100%** | **2.9** | | |
 
 ## Buffett Score: 2.9 / 10
@@ -36,7 +36,7 @@ Real Estate / REIT - Specialty
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Specialty
-- **Margin of Safety**: -27% — ABSENT ($23 > IV $16 at 25x for 25% growth)
+- **Margin of Safety**: -27% — ABSENT ($22 > IV $16 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

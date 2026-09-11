@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JBHT
-*Generated: 2026-09-10 08:53 | Price: $267.8 | Mkt Cap: $25B*
+*Generated: 2026-09-11 08:50 | Price: $267.83 | Mkt Cap: $25B*
 
 ## Sector Context
 Industrials / Integrated Freight & Logistics
@@ -36,7 +36,7 @@ Industrials / Integrated Freight & Logistics
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Integrated Freight & Logistics
-- **Margin of Safety**: -36% — ABSENT ($268 > IV $172 at 25x for 25% growth)
+- **Margin of Safety**: -34% — ABSENT ($268 > IV $176 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Aligned — 20.4% insider ownership
 - **Mr. Market**: Neutral

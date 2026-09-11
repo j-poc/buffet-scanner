@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DOC
-*Generated: 2026-09-10 08:53 | Price: $20.39 | Mkt Cap: $14B*
+*Generated: 2026-09-11 08:50 | Price: $20.37 | Mkt Cap: $14B*
 
 ## Sector Context
 Real Estate / REIT - Healthcare Facilities
@@ -23,7 +23,7 @@ Real Estate / REIT - Healthcare Facilities
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 3.1% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 86% from prior peak; 5y price drawdown: 54% (moderate cyclicality); FCF/NI: 672% (strong); Gross margin: 58% (pricing power for Real Estate) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 58% vs sector strong cutoff 55% — strong pricing power; Operating margin 16% | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 145.6x — extreme premium; 52w range position: 65%; Owner earnings yield: 11.4% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 145.5x — extreme premium; 52w range position: 64%; Owner earnings yield: 11.4% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.5/10** | **100%** | **3.5** | | |
 
 ## Buffett Score: 3.5 / 10

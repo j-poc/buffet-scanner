@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KEY
-*Generated: 2026-09-10 08:53 | Price: $21.73 | Mkt Cap: $23B*
+*Generated: 2026-09-11 08:50 | Price: $21.73 | Mkt Cap: $23B*
 
 ## Sector Context
 Financial Services / Banks - Regional

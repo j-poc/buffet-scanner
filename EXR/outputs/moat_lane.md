@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EXR
-*Generated: 2026-09-10 08:52 | Price: $135.63 | Mkt Cap: $30B*
+*Generated: 2026-09-11 08:50 | Price: $136.45 | Mkt Cap: $30B*
 
 ## Sector Context
 Real Estate / REIT - Industrial
@@ -23,10 +23,10 @@ Real Estate / REIT - Industrial
 | Quality | 2.5/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 5.6% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 51% (moderate cyclicality); FCF/NI: 180% (strong); Gross margin: 75% (pricing power for Real Estate) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 75% vs sector strong cutoff 55% — strong pricing power; Operating margin 46% — durable for Real Estate | - |
-| Valuation Fit | 8.0/10 | 20% | 1.6 | P/E 28.2x — growth premium; Near 52w low (30% of range) — Mr. Market fearful; Owner earnings yield: 5.0% (>5%); Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 28.4x — growth premium; 52w range position: 32%; Owner earnings yield: 5.0%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
-## Buffett Score: 5.6 / 10
+## Buffett Score: 5.1 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,13 +36,13 @@ Real Estate / REIT - Industrial
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Industrial
-- **Margin of Safety**: -43% — ABSENT ($136 > IV $77 at 17x for 6% growth)
-- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
+- **Margin of Safety**: -43% — ABSENT ($136 > IV $78 at 17x for 6% growth)
+- **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (2 forces only: strong moat, attractive valuation)
+No (1 forces only: strong moat)
 
 ---
 

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BX
-*Generated: 2026-09-10 08:51 | Price: $129.07 | Mkt Cap: $154B*
+*Generated: 2026-09-11 08:49 | Price: $125.41 | Mkt Cap: $150B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -23,11 +23,11 @@ Financial Services / Asset Management
 | Quality | 6.5/10 | 30% | 1.9 | ROE: 31.4% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 49% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | ROE 31% — strong franchise (Financial Services); Operating margin 54% — durable for Financial Services; Rev growth 29% — demand pull | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.2x — fair price; 52w range position: 31%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **7.3/10** | **100%** | **7.3** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.7x — fair price; Near 52w low (27% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **7.6/10** | **100%** | **7.6** | | |
 
-## Buffett Score: 7.3 / 10
-## Alpha Adjustment: +0.23
+## Buffett Score: 7.6 / 10
+## Alpha Adjustment: +0.26
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,10 +36,10 @@ Financial Services / Asset Management
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Asset Management
-- **Margin of Safety**: -17% — ABSENT ($129 > IV $108 at 25x for 25% growth)
+- **Margin of Safety**: -13% — ABSENT ($125 > IV $108 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 1.1% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 YES — 3 forces aligning: strong moat, attractive valuation, secular growth
@@ -48,7 +48,7 @@ YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.23 applied to composite alpha score
+Buffett Premium: +0.26 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

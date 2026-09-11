@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PSKY
-*Generated: 2026-09-10 08:54 | Price: $10.22 | Mkt Cap: $11B*
+*Generated: 2026-09-11 08:51 | Price: $10.38 | Mkt Cap: $12B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -21,9 +21,9 @@ Communication Services / Entertainment
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -3.3% (3y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 236% from prior peak; 5y price drawdown: 78% (severe cyclicality); FCF/NI: -8% (weak conversion); Gross margin: 33% (below Communication Services norm) | ROIC declining |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 50.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 50.8% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 50.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 50.6% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 33% — below Communication Services moderate cutoff 40%; Operating margin 9% — thin for Communication Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.0x — deep value; Near 52w low (20% of range) — Mr. Market fearful; Owner earnings yield: 153.4% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.2x — deep value; Near 52w low (21% of range) — Mr. Market fearful; Owner earnings yield: 151.4% (>5%) | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10

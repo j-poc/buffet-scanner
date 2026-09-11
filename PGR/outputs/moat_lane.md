@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PGR
-*Generated: 2026-09-10 08:54 | Price: $215.5 | Mkt Cap: $125B*
+*Generated: 2026-09-11 08:54 | Price: $216.19 | Mkt Cap: $126B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty
@@ -23,7 +23,7 @@ Financial Services / Insurance - Property & Casualty
 | Quality | 8.0/10 | 30% | 2.4 | ROE: 34.9% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 30% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 35% — strong franchise (Financial Services); Operating margin 18% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.2x — deep value; 52w range position: 43%; Owner earnings yield: 12.1% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.3x — deep value; 52w range position: 45%; Owner earnings yield: 12.0% (>5%) | - |
 | **TOTAL** | **7.3/10** | **100%** | **7.3** | | |
 
 ## Buffett Score: 7.3 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALLE
-*Generated: 2026-09-10 08:51 | Price: $151.73 | Mkt Cap: $13B*
+*Generated: 2026-09-11 08:48 | Price: $151.27 | Mkt Cap: $13B*
 
 ## Sector Context
 Industrials / Security & Protection Services
@@ -20,10 +20,10 @@ Industrials / Security & Protection Services
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.8/10 | 30% | 2.6 | Avg ROIC: 16.8% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 37% (stable); FCF/NI: 96% (strong); Gross margin: 45% (pricing power for Industrials) | - |
+| Quality | 8.8/10 | 30% | 2.6 | Avg ROIC: 16.8% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 36% (stable); FCF/NI: 96% (strong); Gross margin: 45% (pricing power for Industrials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 45% vs sector strong cutoff 35% — strong pricing power; Operating margin 22% — durable for Industrials | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.5x — fair price; 52w range position: 46%; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.5x — fair price; 52w range position: 45%; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.6/10** | **100%** | **7.6** | | |
 
 ## Buffett Score: 7.6 / 10
@@ -36,7 +36,7 @@ Industrials / Security & Protection Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Security & Protection Services
-- **Margin of Safety**: -2% — ABSENT ($152 > IV $148 at 20x for 16% growth)
+- **Margin of Safety**: 0% — thin (IV $152 at 20x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

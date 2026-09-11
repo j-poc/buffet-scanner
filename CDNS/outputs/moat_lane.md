@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CDNS
-*Generated: 2026-09-10 08:51 | Price: $284.6 | Mkt Cap: $78B*
+*Generated: 2026-09-11 08:49 | Price: $284.95 | Mkt Cap: $79B*
 
 ## Sector Context
 Technology / Software - Application
@@ -21,9 +21,9 @@ Technology / Software - Application
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 7.3/10 | 30% | 2.2 | ROIC declining trend; Avg ROIC: 20.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 32% (stable); FCF/NI: 125% (strong); Gross margin: 86% (pricing power for Technology) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 86% vs sector strong cutoff 60% — strong pricing power; Operating margin 29%; Rev growth 24% — demand pull | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 29.8x — growth premium; Near 52w low (14% of range) — Mr. Market fearful; Owner earnings yield: 2.1%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 29.9x — growth premium; Near 52w low (14% of range) — Mr. Market fearful; Owner earnings yield: 2.0%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
 
 ## Buffett Score: 6.7 / 10

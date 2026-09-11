@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KVUE
-*Generated: 2026-09-10 08:53 | Price: $17.75 | Mkt Cap: $34B*
+*Generated: 2026-09-11 08:50 | Price: $17.79 | Mkt Cap: $34B*
 
 ## Sector Context
 Consumer Defensive / Household & Personal Products
@@ -23,7 +23,7 @@ Consumer Defensive / Household & Personal Products
 | Quality | 2.6/10 | 30% | 0.8 | Avg ROIC: 9.7% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 50% from prior peak; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 128% (strong); Gross margin: 58% (pricing power for Consumer Defensive) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 58% vs sector strong cutoff 45% — strong pricing power; Operating margin 19% — durable for Consumer Defensive | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.3x — deep value; 52w range position: 61%; Owner earnings yield: 5.6% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.3x — deep value; 52w range position: 62%; Owner earnings yield: 5.6% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,7 +36,7 @@ Consumer Defensive / Household & Personal Products
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Household & Personal Products
-- **Margin of Safety**: -21% — ABSENT ($18 > IV $14 at 17x for 8% growth)
+- **Margin of Safety**: -19% — ABSENT ($18 > IV $14 at 17x for 8% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

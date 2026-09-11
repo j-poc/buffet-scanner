@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DTE
-*Generated: 2026-09-10 08:52 | Price: $136.06 | Mkt Cap: $28B*
+*Generated: 2026-09-11 08:50 | Price: $134.34 | Mkt Cap: $28B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric
@@ -23,10 +23,10 @@ Utilities / Utilities - Regulated Electric
 | Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 5.3% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 29% (stable); FCF/NI: -77% (weak conversion); Gross margin: 29% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 29% — moderate moat for Utilities; Operating margin 14% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.3x — fair price; 52w range position: 33%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.1x — fair price; Near 52w low (27% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
-## Buffett Score: 5.4 / 10
+## Buffett Score: 5.7 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Utilities / Utilities - Regulated Electric
 ## Mental Models Applied
 
 - **Circle of Competence**: Utilities / Utilities - Regulated Electric
-- **Margin of Safety**: 15% — thin (IV $156 at 25x)
+- **Margin of Safety**: 16% — thin (IV $156 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

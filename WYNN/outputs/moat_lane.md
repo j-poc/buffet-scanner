@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WYNN
-*Generated: 2026-09-10 08:55 | Price: $90.23 | Mkt Cap: $9B*
+*Generated: 2026-09-11 08:55 | Price: $88.42 | Mkt Cap: $9B*
 
 ## Sector Context
 Consumer Cyclical / Resorts & Casinos
@@ -23,7 +23,7 @@ Consumer Cyclical / Resorts & Casinos
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 6.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 55% from prior peak; 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 153% (strong); Gross margin: 68% (pricing power for Consumer Cyclical) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 27.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 25.8% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 68% vs sector strong cutoff 45% — strong pricing power; Operating margin 17% — durable for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 17.4x — fair price; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 5.1% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 17.1x — fair price; Near 52w low (0% of range) — Mr. Market fearful; Owner earnings yield: 5.2% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Resorts & Casinos
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Resorts & Casinos
-- **Margin of Safety**: 13% — thin (IV $102 at 25x)
+- **Margin of Safety**: 16% — thin (IV $102 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 27.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

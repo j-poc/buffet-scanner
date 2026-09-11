@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GRMN
-*Generated: 2026-09-10 08:53 | Price: $272.18 | Mkt Cap: $52B*
+*Generated: 2026-09-11 08:50 | Price: $272.2 | Mkt Cap: $52B*
 
 ## Sector Context
 Technology / Scientific & Technical Instruments
@@ -36,7 +36,7 @@ Technology / Scientific & Technical Instruments
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Scientific & Technical Instruments
-- **Margin of Safety**: -12% — ABSENT ($272 > IV $239 at 25x for 25% growth)
+- **Margin of Safety**: -11% — ABSENT ($272 > IV $242 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Aligned — 14.7% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DVN
-*Generated: 2026-09-10 08:52 | Price: $48.98 | Mkt Cap: $54B*
+*Generated: 2026-09-11 08:49 | Price: $50.02 | Mkt Cap: $55B*
 
 ## Sector Context
 Energy / Oil & Gas E&P
@@ -20,13 +20,13 @@ Energy / Oil & Gas E&P
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.4/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 21.3% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 56% from prior peak; 5y price drawdown: 61% (severe cyclicality); FCF/NI: 51%; Gross margin: 50% (pricing power for Energy) | ROIC declining |
+| Quality | 2.9/10 | 30% | 0.9 | ROIC declining trend; Avg ROIC: 21.3% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 56% from prior peak; 5y price drawdown: 0% (stable); FCF/NI: 51%; Gross margin: 50% (pricing power for Energy) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 50% vs sector strong cutoff 30% — strong pricing power; Operating margin 41% — durable for Energy; Rev growth 64% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.2x — deep value; 52w range position: 82%; Owner earnings yield: 1.5% | - |
-| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 9.4x — deep value; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 1.4% | - |
+| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
-## Buffett Score: 5.8 / 10
+## Buffett Score: 6.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Energy / Oil & Gas E&P
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas E&P
-- **Margin of Safety**: 137% — PRESENT (IV $116 vs $49 at 25x)
+- **Margin of Safety**: 135% — PRESENT (IV $118 vs $50 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 YES — 3 forces aligning: strong moat, attractive valuation, secular growth
