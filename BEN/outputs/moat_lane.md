@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BEN
-*Generated: 2026-09-11 08:50 | Price: $33.66 | Mkt Cap: $17B*
+*Generated: 2026-09-12 08:34 | Price: $33.65 | Mkt Cap: $17B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -36,7 +36,7 @@ Financial Services / Asset Management
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Asset Management
-- **Margin of Safety**: 8% — thin (IV $36 at 25x)
+- **Margin of Safety**: 9% — thin (IV $37 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 48.5% insider ownership
 - **Mr. Market**: Neutral

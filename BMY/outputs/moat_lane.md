@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BMY
-*Generated: 2026-09-11 08:49 | Price: $63.75 | Mkt Cap: $130B*
+*Generated: 2026-09-12 08:33 | Price: $63.64 | Mkt Cap: $130B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General
@@ -36,7 +36,7 @@ Healthcare / Drug Manufacturers - General
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Drug Manufacturers - General
-- **Margin of Safety**: 76% — PRESENT (IV $112 vs $64 at 25x)
+- **Margin of Safety**: 78% — PRESENT (IV $113 vs $64 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

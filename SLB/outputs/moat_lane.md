@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SLB
-*Generated: 2026-09-11 08:54 | Price: $56.01 | Mkt Cap: $83B*
+*Generated: 2026-09-12 08:37 | Price: $56.06 | Mkt Cap: $83B*
 
 ## Sector Context
 Energy / Oil & Gas Equipment & Services
@@ -36,7 +36,7 @@ Energy / Oil & Gas Equipment & Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Equipment & Services
-- **Margin of Safety**: -46% — ABSENT ($56 > IV $30 at 15x for -30% growth)
+- **Margin of Safety**: -45% — ABSENT ($56 > IV $31 at 15x for -30% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

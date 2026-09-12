@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ECHO
-*Generated: 2026-09-11 08:50 | Price: $91.85 | Mkt Cap: $27B*
+*Generated: 2026-09-12 08:34 | Price: $93.14 | Mkt Cap: $27B*
 
 ## Sector Context
 Communication Services / Telecom Services
@@ -21,9 +21,9 @@ Communication Services / Telecom Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -10.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 685% from prior peak; 5y price drawdown: 68% (severe cyclicality); FCF/NI: 213% (strong); Gross margin: 30% (below Communication Services norm) | ROIC declining |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 13.1% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 13.6% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 13.1% (>10%); No insider transaction data; Restricted stock: 13.6% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 30% — below Communication Services moderate cutoff 40%; Operating margin 14% — thin for Communication Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.9x — deep value; 52w range position: 32% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.0x — deep value; 52w range position: 34% | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10

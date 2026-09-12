@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JBHT
-*Generated: 2026-09-11 08:50 | Price: $267.83 | Mkt Cap: $25B*
+*Generated: 2026-09-12 08:35 | Price: $270.45 | Mkt Cap: $25B*
 
 ## Sector Context
 Industrials / Integrated Freight & Logistics
@@ -23,7 +23,7 @@ Industrials / Integrated Freight & Logistics
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 15.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 41% from prior peak; 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 69%; Gross margin: 19% (below Industrials norm) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 20.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 22.0% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 19% — below Industrials moderate cutoff 22%; Operating margin 7% — thin for Industrials | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 26.5x — growth premium; 52w range position: 81%; Owner earnings yield: 3.6%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 26.7x — growth premium; 52w range position: 83%; Owner earnings yield: 3.6%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
 
 ## Buffett Score: 4.1 / 10
@@ -36,7 +36,7 @@ Industrials / Integrated Freight & Logistics
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Integrated Freight & Logistics
-- **Margin of Safety**: -34% — ABSENT ($268 > IV $176 at 25x for 25% growth)
+- **Margin of Safety**: -34% — ABSENT ($270 > IV $177 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Aligned — 20.4% insider ownership
 - **Mr. Market**: Neutral

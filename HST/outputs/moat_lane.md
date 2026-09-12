@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HST
-*Generated: 2026-09-11 08:50 | Price: $22.14 | Mkt Cap: $15B*
+*Generated: 2026-09-12 08:35 | Price: $22.24 | Mkt Cap: $15B*
 
 ## Sector Context
 Real Estate / REIT - Hotel & Motel
@@ -23,7 +23,7 @@ Real Estate / REIT - Hotel & Motel
 | Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 6.6% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 36% (stable); FCF/NI: 125% (strong); Gross margin: 29% (below Real Estate norm) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.6% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 29% — below Real Estate moderate cutoff 35%; Operating margin 18% | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 21.0x — growth premium; 52w range position: 65%; Owner earnings yield: 11.0% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 21.1x — growth premium; 52w range position: 66%; Owner earnings yield: 11.0% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10
