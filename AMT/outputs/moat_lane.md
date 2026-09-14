@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMT
-*Generated: 2026-09-12 08:32 | Price: $177.85 | Mkt Cap: $83B*
+*Generated: 2026-09-14 09:44 | Price: $177.85 | Mkt Cap: $83B*
 
 ## Sector Context
 Real Estate / REIT - Specialty
@@ -36,7 +36,7 @@ Real Estate / REIT - Specialty
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Specialty
-- **Margin of Safety**: 5% — thin (IV $187 at 25x)
+- **Margin of Safety**: 2% — thin (IV $182 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

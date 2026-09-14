@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COO
-*Generated: 2026-09-12 08:33 | Price: $53.91 | Mkt Cap: $10B*
+*Generated: 2026-09-14 09:44 | Price: $53.91 | Mkt Cap: $10B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies
@@ -36,7 +36,7 @@ Healthcare / Medical Instruments & Supplies
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Instruments & Supplies
-- **Margin of Safety**: 34% — PRESENT (IV $72 vs $54 at 25x)
+- **Margin of Safety**: 35% — PRESENT (IV $73 vs $54 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

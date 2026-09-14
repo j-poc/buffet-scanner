@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COIN
-*Generated: 2026-09-12 08:33 | Price: $175.26 | Mkt Cap: $46B*
+*Generated: 2026-09-14 09:44 | Price: $175.26 | Mkt Cap: $46B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges

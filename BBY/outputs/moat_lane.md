@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BBY
-*Generated: 2026-09-12 08:33 | Price: $90.8 | Mkt Cap: $19B*
+*Generated: 2026-09-14 09:44 | Price: $90.8 | Mkt Cap: $19B*
 
 > ⚠ DATA: yfinance misclassified State Street Corporation (6.7% inst.) as insider
 
@@ -38,7 +38,7 @@ Consumer Cyclical / Specialty Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Specialty Retail
-- **Margin of Safety**: 70% — PRESENT (IV $155 vs $91 at 25x)
+- **Margin of Safety**: 65% — PRESENT (IV $150 vs $91 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

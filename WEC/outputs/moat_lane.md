@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WEC
-*Generated: 2026-09-12 08:38 | Price: $105.33 | Mkt Cap: $34B*
+*Generated: 2026-09-14 09:50 | Price: $105.33 | Mkt Cap: $34B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric

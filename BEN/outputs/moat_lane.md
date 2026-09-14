@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BEN
-*Generated: 2026-09-12 08:34 | Price: $33.65 | Mkt Cap: $17B*
+*Generated: 2026-09-14 09:45 | Price: $33.65 | Mkt Cap: $17B*
 
 ## Sector Context
 Financial Services / Asset Management

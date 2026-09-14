@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PFG
-*Generated: 2026-09-12 08:37 | Price: $116.165 | Mkt Cap: $25B*
+*Generated: 2026-09-14 09:46 | Price: $116.165 | Mkt Cap: $25B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -36,7 +36,7 @@ Financial Services / Asset Management
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Asset Management
-- **Margin of Safety**: -8% — ABSENT ($116 > IV $106 at 15x for 3% growth)
+- **Margin of Safety**: -9% — ABSENT ($116 > IV $105 at 15x for 3% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.1% insider ownership
 - **Mr. Market**: Greedy — exercise caution

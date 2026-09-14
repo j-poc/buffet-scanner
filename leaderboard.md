@@ -1,10 +1,7 @@
-# Buffett/Munger Analyst Report: Market Leaderboard
+```markdown
+# Buffett/Munger Moat Lane Leaderboard - 2026-09-14
 
-**Date: 2026-09-12**
-
-A strong market is showing clear signs of enduring competitive advantages and attractive valuation opportunities among top-tier businesses.
-
----
+A robust market environment favoring high-quality, high-moat businesses, with discerning opportunities for long-term ownership.
 
 | # | Ticker | Score | Conviction | Alpha Adj | Verdict |
 |---|--------|-------|------------|-----------|--------|
@@ -273,71 +270,71 @@ A strong market is showing clear signs of enduring competitive advantages and at
 | 263 | AWK | 5.8 | LOW | 0.0 | Pass |
 | 264 | APA | 5.8 | LOW | 0.0 | Pass |
 | 265 | ADP | 5.8 | LOW | 0.0 | Pass |
-| 266 | CSCO | 5.8 | LOW | 0.0 | Pass |
-| 267 | ED | 5.8 | LOW | 0.0 | Pass |
-| 268 | CTVA | 5.8 | LOW | 0.0 | Pass |
-| 269 | EME | 5.8 | LOW | 0.0 | Pass |
-| 270 | FDX | 5.8 | LOW | 0.0 | Pass |
-| 271 | NEM | 5.8 | LOW | 0.0 | Pass |
-| 272 | PCG | 5.8 | LOW | 0.0 | Pass |
-| 273 | REGN | 5.8 | LOW | 0.0 | Pass |
-| 274 | SPGI | 5.8 | LOW | 0.0 | Pass |
-| 275 | SJM | 5.8 | LOW | 0.0 | Pass |
-| 276 | STT | 5.8 | LOW | 0.0 | Pass |
-| 277 | VZ | 5.8 | LOW | 0.0 | Pass |
-| 278 | VRTX | 5.8 | LOW | 0.0 | Pass |
-| 279 | WMB | 5.8 | LOW | 0.0 | Pass |
-| 280 | AMT | 5.7 | LOW | 0.0 | Pass |
-| 281 | BBY | 5.7 | LOW | 0.0 | Pass |
-| 282 | DTE | 5.7 | LOW | 0.0 | Pass |
-| 283 | ISRG | 5.7 | LOW | 0.0 | Pass |
-| 284 | MGM | 5.7 | LOW | 0.0 | Pass |
-| 285 | ROK | 5.7 | LOW | 0.0 | Pass |
-| 286 | APD | 5.6 | LOW | 0.0 | Pass |
-| 287 | C | 5.6 | LOW | 0.0 | Pass |
-| 288 | CMI | 5.6 | LOW | 0.0 | Pass |
-| 289 | DAL | 5.6 | LOW | 0.0 | Pass |
-| 290 | DVN | 5.6 | LOW | 0.0 | Pass |
-| 291 | DASH | 5.6 | LOW | 0.0 | Pass |
-| 292 | FDXF | 5.6 | LOW | 0.0 | Pass |
-| 293 | FE | 5.6 | LOW | 0.0 | Pass |
-| 294 | IBM | 5.6 | LOW | 0.0 | Pass |
-| 295 | PODD | 5.6 | LOW | 0.0 | Pass |
-| 296 | VMC | 5.6 | LOW | 0.0 | Pass |
-| 297 | ZBH | 5.6 | LOW | 0.0 | Pass |
-| 298 | AMAT | 5.5 | LOW | 0.0 | Pass |
-| 299 | COR | 5.5 | LOW | 0.0 | Pass |
-| 300 | XOM | 5.5 | LOW | 0.0 | Pass |
-| 301 | FRT | 5.5 | LOW | 0.0 | Pass |
-| 302 | FTV | 5.5 | LOW | 0.0 | Pass |
-| 303 | HBAN | 5.5 | LOW | 0.0 | Pass |
-| 304 | JCI | 5.5 | LOW | 0.0 | Pass |
-| 305 | KEY | 5.5 | LOW | 0.0 | Pass |
-| 306 | L | 5.5 | LOW | 0.0 | Pass |
-| 307 | NKE | 5.5 | LOW | 0.0 | Pass |
-| 308 | O | 5.5 | LOW | 0.0 | Pass |
-| 309 | ROP | 5.5 | LOW | 0.0 | Pass |
-| 310 | SRE | 5.5 | LOW | 0.0 | Pass |
-| 311 | TKO | 5.5 | LOW | 0.0 | Pass |
-| 312 | UBER | 5.5 | LOW | 0.0 | Pass |
-| 313 | APH | 5.4 | LOW | 0.0 | Pass |
-| 314 | ETR | 5.4 | LOW | 0.0 | Pass |
-| 315 | EVRG | 5.4 | LOW | 0.0 | Pass |
-| 316 | EXE | 5.4 | LOW | 0.0 | Pass |
-| 317 | FITB | 5.4 | LOW | 0.0 | Pass |
-| 318 | FSLR | 5.4 | LOW | 0.0 | Pass |
-| 319 | GE | 5.4 | LOW | 0.0 | Pass |
-| 320 | JBL | 5.4 | LOW | 0.0 | Pass |
-| 321 | J | 5.4 | LOW | 0.0 | Pass |
-| 322 | LYB | 5.4 | LOW | 0.0 | Pass |
-| 323 | NXPI | 5.4 | LOW | 0.0 | Pass |
-| 324 | SMCI | 5.4 | LOW | 0.0 | Pass |
-| 325 | TFC | 5.4 | LOW | 0.0 | Pass |
-| 326 | VLO | 5.4 | LOW | 0.0 | Pass |
-| 327 | VST | 5.4 | LOW | 0.0 | Pass |
-| 328 | MMM | 5.3 | LOW | 0.0 | Pass |
-| 329 | ALGN | 5.3 | LOW | 0.0 | Pass |
-| 330 | BLDR | 5.3 | LOW | 0.0 | Pass |
+| 266 | ED | 5.8 | LOW | 0.0 | Pass |
+| 267 | CTVA | 5.8 | LOW | 0.0 | Pass |
+| 268 | EME | 5.8 | LOW | 0.0 | Pass |
+| 269 | FDX | 5.8 | LOW | 0.0 | Pass |
+| 270 | NEM | 5.8 | LOW | 0.0 | Pass |
+| 271 | PCG | 5.8 | LOW | 0.0 | Pass |
+| 272 | REGN | 5.8 | LOW | 0.0 | Pass |
+| 273 | SPGI | 5.8 | LOW | 0.0 | Pass |
+| 274 | SJM | 5.8 | LOW | 0.0 | Pass |
+| 275 | STT | 5.8 | LOW | 0.0 | Pass |
+| 276 | VZ | 5.8 | LOW | 0.0 | Pass |
+| 277 | VRTX | 5.8 | LOW | 0.0 | Pass |
+| 278 | WMB | 5.8 | LOW | 0.0 | Pass |
+| 279 | AMT | 5.7 | LOW | 0.0 | Pass |
+| 280 | BBY | 5.7 | LOW | 0.0 | Pass |
+| 281 | DTE | 5.7 | LOW | 0.0 | Pass |
+| 282 | ISRG | 5.7 | LOW | 0.0 | Pass |
+| 283 | MGM | 5.7 | LOW | 0.0 | Pass |
+| 284 | ROK | 5.7 | LOW | 0.0 | Pass |
+| 285 | APD | 5.6 | LOW | 0.0 | Pass |
+| 286 | C | 5.6 | LOW | 0.0 | Pass |
+| 287 | CMI | 5.6 | LOW | 0.0 | Pass |
+| 288 | DAL | 5.6 | LOW | 0.0 | Pass |
+| 289 | DVN | 5.6 | LOW | 0.0 | Pass |
+| 290 | DASH | 5.6 | LOW | 0.0 | Pass |
+| 291 | FDXF | 5.6 | LOW | 0.0 | Pass |
+| 292 | FE | 5.6 | LOW | 0.0 | Pass |
+| 293 | IBM | 5.6 | LOW | 0.0 | Pass |
+| 294 | PODD | 5.6 | LOW | 0.0 | Pass |
+| 295 | VMC | 5.6 | LOW | 0.0 | Pass |
+| 296 | ZBH | 5.6 | LOW | 0.0 | Pass |
+| 297 | AMAT | 5.5 | LOW | 0.0 | Pass |
+| 298 | COR | 5.5 | LOW | 0.0 | Pass |
+| 299 | XOM | 5.5 | LOW | 0.0 | Pass |
+| 300 | FRT | 5.5 | LOW | 0.0 | Pass |
+| 301 | FTV | 5.5 | LOW | 0.0 | Pass |
+| 302 | HBAN | 5.5 | LOW | 0.0 | Pass |
+| 303 | JCI | 5.5 | LOW | 0.0 | Pass |
+| 304 | KEY | 5.5 | LOW | 0.0 | Pass |
+| 305 | L | 5.5 | LOW | 0.0 | Pass |
+| 306 | NKE | 5.5 | LOW | 0.0 | Pass |
+| 307 | O | 5.5 | LOW | 0.0 | Pass |
+| 308 | ROP | 5.5 | LOW | 0.0 | Pass |
+| 309 | SRE | 5.5 | LOW | 0.0 | Pass |
+| 310 | TKO | 5.5 | LOW | 0.0 | Pass |
+| 311 | UBER | 5.5 | LOW | 0.0 | Pass |
+| 312 | APH | 5.4 | LOW | 0.0 | Pass |
+| 313 | ETR | 5.4 | LOW | 0.0 | Pass |
+| 314 | EVRG | 5.4 | LOW | 0.0 | Pass |
+| 315 | EXE | 5.4 | LOW | 0.0 | Pass |
+| 316 | FITB | 5.4 | LOW | 0.0 | Pass |
+| 317 | FSLR | 5.4 | LOW | 0.0 | Pass |
+| 318 | GE | 5.4 | LOW | 0.0 | Pass |
+| 319 | JBL | 5.4 | LOW | 0.0 | Pass |
+| 320 | J | 5.4 | LOW | 0.0 | Pass |
+| 321 | LYB | 5.4 | LOW | 0.0 | Pass |
+| 322 | NXPI | 5.4 | LOW | 0.0 | Pass |
+| 323 | SMCI | 5.4 | LOW | 0.0 | Pass |
+| 324 | TFC | 5.4 | LOW | 0.0 | Pass |
+| 325 | VLO | 5.4 | LOW | 0.0 | Pass |
+| 326 | VST | 5.4 | LOW | 0.0 | Pass |
+| 327 | MMM | 5.3 | LOW | 0.0 | Pass |
+| 328 | ALGN | 5.3 | LOW | 0.0 | Pass |
+| 329 | BLDR | 5.3 | LOW | 0.0 | Pass |
+| 330 | CSCO | 5.3 | LOW | 0.0 | Pass |
 | 331 | DHR | 5.3 | LOW | 0.0 | Pass |
 | 332 | GNRC | 5.3 | LOW | 0.0 | Pass |
 | 333 | INVH | 5.3 | LOW | 0.0 | Pass |
@@ -376,23 +373,23 @@ A strong market is showing clear signs of enduring competitive advantages and at
 | 366 | ALB | 5.0 | LOW | 0.0 | Pass |
 | 367 | AXON | 5.0 | LOW | 0.0 | Pass |
 | 368 | BIIB | 5.0 | LOW | 0.0 | Pass |
-| 369 | CARR | 5.0 | LOW | 0.0 | Pass |
-| 370 | CFG | 5.0 | LOW | 0.0 | Pass |
-| 371 | CCI | 5.0 | LOW | 0.0 | Pass |
-| 372 | ECHO | 5.0 | LOW | 0.0 | Pass |
-| 373 | FLEX | 5.0 | LOW | 0.0 | Pass |
-| 374 | HAL | 5.0 | LOW | 0.0 | Pass |
-| 375 | KEYS | 5.0 | LOW | 0.0 | Pass |
-| 376 | LDOS | 5.0 | LOW | 0.0 | Pass |
-| 377 | NCLH | 5.0 | LOW | 0.0 | Pass |
-| 378 | PSKY | 5.0 | LOW | 0.0 | Pass |
-| 379 | TGT | 5.0 | LOW | 0.0 | Pass |
-| 380 | TDY | 5.0 | LOW | 0.0 | Pass |
-| 381 | TXT | 5.0 | LOW | 0.0 | Pass |
-| 382 | UPS | 5.0 | LOW | 0.0 | Pass |
-| 383 | AKAM | 4.9 | LOW | 0.0 | Pass |
-| 384 | APTV | 4.9 | LOW | 0.0 | Pass |
-| 385 | AJG | 4.9 | LOW | 0.0 | Pass |
+| 369 | CFG | 5.0 | LOW | 0.0 | Pass |
+| 370 | CCI | 5.0 | LOW | 0.0 | Pass |
+| 371 | ECHO | 5.0 | LOW | 0.0 | Pass |
+| 372 | FLEX | 5.0 | LOW | 0.0 | Pass |
+| 373 | HAL | 5.0 | LOW | 0.0 | Pass |
+| 374 | KEYS | 5.0 | LOW | 0.0 | Pass |
+| 375 | LDOS | 5.0 | LOW | 0.0 | Pass |
+| 376 | NCLH | 5.0 | LOW | 0.0 | Pass |
+| 377 | PSKY | 5.0 | LOW | 0.0 | Pass |
+| 378 | TGT | 5.0 | LOW | 0.0 | Pass |
+| 379 | TDY | 5.0 | LOW | 0.0 | Pass |
+| 380 | TXT | 5.0 | LOW | 0.0 | Pass |
+| 381 | UPS | 5.0 | LOW | 0.0 | Pass |
+| 382 | AKAM | 4.9 | LOW | 0.0 | Pass |
+| 383 | APTV | 4.9 | LOW | 0.0 | Pass |
+| 384 | AJG | 4.9 | LOW | 0.0 | Pass |
+| 385 | CARR | 4.9 | LOW | 0.0 | Pass |
 | 386 | DD | 4.9 | LOW | 0.0 | Pass |
 | 387 | ESS | 4.9 | LOW | 0.0 | Pass |
 | 388 | GIS | 4.9 | LOW | 0.0 | Pass |
@@ -413,16 +410,16 @@ A strong market is showing clear signs of enduring competitive advantages and at
 | 403 | TTWO | 4.8 | LOW | 0.0 | Pass |
 | 404 | XYZ | 4.7 | LOW | 0.0 | Pass |
 | 405 | CDW | 4.7 | LOW | 0.0 | Pass |
-| 406 | CTSH | 4.7 | LOW | 0.0 | Pass |
-| 407 | DLR | 4.7 | LOW | 0.0 | Pass |
-| 408 | IQV | 4.7 | LOW | 0.0 | Pass |
-| 409 | MPC | 4.7 | LOW | 0.0 | Pass |
-| 410 | MPWR | 4.7 | LOW | 0.0 | Pass |
-| 411 | OMC | 4.7 | LOW | 0.0 | Pass |
-| 412 | PKG | 4.7 | LOW | 0.0 | Pass |
-| 413 | PLD | 4.7 | LOW | 0.0 | Pass |
-| 414 | TER | 4.7 | LOW | 0.0 | Pass |
-| 415 | CI | 4.6 | LOW | 0.0 | Pass |
+| 406 | DLR | 4.7 | LOW | 0.0 | Pass |
+| 407 | IQV | 4.7 | LOW | 0.0 | Pass |
+| 408 | MPC | 4.7 | LOW | 0.0 | Pass |
+| 409 | MPWR | 4.7 | LOW | 0.0 | Pass |
+| 410 | OMC | 4.7 | LOW | 0.0 | Pass |
+| 411 | PKG | 4.7 | LOW | 0.0 | Pass |
+| 412 | PLD | 4.7 | LOW | 0.0 | Pass |
+| 413 | TER | 4.7 | LOW | 0.0 | Pass |
+| 414 | CI | 4.6 | LOW | 0.0 | Pass |
+| 415 | CTSH | 4.6 | LOW | 0.0 | Pass |
 | 416 | EXPD | 4.6 | LOW | 0.0 | Pass |
 | 417 | FIS | 4.6 | LOW | 0.0 | Pass |
 | 418 | HII | 4.6 | LOW | 0.0 | Pass |
@@ -465,12 +462,12 @@ A strong market is showing clear signs of enduring competitive advantages and at
 | 455 | AES | 4.0 | AVOID | -0.2 | Avoid |
 | 456 | BALL | 4.0 | AVOID | -0.2 | Avoid |
 | 457 | BAX | 4.0 | AVOID | -0.2 | Avoid |
-| 458 | COHR | 4.0 | AVOID | -0.2 | Avoid |
-| 459 | GPC | 4.0 | AVOID | -0.2 | Avoid |
-| 460 | LITE | 4.0 | AVOID | -0.2 | Avoid |
-| 461 | SWKS | 4.0 | AVOID | -0.2 | Avoid |
-| 462 | BG | 3.9 | AVOID | -0.21 | Avoid |
-| 463 | CPT | 3.9 | AVOID | -0.21 | Avoid |
+| 458 | CPT | 4.0 | AVOID | -0.2 | Avoid |
+| 459 | COHR | 4.0 | AVOID | -0.2 | Avoid |
+| 460 | GPC | 4.0 | AVOID | -0.2 | Avoid |
+| 461 | LITE | 4.0 | AVOID | -0.2 | Avoid |
+| 462 | SWKS | 4.0 | AVOID | -0.2 | Avoid |
+| 463 | BG | 3.9 | AVOID | -0.21 | Avoid |
 | 464 | CVS | 3.9 | AVOID | -0.21 | Avoid |
 | 465 | F | 3.9 | AVOID | -0.21 | Avoid |
 | 466 | GM | 3.9 | AVOID | -0.21 | Avoid |
@@ -512,30 +509,28 @@ A strong market is showing clear signs of enduring competitive advantages and at
 | 502 | BA | 2.6 | AVOID | -0.3 | Avoid |
 | 503 | GLW | 2.6 | AVOID | -0.3 | Avoid |
 
----
-
-## Top Deep Dives
+## Top 5 Deep Dives
 
 ### NVDA
-Technology disruption (25% probability, -35% impact) poses a material inversion risk. Despite this, NVDA secures an "Own Forever" verdict due to its exceptional Quality (Avg ROIC 51.3%), a commanding Moat evidenced by 75% gross margins and 106% revenue growth, and a deeply attractive valuation with a 14.0x P/E, indicating multiple forces aligning.
+NVDA faces a material risk from Technology Disruption, with a 25% probability and -35% impact on intrinsic value. Despite this, NVDA scores 9.2 with HIGH conviction, meriting an "Own Forever" verdict due to its exceptional quality (51.3% Avg ROIC, 75% Gross Margin) and strong moat (75% Gross Margin, 106% Revenue Growth). The current valuation (P/E 14.0x) presents deep value, contributing to a perfect 10.0 Valuation Fit score, though a -10% margin of safety is absent.
 
 ### APP
-No explicitly material inversion killers are identified for APP. The "Own Forever" verdict is driven by its strong Moat, boasting 88% gross margins and 78% operating margins, combined with a fair valuation at a 15.4x P/E, currently near its 52-week low at 6% of the range. The company exhibits robust quality with 26.2% average ROIC and monotonic earnings.
+APP has no material inversion killers identified. The company earns an 8.8 score and "Own Forever" verdict with HIGH conviction, underpinned by strong quality (26.2% Avg ROIC, 88% Gross Margin) and a powerful moat (88% Gross Margin, 78% Operating Margin, 53% Revenue Growth). The valuation at P/E 15.4x is fair, and the stock is near its 52-week low (6% of range), indicating a Mr. Market fearful opportunity, despite a thin 0% margin of safety.
 
 ### GOOGL
-While management/governance failure presents a non-material risk (15% probability, -20% impact), no explicit material inversion killers are present. GOOGL earns its "Own Forever" verdict through outstanding Quality (Avg ROIC 24.9%, monotonic earnings) and an unshakeable Moat (61% gross margin, 34% operating margin). Despite a 22.8x P/E, a substantial 50% Margin of Safety exists, ensuring long-term value.
+GOOGL shows no material inversion killers. Its 8.7 score and "Own Forever" verdict with HIGH conviction are driven by excellent quality (24.9% Avg ROIC, 61% Gross Margin) and a robust moat (61% Gross Margin, 34% Operating Margin, 24% Revenue Growth). While the P/E of 22.8x indicates a growth premium, a substantial 47% margin of safety is present, making it an attractive long-term holding.
 
 ### GOOG
-Management/governance failure is a material inversion killer (20% probability, -30% impact). Nonetheless, GOOG receives an "Own Forever" verdict due to its exceptional Quality (Avg ROIC 24.9%) and an undeniable Moat (61% gross margin, 34% operating margin). A significant 50% Margin of Safety provides a strong buffer, even with a growth-premium P/E of 22.8x.
+GOOG carries a material risk of Management / Governance Failure (20% probability, -30% impact), largely due to its low 0.5% insider ownership. Despite this, GOOG achieves an 8.7 score with HIGH conviction, warranting an "Own Forever" verdict, supported by its outstanding quality (24.9% Avg ROIC, 61% Gross Margin) and formidable moat (61% Gross Margin, 34% Operating Margin, 24% Revenue Growth). A 47% margin of safety is present, similar to its class-share counterpart.
 
----
+### ROL
+A detailed report for ROL was not provided. However, its high score of 8.6 and HIGH conviction assign it an "Own Forever" verdict, indicating strong fundamental alignment with Buffett/Munger principles.
 
 ## Munger Inversion Alert
 
-None of the companies for which detailed inversion analysis was provided (NVDA, APP, GOOGL, GOOG) have two or more material inversion killers flagged.
-
----
+Based on the provided top 5 deep dives, only NVDA and GOOG exhibit one material inversion killer each ("Technology Disruption" for NVDA and "Management / Governance Failure" for GOOG). No names in the top 5 possess two or more material inversion killers. Detail reports for other top 20 companies are not available for assessment.
 
 ## Bottom Line
 
-GOOGL represents the single best risk-adjusted name today, offering exceptional quality and moat with a substantial 50% margin of safety and no explicit material inversion flags.
+GOOGL stands out as the single best risk-adjusted name today, offering exceptional quality and moat, a significant 47% margin of safety, and no material inversion killers, solidifying its "Own Forever" thesis.
+```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UNP
-*Generated: 2026-09-12 08:38 | Price: $284.4 | Mkt Cap: $169B*
+*Generated: 2026-09-14 09:50 | Price: $284.4 | Mkt Cap: $169B*
 
 ## Sector Context
 Industrials / Railroads
@@ -36,7 +36,7 @@ Industrials / Railroads
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Railroads
-- **Margin of Safety**: -27% — ABSENT ($284 > IV $209 at 17x for 7% growth)
+- **Margin of Safety**: -26% — ABSENT ($284 > IV $210 at 17x for 7% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

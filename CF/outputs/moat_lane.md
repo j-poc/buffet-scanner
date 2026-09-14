@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CF
-*Generated: 2026-09-12 08:33 | Price: $133.07 | Mkt Cap: $20B*
+*Generated: 2026-09-14 09:44 | Price: $133.07 | Mkt Cap: $20B*
 
 ## Sector Context
 Basic Materials / Agricultural Inputs
@@ -36,7 +36,7 @@ Basic Materials / Agricultural Inputs
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Agricultural Inputs
-- **Margin of Safety**: 149% — PRESENT (IV $332 vs $133 at 25x)
+- **Margin of Safety**: 153% — PRESENT (IV $337 vs $133 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Greedy — exercise caution

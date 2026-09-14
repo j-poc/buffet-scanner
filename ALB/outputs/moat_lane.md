@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALB
-*Generated: 2026-09-12 08:32 | Price: $117.52 | Mkt Cap: $14B*
+*Generated: 2026-09-14 09:43 | Price: $117.52 | Mkt Cap: $14B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals
@@ -36,7 +36,7 @@ Basic Materials / Specialty Chemicals
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Specialty Chemicals
-- **Margin of Safety**: -94% — ABSENT ($118 > IV $6 at 25x for 25% growth)
+- **Margin of Safety**: -94% — ABSENT ($118 > IV $7 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

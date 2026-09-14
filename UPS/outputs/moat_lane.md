@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UPS
-*Generated: 2026-09-12 08:38 | Price: $100.28 | Mkt Cap: $85B*
+*Generated: 2026-09-14 09:50 | Price: $100.28 | Mkt Cap: $85B*
 
 ## Sector Context
 Industrials / Integrated Freight & Logistics
@@ -36,7 +36,7 @@ Industrials / Integrated Freight & Logistics
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Integrated Freight & Logistics
-- **Margin of Safety**: -19% — ABSENT ($100 > IV $81 at 15x for -53% growth)
+- **Margin of Safety**: -20% — ABSENT ($100 > IV $81 at 15x for -53% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

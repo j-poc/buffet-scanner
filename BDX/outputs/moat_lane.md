@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BDX
-*Generated: 2026-09-12 08:33 | Price: $177.85 | Mkt Cap: $48B*
+*Generated: 2026-09-14 09:44 | Price: $177.85 | Mkt Cap: $48B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies

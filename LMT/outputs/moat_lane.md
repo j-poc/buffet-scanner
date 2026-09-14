@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LMT
-*Generated: 2026-09-12 08:36 | Price: $524.19 | Mkt Cap: $121B*
+*Generated: 2026-09-14 09:46 | Price: $524.19 | Mkt Cap: $121B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -36,7 +36,7 @@ Industrials / Aerospace & Defense
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Aerospace & Defense
-- **Margin of Safety**: 28% — thin (IV $671 at 25x)
+- **Margin of Safety**: 29% — thin (IV $678 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CLX
-*Generated: 2026-09-12 08:33 | Price: $87.76 | Mkt Cap: $11B*
+*Generated: 2026-09-14 09:44 | Price: $87.76 | Mkt Cap: $11B*
 
 ## Sector Context
 Consumer Defensive / Household & Personal Products
@@ -36,7 +36,7 @@ Consumer Defensive / Household & Personal Products
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Household & Personal Products
-- **Margin of Safety**: -19% — ABSENT ($88 > IV $71 at 15x for -50% growth)
+- **Margin of Safety**: -18% — ABSENT ($88 > IV $72 at 15x for -50% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

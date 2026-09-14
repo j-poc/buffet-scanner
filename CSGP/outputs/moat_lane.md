@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CSGP
-*Generated: 2026-09-12 08:34 | Price: $30.46 | Mkt Cap: $12B*
+*Generated: 2026-09-14 09:44 | Price: $30.46 | Mkt Cap: $12B*
 
 ## Sector Context
 Real Estate / Real Estate Services
@@ -36,7 +36,7 @@ Real Estate / Real Estate Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / Real Estate Services
-- **Margin of Safety**: -84% — ABSENT ($30 > IV $5 at 25x for 25% growth)
+- **Margin of Safety**: -85% — ABSENT ($30 > IV $4 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
