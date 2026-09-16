@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DECK
-*Generated: 2026-09-14 09:44 | Price: $81.27 | Mkt Cap: $11B*
+*Generated: 2026-09-16 09:13 | Price: $77.51 | Mkt Cap: $11B*
 
 ## Sector Context
 Consumer Cyclical / Footwear & Accessories
@@ -20,10 +20,10 @@ Consumer Cyclical / Footwear & Accessories
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 37.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 64% (severe cyclicality); FCF/NI: 105% (strong); Gross margin: 58% (pricing power for Consumer Cyclical) | - |
+| Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 37.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 65% (severe cyclicality); FCF/NI: 105% (strong); Gross margin: 58% (pricing power for Consumer Cyclical) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 58% vs sector strong cutoff 45% — strong pricing power; Operating margin 15% — durable for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.8x — deep value; Near 52w low (5% of range) — Mr. Market fearful; Owner earnings yield: 7.9% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.3x — deep value; Near 52w low (0% of range) — Mr. Market fearful; Owner earnings yield: 8.3% (>5%) | - |
 | **TOTAL** | **7.8/10** | **100%** | **7.8** | | |
 
 ## Buffett Score: 7.8 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Footwear & Accessories
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Footwear & Accessories
-- **Margin of Safety**: 30% — thin (IV $105 at 15x)
+- **Margin of Safety**: 31% — PRESENT (IV $102 vs $78 at 15x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ORCL
-*Generated: 2026-09-14 09:46 | Price: $150.28 | Mkt Cap: $433B*
+*Generated: 2026-09-16 09:14 | Price: $140.35 | Mkt Cap: $424B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -12,7 +12,7 @@ Technology / Software - Infrastructure
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Software - Infrastructure | 25% | -35% | YES |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.9x | 30% | -40% | YES |
-| 3 | Management / Governance Failure | Insider ownership 40.5%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 38.6%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -21,9 +21,9 @@ Technology / Software - Infrastructure
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.3/10 | 30% | 1.3 | Avg ROIC: 11.8% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 65% (severe cyclicality); FCF/NI: 18% (weak conversion); Gross margin: 64% (pricing power for Technology) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 40.5% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 37.6% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 38.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 38.6% of shares (SBC concern) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 64% vs sector strong cutoff 60% — strong pricing power; Operating margin 36% — durable for Technology; Rev growth 30% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.7x — deep value; Near 52w low (17% of range) — Mr. Market fearful | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.8x — deep value; Near 52w low (12% of range) — Mr. Market fearful | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,9 +36,9 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: 6% — thin (IV $160 at 25x)
+- **Margin of Safety**: 14% — thin (IV $160 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
-- **Incentive-Caused Bias**: Aligned — 40.5% insider ownership
+- **Incentive-Caused Bias**: Aligned — 38.6% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
