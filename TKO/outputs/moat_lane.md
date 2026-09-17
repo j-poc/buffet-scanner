@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TKO
-*Generated: 2026-09-16 09:18 | Price: $190.13 | Mkt Cap: $36B*
+*Generated: 2026-09-17 09:26 | Price: $192.43 | Mkt Cap: $36B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -23,10 +23,10 @@ Communication Services / Entertainment
 | Quality | 0.5/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 6.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 98% from prior peak; 5y price drawdown: 35% (stable); FCF/NI: 1441% (strong); Gross margin: 59% (pricing power for Communication Services) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 18.1% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 18.3% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 59% vs sector strong cutoff 55% — strong pricing power; Operating margin 32% — durable for Communication Services | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 40.5x — expensive; Near 52w low (28% of range) — Mr. Market fearful; Owner earnings yield: 2.4%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 41.1x — expensive; 52w range position: 32%; Owner earnings yield: 2.4%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
-## Buffett Score: 5.5 / 10
+## Buffett Score: 5.2 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Communication Services / Entertainment
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Entertainment
-- **Margin of Safety**: -71% — ABSENT ($190 > IV $56 at 20x for 14% growth)
+- **Margin of Safety**: -70% — ABSENT ($192 > IV $58 at 20x for 14% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Aligned — 18.1% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: strong moat)

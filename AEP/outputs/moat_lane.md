@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AEP
-*Generated: 2026-09-16 09:12 | Price: $120.61 | Mkt Cap: $66B*
+*Generated: 2026-09-17 09:20 | Price: $120.69 | Mkt Cap: $66B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric
@@ -36,7 +36,7 @@ Utilities / Utilities - Regulated Electric
 ## Mental Models Applied
 
 - **Circle of Competence**: Utilities / Utilities - Regulated Electric
-- **Margin of Safety**: -29% — ABSENT ($121 > IV $85 at 15x for -43% growth)
+- **Margin of Safety**: -28% — ABSENT ($121 > IV $87 at 15x for -43% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DGX
-*Generated: 2026-09-16 09:17 | Price: $247.08 | Mkt Cap: $27B*
+*Generated: 2026-09-17 09:24 | Price: $247.08 | Mkt Cap: $27B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research
@@ -36,7 +36,7 @@ Healthcare / Diagnostics & Research
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Diagnostics & Research
-- **Margin of Safety**: -21% — ABSENT ($247 > IV $196 at 20x for 15% growth)
+- **Margin of Safety**: -24% — ABSENT ($247 > IV $188 at 20x for 15% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Greedy — exercise caution

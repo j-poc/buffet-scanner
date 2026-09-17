@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NDSN
-*Generated: 2026-09-16 09:14 | Price: $309.25 | Mkt Cap: $17B*
+*Generated: 2026-09-17 09:23 | Price: $309.02 | Mkt Cap: $17B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.4% inst.) as insider
 
@@ -38,7 +38,7 @@ Industrials / Specialty Industrial Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Industrial Machinery
-- **Margin of Safety**: -20% — ABSENT ($309 > IV $247 at 25x for 23% growth)
+- **Margin of Safety**: -20% — ABSENT ($309 > IV $248 at 25x for 23% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral
