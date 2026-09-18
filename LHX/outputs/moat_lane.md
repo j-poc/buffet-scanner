@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LHX
-*Generated: 2026-09-17 09:23 | Price: $250.74 | Mkt Cap: $47B*
+*Generated: 2026-09-18 08:58 | Price: $250.46 | Mkt Cap: $47B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -36,7 +36,7 @@ Industrials / Aerospace & Defense
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Aerospace & Defense
-- **Margin of Safety**: -1% — ABSENT ($251 > IV $249 at 25x for 25% growth)
+- **Margin of Safety**: -1% — ABSENT ($250 > IV $247 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

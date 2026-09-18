@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TRGP
-*Generated: 2026-09-17 09:26 | Price: $284.77 | Mkt Cap: $61B*
+*Generated: 2026-09-18 09:01 | Price: $285.07 | Mkt Cap: $61B*
 
 ## Sector Context
 Energy / Oil & Gas Midstream
@@ -36,7 +36,7 @@ Energy / Oil & Gas Midstream
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Midstream
-- **Margin of Safety**: -9% — ABSENT ($285 > IV $260 at 25x for 23% growth)
+- **Margin of Safety**: -8% — ABSENT ($285 > IV $262 at 25x for 23% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 1.4% insider ownership
 - **Mr. Market**: Greedy — exercise caution
