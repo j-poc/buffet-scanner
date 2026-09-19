@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BRK-B
-*Generated: 2026-09-18 08:56 | Price: $509.2 | Mkt Cap: $1090B*
+*Generated: 2026-09-19 08:43 | Price: $509.77 | Mkt Cap: $1091B*
 
 ## Sector Context
 Financial Services / Insurance - Diversified
@@ -23,7 +23,7 @@ Financial Services / Insurance - Diversified
 | Quality | 4.5/10 | 30% | 1.3 | ROE: 12.1% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 27% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider value: $153B (14.0%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 99.9% of shares (SBC concern) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 12% — adequate (Financial Services); Operating margin 33% — durable for Financial Services | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 22.9x — growth premium; 52w range position: 61%; Owner earnings yield: 6.6% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 23.0x — growth premium; 52w range position: 62%; Owner earnings yield: 6.6% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
 
 ## Buffett Score: 6.6 / 10
@@ -36,7 +36,7 @@ Financial Services / Insurance - Diversified
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Diversified
-- **Margin of Safety**: 91% — PRESENT (IV $974 vs $509 at 25x)
+- **Margin of Safety**: 95% — PRESENT (IV $995 vs $510 at 25x)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Aligned — 14.0% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ROL
-*Generated: 2026-09-18 08:59 | Price: $33.0 | Mkt Cap: $16B*
+*Generated: 2026-09-19 08:46 | Price: $32.43 | Mkt Cap: $16B*
 
 ## Sector Context
 Consumer Cyclical / Personal Services
@@ -20,13 +20,13 @@ Consumer Cyclical / Personal Services
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 9.5/10 | 30% | 2.9 | Avg ROIC: 29.5% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 49% (moderate cyclicality); FCF/NI: 120% (strong); Gross margin: 52% (pricing power for Consumer Cyclical) | - |
+| Quality | 9.5/10 | 30% | 2.9 | Avg ROIC: 29.5% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 120% (strong); Gross margin: 52% (pricing power for Consumer Cyclical) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 38.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 35.8% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 52% vs sector strong cutoff 45% — strong pricing power; Operating margin 19% — durable for Consumer Cyclical | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 25.4x — growth premium; Near 52w low (0% of range) — Mr. Market fearful; Owner earnings yield: 3.2%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **8.6/10** | **100%** | **8.6** | | |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 24.9x — growth premium; Near 52w low (0% of range) — Mr. Market fearful; Owner earnings yield: 3.2%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **8.7/10** | **100%** | **8.7** | | |
 
-## Buffett Score: 8.6 / 10
+## Buffett Score: 8.7 / 10
 ## Alpha Adjustment: +0.40
 ## Conviction: HIGH
 ## Verdict: Own Forever
@@ -36,7 +36,7 @@ Consumer Cyclical / Personal Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Personal Services
-- **Margin of Safety**: -51% — ABSENT ($33 > IV $16 at 15x for 3% growth)
+- **Margin of Safety**: -50% — ABSENT ($32 > IV $16 at 15x for 3% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Aligned — 38.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TECH
-*Generated: 2026-09-18 08:56 | Price: $72.41 | Mkt Cap: $11B*
+*Generated: 2026-09-19 08:43 | Price: $72.37 | Mkt Cap: $11B*
 
 ## Sector Context
 Healthcare / Biotechnology

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PFE
-*Generated: 2026-09-18 08:58 | Price: $27.64 | Mkt Cap: $158B*
+*Generated: 2026-09-19 08:45 | Price: $27.66 | Mkt Cap: $158B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General
@@ -36,7 +36,7 @@ Healthcare / Drug Manufacturers - General
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Drug Manufacturers - General
-- **Margin of Safety**: -58% — ABSENT ($28 > IV $12 at 15x for 3% growth)
+- **Margin of Safety**: -59% — ABSENT ($28 > IV $11 at 15x for 3% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral
