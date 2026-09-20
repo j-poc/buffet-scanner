@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MCHP
-*Generated: 2026-09-19 08:45 | Price: $73.27 | Mkt Cap: $40B*
+*Generated: 2026-09-20 09:14 | Price: $73.27 | Mkt Cap: $40B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -36,7 +36,7 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: -76% — ABSENT ($73 > IV $18 at 25x for 25% growth)
+- **Margin of Safety**: -77% — ABSENT ($73 > IV $17 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 1.8% insider ownership
 - **Mr. Market**: Neutral

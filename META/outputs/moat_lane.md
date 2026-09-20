@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: META
-*Generated: 2026-09-19 08:45 | Price: $665.75 | Mkt Cap: $1696B*
+*Generated: 2026-09-20 09:14 | Price: $665.75 | Mkt Cap: $1696B*
 
 ## Sector Context
 Communication Services / Internet Content & Information
@@ -36,7 +36,7 @@ Communication Services / Internet Content & Information
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Internet Content & Information
-- **Margin of Safety**: -42% — ABSENT ($666 > IV $388 at 15x for -13% growth)
+- **Margin of Safety**: -40% — ABSENT ($666 > IV $398 at 15x for -13% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

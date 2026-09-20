@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DLTR
-*Generated: 2026-09-19 08:43 | Price: $111.96 | Mkt Cap: $21B*
+*Generated: 2026-09-20 09:12 | Price: $111.96 | Mkt Cap: $21B*
 
 ## Sector Context
 Consumer Defensive / Discount Stores
@@ -36,7 +36,7 @@ Consumer Defensive / Discount Stores
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Discount Stores
-- **Margin of Safety**: 78% — PRESENT (IV $200 vs $112 at 25x)
+- **Margin of Safety**: 82% — PRESENT (IV $204 vs $112 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

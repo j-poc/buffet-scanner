@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FOX
-*Generated: 2026-09-19 08:44 | Price: $57.74 | Mkt Cap: $24B*
+*Generated: 2026-09-20 09:13 | Price: $57.74 | Mkt Cap: $24B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -36,7 +36,7 @@ Communication Services / Entertainment
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Entertainment
-- **Margin of Safety**: -2% — ABSENT ($58 > IV $57 at 15x for 3% growth)
+- **Margin of Safety**: -0% — ABSENT ($58 > IV $58 at 15x for 3% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Aligned — 39.9% insider ownership
 - **Mr. Market**: Neutral

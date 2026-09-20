@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EXPE
-*Generated: 2026-09-19 08:44 | Price: $279.35 | Mkt Cap: $34B*
+*Generated: 2026-09-20 09:13 | Price: $279.35 | Mkt Cap: $34B*
 
 ## Sector Context
 Consumer Cyclical / Travel Services
@@ -36,7 +36,7 @@ Consumer Cyclical / Travel Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Travel Services
-- **Margin of Safety**: 40% — PRESENT (IV $390 vs $279 at 25x)
+- **Margin of Safety**: 42% — PRESENT (IV $398 vs $279 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UDR
-*Generated: 2026-09-19 08:48 | Price: $33.9 | Mkt Cap: $13B*
+*Generated: 2026-09-20 09:18 | Price: $33.9 | Mkt Cap: $13B*
 
 ## Sector Context
 Real Estate / REIT - Residential
@@ -36,7 +36,7 @@ Real Estate / REIT - Residential
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Residential
-- **Margin of Safety**: 16% — thin (IV $39 at 25x)
+- **Margin of Safety**: 17% — thin (IV $40 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

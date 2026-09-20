@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CAH
-*Generated: 2026-09-19 08:43 | Price: $225.38 | Mkt Cap: $52B*
+*Generated: 2026-09-20 09:12 | Price: $225.38 | Mkt Cap: $52B*
 
 ## Sector Context
 Healthcare / Medical Distribution
@@ -36,7 +36,7 @@ Healthcare / Medical Distribution
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Distribution
-- **Margin of Safety**: -20% — ABSENT ($225 > IV $180 at 25x for 25% growth)
+- **Margin of Safety**: -20% — ABSENT ($225 > IV $181 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

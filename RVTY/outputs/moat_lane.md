@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RVTY
-*Generated: 2026-09-19 08:46 | Price: $143.45 | Mkt Cap: $16B*
+*Generated: 2026-09-20 09:15 | Price: $143.45 | Mkt Cap: $16B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research
@@ -36,7 +36,7 @@ Healthcare / Diagnostics & Research
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Diagnostics & Research
-- **Margin of Safety**: -79% — ABSENT ($143 > IV $31 at 15x for 1% growth)
+- **Margin of Safety**: -78% — ABSENT ($143 > IV $31 at 15x for 1% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Greedy — exercise caution

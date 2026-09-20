@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: YUM
-*Generated: 2026-09-19 08:49 | Price: $137.99 | Mkt Cap: $38B*
+*Generated: 2026-09-20 09:18 | Price: $137.99 | Mkt Cap: $38B*
 
 ## Sector Context
 Consumer Cyclical / Restaurants
@@ -36,7 +36,7 @@ Consumer Cyclical / Restaurants
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Restaurants
-- **Margin of Safety**: 46% — PRESENT (IV $202 vs $138 at 25x)
+- **Margin of Safety**: 44% — PRESENT (IV $198 vs $138 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ECHO
-*Generated: 2026-09-19 08:43 | Price: $93.46 | Mkt Cap: $27B*
+*Generated: 2026-09-20 09:13 | Price: $93.46 | Mkt Cap: $27B*
 
 ## Sector Context
 Communication Services / Telecom Services

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BRK-B
-*Generated: 2026-09-19 08:43 | Price: $509.77 | Mkt Cap: $1091B*
+*Generated: 2026-09-20 09:12 | Price: $509.77 | Mkt Cap: $1091B*
 
 ## Sector Context
 Financial Services / Insurance - Diversified
@@ -36,7 +36,7 @@ Financial Services / Insurance - Diversified
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Diversified
-- **Margin of Safety**: 95% — PRESENT (IV $995 vs $510 at 25x)
+- **Margin of Safety**: 95% — PRESENT (IV $994 vs $510 at 25x)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Aligned — 14.0% insider ownership
 - **Mr. Market**: Neutral

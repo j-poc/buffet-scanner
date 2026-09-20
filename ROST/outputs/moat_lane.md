@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ROST
-*Generated: 2026-09-19 08:46 | Price: $226.61 | Mkt Cap: $72B*
+*Generated: 2026-09-20 09:15 | Price: $226.61 | Mkt Cap: $72B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Retail
@@ -36,7 +36,7 @@ Consumer Cyclical / Apparel Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Apparel Retail
-- **Margin of Safety**: -10% — ABSENT ($227 > IV $204 at 25x for 25% growth)
+- **Margin of Safety**: -9% — ABSENT ($227 > IV $207 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 2.1% insider ownership
 - **Mr. Market**: Neutral

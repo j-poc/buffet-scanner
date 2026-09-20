@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HSIC
-*Generated: 2026-09-19 08:44 | Price: $84.84 | Mkt Cap: $10B*
+*Generated: 2026-09-20 09:13 | Price: $84.84 | Mkt Cap: $10B*
 
 ## Sector Context
 Healthcare / Medical Distribution
@@ -36,7 +36,7 @@ Healthcare / Medical Distribution
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Distribution
-- **Margin of Safety**: -19% — ABSENT ($85 > IV $68 at 20x for 17% growth)
+- **Margin of Safety**: -19% — ABSENT ($85 > IV $69 at 20x for 17% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
 - **Mr. Market**: Neutral

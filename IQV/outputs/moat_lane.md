@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IQV
-*Generated: 2026-09-19 08:44 | Price: $266.42 | Mkt Cap: $44B*
+*Generated: 2026-09-20 09:13 | Price: $266.42 | Mkt Cap: $44B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research
@@ -36,7 +36,7 @@ Healthcare / Diagnostics & Research
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Diagnostics & Research
-- **Margin of Safety**: -55% — ABSENT ($266 > IV $119 at 15x for -1% growth)
+- **Margin of Safety**: -55% — ABSENT ($266 > IV $121 at 15x for -1% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 1.1% insider ownership
 - **Mr. Market**: Greedy — exercise caution

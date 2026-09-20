@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WTW
-*Generated: 2026-09-19 08:49 | Price: $309.98 | Mkt Cap: $29B*
+*Generated: 2026-09-20 09:18 | Price: $309.98 | Mkt Cap: $29B*
 
 ## Sector Context
 Financial Services / Insurance Brokers
@@ -36,7 +36,7 @@ Financial Services / Insurance Brokers
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance Brokers
-- **Margin of Safety**: -22% — ABSENT ($310 > IV $241 at 15x for -27% growth)
+- **Margin of Safety**: -22% — ABSENT ($310 > IV $242 at 15x for -27% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

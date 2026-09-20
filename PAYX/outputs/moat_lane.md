@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PAYX
-*Generated: 2026-09-19 08:45 | Price: $116.14 | Mkt Cap: $41B*
+*Generated: 2026-09-20 09:14 | Price: $116.14 | Mkt Cap: $41B*
 
 > ⚠ DATA: yfinance misclassified Capital International Investors (8.1% inst.) as insider
 

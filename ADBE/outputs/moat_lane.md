@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ADBE
-*Generated: 2026-09-19 08:42 | Price: $248.92 | Mkt Cap: $99B*
+*Generated: 2026-09-20 09:11 | Price: $248.92 | Mkt Cap: $99B*
 
 ## Sector Context
 Technology / Software - Application
@@ -36,7 +36,7 @@ Technology / Software - Application
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Application
-- **Margin of Safety**: 42% — PRESENT (IV $353 vs $249 at 20x)
+- **Margin of Safety**: 44% — PRESENT (IV $358 vs $249 at 20x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

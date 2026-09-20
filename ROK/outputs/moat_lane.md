@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ROK
-*Generated: 2026-09-19 08:46 | Price: $415.62 | Mkt Cap: $46B*
+*Generated: 2026-09-20 09:15 | Price: $415.62 | Mkt Cap: $46B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
@@ -36,7 +36,7 @@ Industrials / Specialty Industrial Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Industrial Machinery
-- **Margin of Safety**: -36% — ABSENT ($416 > IV $266 at 25x for 25% growth)
+- **Margin of Safety**: -36% — ABSENT ($416 > IV $267 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FITB
-*Generated: 2026-09-19 08:44 | Price: $52.91 | Mkt Cap: $48B*
+*Generated: 2026-09-20 09:13 | Price: $52.91 | Mkt Cap: $48B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -36,7 +36,7 @@ Financial Services / Banks - Regional
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Regional
-- **Margin of Safety**: -16% — ABSENT ($53 > IV $44 at 15x for -6% growth)
+- **Margin of Safety**: -16% — ABSENT ($53 > IV $45 at 15x for -6% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral

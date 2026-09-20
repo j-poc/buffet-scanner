@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COR
-*Generated: 2026-09-19 08:43 | Price: $308.78 | Mkt Cap: $59B*
+*Generated: 2026-09-20 09:12 | Price: $308.78 | Mkt Cap: $59B*
 
 ## Sector Context
 Healthcare / Medical Distribution

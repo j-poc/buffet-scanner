@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WY
-*Generated: 2026-09-19 08:49 | Price: $21.22 | Mkt Cap: $15B*
+*Generated: 2026-09-20 09:18 | Price: $21.22 | Mkt Cap: $15B*
 
 ## Sector Context
 Real Estate / REIT - Specialty
@@ -36,7 +36,7 @@ Real Estate / REIT - Specialty
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Specialty
-- **Margin of Safety**: -23% — ABSENT ($21 > IV $16 at 25x for 25% growth)
+- **Margin of Safety**: -22% — ABSENT ($21 > IV $16 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

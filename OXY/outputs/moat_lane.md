@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OXY
-*Generated: 2026-09-19 08:45 | Price: $58.84 | Mkt Cap: $59B*
+*Generated: 2026-09-20 09:14 | Price: $58.84 | Mkt Cap: $59B*
 
 ## Sector Context
 Energy / Oil & Gas E&P
@@ -36,7 +36,7 @@ Energy / Oil & Gas E&P
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas E&P
-- **Margin of Safety**: 43% — PRESENT (IV $84 vs $59 at 25x)
+- **Margin of Safety**: 44% — PRESENT (IV $85 vs $59 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Aligned — 26.8% insider ownership
 - **Mr. Market**: Neutral

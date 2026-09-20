@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TRV
-*Generated: 2026-09-19 08:48 | Price: $374.62 | Mkt Cap: $78B*
+*Generated: 2026-09-20 09:17 | Price: $374.62 | Mkt Cap: $78B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty
@@ -36,7 +36,7 @@ Financial Services / Insurance - Property & Casualty
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Property & Casualty
-- **Margin of Safety**: 145% — PRESENT (IV $919 vs $375 at 25x)
+- **Margin of Safety**: 148% — PRESENT (IV $930 vs $375 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: high quality, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

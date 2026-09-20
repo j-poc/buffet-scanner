@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VICI
-*Generated: 2026-09-19 08:49 | Price: $23.72 | Mkt Cap: $26B*
+*Generated: 2026-09-20 09:18 | Price: $23.72 | Mkt Cap: $26B*
 
 ## Sector Context
 Real Estate / REIT - Diversified
@@ -36,7 +36,7 @@ Real Estate / REIT - Diversified
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Diversified
-- **Margin of Safety**: 61% — PRESENT (IV $38 vs $24 at 15x)
+- **Margin of Safety**: 63% — PRESENT (IV $39 vs $24 at 15x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

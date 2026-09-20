@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SHW
-*Generated: 2026-09-19 08:48 | Price: $320.73 | Mkt Cap: $78B*
+*Generated: 2026-09-20 09:17 | Price: $320.73 | Mkt Cap: $78B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.3% inst.) as insider
 

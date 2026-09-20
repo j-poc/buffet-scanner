@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VEEV
-*Generated: 2026-09-19 08:48 | Price: $260.21 | Mkt Cap: $42B*
+*Generated: 2026-09-20 09:18 | Price: $260.21 | Mkt Cap: $42B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.9% inst.) as insider
 

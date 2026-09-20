@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ZBRA
-*Generated: 2026-09-19 08:49 | Price: $346.63 | Mkt Cap: $17B*
+*Generated: 2026-09-20 09:18 | Price: $346.63 | Mkt Cap: $17B*
 
 ## Sector Context
 Technology / Communication Equipment
@@ -36,7 +36,7 @@ Technology / Communication Equipment
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Communication Equipment
-- **Margin of Safety**: -22% — ABSENT ($347 > IV $271 at 25x for 25% growth)
+- **Margin of Safety**: -21% — ABSENT ($347 > IV $273 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Neutral

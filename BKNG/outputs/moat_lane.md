@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BKNG
-*Generated: 2026-09-19 08:43 | Price: $167.9 | Mkt Cap: $130B*
+*Generated: 2026-09-20 09:12 | Price: $167.9 | Mkt Cap: $130B*
 
 ## Sector Context
 Consumer Cyclical / Travel Services
@@ -36,7 +36,7 @@ Consumer Cyclical / Travel Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Travel Services
-- **Margin of Safety**: 32% — PRESENT (IV $222 vs $168 at 25x)
+- **Margin of Safety**: 34% — PRESENT (IV $225 vs $168 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

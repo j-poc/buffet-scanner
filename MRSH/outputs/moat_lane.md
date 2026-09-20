@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MRSH
-*Generated: 2026-09-19 08:45 | Price: $175.01 | Mkt Cap: $84B*
+*Generated: 2026-09-20 09:14 | Price: $175.01 | Mkt Cap: $84B*
 
 ## Sector Context
 Financial Services / Insurance Brokers
@@ -36,7 +36,7 @@ Financial Services / Insurance Brokers
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance Brokers
-- **Margin of Safety**: -20% — ABSENT ($175 > IV $140 at 17x for 7% growth)
+- **Margin of Safety**: -20% — ABSENT ($175 > IV $139 at 17x for 7% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

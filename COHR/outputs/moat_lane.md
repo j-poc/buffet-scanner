@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COHR
-*Generated: 2026-09-19 08:43 | Price: $317.36 | Mkt Cap: $62B*
+*Generated: 2026-09-20 09:12 | Price: $317.36 | Mkt Cap: $62B*
 
 ## Sector Context
 Technology / Scientific & Technical Instruments
@@ -36,7 +36,7 @@ Technology / Scientific & Technical Instruments
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Scientific & Technical Instruments
-- **Margin of Safety**: -65% — ABSENT ($317 > IV $110 at 25x for 25% growth)
+- **Margin of Safety**: -67% — ABSENT ($317 > IV $103 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 4.4% insider ownership
 - **Mr. Market**: Neutral

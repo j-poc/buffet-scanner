@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STE
-*Generated: 2026-09-19 08:48 | Price: $205.04 | Mkt Cap: $20B*
+*Generated: 2026-09-20 09:17 | Price: $205.04 | Mkt Cap: $20B*
 
 ## Sector Context
 Healthcare / Medical Devices
@@ -36,7 +36,7 @@ Healthcare / Medical Devices
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Devices
-- **Margin of Safety**: -21% — ABSENT ($205 > IV $161 at 20x for 14% growth)
+- **Margin of Safety**: -20% — ABSENT ($205 > IV $164 at 20x for 14% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
