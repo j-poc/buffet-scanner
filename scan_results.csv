@@ -102,7 +102,6 @@ GL,6.8,0.18,MODERATE,Watchlist,1
 NTRS,6.8,0.18,MODERATE,Watchlist,1
 ORLY,6.8,0.18,MODERATE,Watchlist,1
 SYK,6.8,0.18,MODERATE,Watchlist,1
-TTD,6.8,0.18,MODERATE,Watchlist,0
 WDC,6.8,0.18,MODERATE,Watchlist,2
 WTW,6.8,0.18,MODERATE,Watchlist,1
 CDNS,6.7,0.17,MODERATE,Watchlist,2
@@ -213,8 +212,8 @@ DPZ,6.0,0.0,LOW,Pass,2
 DUK,6.0,0.0,LOW,Pass,2
 ECL,6.0,0.0,LOW,Pass,1
 EIX,6.0,0.0,LOW,Pass,2
-ES,6.0,0.0,LOW,Pass,2
 EXC,6.0,0.0,LOW,Pass,2
+ES,6.0,0.0,LOW,Pass,2
 FICO,6.0,0.0,LOW,Pass,2
 FERG,6.0,0.0,LOW,Pass,0
 BEN,6.0,0.0,LOW,Pass,0
@@ -251,8 +250,8 @@ UAL,6.0,0.0,LOW,Pass,2
 VEEV,6.0,0.0,LOW,Pass,1
 VICI,6.0,0.0,LOW,Pass,2
 WEC,6.0,0.0,LOW,Pass,2
-WYNN,6.0,0.0,LOW,Pass,1
 XEL,6.0,0.0,LOW,Pass,2
+WYNN,6.0,0.0,LOW,Pass,1
 YUM,6.0,0.0,LOW,Pass,2
 ABNB,5.9,0.0,LOW,Pass,0
 ADI,5.9,0.0,LOW,Pass,2
@@ -260,6 +259,7 @@ COF,5.9,0.0,LOW,Pass,0
 CHTR,5.9,0.0,LOW,Pass,1
 ETR,5.9,0.0,LOW,Pass,2
 FE,5.9,0.0,LOW,Pass,2
+PSA,5.9,0.0,LOW,Pass,0
 REG,5.9,0.0,LOW,Pass,2
 HOOD,5.9,0.0,LOW,Pass,1
 SLB,5.9,0.0,LOW,Pass,1
@@ -275,6 +275,7 @@ CSCO,5.8,0.0,LOW,Pass,2
 ED,5.8,0.0,LOW,Pass,2
 DVN,5.8,0.0,LOW,Pass,1
 EME,5.8,0.0,LOW,Pass,1
+P,5.8,0.0,LOW,Pass,1
 FDX,5.8,0.0,LOW,Pass,1
 NEM,5.8,0.0,LOW,Pass,1
 PCG,5.8,0.0,LOW,Pass,2
@@ -296,6 +297,7 @@ CMI,5.6,0.0,LOW,Pass,1
 DAL,5.6,0.0,LOW,Pass,0
 DASH,5.6,0.0,LOW,Pass,1
 PODD,5.6,0.0,LOW,Pass,1
+OKE,5.6,0.0,LOW,Pass,2
 VMC,5.6,0.0,LOW,Pass,1
 ZBH,5.6,0.0,LOW,Pass,1
 APH,5.5,0.0,LOW,Pass,2
@@ -323,7 +325,6 @@ JBL,5.4,0.0,LOW,Pass,1
 J,5.4,0.0,LOW,Pass,1
 LYB,5.4,0.0,LOW,Pass,1
 NXPI,5.4,0.0,LOW,Pass,2
-OKE,5.4,0.0,LOW,Pass,2
 SMCI,5.4,0.0,LOW,Pass,1
 TFC,5.4,0.0,LOW,Pass,1
 VLO,5.4,0.0,LOW,Pass,1
@@ -331,7 +332,6 @@ VST,5.4,0.0,LOW,Pass,1
 MMM,5.3,0.0,LOW,Pass,1
 ALGN,5.3,0.0,LOW,Pass,1
 AXON,5.3,0.0,LOW,Pass,1
-BLDR,5.3,0.0,LOW,Pass,1
 DHR,5.3,0.0,LOW,Pass,0
 GNRC,5.3,0.0,LOW,Pass,0
 INVH,5.3,0.0,LOW,Pass,2
@@ -353,7 +353,6 @@ NSC,5.2,0.0,LOW,Pass,1
 NVR,5.2,0.0,LOW,Pass,1
 PFE,5.2,0.0,LOW,Pass,1
 PEG,5.2,0.0,LOW,Pass,2
-PSA,5.2,0.0,LOW,Pass,1
 NOW,5.2,0.0,LOW,Pass,2
 TRMB,5.2,0.0,LOW,Pass,2
 ACN,5.1,0.0,LOW,Pass,2
@@ -369,6 +368,7 @@ NDSN,5.1,0.0,LOW,Pass,1
 ALB,5.0,0.0,LOW,Pass,1
 BIIB,5.0,0.0,LOW,Pass,1
 XYZ,5.0,0.0,LOW,Pass,2
+CARR,5.0,0.0,LOW,Pass,1
 CFG,5.0,0.0,LOW,Pass,1
 CEG,5.0,0.0,LOW,Pass,1
 CCI,5.0,0.0,LOW,Pass,2
@@ -386,7 +386,6 @@ A,4.9,0.0,LOW,Pass,1
 AKAM,4.9,0.0,LOW,Pass,2
 APTV,4.9,0.0,LOW,Pass,1
 AJG,4.9,0.0,LOW,Pass,1
-CARR,4.9,0.0,LOW,Pass,1
 DD,4.9,0.0,LOW,Pass,1
 ESS,4.9,0.0,LOW,Pass,2
 GIS,4.9,0.0,LOW,Pass,2
@@ -405,6 +404,7 @@ SWK,4.8,0.0,LOW,Pass,1
 TGT,4.8,0.0,LOW,Pass,1
 WAT,4.8,0.0,LOW,Pass,1
 CDW,4.7,0.0,LOW,Pass,2
+CTSH,4.7,0.0,LOW,Pass,2
 DLR,4.7,0.0,LOW,Pass,2
 EW,4.7,0.0,LOW,Pass,1
 IQV,4.7,0.0,LOW,Pass,1
@@ -417,7 +417,6 @@ TER,4.7,0.0,LOW,Pass,2
 TMO,4.7,0.0,LOW,Pass,1
 AMD,4.6,0.0,LOW,Pass,2
 CI,4.6,0.0,LOW,Pass,0
-CTSH,4.6,0.0,LOW,Pass,2
 DG,4.6,0.0,LOW,Pass,2
 EXPD,4.6,0.0,LOW,Pass,1
 FIS,4.6,0.0,LOW,Pass,3
@@ -432,7 +431,6 @@ ON,4.6,0.0,LOW,Pass,2
 TXN,4.6,0.0,LOW,Pass,2
 VTRS,4.6,0.0,LOW,Pass,1
 DIS,4.6,0.0,LOW,Pass,1
-TAP,4.5,0.0,LOW,Pass,1
 ZBRA,4.5,0.0,LOW,Pass,2
 CVNA,4.4,0.0,LOW,Pass,0
 NRG,4.4,0.0,LOW,Pass,1
@@ -440,6 +438,7 @@ Q,4.4,0.0,LOW,Pass,2
 STLD,4.4,0.0,LOW,Pass,1
 BXP,4.3,0.0,LOW,Pass,2
 EL,4.3,0.0,LOW,Pass,1
+ILMN,4.3,0.0,LOW,Pass,1
 MAA,4.3,0.0,LOW,Pass,2
 CHRW,4.2,0.0,LOW,Pass,1
 DDOG,4.2,0.0,LOW,Pass,3
@@ -458,12 +457,12 @@ WST,4.1,0.0,LOW,Pass,1
 AES,4.0,-0.2,AVOID,Avoid,2
 BALL,4.0,-0.2,AVOID,Avoid,1
 BAX,4.0,-0.2,AVOID,Avoid,2
-CPT,4.0,-0.2,AVOID,Avoid,1
 COHR,4.0,-0.2,AVOID,Avoid,1
 LITE,4.0,-0.2,AVOID,Avoid,2
 RTX,4.0,-0.2,AVOID,Avoid,1
 SWKS,4.0,-0.2,AVOID,Avoid,2
 BG,3.9,-0.21,AVOID,Avoid,2
+CPT,3.9,-0.21,AVOID,Avoid,1
 CVS,3.9,-0.21,AVOID,Avoid,2
 ELV,3.9,-0.21,AVOID,Avoid,1
 F,3.9,-0.21,AVOID,Avoid,2
@@ -495,6 +494,7 @@ RVTY,3.5,-0.24,AVOID,Avoid,1
 WELL,3.5,-0.24,AVOID,Avoid,2
 INTC,3.4,-0.25,AVOID,Avoid,1
 TSLA,3.4,-0.25,AVOID,Avoid,0
+BE,3.3,-0.25,AVOID,Avoid,2
 BA,3.3,-0.25,AVOID,Avoid,1
 IRM,3.3,-0.25,AVOID,Avoid,2
 CRL,3.2,-0.26,AVOID,Avoid,1

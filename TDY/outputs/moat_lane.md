@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TDY
-*Generated: 2026-09-20 09:17 | Price: $603.46 | Mkt Cap: $28B*
+*Generated: 2026-09-21 09:54 | Price: $603.46 | Mkt Cap: $28B*
 
 ## Sector Context
 Technology / Scientific & Technical Instruments
@@ -21,7 +21,7 @@ Technology / Scientific & Technical Instruments
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 6.6% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 32% (stable); FCF/NI: 97% (strong); Gross margin: 43% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 43% — moderate moat for Technology; Operating margin 20% | - |
 | Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.5x — growth premium; 52w range position: 56%; Owner earnings yield: 3.3%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |

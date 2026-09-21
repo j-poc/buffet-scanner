@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ECL
-*Generated: 2026-09-20 09:13 | Price: $269.46 | Mkt Cap: $76B*
+*Generated: 2026-09-21 09:49 | Price: $269.46 | Mkt Cap: $76B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals

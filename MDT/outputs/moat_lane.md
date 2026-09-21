@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MDT
-*Generated: 2026-09-20 09:14 | Price: $92.13 | Mkt Cap: $118B*
+*Generated: 2026-09-21 09:50 | Price: $92.13 | Mkt Cap: $118B*
 
 ## Sector Context
 Healthcare / Medical Devices

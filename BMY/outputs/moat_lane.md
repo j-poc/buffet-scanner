@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BMY
-*Generated: 2026-09-20 09:12 | Price: $63.06 | Mkt Cap: $129B*
+*Generated: 2026-09-21 09:48 | Price: $63.06 | Mkt Cap: $129B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General

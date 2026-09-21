@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JBHT
-*Generated: 2026-09-20 09:13 | Price: $234.25 | Mkt Cap: $22B*
+*Generated: 2026-09-21 09:50 | Price: $234.25 | Mkt Cap: $22B*
 
 ## Sector Context
 Industrials / Integrated Freight & Logistics

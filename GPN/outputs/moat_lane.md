@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GPN
-*Generated: 2026-09-20 09:13 | Price: $85.06 | Mkt Cap: $23B*
+*Generated: 2026-09-21 09:50 | Price: $85.06 | Mkt Cap: $23B*
 
 ## Sector Context
 Industrials / Specialty Business Services

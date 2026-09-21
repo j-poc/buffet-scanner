@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TYL
-*Generated: 2026-09-20 09:17 | Price: $337.5 | Mkt Cap: $14B*
+*Generated: 2026-09-21 09:54 | Price: $337.5 | Mkt Cap: $14B*
 
 ## Sector Context
 Technology / Software - Application

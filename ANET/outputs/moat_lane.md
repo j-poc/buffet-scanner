@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ANET
-*Generated: 2026-09-20 09:12 | Price: $199.39 | Mkt Cap: $251B*
+*Generated: 2026-09-21 09:48 | Price: $199.39 | Mkt Cap: $251B*
 
 ## Sector Context
 Technology / Computer Hardware

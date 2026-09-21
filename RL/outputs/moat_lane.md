@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RL
-*Generated: 2026-09-20 09:15 | Price: $335.1 | Mkt Cap: $20B*
+*Generated: 2026-09-21 09:53 | Price: $335.1 | Mkt Cap: $20B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Manufacturing
