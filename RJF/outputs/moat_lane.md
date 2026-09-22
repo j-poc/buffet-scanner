@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RJF
-*Generated: 2026-09-21 09:53 | Price: $164.75 | Mkt Cap: $32B*
+*Generated: 2026-09-22 09:17 | Price: $165.19 | Mkt Cap: $32B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -23,7 +23,7 @@ Financial Services / Asset Management
 | Quality | 8.0/10 | 30% | 2.4 | ROE: 18.4% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 32% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 10.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 10.6% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 18% — strong franchise (Financial Services); Operating margin 19% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.6x — deep value; 52w range position: 59% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.6x — deep value; 52w range position: 60% | - |
 | **TOTAL** | **8.4/10** | **100%** | **8.4** | | |
 
 ## Buffett Score: 8.4 / 10

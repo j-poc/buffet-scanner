@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VMRK
-*Generated: 2026-09-21 09:54 | Price: $61.22 | Mkt Cap: $47B*
+*Generated: 2026-09-22 09:18 | Price: $61.36 | Mkt Cap: $47B*
 
 ## Sector Context
 Real Estate / REIT - Residential
@@ -23,7 +23,7 @@ Real Estate / REIT - Residential
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 5.1% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 39% (stable); FCF/NI: 130% (strong); Gross margin: 62% (pricing power for Real Estate) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.0% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 62% vs sector strong cutoff 55% — strong pricing power; Operating margin 29% | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 41.6x — expensive; Near 52w low (26% of range) — Mr. Market fearful; Owner earnings yield: 2.9%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 41.7x — expensive; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 2.9%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
 ## Buffett Score: 4.9 / 10

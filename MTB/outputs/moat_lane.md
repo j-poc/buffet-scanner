@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MTB
-*Generated: 2026-09-21 09:50 | Price: $227.31 | Mkt Cap: $33B*
+*Generated: 2026-09-22 09:14 | Price: $226.96 | Mkt Cap: $33B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -23,7 +23,7 @@ Financial Services / Banks - Regional
 | Quality | 4.7/10 | 30% | 1.4 | ROE: 10.7% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 41% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 11% — adequate (Financial Services); Operating margin 45% — durable for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.8x — deep value; 52w range position: 65% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.8x — deep value; 52w range position: 64% | - |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
 ## Buffett Score: 6.2 / 10

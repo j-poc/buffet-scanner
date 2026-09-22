@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: T
-*Generated: 2026-09-21 09:48 | Price: $25.4 | Mkt Cap: $174B*
+*Generated: 2026-09-22 09:12 | Price: $25.45 | Mkt Cap: $174B*
 
 ## Sector Context
 Communication Services / Telecom Services
@@ -36,7 +36,7 @@ Communication Services / Telecom Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Telecom Services
-- **Margin of Safety**: 103% — PRESENT (IV $52 vs $25 at 17x)
+- **Margin of Safety**: 102% — PRESENT (IV $52 vs $25 at 17x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

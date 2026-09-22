@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: META
-*Generated: 2026-09-21 09:50 | Price: $665.75 | Mkt Cap: $1696B*
+*Generated: 2026-09-22 09:14 | Price: $741.245 | Mkt Cap: $1888B*
 
 ## Sector Context
 Communication Services / Internet Content & Information
@@ -21,34 +21,34 @@ Communication Services / Internet Content & Information
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 7.1/10 | 30% | 2.1 | Avg ROIC: 22.6% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 75% (severe cyclicality); FCF/NI: 90% (strong); Gross margin: 82% (pricing power for Communication Services) | - |
-| Management | 7.5/10 | 25% | 1.9 | Insider value: $2.5B (0.1%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
+| Management | 7.5/10 | 25% | 1.9 | Insider value: $2.8B (0.1%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 82% vs sector strong cutoff 55% — strong pricing power; Operating margin 35% — durable for Communication Services; Rev growth 28% — demand pull | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.0x — fair price; 52w range position: 55%; Owner earnings yield: 1.3%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **8.1/10** | **100%** | **8.1** | | |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 21.3x — growth premium; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 1.1%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
 
-## Buffett Score: 8.1 / 10
-## Alpha Adjustment: +0.40
-## Conviction: HIGH
-## Verdict: Own Forever
+## Buffett Score: 7.4 / 10
+## Alpha Adjustment: +0.24
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Internet Content & Information
-- **Margin of Safety**: -40% — ABSENT ($666 > IV $398 at 15x for -13% growth)
-- **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
+- **Margin of Safety**: -46% — ABSENT ($741 > IV $398 at 15x for -13% growth)
+- **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
-YES — 3 forces aligning: strong moat, attractive valuation, secular growth
+No (2 forces only: strong moat, secular growth)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.40 applied to composite alpha score
-Conviction Gate: HIGH — Proceed
-Half-life adjustment: None
+Buffett Premium: +0.24 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RTX
-*Generated: 2026-09-21 09:54 | Price: $194.0 | Mkt Cap: $261B*
+*Generated: 2026-09-22 09:17 | Price: $194.34 | Mkt Cap: $262B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -23,7 +23,7 @@ Industrials / Aerospace & Defense
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 6.1% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 39% from prior peak; 5y price drawdown: 33% (stable); FCF/NI: 106% (strong); Gross margin: 20% (below Industrials norm) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.3% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 20% — below Industrials moderate cutoff 22%; Operating margin 13% | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 24.7x — growth premium; 52w range position: 54%; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 24.8x — growth premium; 52w range position: 54%; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
 ## Buffett Score: 4.0 / 10

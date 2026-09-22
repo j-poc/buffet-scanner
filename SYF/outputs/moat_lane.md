@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SYF
-*Generated: 2026-09-21 09:54 | Price: $75.04 | Mkt Cap: $24B*
+*Generated: 2026-09-22 09:18 | Price: $75.0 | Mkt Cap: $24B*
 
 ## Sector Context
 Financial Services / Credit Services
@@ -23,7 +23,7 @@ Financial Services / Credit Services
 | Quality | 6.5/10 | 30% | 1.9 | ROE: 20.8% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 47% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | ROE 21% — strong franchise (Financial Services); Operating margin 50% — durable for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.1x — deep value; 52w range position: 47% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.2x — deep value; 52w range position: 46% | - |
 | **TOTAL** | **7.1/10** | **100%** | **7.1** | | |
 
 ## Buffett Score: 7.1 / 10

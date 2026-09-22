@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ROL
-*Generated: 2026-09-21 09:54 | Price: $32.43 | Mkt Cap: $16B*
+*Generated: 2026-09-22 09:18 | Price: $32.35 | Mkt Cap: $16B*
 
 ## Sector Context
 Consumer Cyclical / Personal Services
@@ -23,7 +23,7 @@ Consumer Cyclical / Personal Services
 | Quality | 9.5/10 | 30% | 2.9 | Avg ROIC: 29.5% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 120% (strong); Gross margin: 52% (pricing power for Consumer Cyclical) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 38.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 35.8% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 52% vs sector strong cutoff 45% — strong pricing power; Operating margin 19% — durable for Consumer Cyclical | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 24.9x — growth premium; Near 52w low (0% of range) — Mr. Market fearful; Owner earnings yield: 3.2%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 24.9x — growth premium; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 3.2%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **8.7/10** | **100%** | **8.7** | | |
 
 ## Buffett Score: 8.7 / 10

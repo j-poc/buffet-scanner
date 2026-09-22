@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GPN
-*Generated: 2026-09-21 09:50 | Price: $85.06 | Mkt Cap: $23B*
+*Generated: 2026-09-22 09:13 | Price: $85.29 | Mkt Cap: $23B*
 
 ## Sector Context
 Industrials / Specialty Business Services
@@ -23,7 +23,7 @@ Industrials / Specialty Business Services
 | Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 3.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 60% (severe cyclicality); FCF/NI: 487% (strong); Gross margin: 64% (pricing power for Industrials) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 17.0% of shares (SBC concern) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 64% vs sector strong cutoff 35% — strong pricing power; Operating margin 16% — durable for Industrials; Rev growth 69% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.3x — deep value; 52w range position: 69%; Owner earnings yield: 35.0% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.3x — deep value; 52w range position: 69%; Owner earnings yield: 34.9% (>5%) | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

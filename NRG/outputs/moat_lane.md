@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NRG
-*Generated: 2026-09-21 09:51 | Price: $103.66 | Mkt Cap: $22B*
+*Generated: 2026-09-22 09:14 | Price: $103.28 | Mkt Cap: $22B*
 
 ## Sector Context
 Utilities / Utilities - Independent Power Producers
@@ -20,10 +20,10 @@ Utilities / Utilities - Independent Power Producers
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 9.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 117% from prior peak; 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 167% (strong); Gross margin: 19% (below Utilities norm) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 9.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 117% from prior peak; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 167% (strong); Gross margin: 19% (below Utilities norm) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 19% — below Utilities moderate cutoff 25%; Operating margin 13% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.3x — deep value; Near 52w low (0% of range) — Mr. Market fearful; Owner earnings yield: 3.5% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.2x — deep value; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 3.6% | - |
 | **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
 ## Buffett Score: 4.4 / 10
@@ -36,7 +36,7 @@ Utilities / Utilities - Independent Power Producers
 ## Mental Models Applied
 
 - **Circle of Competence**: Utilities / Utilities - Independent Power Producers
-- **Margin of Safety**: -26% — ABSENT ($104 > IV $77 at 20x for 11% growth)
+- **Margin of Safety**: -26% — ABSENT ($103 > IV $77 at 20x for 11% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 4.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
