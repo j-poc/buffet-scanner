@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: ZTS
-*Generated: 2026-09-22 09:18 | Price: $71.33 | Mkt Cap: $29B*
+*Generated: 2026-09-23 09:16 | Price: $N/A | Mkt Cap: N/A*
 
 ## Sector Context
-Healthcare / Drug Manufacturers - Specialty & Generic
+ / 
 
 ---
 
@@ -11,8 +11,8 @@ Healthcare / Drug Manufacturers - Specialty & Generic
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.3x | 15% | -25% | No |
-| 3 | Management / Governance Failure | Insider ownership 0.2%; key-man / succession risk | 20% | -30% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
+| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -20,35 +20,34 @@ Healthcare / Drug Manufacturers - Specialty & Generic
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 7.0/10 | 30% | 2.1 | Avg ROIC: 21.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 69% (severe cyclicality); FCF/NI: 77%; Gross margin: 72% (pricing power for Healthcare) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 72% vs sector strong cutoff 55% — strong pricing power; Operating margin 41% — durable for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.9x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 6.8% (>5%) | - |
-| **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
+| Quality | 5.5/10 | 30% | 1.6 | Avg ROIC: 21.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 69% (severe cyclicality); FCF/NI: 77%; Gross margin: 0% (below  norm) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); No insider transaction data | - |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 0% — below  moderate cutoff 40%; Operating margin 0% — thin for  | - |
+| Valuation Fit | 3.0/10 | 20% | 0.6 | No P/E data (unprofitable?) | Expensive |
+| **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
 
-## Buffett Score: 7.4 / 10
-## Alpha Adjustment: +0.24
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 4.1 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
-- **Circle of Competence**: Healthcare / Drug Manufacturers - Specialty & Generic
-- **Margin of Safety**: 29% — thin (IV $92 at 15x)
-- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
-- **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Circle of Competence**:  / 
+- **Margin of Safety**: Cannot calculate (no positive EPS)
+- **Lollapalooza Effect**: No (0 forces only: none)
+- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 
 ## Lollapalooza Check
-No (2 forces only: strong moat, attractive valuation)
+No (0 forces only: none)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.24 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EME
-*Generated: 2026-09-22 09:13 | Price: $757.71 | Mkt Cap: $33B*
+*Generated: 2026-09-23 09:13 | Price: $756.5 | Mkt Cap: $33B*
 
 ## Sector Context
 Industrials / Engineering & Construction
@@ -23,7 +23,7 @@ Industrials / Engineering & Construction
 | Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 30.8% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 36% (stable); FCF/NI: 116% (strong); Gross margin: 19% (below Industrials norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 19% — below Industrials moderate cutoff 22%; Operating margin 11% | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.6x — growth premium; 52w range position: 50%; Owner earnings yield: 2.9%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.6x — growth premium; 52w range position: 49%; Owner earnings yield: 2.9%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10

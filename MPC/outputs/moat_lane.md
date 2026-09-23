@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MPC
-*Generated: 2026-09-22 09:14 | Price: $402.38 | Mkt Cap: $113B*
+*Generated: 2026-09-23 09:14 | Price: $389.68 | Mkt Cap: $114B*
 
 ## Sector Context
 Energy / Oil & Gas Refining & Marketing
@@ -21,9 +21,9 @@ Energy / Oil & Gas Refining & Marketing
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.8/10 | 30% | 0.5 | ROIC declining trend; Avg ROIC: 20.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 76% from prior peak; 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 130% (strong); Gross margin: 13% (below Energy norm) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 4.1% (low) | - |
 | Moat | 4.5/10 | 25% | 1.1 | Gross margin 13% — below Energy moderate cutoff 15%; Operating margin 14%; Rev growth 54% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.5x — deep value; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 8.2% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.3x — deep value; 52w range position: 85%; Owner earnings yield: 8.1% (>5%) | - |
 | **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
 ## Buffett Score: 4.7 / 10
@@ -36,10 +36,10 @@ Energy / Oil & Gas Refining & Marketing
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Refining & Marketing
-- **Margin of Safety**: 79% — PRESENT (IV $721 vs $402 at 25x)
+- **Margin of Safety**: 79% — PRESENT (IV $698 vs $390 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (2 forces only: attractive valuation, secular growth)

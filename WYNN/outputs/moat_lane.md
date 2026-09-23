@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: WYNN
-*Generated: 2026-09-22 09:18 | Price: $83.32 | Mkt Cap: $9B*
+*Generated: 2026-09-23 09:16 | Price: $N/A | Mkt Cap: N/A*
 
 ## Sector Context
-Consumer Cyclical / Resorts & Casinos
+ / 
 
 ---
 
@@ -11,8 +11,8 @@ Consumer Cyclical / Resorts & Casinos
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 6.8x | 30% | -40% | YES |
-| 3 | Management / Governance Failure | Insider ownership 27.4%; key-man / succession risk | 8% | -15% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
+| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -20,35 +20,34 @@ Consumer Cyclical / Resorts & Casinos
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 6.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 55% from prior peak; 5y price drawdown: 47% (moderate cyclicality); FCF/NI: 153% (strong); Gross margin: 68% (pricing power for Consumer Cyclical) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 27.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 22.1% of shares (SBC concern) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 68% vs sector strong cutoff 45% — strong pricing power; Operating margin 17% — durable for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.2x — fair price; Near 52w low (4% of range) — Mr. Market fearful; Owner earnings yield: 5.6% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
+| Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: 6.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 55% from prior peak; 5y price drawdown: 47% (moderate cyclicality); FCF/NI: 153% (strong); Gross margin: 0% (below  norm) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); No insider transaction data | - |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 0% — below  moderate cutoff 40%; Operating margin 0% — thin for  | - |
+| Valuation Fit | 3.0/10 | 20% | 0.6 | No P/E data (unprofitable?) | Expensive |
+| **TOTAL** | **2.6/10** | **100%** | **2.6** | | |
 
-## Buffett Score: 6.0 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 2.6 / 10
+## Alpha Adjustment: -0.30
+## Conviction: AVOID
+## Verdict: Avoid
 
 ---
 
 ## Mental Models Applied
 
-- **Circle of Competence**: Consumer Cyclical / Resorts & Casinos
-- **Margin of Safety**: 25% — thin (IV $104 at 25x)
-- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
-- **Incentive-Caused Bias**: Aligned — 27.4% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Circle of Competence**:  / 
+- **Margin of Safety**: Cannot calculate (no positive EPS)
+- **Lollapalooza Effect**: No (0 forces only: none)
+- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 
 ## Lollapalooza Check
-No (2 forces only: strong moat, attractive valuation)
+No (0 forces only: none)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
+Buffett Premium: -0.30 applied to composite alpha score
+Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: WTW
-*Generated: 2026-09-22 09:18 | Price: $306.82 | Mkt Cap: $28B*
+*Generated: 2026-09-23 09:16 | Price: $N/A | Mkt Cap: N/A*
 
 ## Sector Context
-Financial Services / Insurance Brokers
+ / 
 
 ---
 
@@ -11,8 +11,8 @@ Financial Services / Insurance Brokers
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.5x | 15% | -25% | No |
-| 3 | Management / Governance Failure | Insider ownership 0.3%; key-man / succession risk | 20% | -30% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
+| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -20,35 +20,34 @@ Financial Services / Insurance Brokers
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 7.0/10 | 30% | 2.1 | ROE: 19.8% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 30% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
-| Moat | 7.0/10 | 25% | 1.8 | ROE 20% — strong franchise (Financial Services); Operating margin 18% — thin for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.4x — deep value; 52w range position: 59%; Owner earnings yield: 5.0% | - |
-| **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
+| Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 7.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 109% from prior peak; 5y price drawdown: 30% (stable); FCF/NI: -258% (weak conversion); Gross margin: 0% (below  norm) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); No insider transaction data | - |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 0% — below  moderate cutoff 40%; Operating margin 0% — thin for  | - |
+| Valuation Fit | 3.0/10 | 20% | 0.6 | No P/E data (unprofitable?) | Expensive |
+| **TOTAL** | **2.9/10** | **100%** | **2.9** | | |
 
-## Buffett Score: 6.8 / 10
-## Alpha Adjustment: +0.18
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 2.9 / 10
+## Alpha Adjustment: -0.28
+## Conviction: AVOID
+## Verdict: Avoid
 
 ---
 
 ## Mental Models Applied
 
-- **Circle of Competence**: Financial Services / Insurance Brokers
-- **Margin of Safety**: -21% — ABSENT ($307 > IV $242 at 15x for -27% growth)
-- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
-- **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
-- **Mr. Market**: Neutral
+- **Circle of Competence**:  / 
+- **Margin of Safety**: Cannot calculate (no positive EPS)
+- **Lollapalooza Effect**: No (0 forces only: none)
+- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 
 ## Lollapalooza Check
-No (1 forces only: attractive valuation)
+No (0 forces only: none)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.18 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: -0.28 applied to composite alpha score
+Conviction Gate: AVOID — Do not initiate position
+Half-life adjustment: N/A
 ```

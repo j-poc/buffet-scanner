@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: WST
-*Generated: 2026-09-22 09:18 | Price: $361.78 | Mkt Cap: $25B*
+*Generated: 2026-09-23 09:16 | Price: $N/A | Mkt Cap: N/A*
 
 ## Sector Context
-Healthcare / Medical Instruments & Supplies
+ / 
 
 ---
 
@@ -11,8 +11,8 @@ Healthcare / Medical Instruments & Supplies
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.3x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 0.7%; key-man / succession risk | 20% | -30% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
+| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -20,26 +20,25 @@ Healthcare / Medical Instruments & Supplies
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.3/10 | 30% | 0.7 | ROIC declining trend; Avg ROIC: 16.8% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 59% (severe cyclicality); FCF/NI: 74%; Gross margin: 37% | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
-| Moat | 7.5/10 | 25% | 1.9 | Gross margin 37% — moderate moat for Healthcare; Operating margin 22% — durable for Healthcare | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 36.3x — expensive; Near 52w high (85% of range) — Mr. Market greedy; Owner earnings yield: 1.1%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
+| Quality | 1.8/10 | 30% | 0.5 | ROIC declining trend; Avg ROIC: 16.8% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 59% (severe cyclicality); FCF/NI: 74%; Gross margin: 0% (below  norm) | ROIC declining |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); No insider transaction data | - |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 0% — below  moderate cutoff 40%; Operating margin 0% — thin for  | - |
+| Valuation Fit | 3.0/10 | 20% | 0.6 | No P/E data (unprofitable?) | Expensive |
+| **TOTAL** | **3.0/10** | **100%** | **3.0** | | |
 
-## Buffett Score: 4.1 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 3.0 / 10
+## Alpha Adjustment: -0.28
+## Conviction: AVOID
+## Verdict: Avoid
 
 ---
 
 ## Mental Models Applied
 
-- **Circle of Competence**: Healthcare / Medical Instruments & Supplies
-- **Margin of Safety**: -57% — ABSENT ($362 > IV $157 at 20x for 18% growth)
+- **Circle of Competence**:  / 
+- **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (0 forces only: none)
-- **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 
 ## Lollapalooza Check
 No (0 forces only: none)
@@ -48,7 +47,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
+Buffett Premium: -0.28 applied to composite alpha score
+Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

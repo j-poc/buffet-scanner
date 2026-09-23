@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SBAC
-*Generated: 2026-09-22 09:18 | Price: $176.28 | Mkt Cap: $19B*
+*Generated: 2026-09-23 09:15 | Price: $175.84 | Mkt Cap: $19B*
 
 ## Sector Context
 Real Estate / REIT - Specialty
@@ -36,7 +36,7 @@ Real Estate / REIT - Specialty
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Specialty
-- **Margin of Safety**: -21% — ABSENT ($176 > IV $139 at 15x for -10% growth)
+- **Margin of Safety**: -21% — ABSENT ($176 > IV $138 at 15x for -10% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

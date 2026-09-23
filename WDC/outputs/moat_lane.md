@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: WDC
-*Generated: 2026-09-22 09:18 | Price: $448.17 | Mkt Cap: $162B*
+*Generated: 2026-09-23 09:16 | Price: $N/A | Mkt Cap: N/A*
 
 ## Sector Context
-Technology / Computer Hardware
+ / 
 
 ---
 
@@ -10,9 +10,9 @@ Technology / Computer Hardware
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
-| 1 | Technology Disruption | Competitive leapfrog in Computer Hardware | 25% | -35% | YES |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.2x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 0.5%; key-man / succession risk | 20% | -30% | YES |
+| 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
+| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -20,35 +20,34 @@ Technology / Computer Hardware
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.1/10 | 30% | 1.8 | Avg ROIC: 22.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 55% (severe cyclicality); FCF/NI: 69%; Gross margin: 49% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 49% — moderate moat for Technology; Operating margin 44% — durable for Technology; Rev growth 44% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.1x — deep value; 52w range position: 49%; Owner earnings yield: 1.4% | - |
-| **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
+| Quality | 5.6/10 | 30% | 1.7 | Avg ROIC: 22.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 55% (severe cyclicality); FCF/NI: 69%; Gross margin: 0% (below  norm) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); No insider transaction data | - |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 0% — below  moderate cutoff 40%; Operating margin 0% — thin for  | - |
+| Valuation Fit | 3.0/10 | 20% | 0.6 | No P/E data (unprofitable?) | Expensive |
+| **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
-## Buffett Score: 6.8 / 10
-## Alpha Adjustment: +0.18
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 4.2 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
-- **Circle of Competence**: Technology / Computer Hardware
-- **Margin of Safety**: 50% — PRESENT (IV $673 vs $448 at 25x)
-- **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
-- **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
-- **Mr. Market**: Neutral
+- **Circle of Competence**:  / 
+- **Margin of Safety**: Cannot calculate (no positive EPS)
+- **Lollapalooza Effect**: No (0 forces only: none)
+- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 
 ## Lollapalooza Check
-YES — 3 forces aligning: strong moat, attractive valuation, secular growth
+No (0 forces only: none)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.18 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GEHC
-*Generated: 2026-09-22 09:13 | Price: $64.81 | Mkt Cap: $29B*
+*Generated: 2026-09-23 09:13 | Price: $66.27 | Mkt Cap: $30B*
 
 ## Sector Context
 Healthcare / Medical Devices
@@ -21,9 +21,9 @@ Healthcare / Medical Devices
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.8/10 | 30% | 1.7 | Avg ROIC: 13.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 37% (stable); FCF/NI: 88% (strong); Gross margin: 40% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 40% — moderate moat for Healthcare; Operating margin 15% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.0x — deep value; Near 52w low (20% of range) — Mr. Market fearful; Owner earnings yield: 5.4% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.2x — deep value; Near 52w low (24% of range) — Mr. Market fearful; Owner earnings yield: 5.2% (>5%) | - |
 | **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
 ## Buffett Score: 6.4 / 10
@@ -36,7 +36,7 @@ Healthcare / Medical Devices
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Devices
-- **Margin of Safety**: 34% — PRESENT (IV $87 vs $65 at 20x)
+- **Margin of Safety**: 34% — PRESENT (IV $89 vs $66 at 20x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

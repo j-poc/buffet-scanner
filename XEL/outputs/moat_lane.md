@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: XEL
-*Generated: 2026-09-22 09:18 | Price: $71.85 | Mkt Cap: $45B*
+*Generated: 2026-09-23 09:16 | Price: $N/A | Mkt Cap: N/A*
 
 ## Sector Context
-Utilities / Utilities - Regulated Electric
+ / 
 
 ---
 
@@ -11,8 +11,8 @@ Utilities / Utilities - Regulated Electric
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 6.8x | 30% | -40% | YES |
-| 3 | Management / Governance Failure | Insider ownership 0.2%; key-man / succession risk | 20% | -30% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
+| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -20,35 +20,34 @@ Utilities / Utilities - Regulated Electric
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 4.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 34% (stable); FCF/NI: -137% (weak conversion); Gross margin: 47% (pricing power for Utilities) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 47% vs sector strong cutoff 40% — strong pricing power; Operating margin 23% — durable for Utilities | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.8x — fair price; Near 52w low (1% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
+| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 4.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 34% (stable); FCF/NI: -137% (weak conversion); Gross margin: 0% (below  norm) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); No insider transaction data | - |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 0% — below  moderate cutoff 40%; Operating margin 0% — thin for  | - |
+| Valuation Fit | 3.0/10 | 20% | 0.6 | No P/E data (unprofitable?) | Expensive |
+| **TOTAL** | **3.4/10** | **100%** | **3.4** | | |
 
-## Buffett Score: 6.0 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 3.4 / 10
+## Alpha Adjustment: -0.25
+## Conviction: AVOID
+## Verdict: Avoid
 
 ---
 
 ## Mental Models Applied
 
-- **Circle of Competence**: Utilities / Utilities - Regulated Electric
-- **Margin of Safety**: 27% — thin (IV $91 at 25x)
-- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
-- **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Circle of Competence**:  / 
+- **Margin of Safety**: Cannot calculate (no positive EPS)
+- **Lollapalooza Effect**: No (0 forces only: none)
+- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 
 ## Lollapalooza Check
-No (2 forces only: strong moat, attractive valuation)
+No (0 forces only: none)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
+Buffett Premium: -0.25 applied to composite alpha score
+Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```
