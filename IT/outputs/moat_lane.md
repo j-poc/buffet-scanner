@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IT
-*Generated: 2026-09-23 09:13 | Price: $178.75 | Mkt Cap: $11B*
+*Generated: 2026-09-24 09:13 | Price: $178.52 | Mkt Cap: $11B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -36,7 +36,7 @@ Technology / Information Technology Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Information Technology Services
-- **Margin of Safety**: 56% — PRESENT (IV $278 vs $179 at 25x)
+- **Margin of Safety**: 55% — PRESENT (IV $278 vs $179 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 3.8% insider ownership
 - **Mr. Market**: Neutral

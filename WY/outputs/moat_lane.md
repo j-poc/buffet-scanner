@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: WY
-*Generated: 2026-09-23 09:16 | Price: $N/A | Mkt Cap: N/A*
+*Generated: 2026-09-24 09:17 | Price: $21.17 | Mkt Cap: $15B*
 
 ## Sector Context
- / 
+Real Estate / REIT - Specialty
 
 ---
 
@@ -11,8 +11,8 @@
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 7.9x | 30% | -40% | YES |
+| 3 | Management / Governance Failure | Insider ownership 0.3%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 6.4% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 83% from prior peak; 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 46% (weak conversion); Gross margin: 0% (below  norm) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); No insider transaction data | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 0% — below  moderate cutoff 40%; Operating margin 0% — thin for  | - |
-| Valuation Fit | 3.0/10 | 20% | 0.6 | No P/E data (unprofitable?) | Expensive |
-| **TOTAL** | **2.5/10** | **100%** | **2.5** | | |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 6.4% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 83% from prior peak; 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 46% (weak conversion); Gross margin: 15% (below Real Estate norm) | ROIC declining |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 15% — below Real Estate moderate cutoff 35%; Operating margin 8% — thin for Real Estate | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 31.5x — expensive; Near 52w low (3% of range) — Mr. Market fearful; Owner earnings yield: 0.1%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **2.9/10** | **100%** | **2.9** | | |
 
-## Buffett Score: 2.5 / 10
-## Alpha Adjustment: -0.31
+## Buffett Score: 2.9 / 10
+## Alpha Adjustment: -0.28
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -35,10 +35,11 @@
 
 ## Mental Models Applied
 
-- **Circle of Competence**:  / 
-- **Margin of Safety**: Cannot calculate (no positive EPS)
+- **Circle of Competence**: Real Estate / REIT - Specialty
+- **Margin of Safety**: -23% — ABSENT ($21 > IV $16 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
-- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (0 forces only: none)
@@ -47,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.31 applied to composite alpha score
+Buffett Premium: -0.28 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

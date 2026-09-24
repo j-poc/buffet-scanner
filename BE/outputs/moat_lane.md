@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BE
-*Generated: 2026-09-23 09:13 | Price: $276.53 | Mkt Cap: $81B*
+*Generated: 2026-09-24 09:11 | Price: $275.19 | Mkt Cap: $81B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (6.3% inst.) as insider
 
@@ -25,7 +25,7 @@ Industrials / Electrical Equipment & Parts
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: -9.5% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 76% (severe cyclicality); FCF/NI: 19% (weak conversion); Gross margin: 32% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.8% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 32% — moderate moat for Industrials; Operating margin 17% — durable for Industrials; Rev growth 166% — demand pull | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 56.1x — extreme premium; 52w range position: 74%; Owner earnings yield: 0.7%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 55.8x — extreme premium; 52w range position: 74%; Owner earnings yield: 0.7%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.3/10** | **100%** | **3.3** | | |
 
 ## Buffett Score: 3.3 / 10
@@ -38,7 +38,7 @@ Industrials / Electrical Equipment & Parts
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Electrical Equipment & Parts
-- **Margin of Safety**: -93% — ABSENT ($277 > IV $19 at 25x for 25% growth)
+- **Margin of Safety**: -93% — ABSENT ($275 > IV $19 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

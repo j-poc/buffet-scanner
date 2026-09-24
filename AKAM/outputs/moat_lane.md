@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AKAM
-*Generated: 2026-09-23 09:12 | Price: $118.34 | Mkt Cap: $17B*
+*Generated: 2026-09-24 09:10 | Price: $118.44 | Mkt Cap: $17B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -36,7 +36,7 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: -65% — ABSENT ($118 > IV $42 at 15x for -27% growth)
+- **Margin of Safety**: -65% — ABSENT ($118 > IV $41 at 15x for -27% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 2.1% insider ownership
 - **Mr. Market**: Neutral

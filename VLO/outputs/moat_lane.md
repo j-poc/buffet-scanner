@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VLO
-*Generated: 2026-09-23 09:15 | Price: $377.14 | Mkt Cap: $109B*
+*Generated: 2026-09-24 09:16 | Price: $375.84 | Mkt Cap: $108B*
 
 ## Sector Context
 Energy / Oil & Gas Refining & Marketing
@@ -36,7 +36,7 @@ Energy / Oil & Gas Refining & Marketing
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Refining & Marketing
-- **Margin of Safety**: 59% — PRESENT (IV $600 vs $377 at 25x)
+- **Margin of Safety**: 59% — PRESENT (IV $598 vs $376 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral

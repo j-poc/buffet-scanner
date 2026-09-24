@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: WELL
-*Generated: 2026-09-23 09:16 | Price: $N/A | Mkt Cap: N/A*
+*Generated: 2026-09-24 09:17 | Price: $229.87 | Mkt Cap: $166B*
 
 ## Sector Context
- / 
+Real Estate / REIT - Healthcare Facilities
 
 ---
 
@@ -11,8 +11,8 @@
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 5.9x | 30% | -40% | YES |
+| 3 | Management / Governance Failure | Insider ownership 0.1%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.0/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 1.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 41% (moderate cyclicality); FCF/NI: 478% (strong); Gross margin: 0% (below  norm) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); No insider transaction data | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 0% — below  moderate cutoff 40%; Operating margin 0% — thin for  | - |
-| Valuation Fit | 3.0/10 | 20% | 0.6 | No P/E data (unprofitable?) | Expensive |
-| **TOTAL** | **2.8/10** | **100%** | **2.8** | | |
+| Quality | 1.5/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 1.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 41% (moderate cyclicality); FCF/NI: 478% (strong); Gross margin: 40% | ROIC declining |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
+| Moat | 7.0/10 | 25% | 1.8 | Gross margin 40% — moderate moat for Real Estate; Operating margin 17%; Rev growth 39% — demand pull | - |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 72.3x — extreme premium; 52w range position: 72%; Owner earnings yield: 1.7%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **3.5/10** | **100%** | **3.5** | | |
 
-## Buffett Score: 2.8 / 10
-## Alpha Adjustment: -0.29
+## Buffett Score: 3.5 / 10
+## Alpha Adjustment: -0.24
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -35,19 +35,20 @@
 
 ## Mental Models Applied
 
-- **Circle of Competence**:  / 
-- **Margin of Safety**: Cannot calculate (no positive EPS)
-- **Lollapalooza Effect**: No (0 forces only: none)
-- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
+- **Circle of Competence**: Real Estate / REIT - Healthcare Facilities
+- **Margin of Safety**: -76% — ABSENT ($230 > IV $55 at 25x for 25% growth)
+- **Lollapalooza Effect**: No (1 forces only: secular growth)
+- **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (0 forces only: none)
+No (1 forces only: secular growth)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.29 applied to composite alpha score
+Buffett Premium: -0.24 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

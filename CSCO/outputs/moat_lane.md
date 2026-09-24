@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CSCO
-*Generated: 2026-09-23 09:13 | Price: $106.44 | Mkt Cap: $420B*
+*Generated: 2026-09-24 09:12 | Price: $106.43 | Mkt Cap: $420B*
 
 ## Sector Context
 Technology / Communication Equipment
@@ -36,7 +36,7 @@ Technology / Communication Equipment
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Communication Equipment
-- **Margin of Safety**: -25% — ABSENT ($106 > IV $80 at 25x for 25% growth)
+- **Margin of Safety**: -22% — ABSENT ($106 > IV $83 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral
