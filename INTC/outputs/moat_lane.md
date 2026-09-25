@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: INTC
-*Generated: 2026-09-24 09:14 | Price: $122.6 | Mkt Cap: $648B*
+*Generated: 2026-09-25 09:32 | Price: $127.39 | Mkt Cap: $673B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -21,13 +21,13 @@ Technology / Semiconductors
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 0.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 334% from prior peak; 5y price drawdown: 65% (severe cyclicality); FCF/NI: 244% (strong); Gross margin: 39% (below Technology norm) | ROIC declining |
-| Management | 8.5/10 | 25% | 2.1 | Insider value: $91B (14.0%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 12.6% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider value: $94B (14.0%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 12.6% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 39% — below Technology moderate cutoff 40%; Operating margin 12% — thin for Technology; Rev growth 25% — demand pull | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 59.5x — extreme premium; 52w range position: 83%; Owner earnings yield: 0.8%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.4/10** | **100%** | **3.4** | | |
+| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 61.8x — extreme premium; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 0.7%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **3.2/10** | **100%** | **3.2** | | |
 
-## Buffett Score: 3.4 / 10
-## Alpha Adjustment: -0.25
+## Buffett Score: 3.2 / 10
+## Alpha Adjustment: -0.26
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -39,7 +39,7 @@ Technology / Semiconductors
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Aligned — 14.0% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (1 forces only: secular growth)
@@ -48,7 +48,7 @@ No (1 forces only: secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.25 applied to composite alpha score
+Buffett Premium: -0.26 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```
