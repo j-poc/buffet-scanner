@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PODD
-*Generated: 2026-09-25 09:32 | Price: $135.78 | Mkt Cap: $9B*
+*Generated: 2026-09-26 09:17 | Price: $136.13 | Mkt Cap: $9B*
 
 ## Sector Context
 Healthcare / Medical Devices
@@ -23,7 +23,7 @@ Healthcare / Medical Devices
 | Quality | 1.7/10 | 30% | 0.5 | Avg ROIC: 8.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 41% from prior peak; 5y price drawdown: 63% (severe cyclicality); FCF/NI: -151% (weak conversion); Gross margin: 71% (pricing power for Healthcare) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 71% vs sector strong cutoff 55% — strong pricing power; Operating margin 16%; Rev growth 24% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 17.6x — fair price; Near 52w low (4% of range) — Mr. Market fearful; Owner earnings yield: 2.5%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 17.7x — fair price; Near 52w low (4% of range) — Mr. Market fearful; Owner earnings yield: 2.5%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
 ## Buffett Score: 5.6 / 10

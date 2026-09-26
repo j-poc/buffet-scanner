@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NSC
-*Generated: 2026-09-25 09:33 | Price: $313.17 | Mkt Cap: $70B*
+*Generated: 2026-09-26 09:17 | Price: $313.0 | Mkt Cap: $70B*
 
 ## Sector Context
 Industrials / Railroads

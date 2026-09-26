@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: XYL
-*Generated: 2026-09-25 09:37 | Price: $102.66 | Mkt Cap: $24B*
+*Generated: 2026-09-26 09:21 | Price: $102.63 | Mkt Cap: $24B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
@@ -36,7 +36,7 @@ Industrials / Specialty Industrial Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Industrial Machinery
-- **Margin of Safety**: -23% — ABSENT ($103 > IV $79 at 20x for 20% growth)
+- **Margin of Safety**: -18% — ABSENT ($103 > IV $84 at 20x for 20% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EIX
-*Generated: 2026-09-25 09:31 | Price: $52.54 | Mkt Cap: $20B*
+*Generated: 2026-09-26 09:16 | Price: $52.65 | Mkt Cap: $20B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric
@@ -36,7 +36,7 @@ Utilities / Utilities - Regulated Electric
 ## Mental Models Applied
 
 - **Circle of Competence**: Utilities / Utilities - Regulated Electric
-- **Margin of Safety**: 353% — PRESENT (IV $238 vs $53 at 25x)
+- **Margin of Safety**: 360% — PRESENT (IV $242 vs $53 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

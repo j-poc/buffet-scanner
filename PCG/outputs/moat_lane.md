@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PCG
-*Generated: 2026-09-25 09:33 | Price: $12.32 | Mkt Cap: $37B*
+*Generated: 2026-09-26 09:18 | Price: $12.34 | Mkt Cap: $37B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric
@@ -36,7 +36,7 @@ Utilities / Utilities - Regulated Electric
 ## Mental Models Applied
 
 - **Circle of Competence**: Utilities / Utilities - Regulated Electric
-- **Margin of Safety**: 180% — PRESENT (IV $34 vs $12 at 25x)
+- **Margin of Safety**: 182% — PRESENT (IV $35 vs $12 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

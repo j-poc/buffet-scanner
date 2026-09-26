@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WBD
-*Generated: 2026-09-25 09:36 | Price: $30.84 | Mkt Cap: $77B*
+*Generated: 2026-09-26 09:21 | Price: $30.86 | Mkt Cap: $77B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -23,7 +23,7 @@ Communication Services / Entertainment
 | Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: -3.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 78% (severe cyclicality); FCF/NI: 36% (weak conversion); Gross margin: 48% | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.9% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 48% — moderate moat for Communication Services; Operating margin 5% — thin for Communication Services | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 495.7x — extreme premium; Near 52w high (99% of range) — Mr. Market greedy; Owner earnings yield: 20.9% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 496.0x — extreme premium; Near 52w high (100% of range) — Mr. Market greedy; Owner earnings yield: 20.9% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.5/10** | **100%** | **3.5** | | |
 
 ## Buffett Score: 3.5 / 10

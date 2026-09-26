@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: YUM
-*Generated: 2026-09-25 09:37 | Price: $137.34 | Mkt Cap: $37B*
+*Generated: 2026-09-26 09:21 | Price: $138.63 | Mkt Cap: $38B*
 
 ## Sector Context
 Consumer Cyclical / Restaurants
@@ -23,7 +23,7 @@ Consumer Cyclical / Restaurants
 | Quality | 7.0/10 | 30% | 2.1 | ROIC declining trend; Avg ROIC: 53.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 23% (stable); FCF/NI: 93% (strong); Gross margin: 45% (pricing power for Consumer Cyclical) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 45% vs sector strong cutoff 45% — strong pricing power; Operating margin 33% — durable for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.8x — fair price; Near 52w low (9% of range) — Mr. Market fearful; Owner earnings yield: 2.2%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 20.0x — growth premium; Near 52w low (12% of range) — Mr. Market fearful; Owner earnings yield: 2.2%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,13 +36,13 @@ Consumer Cyclical / Restaurants
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Restaurants
-- **Margin of Safety**: 41% — PRESENT (IV $194 vs $137 at 25x)
-- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
+- **Margin of Safety**: 40% — PRESENT (IV $194 vs $139 at 25x)
+- **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-No (2 forces only: strong moat, attractive valuation)
+No (1 forces only: strong moat)
 
 ---
 

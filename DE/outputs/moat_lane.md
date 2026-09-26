@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DE
-*Generated: 2026-09-25 09:31 | Price: $694.94 | Mkt Cap: $187B*
+*Generated: 2026-09-26 09:16 | Price: $690.46 | Mkt Cap: $186B*
 
 ## Sector Context
 Industrials / Farm & Heavy Construction Machinery
@@ -23,7 +23,7 @@ Industrials / Farm & Heavy Construction Machinery
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 11.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 51% from prior peak; 5y price drawdown: 34% (stable); FCF/NI: 45% (weak conversion); Gross margin: 25% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 25% — moderate moat for Industrials; Operating margin 13% | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 30.4x — expensive; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 2.4%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 30.2x — expensive; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 2.4%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.1/10** | **100%** | **3.1** | | |
 
 ## Buffett Score: 3.1 / 10
@@ -36,7 +36,7 @@ Industrials / Farm & Heavy Construction Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Farm & Heavy Construction Machinery
-- **Margin of Safety**: -57% — ABSENT ($695 > IV $300 at 17x for 7% growth)
+- **Margin of Safety**: -56% — ABSENT ($690 > IV $306 at 17x for 7% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ILMN
-*Generated: 2026-09-25 09:32 | Price: $273.9 | Mkt Cap: $41B*
+*Generated: 2026-09-26 09:17 | Price: $270.0 | Mkt Cap: $41B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research
@@ -23,7 +23,7 @@ Healthcare / Diagnostics & Research
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: -11.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 83% (severe cyclicality); FCF/NI: 6% (weak conversion); Gross margin: 68% (pricing power for Healthcare) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 68% vs sector strong cutoff 55% — strong pricing power; Operating margin 21% — durable for Healthcare | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 44.9x — expensive; Near 52w high (98% of range) — Mr. Market greedy; Owner earnings yield: 1.9%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 44.2x — expensive; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 2.0%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
 
 ## Buffett Score: 4.3 / 10
@@ -36,7 +36,7 @@ Healthcare / Diagnostics & Research
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Diagnostics & Research
-- **Margin of Safety**: -69% — ABSENT ($274 > IV $86 at 15x for -9% growth)
+- **Margin of Safety**: -70% — ABSENT ($270 > IV $81 at 15x for -9% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution
