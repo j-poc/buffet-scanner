@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EME
-*Generated: 2026-09-26 09:16 | Price: $762.21 | Mkt Cap: $34B*
+*Generated: 2026-09-27 09:56 | Price: $762.21 | Mkt Cap: $34B*
 
 ## Sector Context
 Industrials / Engineering & Construction
@@ -36,7 +36,7 @@ Industrials / Engineering & Construction
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Engineering & Construction
-- **Margin of Safety**: 5% — thin (IV $803 at 25x)
+- **Margin of Safety**: 5% — thin (IV $802 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: high quality)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Neutral

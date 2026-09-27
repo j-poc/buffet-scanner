@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CRM
-*Generated: 2026-09-26 09:21 | Price: $234.02 | Mkt Cap: $193B*
+*Generated: 2026-09-27 10:01 | Price: $234.02 | Mkt Cap: $193B*
 
 ## Sector Context
 Technology / Software - Application
@@ -36,7 +36,7 @@ Technology / Software - Application
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Application
-- **Margin of Safety**: 17% — thin (IV $274 at 25x)
+- **Margin of Safety**: 17% — thin (IV $273 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 3.0% insider ownership
 - **Mr. Market**: Neutral

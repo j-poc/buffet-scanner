@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HCA
-*Generated: 2026-09-26 09:17 | Price: $435.61 | Mkt Cap: $94B*
+*Generated: 2026-09-27 09:57 | Price: $435.61 | Mkt Cap: $94B*
 
 ## Sector Context
 Healthcare / Medical Care Facilities
@@ -36,7 +36,7 @@ Healthcare / Medical Care Facilities
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Care Facilities
-- **Margin of Safety**: 37% — PRESENT (IV $596 vs $436 at 20x)
+- **Margin of Safety**: 37% — PRESENT (IV $597 vs $436 at 20x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 16.6% insider ownership
 - **Mr. Market**: Neutral

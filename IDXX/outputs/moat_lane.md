@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IDXX
-*Generated: 2026-09-26 09:17 | Price: $519.26 | Mkt Cap: $41B*
+*Generated: 2026-09-27 09:57 | Price: $519.26 | Mkt Cap: $41B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research

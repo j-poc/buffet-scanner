@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GLW
-*Generated: 2026-09-26 09:16 | Price: $156.74 | Mkt Cap: $135B*
+*Generated: 2026-09-27 09:56 | Price: $156.74 | Mkt Cap: $135B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.6% inst.) as insider
 

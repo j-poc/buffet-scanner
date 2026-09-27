@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMD
-*Generated: 2026-09-26 09:15 | Price: $630.63 | Mkt Cap: $1029B*
+*Generated: 2026-09-27 09:55 | Price: $630.63 | Mkt Cap: $1029B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -36,7 +36,7 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: -85% — ABSENT ($631 > IV $98 at 25x for 25% growth)
+- **Margin of Safety**: -84% — ABSENT ($631 > IV $98 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Greedy — exercise caution

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CASY
-*Generated: 2026-09-26 09:16 | Price: $598.46 | Mkt Cap: $22B*
+*Generated: 2026-09-27 09:56 | Price: $598.46 | Mkt Cap: $22B*
 
 ## Sector Context
 Consumer Cyclical / Specialty Retail
@@ -36,7 +36,7 @@ Consumer Cyclical / Specialty Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Specialty Retail
-- **Margin of Safety**: -13% — ABSENT ($598 > IV $520 at 25x for 25% growth)
+- **Margin of Safety**: -13% — ABSENT ($598 > IV $519 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

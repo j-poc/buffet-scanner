@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UHS
-*Generated: 2026-09-26 09:21 | Price: $178.86 | Mkt Cap: $11B*
+*Generated: 2026-09-27 10:01 | Price: $178.86 | Mkt Cap: $11B*
 
 ## Sector Context
 Healthcare / Medical Care Facilities
@@ -36,7 +36,7 @@ Healthcare / Medical Care Facilities
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Care Facilities
-- **Margin of Safety**: 167% — PRESENT (IV $478 vs $179 at 20x)
+- **Margin of Safety**: 174% — PRESENT (IV $490 vs $179 at 20x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 5.0% insider ownership
 - **Mr. Market**: Neutral

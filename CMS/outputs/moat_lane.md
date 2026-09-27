@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CMS
-*Generated: 2026-09-26 09:16 | Price: $62.95 | Mkt Cap: $20B*
+*Generated: 2026-09-27 09:56 | Price: $62.95 | Mkt Cap: $20B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric

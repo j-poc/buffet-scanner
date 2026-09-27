@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CMG
-*Generated: 2026-09-26 09:16 | Price: $31.33 | Mkt Cap: $40B*
+*Generated: 2026-09-27 09:56 | Price: $31.33 | Mkt Cap: $40B*
 
 ## Sector Context
 Consumer Cyclical / Restaurants
@@ -23,7 +23,7 @@ Consumer Cyclical / Restaurants
 | Quality | 7.5/10 | 30% | 2.2 | Avg ROIC: 45.4% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 59% (severe cyclicality); FCF/NI: 97% (strong); Gross margin: 39% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 39% — moderate moat for Consumer Cyclical; Operating margin 16% — durable for Consumer Cyclical | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 22.9x — growth premium; Near 52w low (22% of range) — Mr. Market fearful; Owner earnings yield: 2.8%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 22.8x — growth premium; Near 52w low (22% of range) — Mr. Market fearful; Owner earnings yield: 2.8%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
 
 ## Buffett Score: 6.6 / 10

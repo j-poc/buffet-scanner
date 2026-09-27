@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MS
-*Generated: 2026-09-26 09:17 | Price: $196.31 | Mkt Cap: $308B*
+*Generated: 2026-09-27 09:58 | Price: $196.31 | Mkt Cap: $308B*
 
 > ⚠ DATA: yfinance misclassified Mitsubishi UFJ Financial Group Inc (23.9% inst.) as insider
 
@@ -23,7 +23,7 @@ Financial Services / Capital Markets
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 7.0/10 | 30% | 2.1 | ROE: 18.0% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 32% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 24.2% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 24.1% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | ROE 18% — strong franchise (Financial Services); Operating margin 42% — durable for Financial Services; Rev growth 28% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.4x — deep value; 52w range position: 55%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.2/10** | **100%** | **7.2** | | |

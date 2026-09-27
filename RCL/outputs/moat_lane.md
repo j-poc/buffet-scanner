@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RCL
-*Generated: 2026-09-26 09:21 | Price: $242.7 | Mkt Cap: $65B*
+*Generated: 2026-09-27 10:01 | Price: $242.7 | Mkt Cap: $65B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.7% inst.) as insider
 
@@ -38,7 +38,7 @@ Consumer Cyclical / Travel Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Travel Services
-- **Margin of Safety**: 0% — ABSENT ($243 > IV $243 at 15x for -5% growth)
+- **Margin of Safety**: 0% — thin (IV $243 at 15x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
