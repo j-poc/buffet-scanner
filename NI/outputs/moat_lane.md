@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NI
-*Generated: 2026-09-27 09:58 | Price: $39.42 | Mkt Cap: $19B*
+*Generated: 2026-09-28 10:47 | Price: $39.42 | Mkt Cap: $19B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Gas
@@ -36,7 +36,7 @@ Utilities / Utilities - Regulated Gas
 ## Mental Models Applied
 
 - **Circle of Competence**: Utilities / Utilities - Regulated Gas
-- **Margin of Safety**: -29% — ABSENT ($39 > IV $28 at 15x for -58% growth)
+- **Margin of Safety**: -28% — ABSENT ($39 > IV $28 at 15x for -58% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

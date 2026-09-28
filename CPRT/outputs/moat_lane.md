@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CPRT
-*Generated: 2026-09-27 09:56 | Price: $27.59 | Mkt Cap: $26B*
+*Generated: 2026-09-28 10:45 | Price: $27.59 | Mkt Cap: $26B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.3% inst.) as insider
 

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MNST
-*Generated: 2026-09-27 09:58 | Price: $43.11 | Mkt Cap: $84B*
+*Generated: 2026-09-28 10:47 | Price: $43.11 | Mkt Cap: $84B*
 
 ## Sector Context
 Consumer Defensive / Beverages - Non-Alcoholic

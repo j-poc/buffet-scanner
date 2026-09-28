@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DG
-*Generated: 2026-09-27 09:56 | Price: $124.84 | Mkt Cap: $28B*
+*Generated: 2026-09-28 10:46 | Price: $124.84 | Mkt Cap: $28B*
 
 ## Sector Context
 Consumer Defensive / Discount Stores

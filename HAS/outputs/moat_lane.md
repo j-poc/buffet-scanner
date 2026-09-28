@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HAS
-*Generated: 2026-09-27 09:57 | Price: $88.09 | Mkt Cap: $12B*
+*Generated: 2026-09-28 10:46 | Price: $88.09 | Mkt Cap: $12B*
 
 ## Sector Context
 Consumer Cyclical / Leisure
@@ -36,7 +36,7 @@ Consumer Cyclical / Leisure
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Leisure
-- **Margin of Safety**: 28% — thin (IV $113 at 20x)
+- **Margin of Safety**: 28% — thin (IV $112 at 20x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral

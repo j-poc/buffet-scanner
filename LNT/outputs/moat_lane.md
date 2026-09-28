@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LNT
-*Generated: 2026-09-27 09:55 | Price: $63.6 | Mkt Cap: $16B*
+*Generated: 2026-09-28 10:45 | Price: $63.6 | Mkt Cap: $16B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric
@@ -36,7 +36,7 @@ Utilities / Utilities - Regulated Electric
 ## Mental Models Applied
 
 - **Circle of Competence**: Utilities / Utilities - Regulated Electric
-- **Margin of Safety**: -26% — ABSENT ($64 > IV $47 at 15x for -4% growth)
+- **Margin of Safety**: -25% — ABSENT ($64 > IV $47 at 15x for -4% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

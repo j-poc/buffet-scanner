@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LULU
-*Generated: 2026-09-27 09:57 | Price: $101.3 | Mkt Cap: $11B*
+*Generated: 2026-09-28 10:47 | Price: $101.3 | Mkt Cap: $11B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Retail
