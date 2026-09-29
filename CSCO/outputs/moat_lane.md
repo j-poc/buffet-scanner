@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CSCO
-*Generated: 2026-09-28 10:45 | Price: $106.7 | Mkt Cap: $421B*
+*Generated: 2026-09-29 10:33 | Price: $106.74 | Mkt Cap: $421B*
 
 ## Sector Context
 Technology / Communication Equipment

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DUK
-*Generated: 2026-09-28 10:46 | Price: $113.35 | Mkt Cap: $88B*
+*Generated: 2026-09-29 10:34 | Price: $113.41 | Mkt Cap: $88B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric
