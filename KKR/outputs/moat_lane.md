@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KKR
-*Generated: 2026-09-29 10:34 | Price: $93.24 | Mkt Cap: $86B*
+*Generated: 2026-09-30 10:24 | Price: $93.18 | Mkt Cap: $86B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -36,7 +36,7 @@ Financial Services / Asset Management
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Asset Management
-- **Margin of Safety**: -19% — ABSENT ($93 > IV $76 at 25x for 25% growth)
+- **Margin of Safety**: -16% — ABSENT ($93 > IV $78 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 23.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
