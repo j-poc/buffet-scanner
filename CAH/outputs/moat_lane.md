@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CAH
-*Generated: 2026-09-30 10:23 | Price: $223.91 | Mkt Cap: $52B*
+*Generated: 2026-10-01 10:50 | Price: $222.5 | Mkt Cap: $52B*
 
 ## Sector Context
 Healthcare / Medical Distribution
@@ -20,10 +20,10 @@ Healthcare / Medical Distribution
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 37.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 21% (stable); FCF/NI: 370% (strong); Gross margin: 4% (below Healthcare norm) | - |
+| Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 37.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 0% (stable); FCF/NI: 370% (strong); Gross margin: 4% (below Healthcare norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.2% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 4% — below Healthcare moderate cutoff 35%; Operating margin 1% — thin for Healthcare | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.9x — fair price; 52w range position: 68%; Owner earnings yield: 9.2% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.8x — fair price; 52w range position: 67%; Owner earnings yield: 9.2% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
 
 ## Buffett Score: 6.3 / 10
@@ -36,7 +36,7 @@ Healthcare / Medical Distribution
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Distribution
-- **Margin of Safety**: -19% — ABSENT ($224 > IV $181 at 25x for 25% growth)
+- **Margin of Safety**: -19% — ABSENT ($222 > IV $181 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

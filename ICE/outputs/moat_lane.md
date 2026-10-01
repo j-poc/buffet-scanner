@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ICE
-*Generated: 2026-09-30 10:24 | Price: $152.19 | Mkt Cap: $85B*
+*Generated: 2026-10-01 10:52 | Price: $152.03 | Mkt Cap: $85B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges
@@ -36,7 +36,7 @@ Financial Services / Financial Data & Stock Exchanges
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Financial Data & Stock Exchanges
-- **Margin of Safety**: -7% — ABSENT ($152 > IV $141 at 20x for 14% growth)
+- **Margin of Safety**: -7% — ABSENT ($152 > IV $142 at 20x for 14% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
 - **Mr. Market**: Neutral

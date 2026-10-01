@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RF
-*Generated: 2026-09-30 10:28 | Price: $26.89 | Mkt Cap: $23B*
+*Generated: 2026-10-01 10:55 | Price: $26.88 | Mkt Cap: $23B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -36,7 +36,7 @@ Financial Services / Banks - Regional
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Regional
-- **Margin of Safety**: 54% — PRESENT (IV $41 vs $27 at 17x)
+- **Margin of Safety**: 56% — PRESENT (IV $42 vs $27 at 17x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral
