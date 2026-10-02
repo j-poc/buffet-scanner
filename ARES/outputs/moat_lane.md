@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ARES
-*Generated: 2026-10-01 10:50 | Price: $116.17 | Mkt Cap: $39B*
+*Generated: 2026-10-02 10:24 | Price: $116.57 | Mkt Cap: $39B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -36,7 +36,7 @@ Financial Services / Asset Management
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Asset Management
-- **Margin of Safety**: -69% — ABSENT ($116 > IV $36 at 17x for 6% growth)
+- **Margin of Safety**: -68% — ABSENT ($117 > IV $37 at 17x for 6% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 11.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MSFT
-*Generated: 2026-10-01 10:52 | Price: $512.9 | Mkt Cap: $3809B*
+*Generated: 2026-10-02 10:26 | Price: $512.8 | Mkt Cap: $3808B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -36,7 +36,7 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: -13% — ABSENT ($513 > IV $449 at 25x for 25% growth)
+- **Margin of Safety**: -12% — ABSENT ($513 > IV $453 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ATO
-*Generated: 2026-10-01 10:50 | Price: $156.44 | Mkt Cap: $26B*
+*Generated: 2026-10-02 10:24 | Price: $156.38 | Mkt Cap: $26B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Gas
