@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: INTC
-*Generated: 2026-10-02 10:26 | Price: $120.0 | Mkt Cap: $634B*
+*Generated: 2026-10-03 09:49 | Price: $119.33 | Mkt Cap: $631B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -21,9 +21,9 @@ Technology / Semiconductors
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 0.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 334% from prior peak; 5y price drawdown: 65% (severe cyclicality); FCF/NI: 244% (strong); Gross margin: 39% (below Technology norm) | ROIC declining |
-| Management | 8.5/10 | 25% | 2.1 | Insider value: $89B (14.0%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 12.6% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider value: $88B (14.0%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 12.6% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 39% — below Technology moderate cutoff 40%; Operating margin 12% — thin for Technology; Rev growth 25% — demand pull | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 58.2x — extreme premium; 52w range position: 80%; Owner earnings yield: 0.8%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 57.9x — extreme premium; 52w range position: 79%; Owner earnings yield: 0.8%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.4/10** | **100%** | **3.4** | | |
 
 ## Buffett Score: 3.4 / 10

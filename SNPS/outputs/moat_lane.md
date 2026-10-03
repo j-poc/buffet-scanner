@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SNPS
-*Generated: 2026-10-02 10:30 | Price: $490.54 | Mkt Cap: $94B*
+*Generated: 2026-10-03 09:53 | Price: $489.9 | Mkt Cap: $94B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -36,7 +36,7 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: -67% — ABSENT ($491 > IV $162 at 25x for 25% growth)
+- **Margin of Safety**: -71% — ABSENT ($490 > IV $143 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 3.0% insider ownership
 - **Mr. Market**: Neutral

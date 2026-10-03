@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DE
-*Generated: 2026-10-02 10:25 | Price: $667.26 | Mkt Cap: $180B*
+*Generated: 2026-10-03 09:48 | Price: $687.0 | Mkt Cap: $185B*
 
 ## Sector Context
 Industrials / Farm & Heavy Construction Machinery
@@ -23,11 +23,11 @@ Industrials / Farm & Heavy Construction Machinery
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 11.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 51% from prior peak; 5y price drawdown: 34% (stable); FCF/NI: 45% (weak conversion); Gross margin: 25% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 25% — moderate moat for Industrials; Operating margin 13% | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 29.2x — growth premium; 52w range position: 81%; Owner earnings yield: 2.5%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **3.7/10** | **100%** | **3.7** | | |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 30.1x — expensive; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 2.4%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **3.1/10** | **100%** | **3.1** | | |
 
-## Buffett Score: 3.7 / 10
-## Alpha Adjustment: -0.22
+## Buffett Score: 3.1 / 10
+## Alpha Adjustment: -0.27
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -36,10 +36,10 @@ Industrials / Farm & Heavy Construction Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Farm & Heavy Construction Machinery
-- **Margin of Safety**: -54% — ABSENT ($667 > IV $305 at 17x for 7% growth)
+- **Margin of Safety**: -54% — ABSENT ($687 > IV $315 at 17x for 7% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (0 forces only: none)
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.22 applied to composite alpha score
+Buffett Premium: -0.27 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

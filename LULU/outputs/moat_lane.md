@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LULU
-*Generated: 2026-10-02 10:26 | Price: $95.86 | Mkt Cap: $11B*
+*Generated: 2026-10-03 09:49 | Price: $94.46 | Mkt Cap: $10B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Retail
@@ -20,10 +20,10 @@ Consumer Cyclical / Apparel Retail
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.5/10 | 30% | 1.6 | Avg ROIC: 41.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 81% (severe cyclicality); FCF/NI: 73%; Gross margin: 55% (thin by design for Apparel Retail) | - |
+| Quality | 5.5/10 | 30% | 1.6 | Avg ROIC: 41.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 82% (severe cyclicality); FCF/NI: 73%; Gross margin: 55% (thin by design for Apparel Retail) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.7% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | ROA 14% / ROE 31% — scale moat (Apparel Retail); Operating margin 13% — durable for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.1x — deep value; Near 52w low (0% of range) — Mr. Market fearful; Owner earnings yield: 10.8% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.9x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 11.0% (>5%) | - |
 | **TOTAL** | **7.3/10** | **100%** | **7.3** | | |
 
 ## Buffett Score: 7.3 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Apparel Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Apparel Retail
-- **Margin of Safety**: 90% — PRESENT (IV $182 vs $96 at 15x)
+- **Margin of Safety**: 90% — PRESENT (IV $180 vs $94 at 15x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 4.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
