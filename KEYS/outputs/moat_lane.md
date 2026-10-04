@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KEYS
-*Generated: 2026-10-03 09:49 | Price: $384.64 | Mkt Cap: $65B*
+*Generated: 2026-10-04 10:31 | Price: $384.64 | Mkt Cap: $65B*
 
 ## Sector Context
 Technology / Scientific & Technical Instruments
@@ -36,7 +36,7 @@ Technology / Scientific & Technical Instruments
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Scientific & Technical Instruments
-- **Margin of Safety**: -50% — ABSENT ($385 > IV $190 at 25x for 25% growth)
+- **Margin of Safety**: -52% — ABSENT ($385 > IV $185 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Greedy — exercise caution

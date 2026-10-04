@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ADP
-*Generated: 2026-10-03 09:47 | Price: $257.68 | Mkt Cap: $102B*
+*Generated: 2026-10-04 10:30 | Price: $257.68 | Mkt Cap: $102B*
 
 ## Sector Context
 Technology / Software - Application
@@ -36,7 +36,7 @@ Technology / Software - Application
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Application
-- **Margin of Safety**: -30% — ABSENT ($258 > IV $181 at 17x for 10% growth)
+- **Margin of Safety**: -28% — ABSENT ($258 > IV $186 at 17x for 10% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

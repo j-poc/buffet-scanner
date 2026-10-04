@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CEG
-*Generated: 2026-10-03 09:48 | Price: $257.49 | Mkt Cap: $91B*
+*Generated: 2026-10-04 10:30 | Price: $257.49 | Mkt Cap: $91B*
 
 ## Sector Context
 Utilities / Utilities - Independent Power Producers
@@ -36,7 +36,7 @@ Utilities / Utilities - Independent Power Producers
 ## Mental Models Applied
 
 - **Circle of Competence**: Utilities / Utilities - Independent Power Producers
-- **Margin of Safety**: -41% — ABSENT ($257 > IV $153 at 15x for -47% growth)
+- **Margin of Safety**: -40% — ABSENT ($257 > IV $153 at 15x for -47% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

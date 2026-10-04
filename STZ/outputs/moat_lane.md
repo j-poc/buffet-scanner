@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STZ
-*Generated: 2026-10-03 09:48 | Price: $112.87 | Mkt Cap: $19B*
+*Generated: 2026-10-04 10:30 | Price: $112.87 | Mkt Cap: $19B*
 
 ## Sector Context
 Consumer Defensive / Beverages - Brewers
@@ -36,7 +36,7 @@ Consumer Defensive / Beverages - Brewers
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Beverages - Brewers
-- **Margin of Safety**: 132% — PRESENT (IV $262 vs $113 at 25x)
+- **Margin of Safety**: 133% — PRESENT (IV $262 vs $113 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 12.6% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

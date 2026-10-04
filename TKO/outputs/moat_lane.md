@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TKO
-*Generated: 2026-10-03 09:53 | Price: $175.58 | Mkt Cap: $33B*
+*Generated: 2026-10-04 10:35 | Price: $175.58 | Mkt Cap: $33B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -36,7 +36,7 @@ Communication Services / Entertainment
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Entertainment
-- **Margin of Safety**: -67% — ABSENT ($176 > IV $58 at 20x for 14% growth)
+- **Margin of Safety**: -68% — ABSENT ($176 > IV $57 at 20x for 14% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Aligned — 18.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FCX
-*Generated: 2026-10-03 09:48 | Price: $72.04 | Mkt Cap: $103B*
+*Generated: 2026-10-04 10:31 | Price: $72.04 | Mkt Cap: $103B*
 
 ## Sector Context
 Basic Materials / Copper
@@ -36,7 +36,7 @@ Basic Materials / Copper
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Copper
-- **Margin of Safety**: -26% — ABSENT ($72 > IV $53 at 25x for 25% growth)
+- **Margin of Safety**: -29% — ABSENT ($72 > IV $51 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Neutral

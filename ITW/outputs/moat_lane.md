@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ITW
-*Generated: 2026-10-03 09:49 | Price: $262.92 | Mkt Cap: $75B*
+*Generated: 2026-10-04 10:31 | Price: $262.92 | Mkt Cap: $75B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
@@ -36,7 +36,7 @@ Industrials / Specialty Industrial Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Industrial Machinery
-- **Margin of Safety**: -15% — ABSENT ($263 > IV $222 at 20x for 10% growth)
+- **Margin of Safety**: -16% — ABSENT ($263 > IV $221 at 20x for 10% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BE
-*Generated: 2026-10-03 09:47 | Price: $289.15 | Mkt Cap: $85B*
+*Generated: 2026-10-04 10:30 | Price: $289.15 | Mkt Cap: $85B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (6.3% inst.) as insider
 
@@ -25,7 +25,7 @@ Industrials / Electrical Equipment & Parts
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: -9.5% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 76% (severe cyclicality); FCF/NI: 19% (weak conversion); Gross margin: 32% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.8% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 32% — moderate moat for Industrials; Operating margin 17% — durable for Industrials; Rev growth 166% — demand pull | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 58.7x — extreme premium; 52w range position: 77%; Owner earnings yield: 0.6%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 58.5x — extreme premium; 52w range position: 77%; Owner earnings yield: 0.6%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.3/10** | **100%** | **3.3** | | |
 
 ## Buffett Score: 3.3 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WYNN
-*Generated: 2026-10-03 09:53 | Price: $75.88 | Mkt Cap: $8B*
+*Generated: 2026-10-04 10:36 | Price: $75.88 | Mkt Cap: $8B*
 
 ## Sector Context
 Consumer Cyclical / Resorts & Casinos
@@ -36,7 +36,7 @@ Consumer Cyclical / Resorts & Casinos
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Resorts & Casinos
-- **Margin of Safety**: 35% — PRESENT (IV $102 vs $76 at 25x)
+- **Margin of Safety**: 37% — PRESENT (IV $104 vs $76 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 27.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

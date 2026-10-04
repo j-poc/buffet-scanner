@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EL
-*Generated: 2026-10-03 09:48 | Price: $91.97 | Mkt Cap: $33B*
+*Generated: 2026-10-04 10:31 | Price: $91.97 | Mkt Cap: $33B*
 
 ## Sector Context
 Consumer Defensive / Household & Personal Products
@@ -36,7 +36,7 @@ Consumer Defensive / Household & Personal Products
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Household & Personal Products
-- **Margin of Safety**: -91% — ABSENT ($92 > IV $9 at 17x for 6% growth)
+- **Margin of Safety**: -91% — ABSENT ($92 > IV $8 at 17x for 6% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

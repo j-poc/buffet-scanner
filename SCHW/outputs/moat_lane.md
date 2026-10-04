@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SCHW
-*Generated: 2026-10-03 09:47 | Price: $96.7 | Mkt Cap: $167B*
+*Generated: 2026-10-04 10:30 | Price: $96.7 | Mkt Cap: $167B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.8% inst.) as insider
 
@@ -38,7 +38,7 @@ Financial Services / Capital Markets
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Capital Markets
-- **Margin of Safety**: 40% — PRESENT (IV $135 vs $97 at 25x)
+- **Margin of Safety**: 42% — PRESENT (IV $137 vs $97 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CSGP
-*Generated: 2026-10-03 09:48 | Price: $27.38 | Mkt Cap: $11B*
+*Generated: 2026-10-04 10:30 | Price: $27.38 | Mkt Cap: $11B*
 
 ## Sector Context
 Real Estate / Real Estate Services

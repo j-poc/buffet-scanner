@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MAS
-*Generated: 2026-10-03 09:49 | Price: $68.36 | Mkt Cap: $13B*
+*Generated: 2026-10-04 10:32 | Price: $68.36 | Mkt Cap: $13B*
 
 ## Sector Context
 Industrials / Building Products & Equipment
@@ -36,7 +36,7 @@ Industrials / Building Products & Equipment
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Building Products & Equipment
-- **Margin of Safety**: 58% — PRESENT (IV $108 vs $68 at 25x)
+- **Margin of Safety**: 59% — PRESENT (IV $108 vs $68 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

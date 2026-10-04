@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ROL
-*Generated: 2026-10-03 09:50 | Price: $30.16 | Mkt Cap: $15B*
+*Generated: 2026-10-04 10:35 | Price: $30.16 | Mkt Cap: $15B*
 
 ## Sector Context
 Consumer Cyclical / Personal Services
@@ -36,7 +36,7 @@ Consumer Cyclical / Personal Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Personal Services
-- **Margin of Safety**: -46% — ABSENT ($30 > IV $16 at 15x for 3% growth)
+- **Margin of Safety**: -45% — ABSENT ($30 > IV $16 at 15x for 3% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Aligned — 38.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

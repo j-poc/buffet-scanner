@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AAPL
-*Generated: 2026-10-03 09:47 | Price: $333.69 | Mkt Cap: $4870B*
+*Generated: 2026-10-04 10:30 | Price: $333.69 | Mkt Cap: $4870B*
 
 ## Sector Context
 Technology / Consumer Electronics
@@ -36,7 +36,7 @@ Technology / Consumer Electronics
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Consumer Electronics
-- **Margin of Safety**: -34% — ABSENT ($334 > IV $220 at 25x for 25% growth)
+- **Margin of Safety**: -35% — ABSENT ($334 > IV $218 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 1.6% insider ownership
 - **Mr. Market**: Greedy — exercise caution

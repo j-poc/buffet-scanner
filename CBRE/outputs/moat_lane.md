@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CBRE
-*Generated: 2026-10-03 09:47 | Price: $129.58 | Mkt Cap: $38B*
+*Generated: 2026-10-04 10:30 | Price: $129.58 | Mkt Cap: $38B*
 
 ## Sector Context
 Real Estate / Real Estate Services
@@ -36,7 +36,7 @@ Real Estate / Real Estate Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / Real Estate Services
-- **Margin of Safety**: -50% — ABSENT ($130 > IV $65 at 15x for -4% growth)
+- **Margin of Safety**: -49% — ABSENT ($130 > IV $66 at 15x for -4% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

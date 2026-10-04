@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TSN
-*Generated: 2026-10-03 09:53 | Price: $51.89 | Mkt Cap: $18B*
+*Generated: 2026-10-04 10:35 | Price: $51.89 | Mkt Cap: $18B*
 
 ## Sector Context
 Consumer Defensive / Farm Products
@@ -36,7 +36,7 @@ Consumer Defensive / Farm Products
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Farm Products
-- **Margin of Safety**: -20% — ABSENT ($52 > IV $42 at 25x for 25% growth)
+- **Margin of Safety**: -22% — ABSENT ($52 > IV $40 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 2.6% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

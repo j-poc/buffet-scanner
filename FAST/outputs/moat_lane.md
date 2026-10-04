@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FAST
-*Generated: 2026-10-03 09:48 | Price: $50.75 | Mkt Cap: $58B*
+*Generated: 2026-10-04 10:31 | Price: $50.75 | Mkt Cap: $58B*
 
 ## Sector Context
 Industrials / Industrial Distribution
@@ -36,7 +36,7 @@ Industrials / Industrial Distribution
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Industrial Distribution
-- **Margin of Safety**: -53% — ABSENT ($51 > IV $24 at 20x for 15% growth)
+- **Margin of Safety**: -54% — ABSENT ($51 > IV $23 at 20x for 15% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

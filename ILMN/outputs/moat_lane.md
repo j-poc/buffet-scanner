@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ILMN
-*Generated: 2026-10-03 09:49 | Price: $273.04 | Mkt Cap: $41B*
+*Generated: 2026-10-04 10:31 | Price: $273.04 | Mkt Cap: $41B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research
@@ -36,7 +36,7 @@ Healthcare / Diagnostics & Research
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Diagnostics & Research
-- **Margin of Safety**: -70% — ABSENT ($273 > IV $81 at 15x for -9% growth)
+- **Margin of Safety**: -70% — ABSENT ($273 > IV $83 at 15x for -9% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution

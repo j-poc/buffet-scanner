@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DHR
-*Generated: 2026-10-03 09:48 | Price: $214.06 | Mkt Cap: $150B*
+*Generated: 2026-10-04 10:30 | Price: $214.06 | Mkt Cap: $150B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research
@@ -36,7 +36,7 @@ Healthcare / Diagnostics & Research
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Diagnostics & Research
-- **Margin of Safety**: -34% — ABSENT ($214 > IV $142 at 25x for 25% growth)
+- **Margin of Safety**: -34% — ABSENT ($214 > IV $140 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Aligned — 11.0% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GS
-*Generated: 2026-10-03 09:48 | Price: $902.56 | Mkt Cap: $263B*
+*Generated: 2026-10-04 10:31 | Price: $902.56 | Mkt Cap: $263B*
 
 ## Sector Context
 Financial Services / Capital Markets

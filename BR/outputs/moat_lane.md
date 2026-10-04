@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BR
-*Generated: 2026-10-03 09:47 | Price: $156.93 | Mkt Cap: $18B*
+*Generated: 2026-10-04 10:30 | Price: $156.93 | Mkt Cap: $18B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -36,7 +36,7 @@ Technology / Information Technology Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Information Technology Services
-- **Margin of Safety**: 1% — thin (IV $159 at 17x)
+- **Margin of Safety**: 4% — thin (IV $163 at 17x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
