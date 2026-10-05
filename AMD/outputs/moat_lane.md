@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMD
-*Generated: 2026-10-04 10:29 | Price: $633.91 | Mkt Cap: $1035B*
+*Generated: 2026-10-05 11:19 | Price: $633.91 | Mkt Cap: $1035B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -23,7 +23,7 @@ Technology / Semiconductors
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 2.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 35% from prior peak; 5y price drawdown: 65% (severe cyclicality); FCF/NI: 167% (strong); Gross margin: 56% | - |
 | Management | 7.5/10 | 25% | 1.9 | Insider value: $4.4B (0.4%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 56% — moderate moat for Technology; Operating margin 17% — thin for Technology; Rev growth 50% — demand pull | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 40.7x — expensive; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 0.9%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 40.6x — expensive; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 0.9%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
 ## Buffett Score: 4.6 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CRWD
-*Generated: 2026-10-04 10:30 | Price: $270.04 | Mkt Cap: $277B*
+*Generated: 2026-10-05 11:20 | Price: $270.04 | Mkt Cap: $277B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -36,7 +36,7 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: -100% — ABSENT ($270 > IV $1 at 25x for 25% growth)
+- **Margin of Safety**: -99% — ABSENT ($270 > IV $2 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 1.4% insider ownership
 - **Mr. Market**: Greedy — exercise caution

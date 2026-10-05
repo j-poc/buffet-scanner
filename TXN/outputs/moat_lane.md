@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TXN
-*Generated: 2026-10-04 10:35 | Price: $293.8 | Mkt Cap: $268B*
+*Generated: 2026-10-05 11:25 | Price: $293.8 | Mkt Cap: $268B*
 
 ## Sector Context
 Technology / Semiconductors

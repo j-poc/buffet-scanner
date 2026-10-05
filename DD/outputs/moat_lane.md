@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DD
-*Generated: 2026-10-04 10:31 | Price: $129.98 | Mkt Cap: $18B*
+*Generated: 2026-10-05 11:20 | Price: $129.98 | Mkt Cap: $18B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals
@@ -36,7 +36,7 @@ Basic Materials / Specialty Chemicals
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Specialty Chemicals
-- **Margin of Safety**: -55% — ABSENT ($130 > IV $58 at 25x for 25% growth)
+- **Margin of Safety**: -28% — ABSENT ($130 > IV $93 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

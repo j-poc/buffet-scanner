@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AJG
-*Generated: 2026-10-04 10:30 | Price: $226.11 | Mkt Cap: $58B*
+*Generated: 2026-10-05 11:19 | Price: $226.11 | Mkt Cap: $58B*
 
 ## Sector Context
 Financial Services / Insurance Brokers
@@ -36,7 +36,7 @@ Financial Services / Insurance Brokers
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance Brokers
-- **Margin of Safety**: -60% — ABSENT ($226 > IV $91 at 15x for -11% growth)
+- **Margin of Safety**: -60% — ABSENT ($226 > IV $90 at 15x for -11% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TRV
-*Generated: 2026-10-04 10:35 | Price: $360.38 | Mkt Cap: $75B*
+*Generated: 2026-10-05 11:25 | Price: $360.38 | Mkt Cap: $75B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty

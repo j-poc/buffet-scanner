@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: INVH
-*Generated: 2026-10-04 10:31 | Price: $26.04 | Mkt Cap: $15B*
+*Generated: 2026-10-05 11:21 | Price: $26.04 | Mkt Cap: $15B*
 
 ## Sector Context
 Real Estate / REIT - Residential
@@ -36,7 +36,7 @@ Real Estate / REIT - Residential
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Residential
-- **Margin of Safety**: 4% — thin (IV $27 at 25x)
+- **Margin of Safety**: 5% — thin (IV $27 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

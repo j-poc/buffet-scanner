@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SJM
-*Generated: 2026-10-04 10:35 | Price: $117.19 | Mkt Cap: $13B*
+*Generated: 2026-10-05 11:25 | Price: $117.19 | Mkt Cap: $13B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods
@@ -36,7 +36,7 @@ Consumer Defensive / Packaged Foods
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Packaged Foods
-- **Margin of Safety**: -72% — ABSENT ($117 > IV $33 at 15x for 5% growth)
+- **Margin of Safety**: -73% — ABSENT ($117 > IV $32 at 15x for 5% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 2.3% insider ownership
 - **Mr. Market**: Neutral

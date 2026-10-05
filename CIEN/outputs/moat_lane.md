@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CIEN
-*Generated: 2026-10-04 10:30 | Price: $391.34 | Mkt Cap: $55B*
+*Generated: 2026-10-05 11:20 | Price: $391.34 | Mkt Cap: $55B*
 
 ## Sector Context
 Technology / Communication Equipment
@@ -36,7 +36,7 @@ Technology / Communication Equipment
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Communication Equipment
-- **Margin of Safety**: -72% — ABSENT ($391 > IV $112 at 25x for 25% growth)
+- **Margin of Safety**: -71% — ABSENT ($391 > IV $112 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NRG
-*Generated: 2026-10-04 10:32 | Price: $95.23 | Mkt Cap: $20B*
+*Generated: 2026-10-05 11:22 | Price: $95.23 | Mkt Cap: $20B*
 
 ## Sector Context
 Utilities / Utilities - Independent Power Producers
@@ -36,7 +36,7 @@ Utilities / Utilities - Independent Power Producers
 ## Mental Models Applied
 
 - **Circle of Competence**: Utilities / Utilities - Independent Power Producers
-- **Margin of Safety**: -19% — ABSENT ($95 > IV $77 at 20x for 11% growth)
+- **Margin of Safety**: -20% — ABSENT ($95 > IV $76 at 20x for 11% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 4.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

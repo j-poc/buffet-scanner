@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: C
-*Generated: 2026-10-04 10:30 | Price: $128.5 | Mkt Cap: $216B*
+*Generated: 2026-10-05 11:20 | Price: $128.5 | Mkt Cap: $216B*
 
 ## Sector Context
 Financial Services / Banks - Diversified
@@ -36,7 +36,7 @@ Financial Services / Banks - Diversified
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Diversified
-- **Margin of Safety**: 81% — PRESENT (IV $232 vs $128 at 25x)
+- **Margin of Safety**: 80% — PRESENT (IV $232 vs $128 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

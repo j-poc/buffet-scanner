@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BNY
-*Generated: 2026-10-04 10:30 | Price: $145.4 | Mkt Cap: $99B*
+*Generated: 2026-10-05 11:20 | Price: $145.4 | Mkt Cap: $99B*
 
 ## Sector Context
 Financial Services / Banks - Diversified
@@ -36,7 +36,7 @@ Financial Services / Banks - Diversified
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Diversified
-- **Margin of Safety**: 49% — PRESENT (IV $216 vs $145 at 25x)
+- **Margin of Safety**: 47% — PRESENT (IV $214 vs $145 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

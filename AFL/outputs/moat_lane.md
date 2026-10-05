@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AFL
-*Generated: 2026-10-04 10:29 | Price: $111.54 | Mkt Cap: $56B*
+*Generated: 2026-10-05 11:19 | Price: $111.54 | Mkt Cap: $56B*
 
 > ⚠ DATA: yfinance misclassified Japan Post Holdings Co., Ltd. (10.2% inst.) as insider
 
@@ -38,7 +38,7 @@ Financial Services / Insurance - Life
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Life
-- **Margin of Safety**: 108% — PRESENT (IV $232 vs $112 at 25x)
+- **Margin of Safety**: 108% — PRESENT (IV $233 vs $112 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

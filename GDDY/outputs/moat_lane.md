@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GDDY
-*Generated: 2026-10-04 10:31 | Price: $97.21 | Mkt Cap: $12B*
+*Generated: 2026-10-05 11:21 | Price: $97.21 | Mkt Cap: $12B*
 
 ## Sector Context
 Technology / Software - Infrastructure
