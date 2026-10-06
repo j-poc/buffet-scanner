@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HON
-*Generated: 2026-10-05 11:21 | Price: $213.99 | Mkt Cap: $68B*
+*Generated: 2026-10-06 11:11 | Price: $214.14 | Mkt Cap: $68B*
 
 ## Sector Context
 Industrials / Conglomerates
