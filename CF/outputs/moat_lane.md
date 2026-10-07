@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CF
-*Generated: 2026-10-06 11:09 | Price: $116.02 | Mkt Cap: $18B*
+*Generated: 2026-10-07 10:58 | Price: $116.02 | Mkt Cap: $18B*
 
 ## Sector Context
 Basic Materials / Agricultural Inputs
