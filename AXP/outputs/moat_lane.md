@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AXP
-*Generated: 2026-10-07 10:57 | Price: $304.55 | Mkt Cap: $206B*
+*Generated: 2026-10-08 11:14 | Price: $304.25 | Mkt Cap: $205B*
 
 ## Sector Context
 Financial Services / Credit Services
@@ -20,7 +20,7 @@ Financial Services / Credit Services
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.0/10 | 30% | 2.4 | ROE: 34.4% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 32% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Quality | 8.0/10 | 30% | 2.4 | ROE: 34.4% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 0% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 22.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 22.7% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 34% — strong franchise (Financial Services); Operating margin 20% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.1x — fair price; Near 52w low (14% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
