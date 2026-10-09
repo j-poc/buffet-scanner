@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WDC
-*Generated: 2026-10-08 11:17 | Price: $405.42 | Mkt Cap: $152B*
+*Generated: 2026-10-09 11:20 | Price: $393.31 | Mkt Cap: $147B*
 
 ## Sector Context
 Technology / Computer Hardware
@@ -12,7 +12,7 @@ Technology / Computer Hardware
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Computer Hardware | 25% | -35% | YES |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.2x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 0.5%; key-man / succession risk | 20% | -30% | YES |
+| 3 | Management / Governance Failure | Insider ownership 0.3%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -21,9 +21,9 @@ Technology / Computer Hardware
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.1/10 | 30% | 1.8 | Avg ROIC: 22.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 55% (severe cyclicality); FCF/NI: 69%; Gross margin: 49% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 4.3% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 4.3% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 49% — moderate moat for Technology; Operating margin 44% — durable for Technology; Rev growth 44% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.7x — deep value; 52w range position: 43%; Owner earnings yield: 1.5% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.3x — deep value; 52w range position: 41%; Owner earnings yield: 1.5% | - |
 | **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
 
 ## Buffett Score: 6.8 / 10
@@ -36,9 +36,9 @@ Technology / Computer Hardware
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Computer Hardware
-- **Margin of Safety**: 66% — PRESENT (IV $673 vs $405 at 25x)
+- **Margin of Safety**: 71% — PRESENT (IV $673 vs $393 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
-- **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

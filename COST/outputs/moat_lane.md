@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COST
-*Generated: 2026-10-08 11:15 | Price: $942.25 | Mkt Cap: $418B*
+*Generated: 2026-10-09 11:14 | Price: $947.92 | Mkt Cap: $420B*
 
 ## Sector Context
 Consumer Defensive / Discount Stores
@@ -11,7 +11,7 @@ Consumer Defensive / Discount Stores
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.6x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.7x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.1%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -23,7 +23,7 @@ Consumer Defensive / Discount Stores
 | Quality | 8.9/10 | 30% | 2.7 | Avg ROIC: 24.1% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 31% (stable); FCF/NI: 88% (strong); Gross margin: 13% (thin by design for Discount Stores) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROA 9% / ROE 28% — scale moat (Discount Stores); Operating margin 4% — thin for Consumer Defensive | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 37.7x — expensive; 52w range position: 39%; Owner earnings yield: 1.7%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 37.9x — expensive; 52w range position: 41%; Owner earnings yield: 1.6%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
 ## Buffett Score: 6.2 / 10
@@ -36,7 +36,7 @@ Consumer Defensive / Discount Stores
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Discount Stores
-- **Margin of Safety**: -56% — ABSENT ($942 > IV $415 at 20x for 15% growth)
+- **Margin of Safety**: -56% — ABSENT ($948 > IV $415 at 20x for 15% growth)
 - **Lollapalooza Effect**: No (1 forces only: high quality)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

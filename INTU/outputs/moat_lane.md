@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: INTU
-*Generated: 2026-10-08 11:16 | Price: $297.24 | Mkt Cap: $79B*
+*Generated: 2026-10-09 11:15 | Price: $303.88 | Mkt Cap: $81B*
 
 ## Sector Context
 Technology / Software - Application
@@ -20,14 +20,14 @@ Technology / Software - Application
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.3/10 | 30% | 2.5 | Avg ROIC: 14.3% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 0% (stable); FCF/NI: 176% (strong); Gross margin: 81% (pricing power for Technology) | - |
+| Quality | 6.8/10 | 30% | 2.0 | Avg ROIC: 14.3% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 68% (severe cyclicality); FCF/NI: 176% (strong); Gross margin: 81% (pricing power for Technology) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.4% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 81% vs sector strong cutoff 60% — strong pricing power; Operating margin 18% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.0x — deep value; Near 52w low (10% of range) — Mr. Market fearful; Owner earnings yield: 8.0% (>5%) | - |
-| **TOTAL** | **7.7/10** | **100%** | **7.7** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.2x — deep value; Near 52w low (12% of range) — Mr. Market fearful; Owner earnings yield: 7.8% (>5%) | - |
+| **TOTAL** | **7.3/10** | **100%** | **7.3** | | |
 
-## Buffett Score: 7.7 / 10
-## Alpha Adjustment: +0.27
+## Buffett Score: 7.3 / 10
+## Alpha Adjustment: +0.23
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,19 +36,19 @@ Technology / Software - Application
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Application
-- **Margin of Safety**: -15% — ABSENT ($297 > IV $251 at 15x for -1% growth)
-- **Lollapalooza Effect**: No (2 forces only: high quality, attractive valuation)
+- **Margin of Safety**: -19% — ABSENT ($304 > IV $247 at 15x for -1% growth)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 2.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-No (2 forces only: high quality, attractive valuation)
+No (1 forces only: attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.27 applied to composite alpha score
+Buffett Premium: +0.23 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

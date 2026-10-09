@@ -1,7 +1,5 @@
 # Buffett/Munger Moat Lane: RCL
-*Generated: 2026-10-08 11:17 | Price: $282.32 | Mkt Cap: $76B*
-
-> ⚠ DATA: yfinance misclassified Blackrock Inc. (7.7% inst.) as insider
+*Generated: 2026-10-09 11:16 | Price: $281.41 | Mkt Cap: $75B*
 
 ## Sector Context
 Consumer Cyclical / Travel Services
@@ -14,7 +12,7 @@ Consumer Cyclical / Travel Services
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.4x | 15% | -25% | No |
-| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
+| 3 | Management / Governance Failure | Insider ownership 6.2%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -23,13 +21,13 @@ Consumer Cyclical / Travel Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.6/10 | 30% | 1.1 | Avg ROIC: 8.4% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 68% (severe cyclicality); FCF/NI: 59%; Gross margin: 50% (pricing power for Consumer Cyclical) | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 9.5% of shares (SBC concern) | - |
+| Management | 6.5/10 | 25% | 1.6 | Insider ownership: 6.2%; No insider transaction data; Restricted stock: 9.5% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 50% vs sector strong cutoff 45% — strong pricing power; Operating margin 27% — durable for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.8x — deep value; 52w range position: 45% | - |
-| **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.8x — deep value; 52w range position: 44% | - |
+| **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
 
-## Buffett Score: 6.2 / 10
-## Alpha Adjustment: +0.12
+## Buffett Score: 7.0 / 10
+## Alpha Adjustment: +0.20
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -38,9 +36,9 @@ Consumer Cyclical / Travel Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Travel Services
-- **Margin of Safety**: -14% — ABSENT ($282 > IV $243 at 15x for -5% growth)
+- **Margin of Safety**: -14% — ABSENT ($281 > IV $243 at 15x for -5% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
-- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
+- **Incentive-Caused Bias**: Aligned — 6.2% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
@@ -50,7 +48,7 @@ No (2 forces only: strong moat, attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.12 applied to composite alpha score
+Buffett Premium: +0.20 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TROW
-*Generated: 2026-10-08 11:17 | Price: $104.07 | Mkt Cap: $22B*
+*Generated: 2026-10-09 11:19 | Price: $104.23 | Mkt Cap: $22B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -23,7 +23,7 @@ Financial Services / Asset Management
 | Quality | 5.5/10 | 30% | 1.6 | ROE: 19.4% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 58% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.9% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 19% — strong franchise (Financial Services); Operating margin 29% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.1x — deep value; 52w range position: 51%; Owner earnings yield: 9.1% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.2x — deep value; 52w range position: 52%; Owner earnings yield: 9.1% (>5%) | - |
 | **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
 
 ## Buffett Score: 6.9 / 10

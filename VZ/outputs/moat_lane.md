@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VZ
-*Generated: 2026-10-08 11:17 | Price: $45.77 | Mkt Cap: $190B*
+*Generated: 2026-10-09 11:19 | Price: $46.35 | Mkt Cap: $193B*
 
 ## Sector Context
 Communication Services / Telecom Services
@@ -20,10 +20,10 @@ Communication Services / Telecom Services
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.8/10 | 30% | 0.8 | Avg ROIC: 9.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 45% from prior peak; 5y price drawdown: 0% (stable); FCF/NI: 96% (strong); Gross margin: 59% (pricing power for Communication Services) | - |
+| Quality | 2.8/10 | 30% | 0.8 | Avg ROIC: 9.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 45% from prior peak; 5y price drawdown: 38% (stable); FCF/NI: 96% (strong); Gross margin: 59% (pricing power for Communication Services) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 59% vs sector strong cutoff 55% — strong pricing power; Operating margin 23% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.7x — deep value; 52w range position: 56%; Owner earnings yield: 9.2% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.8x — deep value; 52w range position: 60%; Owner earnings yield: 9.1% (>5%) | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10
@@ -36,7 +36,7 @@ Communication Services / Telecom Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Telecom Services
-- **Margin of Safety**: 26% — thin (IV $58 at 15x)
+- **Margin of Safety**: 24% — thin (IV $58 at 15x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

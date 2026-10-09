@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DRI
-*Generated: 2026-10-08 11:15 | Price: $201.49 | Mkt Cap: $23B*
+*Generated: 2026-10-09 11:14 | Price: $200.52 | Mkt Cap: $23B*
 
 ## Sector Context
 Consumer Cyclical / Restaurants
@@ -20,10 +20,10 @@ Consumer Cyclical / Restaurants
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 27.4% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 0% (stable); FCF/NI: 95% (strong); Gross margin: 22% (below Consumer Cyclical norm) | - |
+| Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 27.4% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 27% (stable); FCF/NI: 95% (strong); Gross margin: 22% (below Consumer Cyclical norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 22% — below Consumer Cyclical moderate cutoff 30%; Operating margin 10% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.2x — fair price; 52w range position: 53%; Owner earnings yield: 3.5%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.2x — fair price; 52w range position: 52%; Owner earnings yield: 3.5%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

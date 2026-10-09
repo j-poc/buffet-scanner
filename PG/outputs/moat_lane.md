@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PG
-*Generated: 2026-10-08 11:16 | Price: $147.82 | Mkt Cap: $344B*
+*Generated: 2026-10-09 11:16 | Price: $150.59 | Mkt Cap: $350B*
 
 ## Sector Context
 Consumer Defensive / Household & Personal Products
@@ -21,13 +21,13 @@ Consumer Defensive / Household & Personal Products
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 9.1/10 | 30% | 2.7 | Avg ROIC: 19.1% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 24% (stable); FCF/NI: 97% (strong); Gross margin: 51% (pricing power for Consumer Defensive) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 51% vs sector strong cutoff 45% — strong pricing power; Operating margin 22% — durable for Consumer Defensive | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 20.0x — fair price; 52w range position: 34%; Owner earnings yield: 3.9%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **7.7/10** | **100%** | **7.7** | | |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.4x — growth premium; 52w range position: 44%; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **7.2/10** | **100%** | **7.2** | | |
 
-## Buffett Score: 7.7 / 10
-## Alpha Adjustment: +0.27
+## Buffett Score: 7.2 / 10
+## Alpha Adjustment: +0.22
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,19 +36,19 @@ Consumer Defensive / Household & Personal Products
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Household & Personal Products
-- **Margin of Safety**: -33% — ABSENT ($148 > IV $99 at 15x for -16% growth)
-- **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
+- **Margin of Safety**: -34% — ABSENT ($151 > IV $99 at 15x for -16% growth)
+- **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-YES — 3 forces aligning: high quality, strong moat, attractive valuation
+No (2 forces only: high quality, strong moat)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.27 applied to composite alpha score
+Buffett Premium: +0.22 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

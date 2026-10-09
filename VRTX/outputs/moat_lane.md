@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VRTX
-*Generated: 2026-10-08 11:17 | Price: $505.64 | Mkt Cap: $128B*
+*Generated: 2026-10-09 11:19 | Price: $503.25 | Mkt Cap: $128B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -21,12 +21,12 @@ Healthcare / Biotechnology
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.2/10 | 30% | 1.9 | Avg ROIC: 16.3% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 115% from prior peak; 5y price drawdown: 29% (stable); FCF/NI: 118% (strong); Gross margin: 55% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 55% — moderate moat for Healthcare; Operating margin 38% — durable for Healthcare | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.1x — growth premium; 52w range position: 65%; Owner earnings yield: 2.1%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 24.9x — growth premium; 52w range position: 64%; Owner earnings yield: 2.1%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
-## Buffett Score: 5.8 / 10
+## Buffett Score: 5.9 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Healthcare / Biotechnology
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Biotechnology
-- **Margin of Safety**: -42% — ABSENT ($506 > IV $292 at 17x for 8% growth)
+- **Margin of Safety**: -42% — ABSENT ($503 > IV $292 at 17x for 8% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

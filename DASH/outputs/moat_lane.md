@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DASH
-*Generated: 2026-10-08 11:15 | Price: $191.24 | Mkt Cap: $83B*
+*Generated: 2026-10-09 11:14 | Price: $191.71 | Mkt Cap: $83B*
 
 ## Sector Context
 Consumer Cyclical / Internet Retail
@@ -36,7 +36,7 @@ Consumer Cyclical / Internet Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Internet Retail
-- **Margin of Safety**: -85% — ABSENT ($191 > IV $28 at 15x for -30% growth)
+- **Margin of Safety**: -85% — ABSENT ($192 > IV $28 at 15x for -30% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral

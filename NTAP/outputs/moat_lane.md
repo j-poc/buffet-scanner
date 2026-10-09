@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NTAP
-*Generated: 2026-10-08 11:16 | Price: $235.77 | Mkt Cap: $46B*
+*Generated: 2026-10-09 11:16 | Price: $231.05 | Mkt Cap: $45B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -20,14 +20,14 @@ Technology / Software - Infrastructure
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 29.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 0% (stable); FCF/NI: 121% (strong); Gross margin: 71% (pricing power for Technology) | - |
+| Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 29.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 121% (strong); Gross margin: 71% (pricing power for Technology) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 71% vs sector strong cutoff 60% — strong pricing power; Operating margin 27%; Rev growth 30% — demand pull | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 21.1x — growth premium; Near 52w high (98% of range) — Mr. Market greedy; Owner earnings yield: 2.5%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 20.7x — growth premium; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 2.6%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
 
-## Buffett Score: 6.8 / 10
-## Alpha Adjustment: +0.18
+## Buffett Score: 6.7 / 10
+## Alpha Adjustment: +0.17
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: -25% — ABSENT ($236 > IV $177 at 25x for 25% growth)
+- **Margin of Safety**: -23% — ABSENT ($231 > IV $177 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Greedy — exercise caution
@@ -48,7 +48,7 @@ YES — 3 forces aligning: high quality, strong moat, secular growth
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.18 applied to composite alpha score
+Buffett Premium: +0.17 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```
