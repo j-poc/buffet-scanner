@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LHX
-*Generated: 2026-10-09 11:15 | Price: $236.92 | Mkt Cap: $44B*
+*Generated: 2026-10-10 10:32 | Price: $236.97 | Mkt Cap: $44B*
 
 ## Sector Context
 Industrials / Aerospace & Defense

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DPZ
-*Generated: 2026-10-09 11:14 | Price: $308.65 | Mkt Cap: $10B*
+*Generated: 2026-10-10 10:31 | Price: $309.36 | Mkt Cap: $10B*
 
 ## Sector Context
 Consumer Cyclical / Restaurants
