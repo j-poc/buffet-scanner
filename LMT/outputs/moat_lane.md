@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LMT
-*Generated: 2026-10-10 10:32 | Price: $509.59 | Mkt Cap: $118B*
+*Generated: 2026-10-11 10:45 | Price: $509.59 | Mkt Cap: $118B*
 
 ## Sector Context
 Industrials / Aerospace & Defense

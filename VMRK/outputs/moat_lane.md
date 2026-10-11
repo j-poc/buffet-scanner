@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VMRK
-*Generated: 2026-10-10 10:36 | Price: $61.16 | Mkt Cap: $47B*
+*Generated: 2026-10-11 10:49 | Price: $61.16 | Mkt Cap: $47B*
 
 ## Sector Context
 Real Estate / REIT - Residential
@@ -36,7 +36,7 @@ Real Estate / REIT - Residential
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Residential
-- **Margin of Safety**: -36% — ABSENT ($61 > IV $39 at 15x for 3% growth)
+- **Margin of Safety**: -35% — ABSENT ($61 > IV $40 at 15x for 3% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CMG
-*Generated: 2026-10-10 10:31 | Price: $31.59 | Mkt Cap: $40B*
+*Generated: 2026-10-11 10:43 | Price: $31.59 | Mkt Cap: $40B*
 
 ## Sector Context
 Consumer Cyclical / Restaurants

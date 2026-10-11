@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RDDT
-*Generated: 2026-10-10 10:33 | Price: $159.91 | Mkt Cap: $31B*
+*Generated: 2026-10-11 10:46 | Price: $159.91 | Mkt Cap: $31B*
 
 ## Sector Context
 Communication Services / Internet Content & Information

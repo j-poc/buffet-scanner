@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LRCX
-*Generated: 2026-10-10 10:32 | Price: $318.84 | Mkt Cap: $399B*
+*Generated: 2026-10-11 10:45 | Price: $318.84 | Mkt Cap: $399B*
 
 ## Sector Context
 Technology / Semiconductor Equipment & Materials
@@ -36,7 +36,7 @@ Technology / Semiconductor Equipment & Materials
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductor Equipment & Materials
-- **Margin of Safety**: -55% — ABSENT ($319 > IV $143 at 25x for 25% growth)
+- **Margin of Safety**: -55% — ABSENT ($319 > IV $144 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

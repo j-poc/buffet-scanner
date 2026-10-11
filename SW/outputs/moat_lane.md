@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SW
-*Generated: 2026-10-10 10:36 | Price: $41.29 | Mkt Cap: $22B*
+*Generated: 2026-10-11 10:47 | Price: $41.29 | Mkt Cap: $22B*
 
 ## Sector Context
 Consumer Cyclical / Packaging & Containers

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DLR
-*Generated: 2026-10-10 10:31 | Price: $178.76 | Mkt Cap: $68B*
+*Generated: 2026-10-11 10:44 | Price: $178.76 | Mkt Cap: $68B*
 
 ## Sector Context
 Real Estate / REIT - Specialty

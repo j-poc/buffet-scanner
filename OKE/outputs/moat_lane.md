@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OKE
-*Generated: 2026-10-10 10:33 | Price: $89.8 | Mkt Cap: $57B*
+*Generated: 2026-10-11 10:46 | Price: $89.8 | Mkt Cap: $57B*
 
 ## Sector Context
 Energy / Oil & Gas Midstream
@@ -36,7 +36,7 @@ Energy / Oil & Gas Midstream
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Midstream
-- **Margin of Safety**: 28% — thin (IV $115 at 20x)
+- **Margin of Safety**: 29% — thin (IV $116 at 20x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral
