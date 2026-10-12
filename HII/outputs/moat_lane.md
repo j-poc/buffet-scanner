@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HII
-*Generated: 2026-10-11 10:45 | Price: $264.8 | Mkt Cap: $10B*
+*Generated: 2026-10-12 11:50 | Price: $264.8 | Mkt Cap: $10B*
 
 ## Sector Context
 Industrials / Aerospace & Defense

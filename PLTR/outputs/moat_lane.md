@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PLTR
-*Generated: 2026-10-11 10:46 | Price: $209.05 | Mkt Cap: $502B*
+*Generated: 2026-10-12 11:51 | Price: $209.05 | Mkt Cap: $502B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -23,7 +23,7 @@ Technology / Software - Infrastructure
 | Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 4.4% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 78% (severe cyclicality); FCF/NI: 165% (strong); Gross margin: 85% (pricing power for Technology) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider value: $17B (3.5%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 8.3% of shares (SBC concern) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 85% vs sector strong cutoff 60% — strong pricing power; Operating margin 47% — durable for Technology; Rev growth 93% — demand pull | - |
-| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 89.2x — extreme premium; Near 52w high (99% of range) — Mr. Market greedy; Owner earnings yield: 0.4%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 88.9x — extreme premium; Near 52w high (99% of range) — Mr. Market greedy; Owner earnings yield: 0.4%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
 ## Buffett Score: 5.9 / 10

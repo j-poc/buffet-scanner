@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BSX
-*Generated: 2026-10-11 10:43 | Price: $42.73 | Mkt Cap: $62B*
+*Generated: 2026-10-12 11:48 | Price: $42.73 | Mkt Cap: $62B*
 
 ## Sector Context
 Healthcare / Medical Devices
