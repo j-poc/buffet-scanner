@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CASY
-*Generated: 2026-10-12 11:48 | Price: $646.27 | Mkt Cap: $24B*
+*Generated: 2026-10-13 11:37 | Price: $645.72 | Mkt Cap: $24B*
 
 ## Sector Context
 Consumer Cyclical / Specialty Retail
@@ -23,7 +23,7 @@ Consumer Cyclical / Specialty Retail
 | Quality | 6.3/10 | 30% | 1.9 | Avg ROIC: 11.7% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 36% (stable); FCF/NI: 93% (strong); Gross margin: 24% (thin by design for Specialty Retail) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROA 8% / ROE 20% — adequate scale (Specialty Retail); Operating margin 6%; Rev growth 24% — demand pull | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 27.6x — growth premium; 52w range position: 35%; Owner earnings yield: 2.1%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 27.5x — growth premium; 52w range position: 34%; Owner earnings yield: 2.1%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
 ## Buffett Score: 5.7 / 10

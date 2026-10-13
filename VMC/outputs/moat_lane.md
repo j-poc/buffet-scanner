@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VMC
-*Generated: 2026-10-12 11:54 | Price: $244.58 | Mkt Cap: $32B*
+*Generated: 2026-10-13 11:41 | Price: $245.15 | Mkt Cap: $32B*
 
 ## Sector Context
 Basic Materials / Building Materials
@@ -23,7 +23,7 @@ Basic Materials / Building Materials
 | Quality | 4.2/10 | 30% | 1.3 | Avg ROIC: 8.7% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 32% (stable); FCF/NI: 90% (strong); Gross margin: 28% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 28% — moderate moat for Basic Materials; Operating margin 22% — durable for Basic Materials | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 23.4x — growth premium; Near 52w low (8% of range) — Mr. Market fearful; Owner earnings yield: 2.7%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 23.5x — growth premium; Near 52w low (9% of range) — Mr. Market fearful; Owner earnings yield: 2.7%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
 ## Buffett Score: 5.6 / 10

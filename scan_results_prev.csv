@@ -208,8 +208,8 @@ DVA,6.0,0.0,LOW,Pass,1
 D,6.0,0.0,LOW,Pass,2
 DPZ,6.0,0.0,LOW,Pass,2
 DUK,6.0,0.0,LOW,Pass,2
-EIX,6.0,0.0,LOW,Pass,2
 ECL,6.0,0.0,LOW,Pass,1
+EIX,6.0,0.0,LOW,Pass,2
 ES,6.0,0.0,LOW,Pass,2
 EXC,6.0,0.0,LOW,Pass,2
 FICO,6.0,0.0,LOW,Pass,2
@@ -251,6 +251,7 @@ ABNB,5.9,0.0,LOW,Pass,0
 ADI,5.9,0.0,LOW,Pass,2
 COF,5.9,0.0,LOW,Pass,0
 CHTR,5.9,0.0,LOW,Pass,1
+DAL,5.9,0.0,LOW,Pass,0
 FE,5.9,0.0,LOW,Pass,2
 PLTR,5.9,0.0,LOW,Pass,1
 REG,5.9,0.0,LOW,Pass,2
@@ -287,7 +288,6 @@ ROK,5.7,0.0,LOW,Pass,1
 WSM,5.7,0.0,LOW,Pass,0
 C,5.6,0.0,LOW,Pass,1
 CMI,5.6,0.0,LOW,Pass,1
-DAL,5.6,0.0,LOW,Pass,0
 DASH,5.6,0.0,LOW,Pass,1
 EXR,5.6,0.0,LOW,Pass,2
 XOM,5.6,0.0,LOW,Pass,1
@@ -362,6 +362,7 @@ ALB,5.0,0.0,LOW,Pass,1
 BIIB,5.0,0.0,LOW,Pass,1
 XYZ,5.0,0.0,LOW,Pass,2
 CHRW,5.0,0.0,LOW,Pass,1
+CARR,5.0,0.0,LOW,Pass,1
 CFG,5.0,0.0,LOW,Pass,1
 ECHO,5.0,0.0,LOW,Pass,1
 EMR,5.0,0.0,LOW,Pass,1
@@ -378,7 +379,6 @@ UPS,5.0,0.0,LOW,Pass,1
 WAT,5.0,0.0,LOW,Pass,1
 APTV,4.9,0.0,LOW,Pass,1
 AJG,4.9,0.0,LOW,Pass,1
-CARR,4.9,0.0,LOW,Pass,1
 CSGP,4.9,0.0,LOW,Pass,1
 DD,4.9,0.0,LOW,Pass,1
 ESS,4.9,0.0,LOW,Pass,2
@@ -398,8 +398,8 @@ NUE,4.8,0.0,LOW,Pass,0
 PHM,4.8,0.0,LOW,Pass,1
 SWK,4.8,0.0,LOW,Pass,1
 TTWO,4.8,0.0,LOW,Pass,0
-VYLR,4.8,0.0,LOW,Pass,1
 CDW,4.7,0.0,LOW,Pass,2
+CTSH,4.7,0.0,LOW,Pass,2
 CCI,4.7,0.0,LOW,Pass,2
 DELL,4.7,0.0,LOW,Pass,2
 DLR,4.7,0.0,LOW,Pass,2
@@ -416,7 +416,6 @@ TMO,4.7,0.0,LOW,Pass,1
 AMD,4.6,0.0,LOW,Pass,2
 AKAM,4.6,0.0,LOW,Pass,2
 CI,4.6,0.0,LOW,Pass,0
-CTSH,4.6,0.0,LOW,Pass,2
 EXPD,4.6,0.0,LOW,Pass,1
 FIS,4.6,0.0,LOW,Pass,3
 HII,4.6,0.0,LOW,Pass,1
@@ -437,6 +436,7 @@ NRG,4.4,0.0,LOW,Pass,1
 Q,4.4,0.0,LOW,Pass,2
 SWKS,4.4,0.0,LOW,Pass,2
 STLD,4.4,0.0,LOW,Pass,1
+VYLR,4.4,0.0,LOW,Pass,1
 BXP,4.3,0.0,LOW,Pass,2
 CIEN,4.3,0.0,LOW,Pass,2
 EL,4.3,0.0,LOW,Pass,1
@@ -459,12 +459,12 @@ WST,4.1,0.0,LOW,Pass,1
 AES,4.0,-0.2,AVOID,Avoid,2
 BALL,4.0,-0.2,AVOID,Avoid,1
 BAX,4.0,-0.2,AVOID,Avoid,2
-CPT,4.0,-0.2,AVOID,Avoid,1
 COHR,4.0,-0.2,AVOID,Avoid,1
 DDOG,4.0,-0.2,AVOID,Avoid,3
 RTX,4.0,-0.2,AVOID,Avoid,1
 ADM,3.9,-0.21,AVOID,Avoid,1
 BG,3.9,-0.21,AVOID,Avoid,2
+CPT,3.9,-0.21,AVOID,Avoid,1
 CBRE,3.9,-0.21,AVOID,Avoid,2
 CVS,3.9,-0.21,AVOID,Avoid,2
 F,3.9,-0.21,AVOID,Avoid,2
