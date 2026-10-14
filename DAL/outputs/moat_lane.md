@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DAL
-*Generated: 2026-10-13 11:37 | Price: $80.11 | Mkt Cap: $53B*
+*Generated: 2026-10-14 09:25 | Price: $79.57 | Mkt Cap: $52B*
 
 ## Sector Context
 Industrials / Airlines
@@ -23,7 +23,7 @@ Industrials / Airlines
 | Quality | 3.4/10 | 30% | 1.0 | Avg ROIC: 13.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 46% (weak conversion); Gross margin: 18% (below Industrials norm) | - |
 | Management | 7.0/10 | 25% | 1.8 | Insider ownership: 9.2%; Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 18% — below Industrials moderate cutoff 22%; Operating margin 7% — thin for Industrials; Rev growth 21% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.8x — deep value; 52w range position: 62%; Owner earnings yield: 4.7% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.7x — deep value; 52w range position: 60%; Owner earnings yield: 4.8% | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10

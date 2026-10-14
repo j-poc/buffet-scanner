@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CMG
-*Generated: 2026-10-13 11:37 | Price: $30.4 | Mkt Cap: $38B*
+*Generated: 2026-10-14 09:24 | Price: $30.35 | Mkt Cap: $38B*
 
 ## Sector Context
 Consumer Cyclical / Restaurants
@@ -36,7 +36,7 @@ Consumer Cyclical / Restaurants
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Restaurants
-- **Margin of Safety**: -44% — ABSENT ($30 > IV $17 at 15x for -1% growth)
+- **Margin of Safety**: -46% — ABSENT ($30 > IV $16 at 15x for -1% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PFG
-*Generated: 2026-10-13 11:40 | Price: $107.84 | Mkt Cap: $23B*
+*Generated: 2026-10-14 09:27 | Price: $107.64 | Mkt Cap: $23B*
 
 ## Sector Context
 Financial Services / Asset Management

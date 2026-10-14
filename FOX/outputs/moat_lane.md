@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FOX
-*Generated: 2026-10-13 11:38 | Price: $55.98 | Mkt Cap: $24B*
+*Generated: 2026-10-14 09:25 | Price: $55.93 | Mkt Cap: $24B*
 
 ## Sector Context
 Communication Services / Entertainment
