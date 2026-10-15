@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LVS
-*Generated: 2026-10-14 09:26 | Price: $37.04 | Mkt Cap: $24B*
+*Generated: 2026-10-15 09:04 | Price: $37.02 | Mkt Cap: $24B*
 
 ## Sector Context
 Consumer Cyclical / Resorts & Casinos
