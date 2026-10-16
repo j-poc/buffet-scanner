@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ADI
-*Generated: 2026-10-15 09:02 | Price: $403.57 | Mkt Cap: $196B*
+*Generated: 2026-10-16 08:55 | Price: $403.95 | Mkt Cap: $196B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -36,7 +36,7 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: -49% — ABSENT ($404 > IV $205 at 25x for 25% growth)
+- **Margin of Safety**: -48% — ABSENT ($404 > IV $210 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STZ
-*Generated: 2026-10-15 09:03 | Price: $127.41 | Mkt Cap: $22B*
+*Generated: 2026-10-16 08:55 | Price: $129.58 | Mkt Cap: $22B*
 
 ## Sector Context
 Consumer Defensive / Beverages - Brewers
@@ -21,9 +21,9 @@ Consumer Defensive / Beverages - Brewers
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 6.5% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 105% from prior peak; 5y price drawdown: 56% (severe cyclicality); FCF/NI: -1153% (weak conversion); Gross margin: 53% (pricing power for Consumer Defensive) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 12.7% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 7.6% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 12.7% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 7.7% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 53% vs sector strong cutoff 45% — strong pricing power; Operating margin 34% — durable for Consumer Defensive | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.5x — deep value; Near 52w low (29% of range) — Mr. Market fearful; Owner earnings yield: 5.2% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.7x — deep value; 52w range position: 33%; Owner earnings yield: 5.1% (>5%) | - |
 | **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
 
 ## Buffett Score: 6.8 / 10
@@ -36,10 +36,10 @@ Consumer Defensive / Beverages - Brewers
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Beverages - Brewers
-- **Margin of Safety**: 120% — PRESENT (IV $280 vs $127 at 25x)
+- **Margin of Safety**: 116% — PRESENT (IV $279 vs $130 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 12.7% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (2 forces only: strong moat, attractive valuation)

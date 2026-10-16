@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TJX
-*Generated: 2026-10-15 09:08 | Price: $142.83 | Mkt Cap: $158B*
+*Generated: 2026-10-16 09:00 | Price: $144.58 | Mkt Cap: $160B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Retail
@@ -23,11 +23,11 @@ Consumer Cyclical / Apparel Retail
 | Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 44.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 28% (stable); FCF/NI: 87% (strong); Gross margin: 31% (thin by design for Apparel Retail) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | ROA 14% / ROE 62% — scale moat (Apparel Retail); Operating margin 11% | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 24.7x — growth premium; 52w range position: 42%; Owner earnings yield: 2.8%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.0x — growth premium; 52w range position: 46%; Owner earnings yield: 2.8%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
 
-## Buffett Score: 6.9 / 10
-## Alpha Adjustment: +0.19
+## Buffett Score: 6.8 / 10
+## Alpha Adjustment: +0.18
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Consumer Cyclical / Apparel Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Apparel Retail
-- **Margin of Safety**: -5% — ABSENT ($143 > IV $136 at 25x for 24% growth)
+- **Margin of Safety**: -7% — ABSENT ($145 > IV $135 at 25x for 24% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (2 forces only: high quality, strong moat)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.19 applied to composite alpha score
+Buffett Premium: +0.18 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

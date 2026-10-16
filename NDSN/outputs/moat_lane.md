@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NDSN
-*Generated: 2026-10-15 09:05 | Price: $328.73 | Mkt Cap: $18B*
+*Generated: 2026-10-16 08:57 | Price: $328.8 | Mkt Cap: $18B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
@@ -36,7 +36,7 @@ Industrials / Specialty Industrial Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Industrial Machinery
-- **Margin of Safety**: -25% — ABSENT ($329 > IV $246 at 25x for 23% growth)
+- **Margin of Safety**: -25% — ABSENT ($329 > IV $247 at 25x for 23% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Greedy — exercise caution
