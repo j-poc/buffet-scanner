@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DHR
-*Generated: 2026-10-16 08:55 | Price: $231.5 | Mkt Cap: $163B*
+*Generated: 2026-10-17 08:27 | Price: $229.04 | Mkt Cap: $161B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research
@@ -23,10 +23,10 @@ Healthcare / Diagnostics & Research
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 6.3% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 50% from prior peak; 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 126% (strong); Gross margin: 59% (pricing power for Healthcare) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 10.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 11.0% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 59% vs sector strong cutoff 55% — strong pricing power; Operating margin 20% | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 24.9x — growth premium; Near 52w high (86% of range) — Mr. Market greedy; Owner earnings yield: 2.7%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 24.6x — growth premium; 52w range position: 83%; Owner earnings yield: 2.7%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
-## Buffett Score: 5.1 / 10
+## Buffett Score: 5.3 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Healthcare / Diagnostics & Research
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Diagnostics & Research
-- **Margin of Safety**: -39% — ABSENT ($232 > IV $140 at 25x for 25% growth)
+- **Margin of Safety**: -39% — ABSENT ($229 > IV $140 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Aligned — 10.8% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: strong moat)

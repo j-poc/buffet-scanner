@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FLEX
-*Generated: 2026-10-16 08:56 | Price: $98.5 | Mkt Cap: $36B*
+*Generated: 2026-10-17 08:28 | Price: $90.46 | Mkt Cap: $33B*
 
 ## Sector Context
 Technology / Electronic Components
@@ -20,13 +20,13 @@ Technology / Electronic Components
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.2/10 | 30% | 1.3 | Avg ROIC: 10.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 40% (stable); FCF/NI: 91% (strong); Gross margin: 10% (below Technology norm) | - |
+| Quality | 3.7/10 | 30% | 1.1 | Avg ROIC: 10.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 91% (strong); Gross margin: 10% (below Technology norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 10% — below Technology moderate cutoff 40%; Operating margin 5% — thin for Technology; Rev growth 21% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.0x — deep value; 52w range position: 40%; Owner earnings yield: 1.7% | - |
-| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.8x — deep value; 52w range position: 33%; Owner earnings yield: 1.9% | - |
+| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
-## Buffett Score: 5.3 / 10
+## Buffett Score: 5.1 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Technology / Electronic Components
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Electronic Components
-- **Margin of Safety**: -34% — ABSENT ($98 > IV $65 at 25x for 25% growth)
+- **Margin of Safety**: -28% — ABSENT ($90 > IV $65 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral

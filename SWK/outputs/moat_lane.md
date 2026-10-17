@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SWK
-*Generated: 2026-10-16 09:00 | Price: $92.75 | Mkt Cap: $14B*
+*Generated: 2026-10-17 08:32 | Price: $92.48 | Mkt Cap: $14B*
 
 ## Sector Context
 Industrials / Tools & Accessories
@@ -23,7 +23,7 @@ Industrials / Tools & Accessories
 | Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: 2.9% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 129% from prior peak; 5y price drawdown: 68% (severe cyclicality); FCF/NI: -9% (weak conversion); Gross margin: 32% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 32% — moderate moat for Industrials; Operating margin 8% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.7x — deep value; 52w range position: 72%; Owner earnings yield: 10.1% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.7x — deep value; 52w range position: 71%; Owner earnings yield: 10.2% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10
@@ -36,7 +36,7 @@ Industrials / Tools & Accessories
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Tools & Accessories
-- **Margin of Safety**: 10% — thin (IV $102 at 25x)
+- **Margin of Safety**: 11% — thin (IV $102 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

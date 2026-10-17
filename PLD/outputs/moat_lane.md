@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PLD
-*Generated: 2026-10-16 08:58 | Price: $126.94 | Mkt Cap: $123B*
+*Generated: 2026-10-17 08:29 | Price: $125.75 | Mkt Cap: $122B*
 
 ## Sector Context
 Real Estate / REIT - Industrial
@@ -20,10 +20,10 @@ Real Estate / REIT - Industrial
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: 4.2% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 145% (strong); Gross margin: 76% (pricing power for Real Estate) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 2.3% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 76% vs sector strong cutoff 55% — strong pricing power; Operating margin 43% — durable for Real Estate | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 37.9x — expensive; Near 52w low (18% of range) — Mr. Market fearful; Owner earnings yield: 4.4%; Earnings yield < 4% — worse than bonds | - |
+| Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: 4.2% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 145% (strong); Gross margin: 75% (pricing power for Real Estate) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -1.4% (low) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 75% vs sector strong cutoff 55% — strong pricing power; Operating margin 39% — durable for Real Estate | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 37.6x — expensive; Near 52w low (14% of range) — Mr. Market fearful; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10
@@ -36,7 +36,7 @@ Real Estate / REIT - Industrial
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Industrial
-- **Margin of Safety**: -11% — ABSENT ($127 > IV $112 at 25x for 25% growth)
+- **Margin of Safety**: -46% — ABSENT ($126 > IV $68 at 15x for 3% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

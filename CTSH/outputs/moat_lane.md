@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CTSH
-*Generated: 2026-10-16 08:55 | Price: $65.77 | Mkt Cap: $31B*
+*Generated: 2026-10-17 08:27 | Price: $66.03 | Mkt Cap: $31B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -23,7 +23,7 @@ Technology / Information Technology Services
 | Quality | 2.8/10 | 30% | 0.8 | Avg ROIC: 17.0% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 56% (severe cyclicality); FCF/NI: 98% (strong); Gross margin: 33% (below Technology norm) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.0% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 33% — below Technology moderate cutoff 40%; Operating margin 17% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.4x — deep value; 52w range position: 57%; Owner earnings yield: 7.1% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.4x — deep value; 52w range position: 58%; Owner earnings yield: 7.1% (>5%) | - |
 | **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
 ## Buffett Score: 4.6 / 10

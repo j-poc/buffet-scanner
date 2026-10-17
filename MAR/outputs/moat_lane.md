@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MAR
-*Generated: 2026-10-16 08:57 | Price: $385.71 | Mkt Cap: $101B*
+*Generated: 2026-10-17 08:28 | Price: $388.05 | Mkt Cap: $101B*
 
 ## Sector Context
 Consumer Cyclical / Lodging
@@ -23,23 +23,23 @@ Consumer Cyclical / Lodging
 | Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 26.8% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 31% (stable); FCF/NI: 90% (strong); Gross margin: 79% (pricing power for Consumer Cyclical) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 18.1% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 14.4% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 79% vs sector strong cutoff 45% — strong pricing power; Operating margin 65% — durable for Consumer Cyclical | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 29.3x — growth premium; 52w range position: 84%; Owner earnings yield: 2.0%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **8.2/10** | **100%** | **8.2** | | |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 29.5x — growth premium; Near 52w high (85% of range) — Mr. Market greedy; Owner earnings yield: 2.0%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **8.0/10** | **100%** | **8.0** | | |
 
-## Buffett Score: 8.2 / 10
-## Alpha Adjustment: +0.40
-## Conviction: HIGH
-## Verdict: Own Forever
+## Buffett Score: 8.0 / 10
+## Alpha Adjustment: +0.30
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Lodging
-- **Margin of Safety**: -62% — ABSENT ($386 > IV $145 at 15x for 4% growth)
+- **Margin of Safety**: -63% — ABSENT ($388 > IV $145 at 15x for 4% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Aligned — 18.1% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (2 forces only: high quality, strong moat)
@@ -48,7 +48,7 @@ No (2 forces only: high quality, strong moat)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.40 applied to composite alpha score
-Conviction Gate: HIGH — Proceed
-Half-life adjustment: None
+Buffett Premium: +0.30 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```
