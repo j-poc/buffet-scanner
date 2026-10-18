@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HWM
-*Generated: 2026-10-17 08:28 | Price: $220.96 | Mkt Cap: $88B*
+*Generated: 2026-10-18 08:47 | Price: $220.96 | Mkt Cap: $88B*
 
 ## Sector Context
 Industrials / Aerospace & Defense

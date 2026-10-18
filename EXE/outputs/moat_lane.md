@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EXE
-*Generated: 2026-10-17 08:28 | Price: $93.41 | Mkt Cap: $22B*
+*Generated: 2026-10-18 08:46 | Price: $93.41 | Mkt Cap: $22B*
 
 ## Sector Context
 Energy / Oil & Gas E&P

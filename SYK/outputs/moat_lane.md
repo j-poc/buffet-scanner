@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SYK
-*Generated: 2026-10-17 08:32 | Price: $294.66 | Mkt Cap: $113B*
+*Generated: 2026-10-18 08:49 | Price: $294.66 | Mkt Cap: $113B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.1% inst.) as insider
 

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IBKR
-*Generated: 2026-10-17 08:28 | Price: $82.69 | Mkt Cap: $141B*
+*Generated: 2026-10-18 08:47 | Price: $82.69 | Mkt Cap: $141B*
 
 ## Sector Context
 Financial Services / Capital Markets
@@ -20,14 +20,14 @@ Financial Services / Capital Markets
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.0/10 | 30% | 2.4 | ROE: 24.0% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 39% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.1% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | ROE 24% — strong franchise (Financial Services); Operating margin 77% — durable for Financial Services; Rev growth 26% — demand pull | - |
+| Quality | 8.0/10 | 30% | 2.4 | ROE: 23.7% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 39% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.2% (low) | - |
+| Moat | 8.5/10 | 25% | 2.1 | ROE 24% — strong franchise (Financial Services); Operating margin 78% — durable for Financial Services | - |
 | Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 25.0x — growth premium; 52w range position: 60%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **7.2/10** | **100%** | **7.2** | | |
+| **TOTAL** | **7.1/10** | **100%** | **7.1** | | |
 
-## Buffett Score: 7.2 / 10
-## Alpha Adjustment: +0.22
+## Buffett Score: 7.1 / 10
+## Alpha Adjustment: +0.21
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,19 +36,19 @@ Financial Services / Capital Markets
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Capital Markets
-- **Margin of Safety**: -21% — ABSENT ($83 > IV $66 at 25x for 25% growth)
-- **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, secular growth
+- **Margin of Safety**: -37% — ABSENT ($83 > IV $52 at 20x for 17% growth)
+- **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 2.7% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-YES — 3 forces aligning: high quality, strong moat, secular growth
+No (2 forces only: high quality, strong moat)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.22 applied to composite alpha score
+Buffett Premium: +0.21 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

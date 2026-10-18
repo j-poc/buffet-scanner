@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MTB
-*Generated: 2026-10-17 08:28 | Price: $215.28 | Mkt Cap: $31B*
+*Generated: 2026-10-18 08:47 | Price: $215.28 | Mkt Cap: $31B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -20,9 +20,9 @@ Financial Services / Banks - Regional
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.7/10 | 30% | 1.4 | ROE: 10.7% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 41% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
-| Moat | 7.0/10 | 25% | 1.8 | ROE 11% — adequate (Financial Services); Operating margin 45% — durable for Financial Services | - |
+| Quality | 4.7/10 | 30% | 1.4 | ROE: 10.6% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 41% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -2.3% (low) | - |
+| Moat | 7.0/10 | 25% | 1.8 | ROE 11% — adequate (Financial Services); Operating margin 43% — durable for Financial Services | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.2x — deep value; 52w range position: 47% | - |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
@@ -36,7 +36,7 @@ Financial Services / Banks - Regional
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Regional
-- **Margin of Safety**: 120% — PRESENT (IV $473 vs $215 at 25x)
+- **Margin of Safety**: 76% — PRESENT (IV $378 vs $215 at 20x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

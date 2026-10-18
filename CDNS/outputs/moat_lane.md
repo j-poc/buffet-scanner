@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CDNS
-*Generated: 2026-10-17 08:27 | Price: $319.51 | Mkt Cap: $88B*
+*Generated: 2026-10-18 08:45 | Price: $319.51 | Mkt Cap: $88B*
 
 ## Sector Context
 Technology / Software - Application
@@ -36,7 +36,7 @@ Technology / Software - Application
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Application
-- **Margin of Safety**: -60% — ABSENT ($320 > IV $128 at 25x for 25% growth)
+- **Margin of Safety**: -61% — ABSENT ($320 > IV $126 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WRB
-*Generated: 2026-10-17 08:32 | Price: $75.42 | Mkt Cap: $28B*
+*Generated: 2026-10-18 08:51 | Price: $75.42 | Mkt Cap: $28B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty
@@ -21,7 +21,7 @@ Financial Services / Insurance - Property & Casualty
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 8.0/10 | 30% | 2.4 | ROE: 20.2% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 26% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 26.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 34.4% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 26.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 34.3% of shares (SBC concern) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 20% — strong franchise (Financial Services); Operating margin 16% — thin for Financial Services | - |
 | Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.4x — fair price; 52w range position: 78%; Owner earnings yield: 10.9% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **8.2/10** | **100%** | **8.2** | | |
