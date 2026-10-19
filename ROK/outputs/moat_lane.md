@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ROK
-*Generated: 2026-10-18 08:48 | Price: $426.23 | Mkt Cap: $47B*
+*Generated: 2026-10-19 09:49 | Price: $426.23 | Mkt Cap: $47B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery

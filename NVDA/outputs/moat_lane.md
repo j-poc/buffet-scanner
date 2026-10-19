@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NVDA
-*Generated: 2026-10-18 08:48 | Price: $214.13 | Mkt Cap: $5171B*
+*Generated: 2026-10-19 09:48 | Price: $214.13 | Mkt Cap: $5171B*
 
 ## Sector Context
 Technology / Semiconductors

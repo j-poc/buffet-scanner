@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EMR
-*Generated: 2026-10-18 08:46 | Price: $161.47 | Mkt Cap: $90B*
+*Generated: 2026-10-19 09:47 | Price: $161.47 | Mkt Cap: $90B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
