@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LITE
-*Generated: 2026-10-19 09:48 | Price: $824.13 | Mkt Cap: $75B*
+*Generated: 2026-10-20 09:21 | Price: $834.51 | Mkt Cap: $76B*
 
 ## Sector Context
 Technology / Communication Equipment
@@ -23,7 +23,7 @@ Technology / Communication Equipment
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -25.7% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 26876% from prior peak; 5y price drawdown: 66% (severe cyclicality); FCF/NI: -107% (weak conversion); Gross margin: 44% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.7% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | Gross margin 44% — moderate moat for Technology; Operating margin 28%; Rev growth 109% — demand pull | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.9x — growth premium; 52w range position: 68%; Owner earnings yield: 0.3%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 23.2x — growth premium; 52w range position: 69%; Owner earnings yield: 0.3%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
 ## Buffett Score: 4.0 / 10

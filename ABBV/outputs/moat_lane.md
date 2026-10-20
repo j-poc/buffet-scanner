@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ABBV
-*Generated: 2026-10-19 09:45 | Price: $285.42 | Mkt Cap: $504B*
+*Generated: 2026-10-20 09:18 | Price: $282.68 | Mkt Cap: $500B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General
@@ -21,12 +21,12 @@ Healthcare / Drug Manufacturers - General
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.5/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 11.0% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 64% from prior peak; 5y price drawdown: 22% (stable); FCF/NI: 374% (strong); Gross margin: 73% (pricing power for Healthcare) | ROIC declining |
-| Management | 4.5/10 | 25% | 1.1 | Insider ownership: 0.1% — low for mega-cap; Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 73% vs sector strong cutoff 55% — strong pricing power; Operating margin 40% — durable for Healthcare | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 17.6x — fair price; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 3.3%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 17.4x — fair price; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 3.4%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
-## Buffett Score: 5.3 / 10
+## Buffett Score: 5.2 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Healthcare / Drug Manufacturers - General
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Drug Manufacturers - General
-- **Margin of Safety**: -69% — ABSENT ($285 > IV $88 at 25x for 25% growth)
+- **Margin of Safety**: -69% — ABSENT ($283 > IV $88 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Greedy — exercise caution

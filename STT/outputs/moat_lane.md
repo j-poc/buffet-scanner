@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STT
-*Generated: 2026-10-19 09:51 | Price: $165.72 | Mkt Cap: $46B*
+*Generated: 2026-10-20 09:22 | Price: $165.43 | Mkt Cap: $45B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -36,7 +36,7 @@ Financial Services / Asset Management
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Asset Management
-- **Margin of Safety**: 85% — PRESENT (IV $306 vs $166 at 25x)
+- **Margin of Safety**: 85% — PRESENT (IV $306 vs $165 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral

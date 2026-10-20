@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EBAY
-*Generated: 2026-10-19 09:47 | Price: $120.28 | Mkt Cap: $54B*
+*Generated: 2026-10-20 09:20 | Price: $120.47 | Mkt Cap: $54B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.9% inst.) as insider
 
@@ -25,7 +25,7 @@ Consumer Cyclical / Internet Retail
 | Quality | 4.4/10 | 30% | 1.3 | Avg ROIC: 12.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 54% (moderate cyclicality); FCF/NI: 25% (weak conversion); Gross margin: 72% (pricing power for Consumer Cyclical) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.2% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 72% vs sector strong cutoff 45% — strong pricing power; Operating margin 22% — durable for Consumer Cyclical | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 17.9x — fair price; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 3.0%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 17.9x — fair price; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 2.9%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
 ## Buffett Score: 5.9 / 10

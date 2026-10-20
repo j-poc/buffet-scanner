@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KLAC
-*Generated: 2026-10-19 09:48 | Price: $165.74 | Mkt Cap: $216B*
+*Generated: 2026-10-20 09:21 | Price: $166.4 | Mkt Cap: $217B*
 
 ## Sector Context
 Technology / Semiconductor Equipment & Materials
@@ -23,7 +23,7 @@ Technology / Semiconductor Equipment & Materials
 | Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 34.8% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 95% (strong); Gross margin: 61% (pricing power for Technology) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 61% vs sector strong cutoff 60% — strong pricing power; Operating margin 42% — durable for Technology | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 24.6x — growth premium; Near 52w low (29% of range) — Mr. Market fearful; Owner earnings yield: 1.2%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 24.7x — growth premium; Near 52w low (30% of range) — Mr. Market fearful; Owner earnings yield: 1.2%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.3/10** | **100%** | **7.3** | | |
 
 ## Buffett Score: 7.3 / 10

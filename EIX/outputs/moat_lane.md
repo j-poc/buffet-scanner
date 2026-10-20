@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EIX
-*Generated: 2026-10-19 09:47 | Price: $55.93 | Mkt Cap: $22B*
+*Generated: 2026-10-20 09:20 | Price: $55.68 | Mkt Cap: $21B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric
@@ -23,7 +23,7 @@ Utilities / Utilities - Regulated Electric
 | Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 6.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 44% (moderate cyclicality); FCF/NI: -129% (weak conversion); Gross margin: 61% (pricing power for Utilities) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 61% vs sector strong cutoff 40% — strong pricing power; Operating margin 27% — durable for Utilities | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.6x — deep value; Near 52w low (16% of range) — Mr. Market fearful; Owner earnings yield: 0.4% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.6x — deep value; Near 52w low (15% of range) — Mr. Market fearful; Owner earnings yield: 0.4% | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

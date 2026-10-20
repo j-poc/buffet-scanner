@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BRK-B
-*Generated: 2026-10-19 09:46 | Price: $532.02 | Mkt Cap: $1139B*
+*Generated: 2026-10-20 09:19 | Price: $532.23 | Mkt Cap: $1139B*
 
 ## Sector Context
 Financial Services / Insurance - Diversified
@@ -21,9 +21,9 @@ Financial Services / Insurance - Diversified
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.5/10 | 30% | 1.3 | ROE: 12.1% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 27% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider value: $159B (14.0%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 99.9% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider value: $160B (14.0%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 99.9% of shares (SBC concern) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 12% — adequate (Financial Services); Operating margin 33% — durable for Financial Services | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 23.9x — growth premium; Near 52w high (92% of range) — Mr. Market greedy; Owner earnings yield: 6.3% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 24.0x — growth premium; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 6.3% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
 ## Buffett Score: 6.4 / 10

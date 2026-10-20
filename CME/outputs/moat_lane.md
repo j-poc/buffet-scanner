@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CME
-*Generated: 2026-10-19 09:46 | Price: $293.87 | Mkt Cap: $106B*
+*Generated: 2026-10-20 09:19 | Price: $293.53 | Mkt Cap: $106B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges
