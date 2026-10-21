@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WMB
-*Generated: 2026-10-20 09:25 | Price: $70.38 | Mkt Cap: $86B*
+*Generated: 2026-10-21 09:21 | Price: $70.33 | Mkt Cap: $86B*
 
 ## Sector Context
 Energy / Oil & Gas Midstream
