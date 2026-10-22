@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IP
-*Generated: 2026-10-21 09:17 | Price: $33.69 | Mkt Cap: $18B*
+*Generated: 2026-10-22 09:19 | Price: $33.63 | Mkt Cap: $18B*
 
 ## Sector Context
 Consumer Cyclical / Packaging & Containers

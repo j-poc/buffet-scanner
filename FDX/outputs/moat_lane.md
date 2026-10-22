@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FDX
-*Generated: 2026-10-21 09:16 | Price: $298.76 | Mkt Cap: $71B*
+*Generated: 2026-10-22 09:19 | Price: $298.23 | Mkt Cap: $71B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Capital Management LLC (6.0% inst.) as insider
 
@@ -38,7 +38,7 @@ Industrials / Integrated Freight & Logistics
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Integrated Freight & Logistics
-- **Margin of Safety**: -7% — ABSENT ($299 > IV $278 at 15x for -4% growth)
+- **Margin of Safety**: -7% — ABSENT ($298 > IV $278 at 15x for -4% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

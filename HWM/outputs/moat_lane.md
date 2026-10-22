@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HWM
-*Generated: 2026-10-21 09:17 | Price: $211.63 | Mkt Cap: $84B*
+*Generated: 2026-10-22 09:19 | Price: $208.15 | Mkt Cap: $83B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -20,10 +20,10 @@ Industrials / Aerospace & Defense
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.1/10 | 30% | 2.4 | Avg ROIC: 13.8% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 28% (stable); FCF/NI: 96% (strong); Gross margin: 36% (pricing power for Industrials) | - |
+| Quality | 8.1/10 | 30% | 2.4 | Avg ROIC: 13.8% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 29% (stable); FCF/NI: 96% (strong); Gross margin: 36% (pricing power for Industrials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 36% vs sector strong cutoff 35% — strong pricing power; Operating margin 29% — durable for Industrials; Rev growth 24% — demand pull | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 32.5x — expensive; Near 52w low (19% of range) — Mr. Market fearful; Owner earnings yield: 1.4%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 32.0x — expensive; Near 52w low (16% of range) — Mr. Market fearful; Owner earnings yield: 1.4%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
 
 ## Buffett Score: 6.8 / 10
@@ -36,7 +36,7 @@ Industrials / Aerospace & Defense
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Aerospace & Defense
-- **Margin of Safety**: -45% — ABSENT ($212 > IV $116 at 25x for 25% growth)
+- **Margin of Safety**: -44% — ABSENT ($208 > IV $116 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

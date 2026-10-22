@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMGN
-*Generated: 2026-10-21 09:15 | Price: $438.94 | Mkt Cap: $237B*
+*Generated: 2026-10-22 09:18 | Price: $438.34 | Mkt Cap: $237B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General
@@ -36,7 +36,7 @@ Healthcare / Drug Manufacturers - General
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Drug Manufacturers - General
-- **Margin of Safety**: -8% — ABSENT ($439 > IV $403 at 25x for 25% growth)
+- **Margin of Safety**: -8% — ABSENT ($438 > IV $403 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution

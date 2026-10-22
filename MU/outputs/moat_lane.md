@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MU
-*Generated: 2026-10-21 09:17 | Price: $896.07 | Mkt Cap: $1014B*
+*Generated: 2026-10-22 09:20 | Price: $913.67 | Mkt Cap: $1034B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -23,7 +23,7 @@ Technology / Semiconductors
 | Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 5.3% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 167% from prior peak; 5y price drawdown: 58% (severe cyclicality); FCF/NI: 44% (weak conversion); Gross margin: 81% (pricing power for Technology) | - |
 | Management | 7.5/10 | 25% | 1.9 | Insider value: $2.5B (0.2%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 81% vs sector strong cutoff 60% — strong pricing power; Operating margin 81% — durable for Technology; Rev growth 379% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.3x — deep value; 52w range position: 66%; Owner earnings yield: 2.9% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.4x — deep value; 52w range position: 68%; Owner earnings yield: 2.8% | - |
 | **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
 
 ## Buffett Score: 6.7 / 10
@@ -36,7 +36,7 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: 107% — PRESENT (IV $1858 vs $896 at 25x)
+- **Margin of Safety**: 103% — PRESENT (IV $1858 vs $914 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

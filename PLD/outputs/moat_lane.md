@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PLD
-*Generated: 2026-10-21 09:18 | Price: $127.47 | Mkt Cap: $124B*
+*Generated: 2026-10-22 09:20 | Price: $127.6 | Mkt Cap: $124B*
 
 ## Sector Context
 Real Estate / REIT - Industrial
@@ -36,7 +36,7 @@ Real Estate / REIT - Industrial
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Industrial
-- **Margin of Safety**: -47% — ABSENT ($127 > IV $68 at 15x for 3% growth)
+- **Margin of Safety**: -47% — ABSENT ($128 > IV $68 at 15x for 3% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DLTR
-*Generated: 2026-10-21 09:16 | Price: $124.96 | Mkt Cap: $23B*
+*Generated: 2026-10-22 09:18 | Price: $125.48 | Mkt Cap: $24B*
 
 ## Sector Context
 Consumer Defensive / Discount Stores
@@ -23,7 +23,7 @@ Consumer Defensive / Discount Stores
 | Quality | 1.2/10 | 30% | 0.4 | Avg ROIC: 16.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 288% from prior peak; 5y price drawdown: 65% (severe cyclicality); FCF/NI: -8% (weak conversion); Gross margin: 37% (thin by design for Discount Stores) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.4% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROA 8% / ROE 46% — scale moat (Discount Stores); Operating margin 6% — thin for Consumer Defensive | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.8x — fair price; 52w range position: 69%; Owner earnings yield: 4.5%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.9x — fair price; 52w range position: 70%; Owner earnings yield: 4.5%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10

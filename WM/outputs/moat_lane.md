@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WM
-*Generated: 2026-10-21 09:21 | Price: $231.73 | Mkt Cap: $93B*
+*Generated: 2026-10-22 09:24 | Price: $229.58 | Mkt Cap: $92B*
 
 ## Sector Context
 Industrials / Waste Management
@@ -23,7 +23,7 @@ Industrials / Waste Management
 | Quality | 6.1/10 | 30% | 1.8 | Avg ROIC: 11.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 18% (stable); FCF/NI: 87% (strong); Gross margin: 41% (pricing power for Industrials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 41% vs sector strong cutoff 35% — strong pricing power; Operating margin 19% — durable for Industrials | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.5x — growth premium; 52w range position: 70%; Owner earnings yield: 2.5%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.3x — growth premium; 52w range position: 66%; Owner earnings yield: 2.6%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
 ## Buffett Score: 6.2 / 10
@@ -36,7 +36,7 @@ Industrials / Waste Management
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Waste Management
-- **Margin of Safety**: -48% — ABSENT ($232 > IV $120 at 17x for 8% growth)
+- **Margin of Safety**: -48% — ABSENT ($230 > IV $120 at 17x for 8% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral
