@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APA
-*Generated: 2026-10-22 09:18 | Price: $49.63 | Mkt Cap: $17B*
+*Generated: 2026-10-23 09:13 | Price: $49.44 | Mkt Cap: $17B*
 
 ## Sector Context
 Energy / Oil & Gas E&P
@@ -20,23 +20,23 @@ Energy / Oil & Gas E&P
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.5/10 | 30% | 1.1 | ROIC declining trend; Avg ROIC: 37.5% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 78% from prior peak; 5y price drawdown: 0% (stable); FCF/NI: 77%; Gross margin: 78% (pricing power for Energy) | ROIC declining |
+| Quality | 2.0/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 37.5% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 78% from prior peak; 5y price drawdown: 70% (severe cyclicality); FCF/NI: 77%; Gross margin: 78% (pricing power for Energy) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 78% vs sector strong cutoff 30% — strong pricing power; Operating margin 56% — durable for Energy | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.6x — deep value; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 12.3% (>5%) | - |
-| **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.4x — deep value; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 12.4% (>5%) | - |
+| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
-## Buffett Score: 6.3 / 10
-## Alpha Adjustment: +0.13
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 5.8 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas E&P
-- **Margin of Safety**: 138% — PRESENT (IV $118 vs $50 at 25x)
+- **Margin of Safety**: 138% — PRESENT (IV $118 vs $49 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Greedy — exercise caution
@@ -48,7 +48,7 @@ No (2 forces only: strong moat, attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.13 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
 ```

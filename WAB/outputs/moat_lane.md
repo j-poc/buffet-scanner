@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WAB
-*Generated: 2026-10-22 09:24 | Price: $288.96 | Mkt Cap: $49B*
+*Generated: 2026-10-23 09:19 | Price: $276.47 | Mkt Cap: $47B*
 
 ## Sector Context
 Industrials / Railroads
@@ -11,7 +11,7 @@ Industrials / Railroads
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.6x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.7x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.7%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,25 +21,25 @@ Industrials / Railroads
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 7.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 24% (stable); FCF/NI: 137% (strong); Gross margin: 36% (pricing power for Industrials) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 36% vs sector strong cutoff 35% — strong pricing power; Operating margin 19% — durable for Industrials | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 23.0x — growth premium; Near 52w high (85% of range) — Mr. Market greedy; Owner earnings yield: 2.3%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.6% (low) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 36% vs sector strong cutoff 35% — strong pricing power; Operating margin 20% — durable for Industrials | - |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 22.0x — growth premium; 52w range position: 73%; Owner earnings yield: 6.3% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
-## Buffett Score: 6.0 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 6.5 / 10
+## Alpha Adjustment: +0.15
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Railroads
-- **Margin of Safety**: -44% — ABSENT ($289 > IV $161 at 20x for 19% growth)
+- **Margin of Safety**: -27% — ABSENT ($276 > IV $201 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: strong moat)
@@ -48,7 +48,7 @@ No (1 forces only: strong moat)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
-Half-life adjustment: N/A
+Buffett Premium: +0.15 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

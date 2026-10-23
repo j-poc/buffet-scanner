@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RVTY
-*Generated: 2026-10-22 09:23 | Price: $156.61 | Mkt Cap: $17B*
+*Generated: 2026-10-23 09:19 | Price: $157.36 | Mkt Cap: $18B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research
@@ -20,10 +20,10 @@ Healthcare / Diagnostics & Research
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 3.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 65% from prior peak; 5y price drawdown: 0% (stable); FCF/NI: 129% (strong); Gross margin: 55% | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 3.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 65% from prior peak; 5y price drawdown: 59% (severe cyclicality); FCF/NI: 129% (strong); Gross margin: 55% | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 8.2% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 55% — moderate moat for Healthcare; Operating margin 17% | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 26.6x — growth premium; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 3.5%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 26.7x — growth premium; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 3.4%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.4/10** | **100%** | **3.4** | | |
 
 ## Buffett Score: 3.4 / 10

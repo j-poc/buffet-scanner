@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KVUE
-*Generated: 2026-10-22 09:19 | Price: $19.04 | Mkt Cap: $37B*
+*Generated: 2026-10-23 09:15 | Price: $19.88 | Mkt Cap: $38B*
 
 ## Sector Context
 Consumer Defensive / Household & Personal Products
@@ -23,10 +23,10 @@ Consumer Defensive / Household & Personal Products
 | Quality | 2.6/10 | 30% | 0.8 | Avg ROIC: 9.7% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 50% from prior peak; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 128% (strong); Gross margin: 58% (pricing power for Consumer Defensive) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 58% vs sector strong cutoff 45% — strong pricing power; Operating margin 19% — durable for Consumer Defensive | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.4x — fair price; 52w range position: 82%; Owner earnings yield: 5.2% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 16.0x — fair price; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 5.0%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
-## Buffett Score: 5.9 / 10
+## Buffett Score: 5.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,13 +36,13 @@ Consumer Defensive / Household & Personal Products
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Household & Personal Products
-- **Margin of Safety**: -23% — ABSENT ($19 > IV $15 at 17x for 8% growth)
-- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
+- **Margin of Safety**: -26% — ABSENT ($20 > IV $15 at 17x for 8% growth)
+- **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
-No (2 forces only: strong moat, attractive valuation)
+No (1 forces only: strong moat)
 
 ---
 

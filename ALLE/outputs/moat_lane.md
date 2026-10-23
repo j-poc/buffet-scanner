@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALLE
-*Generated: 2026-10-22 09:17 | Price: $159.0 | Mkt Cap: $14B*
+*Generated: 2026-10-23 09:13 | Price: $176.52 | Mkt Cap: $15B*
 
 ## Sector Context
 Industrials / Security & Protection Services
@@ -23,11 +23,11 @@ Industrials / Security & Protection Services
 | Quality | 8.8/10 | 30% | 2.6 | Avg ROIC: 16.8% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 34% (stable); FCF/NI: 96% (strong); Gross margin: 45% (pricing power for Industrials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 45% vs sector strong cutoff 35% — strong pricing power; Operating margin 22% — durable for Industrials | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.2x — fair price; 52w range position: 59%; Owner earnings yield: 3.6%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **7.6/10** | **100%** | **7.6** | | |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 17.8x — fair price; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 3.2%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
 
-## Buffett Score: 7.6 / 10
-## Alpha Adjustment: +0.26
+## Buffett Score: 7.4 / 10
+## Alpha Adjustment: +0.24
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,19 +36,19 @@ Industrials / Security & Protection Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Security & Protection Services
-- **Margin of Safety**: -4% — ABSENT ($159 > IV $153 at 20x for 16% growth)
-- **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
+- **Margin of Safety**: -9% — ABSENT ($177 > IV $161 at 20x for 16% growth)
+- **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
-YES — 3 forces aligning: high quality, strong moat, attractive valuation
+No (2 forces only: high quality, strong moat)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.26 applied to composite alpha score
+Buffett Premium: +0.24 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

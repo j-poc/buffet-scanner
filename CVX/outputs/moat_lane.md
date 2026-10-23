@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CVX
-*Generated: 2026-10-22 09:18 | Price: $226.78 | Mkt Cap: $445B*
+*Generated: 2026-10-23 09:14 | Price: $226.68 | Mkt Cap: $445B*
 
 ## Sector Context
 Energy / Oil & Gas Integrated
@@ -23,7 +23,7 @@ Energy / Oil & Gas Integrated
 | Quality | 2.5/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 13.7% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 65% from prior peak; 5y price drawdown: 25% (stable); FCF/NI: 105% (strong); Gross margin: 44% (pricing power for Energy) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.7% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 44% vs sector strong cutoff 30% — strong pricing power; Operating margin 22% — durable for Energy; Rev growth 54% — demand pull | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 14.4x — deep value; Near 52w high (98% of range) — Mr. Market greedy; Owner earnings yield: 4.9%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 14.4x — deep value; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 4.9%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
 
 ## Buffett Score: 6.3 / 10

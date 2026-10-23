@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SWKS
-*Generated: 2026-10-22 09:23 | Price: $82.22 | Mkt Cap: $19B*
+*Generated: 2026-10-23 09:19 | Price: $82.39 | Mkt Cap: $19B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -23,7 +23,7 @@ Technology / Semiconductors
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 10.4% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 63% from prior peak; 5y price drawdown: 69% (severe cyclicality); FCF/NI: 184% (strong); Gross margin: 41% | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 36.5% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 41% — moderate moat for Technology; Operating margin 9% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.0x — deep value; 52w range position: 74%; Owner earnings yield: 2.3% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.0x — deep value; 52w range position: 75%; Owner earnings yield: 2.3% | - |
 | **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
 ## Buffett Score: 4.4 / 10

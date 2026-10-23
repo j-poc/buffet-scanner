@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CRL
-*Generated: 2026-10-22 09:18 | Price: $344.87 | Mkt Cap: $17B*
+*Generated: 2026-10-23 09:14 | Price: $339.66 | Mkt Cap: $16B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research
@@ -23,7 +23,7 @@ Healthcare / Diagnostics & Research
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 5.4% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 130% from prior peak; 5y price drawdown: 78% (severe cyclicality); FCF/NI: 1162% (strong); Gross margin: 35% (below Healthcare norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 2.0% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 35% — below Healthcare moderate cutoff 35%; Operating margin 15% | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 27.0x — growth premium; Near 52w high (98% of range) — Mr. Market greedy; Owner earnings yield: 2.8%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 26.6x — growth premium; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 2.9%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **2.9/10** | **100%** | **2.9** | | |
 
 ## Buffett Score: 2.9 / 10

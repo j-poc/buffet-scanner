@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GE
-*Generated: 2026-10-22 09:19 | Price: $295.88 | Mkt Cap: $307B*
+*Generated: 2026-10-23 09:15 | Price: $293.54 | Mkt Cap: $305B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -11,7 +11,7 @@ Industrials / Aerospace & Defense
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.8x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.7x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.3%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,13 +20,13 @@ Industrials / Aerospace & Defense
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.6/10 | 30% | 1.7 | Avg ROIC: 15.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 31% from prior peak; 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 437% (strong); Gross margin: 31% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 31% — moderate moat for Industrials; Operating margin 21% — durable for Industrials; Rev growth 21% — demand pull | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 31.9x — expensive; Near 52w low (22% of range) — Mr. Market fearful; Owner earnings yield: 2.1%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
+| Quality | 5.6/10 | 30% | 1.7 | Avg ROIC: 15.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 31% from prior peak; 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 437% (strong); Gross margin: 30% | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 30% — moderate moat for Industrials; Operating margin 17% — durable for Industrials | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 31.6x — expensive; Near 52w low (21% of range) — Mr. Market fearful; Owner earnings yield: 1.9%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
-## Buffett Score: 5.7 / 10
+## Buffett Score: 5.6 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,13 +36,13 @@ Industrials / Aerospace & Defense
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Aerospace & Defense
-- **Margin of Safety**: -43% — ABSENT ($296 > IV $170 at 20x for 19% growth)
-- **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
+- **Margin of Safety**: -51% — ABSENT ($294 > IV $144 at 17x for 9% growth)
+- **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-No (2 forces only: strong moat, secular growth)
+No (0 forces only: none)
 
 ---
 
