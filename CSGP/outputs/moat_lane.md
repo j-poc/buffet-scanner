@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CSGP
-*Generated: 2026-10-23 09:14 | Price: $35.45 | Mkt Cap: $14B*
+*Generated: 2026-10-24 08:48 | Price: $33.92 | Mkt Cap: $14B*
 
 ## Sector Context
 Real Estate / Real Estate Services
@@ -23,10 +23,10 @@ Real Estate / Real Estate Services
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 1.7% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 98% from prior peak; 5y price drawdown: 73% (severe cyclicality); FCF/NI: 152% (strong); Gross margin: 79% (pricing power for Real Estate) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 79% vs sector strong cutoff 55% — strong pricing power; Operating margin 8% — thin for Real Estate | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 20.0x — growth premium; Near 52w low (18% of range) — Mr. Market fearful; Owner earnings yield: 2.9%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.1x — fair price; Near 52w low (15% of range) — Mr. Market fearful; Owner earnings yield: 3.0%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
-## Buffett Score: 4.4 / 10
+## Buffett Score: 4.9 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,13 +36,13 @@ Real Estate / Real Estate Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / Real Estate Services
-- **Margin of Safety**: -87% — ABSENT ($35 > IV $4 at 25x for 25% growth)
-- **Lollapalooza Effect**: No (0 forces only: none)
+- **Margin of Safety**: -87% — ABSENT ($34 > IV $4 at 25x for 25% growth)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-No (0 forces only: none)
+No (1 forces only: attractive valuation)
 
 ---
 

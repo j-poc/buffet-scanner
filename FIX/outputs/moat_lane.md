@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FIX
-*Generated: 2026-10-23 09:14 | Price: $1279.37 | Mkt Cap: $45B*
+*Generated: 2026-10-24 08:48 | Price: $1160.86 | Mkt Cap: $41B*
 
 ## Sector Context
 Industrials / Engineering & Construction
@@ -23,11 +23,11 @@ Industrials / Engineering & Construction
 | Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 27.2% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 46% (moderate cyclicality); FCF/NI: 128% (strong); Gross margin: 26% | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.4% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 26% — moderate moat for Industrials; Operating margin 17% — durable for Industrials; Rev growth 50% — demand pull | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 21.2x — growth premium; 52w range position: 38%; Owner earnings yield: 4.1%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **7.1/10** | **100%** | **7.1** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.3x — fair price; Near 52w low (26% of range) — Mr. Market fearful; Owner earnings yield: 4.5%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **7.9/10** | **100%** | **7.9** | | |
 
-## Buffett Score: 7.1 / 10
-## Alpha Adjustment: +0.21
+## Buffett Score: 7.9 / 10
+## Alpha Adjustment: +0.29
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,19 +36,19 @@ Industrials / Engineering & Construction
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Engineering & Construction
-- **Margin of Safety**: -21% — ABSENT ($1279 > IV $1016 at 25x for 25% growth)
-- **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, secular growth
+- **Margin of Safety**: -0% — ABSENT ($1161 > IV $1158 at 25x for 25% growth)
+- **Lollapalooza Effect**: YES — 4 forces aligning: high quality, strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 1.1% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-YES — 3 forces aligning: high quality, strong moat, secular growth
+YES — 4 forces aligning: high quality, strong moat, attractive valuation, secular growth
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.21 applied to composite alpha score
+Buffett Premium: +0.29 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

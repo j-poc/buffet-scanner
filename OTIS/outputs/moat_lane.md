@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OTIS
-*Generated: 2026-10-23 09:16 | Price: $75.6 | Mkt Cap: $29B*
+*Generated: 2026-10-24 08:50 | Price: $75.15 | Mkt Cap: $29B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
@@ -23,11 +23,11 @@ Industrials / Specialty Industrial Machinery
 | Quality | 6.0/10 | 30% | 1.8 | ROIC declining trend; Avg ROIC: 72.8% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 37% (stable); FCF/NI: 103% (strong); Gross margin: 30% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 30% — moderate moat for Industrials; Operating margin 15% — durable for Industrials | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.7x — fair price; 52w range position: 39%; Owner earnings yield: 5.0%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 16.6x — fair price; 52w range position: 37%; Owner earnings yield: 5.0% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
 
-## Buffett Score: 6.4 / 10
-## Alpha Adjustment: +0.14
+## Buffett Score: 6.6 / 10
+## Alpha Adjustment: +0.16
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Industrials / Specialty Industrial Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Industrial Machinery
-- **Margin of Safety**: 3% — thin (IV $78 at 20x)
+- **Margin of Safety**: 4% — thin (IV $78 at 20x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.14 applied to composite alpha score
+Buffett Premium: +0.16 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

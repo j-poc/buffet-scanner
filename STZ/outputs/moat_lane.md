@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STZ
-*Generated: 2026-10-23 09:14 | Price: $138.98 | Mkt Cap: $24B*
+*Generated: 2026-10-24 08:48 | Price: $138.68 | Mkt Cap: $23B*
 
 ## Sector Context
 Consumer Defensive / Beverages - Brewers
@@ -23,7 +23,7 @@ Consumer Defensive / Beverages - Brewers
 | Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 6.5% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 105% from prior peak; 5y price drawdown: 56% (severe cyclicality); FCF/NI: -1153% (weak conversion); Gross margin: 53% (pricing power for Consumer Defensive) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 12.7% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 7.7% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 53% vs sector strong cutoff 45% — strong pricing power; Operating margin 34% — durable for Consumer Defensive | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.5x — deep value; 52w range position: 49%; Owner earnings yield: 4.8% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.5x — deep value; 52w range position: 48%; Owner earnings yield: 4.8% | - |
 | **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
 
 ## Buffett Score: 6.8 / 10

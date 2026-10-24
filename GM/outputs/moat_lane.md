@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GM
-*Generated: 2026-10-23 09:15 | Price: $77.21 | Mkt Cap: $68B*
+*Generated: 2026-10-24 08:48 | Price: $75.92 | Mkt Cap: $67B*
 
 ## Sector Context
 Consumer Cyclical / Auto Manufacturers
@@ -11,7 +11,7 @@ Consumer Cyclical / Auto Manufacturers
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 7.2x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 6.9x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.2%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,9 +21,9 @@ Consumer Cyclical / Auto Manufacturers
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 3.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 73% from prior peak; 5y price drawdown: 59% (severe cyclicality); FCF/NI: -30% (weak conversion); Gross margin: 11% (below Consumer Cyclical norm) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 4.2% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 11% — below Consumer Cyclical moderate cutoff 30%; Operating margin 7% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.2x — deep value; 52w range position: 42%; Owner earnings yield: 40.5% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.1x — deep value; 52w range position: 37%; Owner earnings yield: 42.8% (>5%) | - |
 | **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
 ## Buffett Score: 4.0 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Auto Manufacturers
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Auto Manufacturers
-- **Margin of Safety**: 48% — PRESENT (IV $114 vs $77 at 25x)
+- **Margin of Safety**: 50% — PRESENT (IV $114 vs $76 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HONA
-*Generated: 2026-10-23 09:15 | Price: $163.02 | Mkt Cap: $52B*
+*Generated: 2026-10-24 08:49 | Price: $163.31 | Mkt Cap: $52B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -23,7 +23,7 @@ Industrials / Aerospace & Defense
 | Quality | 5.5/10 | 30% | 1.6 | Avg ROIC: 30.8% (2y); Earnings: 2/2 down-years (unpredictable); NI drawdown: 38% from prior peak; FCF/NI: 114% (strong); Gross margin: 35% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 35% — moderate moat for Industrials; Operating margin 15% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 18.3x — fair price; Near 52w low (9% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 18.3x — fair price; Near 52w low (10% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TSLA
-*Generated: 2026-10-23 09:19 | Price: $374.58 | Mkt Cap: $1479B*
+*Generated: 2026-10-24 08:53 | Price: $372.22 | Mkt Cap: $1471B*
 
 ## Sector Context
 Consumer Cyclical / Auto Manufacturers
@@ -11,7 +11,7 @@ Consumer Cyclical / Auto Manufacturers
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.5x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.0x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 17.8%; key-man / succession risk | 8% | -15% | No |
 
 ---
@@ -21,12 +21,12 @@ Consumer Cyclical / Auto Manufacturers
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 12.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 75% from prior peak; 5y price drawdown: 74% (severe cyclicality); FCF/NI: 76%; Gross margin: 19% (below Consumer Cyclical norm) | ROIC declining |
-| Management | 8.5/10 | 25% | 2.1 | Insider value: $263B (17.8%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 28.6% of shares (SBC concern) | - |
-| Moat | 4.0/10 | 25% | 1.0 | Gross margin 19% — below Consumer Cyclical moderate cutoff 30%; Operating margin 1% — thin for Consumer Cyclical; Rev growth 26% — demand pull | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 171.1x — extreme premium; 52w range position: 38%; Owner earnings yield: 0.3%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.4/10** | **100%** | **3.4** | | |
+| Management | 8.5/10 | 25% | 2.1 | Insider value: $262B (17.8%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 41.5% of shares (SBC concern) | - |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 19% — below Consumer Cyclical moderate cutoff 30%; Operating margin 3% — thin for Consumer Cyclical | - |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 172.0x — extreme premium; 52w range position: 37%; Owner earnings yield: 0.4%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **3.3/10** | **100%** | **3.3** | | |
 
-## Buffett Score: 3.4 / 10
+## Buffett Score: 3.3 / 10
 ## Alpha Adjustment: -0.25
 ## Conviction: AVOID
 ## Verdict: Avoid
@@ -36,13 +36,13 @@ Consumer Cyclical / Auto Manufacturers
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Auto Manufacturers
-- **Margin of Safety**: -96% — ABSENT ($375 > IV $14 at 15x for -3% growth)
-- **Lollapalooza Effect**: No (1 forces only: secular growth)
+- **Margin of Safety**: -96% — ABSENT ($372 > IV $14 at 15x for -44% growth)
+- **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Aligned — 17.8% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (1 forces only: secular growth)
+No (0 forces only: none)
 
 ---
 

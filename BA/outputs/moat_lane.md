@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BA
-*Generated: 2026-10-23 09:13 | Price: $187.55 | Mkt Cap: $148B*
+*Generated: 2026-10-24 08:47 | Price: $188.35 | Mkt Cap: $149B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -21,13 +21,13 @@ Industrials / Aerospace & Defense
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: -2.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 50% (moderate cyclicality); FCF/NI: -52% (weak conversion); Gross margin: 5% (below Industrials norm) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 5% — below Industrials moderate cutoff 22%; Operating margin 0% — thin for Industrials | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 49.9x — expensive; Near 52w low (14% of range) — Mr. Market fearful; Owner earnings yield: 3.8%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **3.3/10** | **100%** | **3.3** | | |
+| Valuation Fit | 3.0/10 | 20% | 0.6 | P/E 50.1x — extreme premium; Near 52w low (15% of range) — Mr. Market fearful; Owner earnings yield: 3.8%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **2.9/10** | **100%** | **2.9** | | |
 
-## Buffett Score: 3.3 / 10
-## Alpha Adjustment: -0.25
+## Buffett Score: 2.9 / 10
+## Alpha Adjustment: -0.28
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.25 applied to composite alpha score
+Buffett Premium: -0.28 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

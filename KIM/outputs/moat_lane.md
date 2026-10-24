@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KIM
-*Generated: 2026-10-23 09:15 | Price: $23.59 | Mkt Cap: $16B*
+*Generated: 2026-10-24 08:49 | Price: $23.62 | Mkt Cap: $16B*
 
 ## Sector Context
 Real Estate / REIT - Retail

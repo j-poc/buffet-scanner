@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ISRG
-*Generated: 2026-10-23 09:15 | Price: $443.85 | Mkt Cap: $157B*
+*Generated: 2026-10-24 08:49 | Price: $452.29 | Mkt Cap: $160B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies
@@ -21,12 +21,12 @@ Healthcare / Medical Instruments & Supplies
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.7/10 | 30% | 1.4 | Avg ROIC: 11.5% (4y); 5y price drawdown: 50% (moderate cyclicality); Gross margin: 67% (pricing power for Healthcare) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.8% (low) | - |
-| Moat | 8.5/10 | 25% | 2.1 | Gross margin 67% vs sector strong cutoff 55% — strong pricing power; Operating margin 19%; Rev growth 22% — demand pull | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 35.7x — expensive; 52w range position: 42%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 2.5% (low) | - |
+| Moat | 9.5/10 | 25% | 2.4 | Gross margin 67% vs sector strong cutoff 55% — strong pricing power; Operating margin 33% — durable for Healthcare; Rev growth 22% — demand pull | - |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 36.4x — expensive; 52w range position: 45%; Owner earnings yield: 2.1%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
-## Buffett Score: 5.2 / 10
+## Buffett Score: 5.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Healthcare / Medical Instruments & Supplies
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Instruments & Supplies
-- **Margin of Safety**: -72% — ABSENT ($444 > IV $124 at 15x for -24% growth)
+- **Margin of Safety**: -72% — ABSENT ($452 > IV $129 at 15x for -24% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GL
-*Generated: 2026-10-23 09:15 | Price: $168.41 | Mkt Cap: $13B*
+*Generated: 2026-10-24 08:48 | Price: $154.79 | Mkt Cap: $12B*
 
 ## Sector Context
 Financial Services / Insurance - Life
@@ -11,7 +11,7 @@ Financial Services / Insurance - Life
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.0x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.1x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.7%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,23 +20,23 @@ Financial Services / Insurance - Life
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.5/10 | 30% | 1.9 | ROE: 20.9% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 62% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Quality | 2.5/10 | 30% | 0.8 | ROE: 0.0% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 62% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
-| Moat | 7.5/10 | 25% | 1.9 | ROE 21% — strong franchise (Financial Services); Operating margin 25% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.2x — deep value; 52w range position: 64%; Owner earnings yield: 9.0% (>5%) | - |
-| **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
+| Moat | 5.5/10 | 25% | 1.4 | ROE 0% — weak (Financial Services); Operating margin 30% — durable for Financial Services | Weak pricing |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.4x — deep value; 52w range position: 42% | - |
+| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
-## Buffett Score: 6.8 / 10
-## Alpha Adjustment: +0.18
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 5.1 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Life
-- **Margin of Safety**: 77% — PRESENT (IV $299 vs $168 at 20x)
+- **Margin of Safety**: 45% — PRESENT (IV $224 vs $155 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.18 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
 ```

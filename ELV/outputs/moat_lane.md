@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ELV
-*Generated: 2026-10-23 09:14 | Price: $445.28 | Mkt Cap: $97B*
+*Generated: 2026-10-24 08:48 | Price: $439.95 | Mkt Cap: $95B*
 
 ## Sector Context
 Healthcare / Healthcare Plans
@@ -11,7 +11,7 @@ Healthcare / Healthcare Plans
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.7x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.6x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.2%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,13 +21,13 @@ Healthcare / Healthcare Plans
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 10.0% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 92% (strong); Gross margin: 26% (below Healthcare norm) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 26% — below Healthcare moderate cutoff 35%; Operating margin 5% — thin for Healthcare | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 14.8x — deep value; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 4.5%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **3.7/10** | **100%** | **3.7** | | |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 26% — below Healthcare moderate cutoff 35%; Operating margin 4% — thin for Healthcare | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.6x — deep value; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 8.3% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 
-## Buffett Score: 3.7 / 10
-## Alpha Adjustment: -0.22
+## Buffett Score: 3.9 / 10
+## Alpha Adjustment: -0.21
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -36,7 +36,7 @@ Healthcare / Healthcare Plans
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Healthcare Plans
-- **Margin of Safety**: -21% — ABSENT ($445 > IV $353 at 15x for -13% growth)
+- **Margin of Safety**: 7% — thin (IV $471 at 20x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.22 applied to composite alpha score
+Buffett Premium: -0.21 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

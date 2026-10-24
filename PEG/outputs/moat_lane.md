@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PEG
-*Generated: 2026-10-23 09:18 | Price: $72.72 | Mkt Cap: $36B*
+*Generated: 2026-10-24 08:50 | Price: $72.02 | Mkt Cap: $36B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric
@@ -21,12 +21,12 @@ Utilities / Utilities - Regulated Electric
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 6.0% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 31% from prior peak; 5y price drawdown: 27% (stable); FCF/NI: -46% (weak conversion); Gross margin: 33% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 33% — moderate moat for Utilities; Operating margin 19% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.7x — fair price; 52w range position: 31%; Owner earnings yield: 0.3%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.5x — fair price; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 0.3%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
-## Buffett Score: 4.9 / 10
+## Buffett Score: 5.2 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Utilities / Utilities - Regulated Electric
 ## Mental Models Applied
 
 - **Circle of Competence**: Utilities / Utilities - Regulated Electric
-- **Margin of Safety**: -17% — ABSENT ($73 > IV $60 at 15x for -43% growth)
+- **Margin of Safety**: -16% — ABSENT ($72 > IV $60 at 15x for -43% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

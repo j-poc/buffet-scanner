@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CME
-*Generated: 2026-10-23 09:14 | Price: $305.98 | Mkt Cap: $110B*
+*Generated: 2026-10-24 08:47 | Price: $305.71 | Mkt Cap: $110B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges
@@ -23,7 +23,7 @@ Financial Services / Financial Data & Stock Exchanges
 | Quality | 7.5/10 | 30% | 2.2 | ROE: 16.1% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 32% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.8% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | ROE 16% — strong franchise (Financial Services); Operating margin 66% — durable for Financial Services | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 23.2x — growth premium; 52w range position: 79%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 23.1x — growth premium; 52w range position: 79%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
 
 ## Buffett Score: 6.6 / 10
