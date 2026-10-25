@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MA
-*Generated: 2026-10-24 08:49 | Price: $623.6 | Mkt Cap: $546B*
+*Generated: 2026-10-25 09:05 | Price: $623.6 | Mkt Cap: $546B*
 
 ## Sector Context
 Financial Services / Credit Services
@@ -36,7 +36,7 @@ Financial Services / Credit Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Credit Services
-- **Margin of Safety**: -26% — ABSENT ($624 > IV $462 at 25x for 22% growth)
+- **Margin of Safety**: -27% — ABSENT ($624 > IV $454 at 25x for 22% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Greedy — exercise caution

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PPG
-*Generated: 2026-10-24 08:50 | Price: $110.61 | Mkt Cap: $25B*
+*Generated: 2026-10-25 09:06 | Price: $110.61 | Mkt Cap: $25B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals
@@ -36,7 +36,7 @@ Basic Materials / Specialty Chemicals
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Specialty Chemicals
-- **Margin of Safety**: -8% — ABSENT ($111 > IV $102 at 15x for -2% growth)
+- **Margin of Safety**: -6% — ABSENT ($111 > IV $104 at 15x for -2% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

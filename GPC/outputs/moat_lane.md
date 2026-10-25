@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GPC
-*Generated: 2026-10-24 08:48 | Price: $123.02 | Mkt Cap: $17B*
+*Generated: 2026-10-25 09:04 | Price: $123.02 | Mkt Cap: $17B*
 
 ## Sector Context
 Consumer Cyclical / Auto Parts

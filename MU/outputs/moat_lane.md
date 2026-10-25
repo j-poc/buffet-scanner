@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MU
-*Generated: 2026-10-24 08:49 | Price: $877.55 | Mkt Cap: $993B*
+*Generated: 2026-10-25 09:05 | Price: $877.55 | Mkt Cap: $993B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -20,16 +20,16 @@ Technology / Semiconductors
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 5.3% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 167% from prior peak; 5y price drawdown: 58% (severe cyclicality); FCF/NI: 44% (weak conversion); Gross margin: 81% (pricing power for Technology) | - |
+| Quality | 6.1/10 | 30% | 1.8 | Avg ROIC: 15.8% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 58% (severe cyclicality); FCF/NI: 52%; Gross margin: 81% (pricing power for Technology) | - |
 | Management | 7.5/10 | 25% | 1.9 | Insider value: $2.4B (0.2%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 81% vs sector strong cutoff 60% — strong pricing power; Operating margin 81% — durable for Technology; Rev growth 379% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.2x — deep value; 52w range position: 64%; Owner earnings yield: 2.9% | - |
-| **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
+| **TOTAL** | **8.1/10** | **100%** | **8.1** | | |
 
-## Buffett Score: 6.7 / 10
-## Alpha Adjustment: +0.17
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 8.1 / 10
+## Alpha Adjustment: +0.40
+## Conviction: HIGH
+## Verdict: Own Forever
 
 ---
 
@@ -48,7 +48,7 @@ YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.17 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.40 applied to composite alpha score
+Conviction Gate: HIGH — Proceed
+Half-life adjustment: None
 ```

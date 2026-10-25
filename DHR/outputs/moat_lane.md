@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DHR
-*Generated: 2026-10-24 08:48 | Price: $230.5 | Mkt Cap: $162B*
+*Generated: 2026-10-25 09:04 | Price: $230.5 | Mkt Cap: $162B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research

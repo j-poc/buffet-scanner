@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PLTR
-*Generated: 2026-10-24 08:50 | Price: $196.75 | Mkt Cap: $473B*
+*Generated: 2026-10-25 09:05 | Price: $196.75 | Mkt Cap: $473B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -36,7 +36,7 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: -85% — ABSENT ($197 > IV $29 at 25x for 25% growth)
+- **Margin of Safety**: -86% — ABSENT ($197 > IV $28 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 3.5% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WMT
-*Generated: 2026-10-24 08:53 | Price: $119.89 | Mkt Cap: $951B*
+*Generated: 2026-10-25 09:09 | Price: $119.89 | Mkt Cap: $954B*
 
 ## Sector Context
 Consumer Defensive / Discount Stores
@@ -21,7 +21,7 @@ Consumer Defensive / Discount Stores
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 7.6/10 | 30% | 2.3 | Avg ROIC: 16.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 26% (stable); FCF/NI: 83% (strong); Gross margin: 25% (thin by design for Discount Stores) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider value: $421B (44.2%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 38.9% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider value: $422B (44.2%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 39.1% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROA 6% / ROE 22% — scale moat (Discount Stores); Operating margin 3% — thin for Consumer Defensive | - |
 | Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 37.2x — expensive; 52w range position: 58%; Owner earnings yield: 0.7%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
@@ -36,7 +36,7 @@ Consumer Defensive / Discount Stores
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Discount Stores
-- **Margin of Safety**: -64% — ABSENT ($120 > IV $43 at 15x for -9% growth)
+- **Margin of Safety**: -65% — ABSENT ($120 > IV $41 at 15x for -9% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Aligned — 44.2% insider ownership
 - **Mr. Market**: Neutral
