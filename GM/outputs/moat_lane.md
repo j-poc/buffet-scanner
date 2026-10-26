@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GM
-*Generated: 2026-10-25 09:04 | Price: $75.92 | Mkt Cap: $64B*
+*Generated: 2026-10-26 09:59 | Price: $75.92 | Mkt Cap: $64B*
 
 ## Sector Context
 Consumer Cyclical / Auto Manufacturers
@@ -21,7 +21,7 @@ Consumer Cyclical / Auto Manufacturers
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 3.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 73% from prior peak; 5y price drawdown: 59% (severe cyclicality); FCF/NI: -30% (weak conversion); Gross margin: 11% (below Consumer Cyclical norm) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 11% — below Consumer Cyclical moderate cutoff 30%; Operating margin 7% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.1x — deep value; 52w range position: 37%; Owner earnings yield: 44.2% (>5%) | - |
 | **TOTAL** | **4.0/10** | **100%** | **4.0** | | |

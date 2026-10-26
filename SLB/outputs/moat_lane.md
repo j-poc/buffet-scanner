@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SLB
-*Generated: 2026-10-25 09:08 | Price: $53.06 | Mkt Cap: $78B*
+*Generated: 2026-10-26 10:00 | Price: $53.06 | Mkt Cap: $78B*
 
 ## Sector Context
 Energy / Oil & Gas Equipment & Services
@@ -20,9 +20,9 @@ Energy / Oil & Gas Equipment & Services
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.2/10 | 30% | 1.6 | Avg ROIC: 12.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 47% (moderate cyclicality); FCF/NI: 100% (strong); Gross margin: 16% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.0% (low) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 16% — moderate moat for Energy; Operating margin 15% | - |
+| Quality | 5.2/10 | 30% | 1.6 | Avg ROIC: 12.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 47% (moderate cyclicality); FCF/NI: 100% (strong); Gross margin: 17% | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 17% — moderate moat for Energy; Operating margin 12% | - |
 | Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.9x — fair price; 52w range position: 71%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 

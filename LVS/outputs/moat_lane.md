@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LVS
-*Generated: 2026-10-25 09:05 | Price: $35.68 | Mkt Cap: $23B*
+*Generated: 2026-10-26 09:59 | Price: $35.68 | Mkt Cap: $23B*
 
 ## Sector Context
 Consumer Cyclical / Resorts & Casinos
@@ -11,7 +11,7 @@ Consumer Cyclical / Resorts & Casinos
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.4x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.5x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 61.7%; key-man / succession risk | 8% | -15% | No |
 
 ---
@@ -20,10 +20,10 @@ Consumer Cyclical / Resorts & Casinos
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.2/10 | 30% | 1.0 | Avg ROIC: 8.7% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 33% from prior peak; 5y price drawdown: 51% (moderate cyclicality); FCF/NI: 74%; Gross margin: 75% (pricing power for Consumer Cyclical) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 61.7% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 55.1% of shares (SBC concern) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 75% vs sector strong cutoff 45% — strong pricing power; Operating margin 19% — durable for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.2x — deep value; Near 52w low (2% of range) — Mr. Market fearful | - |
+| Quality | 3.2/10 | 30% | 1.0 | Avg ROIC: 8.7% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 33% from prior peak; 5y price drawdown: 51% (moderate cyclicality); FCF/NI: 74%; Gross margin: 79% (pricing power for Consumer Cyclical) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 61.7% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 56.6% of shares (SBC concern) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 79% vs sector strong cutoff 45% — strong pricing power; Operating margin 19% — durable for Consumer Cyclical | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.2x — deep value; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 9.1% (>5%) | - |
 | **TOTAL** | **7.3/10** | **100%** | **7.3** | | |
 
 ## Buffett Score: 7.3 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PHM
-*Generated: 2026-10-25 09:06 | Price: $121.19 | Mkt Cap: $23B*
+*Generated: 2026-10-26 10:00 | Price: $121.19 | Mkt Cap: $23B*
 
 ## Sector Context
 Consumer Cyclical / Residential Construction
@@ -11,7 +11,7 @@ Consumer Cyclical / Residential Construction
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.8x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.9x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.7%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,9 +21,9 @@ Consumer Cyclical / Residential Construction
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.8/10 | 30% | 0.5 | ROIC declining trend; Avg ROIC: 20.5% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 38% (stable); FCF/NI: 58%; Gross margin: 25% (below Consumer Cyclical norm) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 2.8% (low) | - |
-| Moat | 5.0/10 | 25% | 1.2 | Gross margin 25% — below Consumer Cyclical moderate cutoff 30%; Operating margin 15% — durable for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.7x — deep value; 52w range position: 38%; Owner earnings yield: 10.8% (>5%) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 4.1% (low) | - |
+| Moat | 5.0/10 | 25% | 1.2 | Gross margin 25% — below Consumer Cyclical moderate cutoff 30%; Operating margin 16% — durable for Consumer Cyclical | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.7x — deep value; 52w range position: 38%; Owner earnings yield: 3.7% | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10

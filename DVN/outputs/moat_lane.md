@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DVN
-*Generated: 2026-10-25 09:04 | Price: $51.39 | Mkt Cap: $57B*
+*Generated: 2026-10-26 09:58 | Price: $51.39 | Mkt Cap: $57B*
 
 ## Sector Context
 Energy / Oil & Gas E&P

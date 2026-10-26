@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NTRS
-*Generated: 2026-10-25 09:05 | Price: $167.92 | Mkt Cap: $31B*
+*Generated: 2026-10-26 10:00 | Price: $167.92 | Mkt Cap: $31B*
 
 ## Sector Context
 Financial Services / Asset Management

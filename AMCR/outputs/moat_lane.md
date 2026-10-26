@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMCR
-*Generated: 2026-10-25 09:02 | Price: $46.11 | Mkt Cap: $21B*
+*Generated: 2026-10-26 09:57 | Price: $46.11 | Mkt Cap: $21B*
 
 ## Sector Context
 Consumer Cyclical / Packaging & Containers

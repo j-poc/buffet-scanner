@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JBL
-*Generated: 2026-10-25 09:05 | Price: $273.97 | Mkt Cap: $29B*
+*Generated: 2026-10-26 09:59 | Price: $273.97 | Mkt Cap: $28B*
 
 ## Sector Context
 Technology / Electronic Components
@@ -11,7 +11,7 @@ Technology / Electronic Components
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Electronic Components | 25% | -35% | YES |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.6x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.7x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 1.2%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -23,7 +23,7 @@ Technology / Electronic Components
 | Quality | 4.7/10 | 30% | 1.4 | Avg ROIC: 23.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 53% from prior peak; 5y price drawdown: 37% (stable); FCF/NI: 90% (strong); Gross margin: 9% (below Technology norm) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.9% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 9% — below Technology moderate cutoff 40%; Operating margin 6% — thin for Technology; Rev growth 29% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.4x — deep value; 52w range position: 35%; Owner earnings yield: 4.4% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.4x — deep value; 52w range position: 35%; Owner earnings yield: 4.5% | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NDAQ
-*Generated: 2026-10-25 09:05 | Price: $102.56 | Mkt Cap: $57B*
+*Generated: 2026-10-26 10:00 | Price: $102.56 | Mkt Cap: $57B*
 
 > ⚠ DATA: yfinance misclassified Investor AB (10.4% inst.) as insider
 
@@ -13,7 +13,7 @@ Financial Services / Financial Data & Stock Exchanges
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.6x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.7x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -23,9 +23,9 @@ Financial Services / Financial Data & Stock Exchanges
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.8/10 | 30% | 2.0 | ROE: 17.3% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 33% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 11.2% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 11.8% of shares (SBC concern) | - |
 | Moat | 8.5/10 | 25% | 2.1 | ROE 17% — strong franchise (Financial Services); Operating margin 51% — durable for Financial Services | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 21.6x — growth premium; Near 52w high (94% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 21.6x — growth premium; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

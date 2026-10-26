@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CTAS
-*Generated: 2026-10-25 09:03 | Price: $224.1 | Mkt Cap: $89B*
+*Generated: 2026-10-26 09:58 | Price: $224.1 | Mkt Cap: $89B*
 
 ## Sector Context
 Industrials / Specialty Business Services
