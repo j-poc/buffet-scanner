@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GPN
-*Generated: 2026-10-26 09:59 | Price: $82.82 | Mkt Cap: $22B*
+*Generated: 2026-10-27 09:44 | Price: $81.86 | Mkt Cap: $22B*
 
 ## Sector Context
 Industrials / Specialty Business Services
@@ -20,10 +20,10 @@ Industrials / Specialty Business Services
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 3.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 59% (severe cyclicality); FCF/NI: 487% (strong); Gross margin: 64% (pricing power for Industrials) | - |
+| Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 3.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 57% (severe cyclicality); FCF/NI: 487% (strong); Gross margin: 64% (pricing power for Industrials) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 17.0% of shares (SBC concern) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 64% vs sector strong cutoff 35% — strong pricing power; Operating margin 16% — durable for Industrials; Rev growth 69% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.1x — deep value; 52w range position: 62%; Owner earnings yield: 35.9% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.1x — deep value; 52w range position: 60%; Owner earnings yield: 36.3% (>5%) | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,7 +36,7 @@ Industrials / Specialty Business Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Business Services
-- **Margin of Safety**: -61% — ABSENT ($83 > IV $32 at 15x for -95% growth)
+- **Margin of Safety**: -61% — ABSENT ($82 > IV $32 at 15x for -95% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Neutral

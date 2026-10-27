@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PHM
-*Generated: 2026-10-26 10:00 | Price: $121.19 | Mkt Cap: $23B*
+*Generated: 2026-10-27 09:46 | Price: $121.31 | Mkt Cap: $23B*
 
 ## Sector Context
 Consumer Cyclical / Residential Construction
@@ -36,7 +36,7 @@ Consumer Cyclical / Residential Construction
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Residential Construction
-- **Margin of Safety**: 16% — thin (IV $140 at 15x)
+- **Margin of Safety**: 16% — thin (IV $141 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Neutral

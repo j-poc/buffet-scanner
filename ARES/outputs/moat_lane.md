@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ARES
-*Generated: 2026-10-26 09:57 | Price: $122.08 | Mkt Cap: $41B*
+*Generated: 2026-10-27 09:43 | Price: $121.88 | Mkt Cap: $40B*
 
 ## Sector Context
 Financial Services / Asset Management
