@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: USB
-*Generated: 2026-10-27 09:49 | Price: $59.7 | Mkt Cap: $93B*
+*Generated: 2026-10-28 10:33 | Price: $59.74 | Mkt Cap: $93B*
 
 ## Sector Context
 Financial Services / Banks - Regional
