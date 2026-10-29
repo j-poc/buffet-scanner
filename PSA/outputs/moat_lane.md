@@ -1,7 +1,7 @@
 # Buffett/Munger Moat Lane: PSA
-*Generated: 2026-10-28 10:33 | Price: $312.47 | Mkt Cap: $58B*
+*Generated: 2026-10-29 10:51 | Price: $310.05 | Mkt Cap: $58B*
 
-> ⚠ DATA: yfinance misclassified Blackrock Inc. (9.8% inst.) as insider
+> ⚠ DATA: yfinance misclassified Blackrock Inc. (9.2% inst.) as insider
 
 ## Sector Context
 Real Estate / REIT - Industrial
@@ -25,7 +25,7 @@ Real Estate / REIT - Industrial
 | Quality | 3.2/10 | 30% | 1.0 | ROIC declining trend; Avg ROIC: 16.2% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 59% from prior peak; 5y price drawdown: 38% (stable); FCF/NI: 121% (strong); Gross margin: 73% (pricing power for Real Estate) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 9.7% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 73% vs sector strong cutoff 55% — strong pricing power; Operating margin 39% — durable for Real Estate | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 31.5x — expensive; 52w range position: 71%; Owner earnings yield: 5.1% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 31.3x — expensive; 52w range position: 68%; Owner earnings yield: 5.2% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10
@@ -38,7 +38,7 @@ Real Estate / REIT - Industrial
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Industrial
-- **Margin of Safety**: -54% — ABSENT ($312 > IV $143 at 15x for -36% growth)
+- **Margin of Safety**: -54% — ABSENT ($310 > IV $143 at 15x for -36% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

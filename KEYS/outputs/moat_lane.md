@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KEYS
-*Generated: 2026-10-28 10:29 | Price: $336.1 | Mkt Cap: $57B*
+*Generated: 2026-10-29 10:50 | Price: $335.5 | Mkt Cap: $57B*
 
 ## Sector Context
 Technology / Scientific & Technical Instruments
