@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NUE
-*Generated: 2026-10-29 10:51 | Price: $271.79 | Mkt Cap: $62B*
+*Generated: 2026-10-30 10:51 | Price: $275.29 | Mkt Cap: $62B*
 
 ## Sector Context
 Basic Materials / Steel
@@ -23,7 +23,7 @@ Basic Materials / Steel
 | Quality | 0.3/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 17.2% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 77% from prior peak; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 61%; Gross margin: 17% (below Basic Materials norm) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.7% (low) | - |
 | Moat | 5.5/10 | 25% | 1.4 | Gross margin 17% — below Basic Materials moderate cutoff 18%; Operating margin 17% — durable for Basic Materials; Rev growth 32% — demand pull | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 12.9x — deep value; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 2.5% | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 13.1x — deep value; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 2.5% | - |
 | **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
 ## Buffett Score: 4.6 / 10
@@ -36,7 +36,7 @@ Basic Materials / Steel
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Steel
-- **Margin of Safety**: 44% — PRESENT (IV $392 vs $272 at 25x)
+- **Margin of Safety**: 43% — PRESENT (IV $392 vs $275 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 1.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution
