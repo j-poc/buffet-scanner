@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RDDT
-*Generated: 2026-10-30 10:51 | Price: $129.6 | Mkt Cap: $25B*
+*Generated: 2026-10-31 10:20 | Price: $91.73 | Mkt Cap: $18B*
 
 ## Sector Context
 Communication Services / Internet Content & Information
@@ -20,10 +20,10 @@ Communication Services / Internet Content & Information
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: -4.4% (2y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 61% (severe cyclicality); FCF/NI: 60%; Gross margin: 91% (pricing power for Communication Services) | - |
+| Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: -4.4% (2y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 66% (severe cyclicality); FCF/NI: 60%; Gross margin: 91% (pricing power for Communication Services) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 3.7% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 91% vs sector strong cutoff 55% — strong pricing power; Operating margin 29% — durable for Communication Services; Rev growth 61% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.4x — deep value; Near 52w low (7% of range) — Mr. Market fearful; Owner earnings yield: 2.7% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.5x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 3.8% | - |
 | **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
 
 ## Buffett Score: 6.1 / 10
@@ -36,7 +36,7 @@ Communication Services / Internet Content & Information
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Internet Content & Information
-- **Margin of Safety**: -17% — ABSENT ($130 > IV $108 at 25x for 25% growth)
+- **Margin of Safety**: 34% — PRESENT (IV $123 vs $92 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

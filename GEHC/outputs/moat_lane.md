@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GEHC
-*Generated: 2026-10-30 10:47 | Price: $76.42 | Mkt Cap: $35B*
+*Generated: 2026-10-31 10:18 | Price: $76.57 | Mkt Cap: $35B*
 
 ## Sector Context
 Healthcare / Medical Devices
@@ -36,7 +36,7 @@ Healthcare / Medical Devices
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Devices
-- **Margin of Safety**: 55% — PRESENT (IV $118 vs $76 at 25x)
+- **Margin of Safety**: 54% — PRESENT (IV $118 vs $77 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral

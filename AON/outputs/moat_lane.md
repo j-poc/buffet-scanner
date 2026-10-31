@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AON
-*Generated: 2026-10-30 10:46 | Price: $321.64 | Mkt Cap: $68B*
+*Generated: 2026-10-31 10:16 | Price: $321.67 | Mkt Cap: $68B*
 
 ## Sector Context
 Financial Services / Insurance Brokers
@@ -20,7 +20,7 @@ Financial Services / Insurance Brokers
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 7.0/10 | 30% | 2.1 | ROE: 43.4% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 0% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Quality | 7.0/10 | 30% | 2.1 | ROE: 43.4% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 34% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.3% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 43% — strong franchise (Financial Services); Operating margin 22% | - |
 | Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.9x — fair price; 52w range position: 48%; Owner earnings yield: 6.4% (>5%); Earnings yield < 7% — tight vs index | - |

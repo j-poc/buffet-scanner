@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NSC
-*Generated: 2026-10-30 10:51 | Price: $342.19 | Mkt Cap: $77B*
+*Generated: 2026-10-31 10:19 | Price: $342.64 | Mkt Cap: $77B*
 
 ## Sector Context
 Industrials / Railroads
@@ -36,7 +36,7 @@ Industrials / Railroads
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Railroads
-- **Margin of Safety**: -41% — ABSENT ($342 > IV $203 at 17x for 7% growth)
+- **Margin of Safety**: -41% — ABSENT ($343 > IV $203 at 17x for 7% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

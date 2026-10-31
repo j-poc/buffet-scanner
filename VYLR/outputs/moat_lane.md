@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VYLR
-*Generated: 2026-10-30 10:50 | Price: $72.68 | Mkt Cap: $48B*
+*Generated: 2026-10-31 10:22 | Price: $72.4 | Mkt Cap: $48B*
 
 ## Sector Context
 Financial Services / Shell Companies
@@ -23,10 +23,10 @@ Financial Services / Shell Companies
 | Quality | 3.0/10 | 30% | 0.9 | ROE: 4.3% (financials — book-return proxy); Earnings: 1 down-year in 2 transitions; FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); No insider transaction data; Restricted stock: 0.2% (low) | - |
 | Moat | 5.5/10 | 25% | 1.4 | ROE 4% — weak (Financial Services); Operating margin 30% — durable for Financial Services | Weak pricing |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 27.9x — growth premium; 52w range position: 62%; Owner earnings yield: 5.0%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
+| Valuation Fit | 6.5/10 | 20% | 1.3 | P/E 27.7x — growth premium; 52w range position: 60%; Owner earnings yield: 5.0% (>5%); Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
-## Buffett Score: 4.4 / 10
+## Buffett Score: 4.6 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Financial Services / Shell Companies
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Shell Companies
-- **Margin of Safety**: -86% — ABSENT ($73 > IV $10 at 15x for -10% growth)
+- **Margin of Safety**: -85% — ABSENT ($72 > IV $10 at 15x for -10% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral
