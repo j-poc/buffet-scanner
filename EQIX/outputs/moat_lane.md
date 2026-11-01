@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EQIX
-*Generated: 2026-10-31 10:17 | Price: $1013.7 | Mkt Cap: $100B*
+*Generated: 2026-11-01 11:10 | Price: $1013.7 | Mkt Cap: $100B*
 
 ## Sector Context
 Real Estate / REIT - Specialty
@@ -23,13 +23,13 @@ Real Estate / REIT - Specialty
 | Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: 4.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 39% (stable); FCF/NI: 34% (weak conversion); Gross margin: 52% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 52% — moderate moat for Real Estate; Operating margin 25% | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 50.4x — extreme premium; 52w range position: 72%; Owner earnings yield: 3.2%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.7/10** | **100%** | **3.7** | | |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 49.7x — expensive; 52w range position: 72%; Owner earnings yield: 3.2%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
 
-## Buffett Score: 3.7 / 10
-## Alpha Adjustment: -0.22
-## Conviction: AVOID
-## Verdict: Avoid
+## Buffett Score: 4.1 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.22 applied to composite alpha score
-Conviction Gate: AVOID — Do not initiate position
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
 Half-life adjustment: N/A
 ```

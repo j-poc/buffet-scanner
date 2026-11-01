@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SNDK
-*Generated: 2026-10-31 10:20 | Price: $1150.89 | Mkt Cap: $166B*
+*Generated: 2026-11-01 11:14 | Price: $1150.89 | Mkt Cap: $164B*
 
 ## Sector Context
 Technology / Computer Hardware
@@ -20,10 +20,10 @@ Technology / Computer Hardware
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.4/10 | 30% | 1.6 | Avg ROIC: 17.5% (3y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 56% (severe cyclicality); FCF/NI: 56%; Gross margin: 71% (pricing power for Technology) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.0% (low) | - |
-| Moat | 9.5/10 | 25% | 2.4 | Gross margin 71% vs sector strong cutoff 60% — strong pricing power; Operating margin 78% — durable for Technology; Rev growth 372% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.2x — deep value; 52w range position: 45%; Owner earnings yield: 4.6% | - |
+| Quality | 5.4/10 | 30% | 1.6 | Avg ROIC: 17.5% (3y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 56% (severe cyclicality); FCF/NI: 56%; Gross margin: 80% (pricing power for Technology) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.3% (low) | - |
+| Moat | 9.5/10 | 25% | 2.4 | Gross margin 80% vs sector strong cutoff 60% — strong pricing power; Operating margin 80% — durable for Technology; Rev growth 378% — demand pull | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.0x — deep value; 52w range position: 45%; Owner earnings yield: 6.9% (>5%) | - |
 | **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
 
 ## Buffett Score: 7.4 / 10

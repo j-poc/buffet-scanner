@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VTRS
-*Generated: 2026-10-31 10:22 | Price: $19.035 | Mkt Cap: $22B*
+*Generated: 2026-11-01 11:15 | Price: $19.035 | Mkt Cap: $22B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - Specialty & Generic

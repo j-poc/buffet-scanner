@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IFF
-*Generated: 2026-10-31 10:18 | Price: $93.02 | Mkt Cap: $24B*
+*Generated: 2026-11-01 11:11 | Price: $93.02 | Mkt Cap: $24B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VMC
-*Generated: 2026-10-31 10:22 | Price: $281.25 | Mkt Cap: $36B*
+*Generated: 2026-11-01 11:15 | Price: $281.25 | Mkt Cap: $36B*
 
 ## Sector Context
 Basic Materials / Building Materials

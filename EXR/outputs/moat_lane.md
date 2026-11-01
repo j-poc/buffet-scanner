@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EXR
-*Generated: 2026-10-31 10:17 | Price: $151.32 | Mkt Cap: $33B*
+*Generated: 2026-11-01 11:10 | Price: $151.32 | Mkt Cap: $33B*
 
 ## Sector Context
 Real Estate / REIT - Industrial
@@ -23,10 +23,10 @@ Real Estate / REIT - Industrial
 | Quality | 2.5/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 5.6% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 51% (moderate cyclicality); FCF/NI: 180% (strong); Gross margin: 75% (pricing power for Real Estate) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 1.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 2.3% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 75% vs sector strong cutoff 55% — strong pricing power; Operating margin 45% — durable for Real Estate | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 31.5x — expensive; 52w range position: 77%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 31.5x — expensive; 52w range position: 77%; Owner earnings yield: 9.7% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
-## Buffett Score: 4.7 / 10
+## Buffett Score: 4.9 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

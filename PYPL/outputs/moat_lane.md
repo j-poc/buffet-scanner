@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PYPL
-*Generated: 2026-10-31 10:19 | Price: $57.01 | Mkt Cap: $47B*
+*Generated: 2026-11-01 11:11 | Price: $57.01 | Mkt Cap: $47B*
 
 ## Sector Context
 Financial Services / Credit Services

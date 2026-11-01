@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AAPL
-*Generated: 2026-10-31 10:16 | Price: $344.63 | Mkt Cap: $5030B*
+*Generated: 2026-11-01 11:09 | Price: $344.63 | Mkt Cap: $5030B*
 
 ## Sector Context
 Technology / Consumer Electronics

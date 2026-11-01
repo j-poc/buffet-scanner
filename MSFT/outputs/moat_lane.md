@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MSFT
-*Generated: 2026-10-31 10:19 | Price: $521.91 | Mkt Cap: $3876B*
+*Generated: 2026-11-01 11:11 | Price: $521.91 | Mkt Cap: $3876B*
 
 ## Sector Context
 Technology / Software - Infrastructure
