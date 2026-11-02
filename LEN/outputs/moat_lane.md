@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LEN
-*Generated: 2026-11-01 11:11 | Price: $86.94 | Mkt Cap: $21B*
+*Generated: 2026-11-02 12:13 | Price: $86.94 | Mkt Cap: $21B*
 
 ## Sector Context
 Consumer Cyclical / Residential Construction

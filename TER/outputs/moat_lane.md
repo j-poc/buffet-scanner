@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TER
-*Generated: 2026-11-01 11:15 | Price: $274.37 | Mkt Cap: $43B*
+*Generated: 2026-11-02 12:15 | Price: $274.37 | Mkt Cap: $43B*
 
 ## Sector Context
 Technology / Semiconductor Equipment & Materials
@@ -23,7 +23,7 @@ Technology / Semiconductor Equipment & Materials
 | Quality | 3.2/10 | 30% | 1.0 | ROIC declining trend; Avg ROIC: 19.4% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 37% from prior peak; 5y price drawdown: 59% (severe cyclicality); FCF/NI: 80% (strong); Gross margin: 59% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 59% — moderate moat for Technology; Operating margin 31% — durable for Technology; Rev growth 70% — demand pull | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 23.1x — growth premium; 52w range position: 37%; Owner earnings yield: 1.4%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.9x — growth premium; 52w range position: 37%; Owner earnings yield: 1.4%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
 ## Buffett Score: 5.2 / 10

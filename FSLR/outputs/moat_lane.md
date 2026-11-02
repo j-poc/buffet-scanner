@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FSLR
-*Generated: 2026-11-01 11:10 | Price: $174.4 | Mkt Cap: $19B*
+*Generated: 2026-11-02 12:12 | Price: $174.4 | Mkt Cap: $19B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Capital Management LLC (6.4% inst.) as insider
 
@@ -25,7 +25,7 @@ Technology / Solar
 | Quality | 2.3/10 | 30% | 0.7 | Avg ROIC: 9.1% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 60% (severe cyclicality); FCF/NI: 7% (weak conversion); Gross margin: 49% | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.4% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 49% — moderate moat for Technology; Operating margin 44% — durable for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.5x — deep value; Near 52w low (6% of range) — Mr. Market fearful; Owner earnings yield: 3.7% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.6x — deep value; Near 52w low (6% of range) — Mr. Market fearful; Owner earnings yield: 3.7% | - |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
 ## Buffett Score: 5.4 / 10

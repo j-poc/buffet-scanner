@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BNY
-*Generated: 2026-11-01 11:09 | Price: $147.11 | Mkt Cap: $99B*
+*Generated: 2026-11-02 12:11 | Price: $147.11 | Mkt Cap: $99B*
 
 ## Sector Context
 Financial Services / Banks - Diversified

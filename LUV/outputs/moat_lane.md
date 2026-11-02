@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LUV
-*Generated: 2026-11-01 11:15 | Price: $42.43 | Mkt Cap: $21B*
+*Generated: 2026-11-02 12:15 | Price: $42.43 | Mkt Cap: $21B*
 
 ## Sector Context
 Industrials / Airlines
@@ -23,7 +23,7 @@ Industrials / Airlines
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: 4.0% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 57% (severe cyclicality); FCF/NI: -159% (weak conversion); Gross margin: 22% | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 22% — moderate moat for Industrials; Operating margin 4% — thin for Industrials; Rev growth 21% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.3x — deep value; 52w range position: 51% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.2x — deep value; 52w range position: 51% | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MRNA
-*Generated: 2026-11-01 11:11 | Price: $221.72 | Mkt Cap: $89B*
+*Generated: 2026-11-02 12:14 | Price: $221.72 | Mkt Cap: $89B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.7% inst.) as insider
 

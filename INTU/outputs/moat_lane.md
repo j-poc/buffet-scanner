@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: INTU
-*Generated: 2026-11-01 11:11 | Price: $341.09 | Mkt Cap: $91B*
+*Generated: 2026-11-02 12:13 | Price: $341.09 | Mkt Cap: $91B*
 
 ## Sector Context
 Technology / Software - Application
