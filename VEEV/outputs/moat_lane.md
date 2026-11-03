@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VEEV
-*Generated: 2026-11-02 12:15 | Price: $312.96 | Mkt Cap: $51B*
+*Generated: 2026-11-03 11:52 | Price: $307.0 | Mkt Cap: $50B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.9% inst.) as insider
 
@@ -25,10 +25,10 @@ Healthcare / Health Information Services
 | Quality | 5.8/10 | 30% | 1.7 | Avg ROIC: 9.1% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 53% (moderate cyclicality); FCF/NI: 160% (strong); Gross margin: 75% (pricing power for Healthcare) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 8.4% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 75% vs sector strong cutoff 55% — strong pricing power; Operating margin 30% — durable for Healthcare | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 30.5x — expensive; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 2.5%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 29.9x — growth premium; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 2.5%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
-## Buffett Score: 5.4 / 10
+## Buffett Score: 5.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,7 +38,7 @@ Healthcare / Health Information Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Health Information Services
-- **Margin of Safety**: -51% — ABSENT ($313 > IV $152 at 25x for 25% growth)
+- **Margin of Safety**: -50% — ABSENT ($307 > IV $152 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

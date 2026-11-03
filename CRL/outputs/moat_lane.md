@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CRL
-*Generated: 2026-11-02 12:11 | Price: $359.41 | Mkt Cap: $17B*
+*Generated: 2026-11-03 11:46 | Price: $338.54 | Mkt Cap: $16B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research
@@ -20,14 +20,14 @@ Healthcare / Diagnostics & Research
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 5.4% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 130% from prior peak; 5y price drawdown: 77% (severe cyclicality); FCF/NI: 1162% (strong); Gross margin: 35% (below Healthcare norm) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 2.0% (low) | - |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 5.4% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 130% from prior peak; 5y price drawdown: 75% (severe cyclicality); FCF/NI: 1162% (strong); Gross margin: 35% (below Healthcare norm) | ROIC declining |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 35% — below Healthcare moderate cutoff 35%; Operating margin 15% | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 28.2x — growth premium; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 2.7%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **2.9/10** | **100%** | **2.9** | | |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 26.6x — growth premium; 52w range position: 82%; Owner earnings yield: 2.9%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **3.1/10** | **100%** | **3.1** | | |
 
-## Buffett Score: 2.9 / 10
-## Alpha Adjustment: -0.28
+## Buffett Score: 3.1 / 10
+## Alpha Adjustment: -0.27
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -39,7 +39,7 @@ Healthcare / Diagnostics & Research
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (0 forces only: none)
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.28 applied to composite alpha score
+Buffett Premium: -0.27 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

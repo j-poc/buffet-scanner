@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WY
-*Generated: 2026-11-02 12:16 | Price: $20.35 | Mkt Cap: $15B*
+*Generated: 2026-11-03 11:52 | Price: $21.29 | Mkt Cap: $15B*
 
 ## Sector Context
 Real Estate / REIT - Specialty
@@ -23,11 +23,11 @@ Real Estate / REIT - Specialty
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 6.4% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 83% from prior peak; 5y price drawdown: 49% (moderate cyclicality); FCF/NI: 46% (weak conversion); Gross margin: 15% (below Real Estate norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 15% — below Real Estate moderate cutoff 35%; Operating margin 5% — thin for Real Estate | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 40.0x — expensive; Near 52w low (22% of range) — Mr. Market fearful; Owner earnings yield: 4.0%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **2.9/10** | **100%** | **2.9** | | |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 48.1x — expensive; 52w range position: 32%; Owner earnings yield: 3.8%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **2.6/10** | **100%** | **2.6** | | |
 
-## Buffett Score: 2.9 / 10
-## Alpha Adjustment: -0.28
+## Buffett Score: 2.6 / 10
+## Alpha Adjustment: -0.30
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -36,10 +36,10 @@ Real Estate / REIT - Specialty
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Specialty
-- **Margin of Safety**: -54% — ABSENT ($20 > IV $9 at 15x for -27% growth)
+- **Margin of Safety**: -56% — ABSENT ($21 > IV $9 at 15x for -27% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (0 forces only: none)
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.28 applied to composite alpha score
+Buffett Premium: -0.30 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

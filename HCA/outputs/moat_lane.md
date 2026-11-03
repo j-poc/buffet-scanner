@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HCA
-*Generated: 2026-11-02 12:13 | Price: $473.19 | Mkt Cap: $99B*
+*Generated: 2026-11-03 11:47 | Price: $467.73 | Mkt Cap: $98B*
 
 ## Sector Context
 Healthcare / Medical Care Facilities
@@ -23,11 +23,11 @@ Healthcare / Medical Care Facilities
 | Quality | 7.5/10 | 30% | 2.2 | Avg ROIC: 21.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 39% (stable); FCF/NI: 93% (strong); Gross margin: 43% | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 17.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 34.6% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 43% — moderate moat for Healthcare; Operating margin 15% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.2x — fair price; 52w range position: 59%; Owner earnings yield: 4.0%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **7.7/10** | **100%** | **7.7** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.0x — deep value; 52w range position: 56%; Owner earnings yield: 4.0%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **8.0/10** | **100%** | **8.0** | | |
 
-## Buffett Score: 7.7 / 10
-## Alpha Adjustment: +0.27
+## Buffett Score: 8.0 / 10
+## Alpha Adjustment: +0.30
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Healthcare / Medical Care Facilities
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Care Facilities
-- **Margin of Safety**: -4% — ABSENT ($473 > IV $452 at 15x for 4% growth)
+- **Margin of Safety**: -3% — ABSENT ($468 > IV $452 at 15x for 4% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 17.2% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.27 applied to composite alpha score
+Buffett Premium: +0.30 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

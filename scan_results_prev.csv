@@ -1,6 +1,6 @@
 ticker,buffett_score,alpha_adj,conviction,verdict,material_killers
-GOOGL,9.5,0.4,HIGH,Own Forever,0
 GOOG,9.5,0.4,HIGH,Own Forever,1
+GOOGL,9.5,0.4,HIGH,Own Forever,0
 NVDA,9.2,0.4,HIGH,Own Forever,1
 ROL,8.6,0.4,HIGH,Own Forever,0
 AXP,8.4,0.4,HIGH,Own Forever,0
@@ -40,8 +40,8 @@ ERIE,7.4,0.24,MODERATE,Watchlist,0
 KLAC,7.4,0.24,MODERATE,Watchlist,2
 LLY,7.4,0.24,MODERATE,Watchlist,1
 NTAP,7.4,0.24,MODERATE,Watchlist,2
-ZTS,7.4,0.24,MODERATE,Watchlist,1
 SNDK,7.4,0.24,MODERATE,Watchlist,1
+ZTS,7.4,0.24,MODERATE,Watchlist,1
 ALL,7.3,0.23,MODERATE,Watchlist,1
 ACGL,7.3,0.23,MODERATE,Watchlist,0
 CB,7.3,0.23,MODERATE,Watchlist,0
@@ -123,7 +123,6 @@ AZO,6.5,0.15,MODERATE,Watchlist,1
 BMY,6.5,0.15,MODERATE,Watchlist,1
 CF,6.5,0.15,MODERATE,Watchlist,1
 FANG,6.5,0.15,MODERATE,Watchlist,0
-GDDY,6.5,0.15,MODERATE,Watchlist,1
 HONA,6.5,0.15,MODERATE,Watchlist,1
 KMB,6.5,0.15,MODERATE,Watchlist,1
 LOW,6.5,0.15,MODERATE,Watchlist,1
@@ -149,9 +148,9 @@ CVX,6.3,0.13,MODERATE,Watchlist,0
 CMG,6.3,0.13,MODERATE,Watchlist,1
 COP,6.3,0.13,MODERATE,Watchlist,1
 DXCM,6.3,0.13,MODERATE,Watchlist,1
-D,6.3,0.13,MODERATE,Watchlist,1
 DOV,6.3,0.13,MODERATE,Watchlist,0
 EFX,6.3,0.13,MODERATE,Watchlist,1
+GDDY,6.3,0.13,MODERATE,Watchlist,1
 MTD,6.3,0.13,MODERATE,Watchlist,1
 PM,6.3,0.13,MODERATE,Watchlist,1
 PNC,6.3,0.13,MODERATE,Watchlist,1
@@ -191,6 +190,7 @@ CMS,6.0,0.0,LOW,Pass,2
 COO,6.0,0.0,LOW,Pass,1
 DRI,6.0,0.0,LOW,Pass,2
 DVA,6.0,0.0,LOW,Pass,1
+D,6.0,0.0,LOW,Pass,2
 DPZ,6.0,0.0,LOW,Pass,2
 DUK,6.0,0.0,LOW,Pass,2
 EIX,6.0,0.0,LOW,Pass,2
@@ -204,8 +204,8 @@ HLT,6.0,0.0,LOW,Pass,1
 HON,6.0,0.0,LOW,Pass,1
 KDP,6.0,0.0,LOW,Pass,1
 KIM,6.0,0.0,LOW,Pass,1
-KKR,6.0,0.0,LOW,Pass,0
 KMI,6.0,0.0,LOW,Pass,1
+KKR,6.0,0.0,LOW,Pass,0
 KHC,6.0,0.0,LOW,Pass,0
 MKC,6.0,0.0,LOW,Pass,1
 MET,6.0,0.0,LOW,Pass,1
@@ -277,16 +277,14 @@ WSM,5.7,0.0,LOW,Pass,0
 AWK,5.6,0.0,LOW,Pass,2
 ADI,5.6,0.0,LOW,Pass,2
 DVN,5.6,0.0,LOW,Pass,1
-FDX,5.6,0.0,LOW,Pass,1
 GE,5.6,0.0,LOW,Pass,1
 IBM,5.6,0.0,LOW,Pass,3
 PODD,5.6,0.0,LOW,Pass,1
 KEY,5.6,0.0,LOW,Pass,1
-MGM,5.6,0.0,LOW,Pass,1
-ZBH,5.6,0.0,LOW,Pass,1
 PTC,5.6,0.0,LOW,Pass,2
 VLTO,5.6,0.0,LOW,Pass,1
 VRTX,5.6,0.0,LOW,Pass,2
+ZBH,5.6,0.0,LOW,Pass,1
 ALGN,5.5,0.0,LOW,Pass,1
 APH,5.5,0.0,LOW,Pass,2
 AMAT,5.5,0.0,LOW,Pass,2
@@ -294,6 +292,7 @@ COR,5.5,0.0,LOW,Pass,0
 CNP,5.5,0.0,LOW,Pass,2
 ED,5.5,0.0,LOW,Pass,2
 FRT,5.5,0.0,LOW,Pass,1
+FDX,5.5,0.0,LOW,Pass,1
 FITB,5.5,0.0,LOW,Pass,1
 HBAN,5.5,0.0,LOW,Pass,1
 ISRG,5.5,0.0,LOW,Pass,1
@@ -325,9 +324,9 @@ XOM,5.3,0.0,LOW,Pass,1
 FERG,5.3,0.0,LOW,Pass,1
 FTV,5.3,0.0,LOW,Pass,2
 INVH,5.3,0.0,LOW,Pass,2
+MGM,5.3,0.0,LOW,Pass,1
 ODFL,5.3,0.0,LOW,Pass,1
 PLTR,5.3,0.0,LOW,Pass,1
-PSX,5.3,0.0,LOW,Pass,1
 ROP,5.3,0.0,LOW,Pass,2
 TXN,5.3,0.0,LOW,Pass,2
 BKR,5.2,0.0,LOW,Pass,1
@@ -341,6 +340,7 @@ NSC,5.2,0.0,LOW,Pass,1
 NVR,5.2,0.0,LOW,Pass,1
 OKE,5.2,0.0,LOW,Pass,1
 PFE,5.2,0.0,LOW,Pass,1
+PSX,5.2,0.0,LOW,Pass,1
 SRE,5.2,0.0,LOW,Pass,2
 TER,5.2,0.0,LOW,Pass,2
 VMC,5.2,0.0,LOW,Pass,1
@@ -362,8 +362,8 @@ CEG,5.0,0.0,LOW,Pass,1
 ECHO,5.0,0.0,LOW,Pass,1
 EMR,5.0,0.0,LOW,Pass,1
 KEYS,5.0,0.0,LOW,Pass,2
-LEN,5.0,0.0,LOW,Pass,0
 LDOS,5.0,0.0,LOW,Pass,2
+LEN,5.0,0.0,LOW,Pass,0
 NCLH,5.0,0.0,LOW,Pass,2
 PLD,5.0,0.0,LOW,Pass,2
 LUV,5.0,0.0,LOW,Pass,0
@@ -379,7 +379,6 @@ CSGP,4.9,0.0,LOW,Pass,1
 CSX,4.9,0.0,LOW,Pass,1
 DD,4.9,0.0,LOW,Pass,1
 ESS,4.9,0.0,LOW,Pass,2
-EXR,4.9,0.0,LOW,Pass,2
 GIS,4.9,0.0,LOW,Pass,1
 IEX,4.9,0.0,LOW,Pass,1
 MDLZ,4.9,0.0,LOW,Pass,1
@@ -405,10 +404,12 @@ ACN,4.7,0.0,LOW,Pass,2
 CDW,4.7,0.0,LOW,Pass,2
 CTSH,4.7,0.0,LOW,Pass,2
 EW,4.7,0.0,LOW,Pass,1
+EXR,4.7,0.0,LOW,Pass,2
 IQV,4.7,0.0,LOW,Pass,1
 MPC,4.7,0.0,LOW,Pass,1
 NKE,4.7,0.0,LOW,Pass,0
 OMC,4.7,0.0,LOW,Pass,1
+TWLO,4.7,0.0,LOW,Pass,2
 TYL,4.7,0.0,LOW,Pass,2
 CI,4.6,0.0,LOW,Pass,0
 EXPD,4.6,0.0,LOW,Pass,1
@@ -448,8 +449,8 @@ HPE,4.2,0.0,LOW,Pass,2
 MAA,4.2,0.0,LOW,Pass,2
 DGX,4.2,0.0,LOW,Pass,1
 RTX,4.2,0.0,LOW,Pass,1
+SWKS,4.2,0.0,LOW,Pass,2
 SBUX,4.2,0.0,LOW,Pass,1
-TWLO,4.2,0.0,LOW,Pass,2
 TSN,4.2,0.0,LOW,Pass,0
 AMCR,4.1,0.0,LOW,Pass,2
 EQIX,4.1,0.0,LOW,Pass,2
@@ -475,7 +476,6 @@ F,3.9,-0.21,AVOID,Avoid,2
 GEV,3.9,-0.21,AVOID,Avoid,1
 HRL,3.9,-0.21,AVOID,Avoid,1
 IP,3.9,-0.21,AVOID,Avoid,1
-SWKS,3.9,-0.21,AVOID,Avoid,2
 BALL,3.8,-0.22,AVOID,Avoid,1
 TECH,3.8,-0.22,AVOID,Avoid,2
 BG,3.8,-0.22,AVOID,Avoid,2
