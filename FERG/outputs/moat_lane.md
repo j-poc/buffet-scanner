@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FERG
-*Generated: 2026-11-03 11:47 | Price: $242.16 | Mkt Cap: $47B*
+*Generated: 2026-11-04 12:00 | Price: $241.99 | Mkt Cap: $47B*
 
 ## Sector Context
 Industrials / Industrial Distribution

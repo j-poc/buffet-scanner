@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ECHO
-*Generated: 2026-11-03 11:47 | Price: $98.23 | Mkt Cap: $29B*
+*Generated: 2026-11-04 11:59 | Price: $101.94 | Mkt Cap: $30B*
 
 ## Sector Context
 Communication Services / Telecom Services
@@ -11,7 +11,7 @@ Communication Services / Telecom Services
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 8.8x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.8x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 13.5%; key-man / succession risk | 8% | -15% | No |
 
 ---
@@ -20,10 +20,10 @@ Communication Services / Telecom Services
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -10.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 685% from prior peak; 5y price drawdown: 68% (severe cyclicality); FCF/NI: 213% (strong); Gross margin: 30% (below Communication Services norm) | ROIC declining |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 13.5% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 13.7% of shares (SBC concern) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 30% — below Communication Services moderate cutoff 40%; Operating margin 14% — thin for Communication Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.4x — deep value; 52w range position: 40% | - |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -10.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 685% from prior peak; 5y price drawdown: 68% (severe cyclicality); FCF/NI: 213% (strong); Gross margin: 32% (below Communication Services norm) | ROIC declining |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 13.5% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 13.5% of shares (SBC concern) | - |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 32% — below Communication Services moderate cutoff 40%; Operating margin 14% — thin for Communication Services | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.9x — deep value; 52w range position: 44% | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10
@@ -36,7 +36,7 @@ Communication Services / Telecom Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Telecom Services
-- **Margin of Safety**: Cannot calculate (no positive EPS)
+- **Margin of Safety**: 306% — PRESENT (IV $414 vs $102 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 13.5% insider ownership
 - **Mr. Market**: Neutral

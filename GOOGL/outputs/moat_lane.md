@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GOOGL
-*Generated: 2026-11-03 11:46 | Price: $278.99 | Mkt Cap: $3430B*
+*Generated: 2026-11-04 11:58 | Price: $280.03 | Mkt Cap: $3443B*
 
 ## Sector Context
 Communication Services / Internet Content & Information
@@ -23,7 +23,7 @@ Communication Services / Internet Content & Information
 | Quality | 9.5/10 | 30% | 2.9 | Avg ROIC: 24.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 81% (strong); Gross margin: 61% (pricing power for Communication Services) | - |
 | Management | 9.0/10 | 25% | 2.2 | Insider value: $55B (1.6%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: -86.0% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 61% vs sector strong cutoff 55% — strong pricing power; Operating margin 32% — durable for Communication Services; Rev growth 25% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 18.4x — fair price; Near 52w low (6% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 18.1x — fair price; Near 52w low (7% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **9.5/10** | **100%** | **9.5** | | |
 
 ## Buffett Score: 9.5 / 10

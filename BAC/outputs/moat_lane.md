@@ -1,7 +1,7 @@
 # Buffett/Munger Moat Lane: BAC
-*Generated: 2026-11-03 11:46 | Price: $49.57 | Mkt Cap: $342B*
+*Generated: 2026-11-04 11:58 | Price: $49.66 | Mkt Cap: $343B*
 
-> ⚠ DATA: yfinance misclassified Blackrock Inc. (7.8% inst.) as insider
+> ⚠ DATA: yfinance misclassified Blackrock Inc. (7.9% inst.) as insider
 
 ## Sector Context
 Financial Services / Banks - Diversified
@@ -25,7 +25,7 @@ Financial Services / Banks - Diversified
 | Quality | 4.7/10 | 30% | 1.4 | ROE: 10.7% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 47% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 11% — adequate (Financial Services); Operating margin 31% — durable for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.6x — deep value; Near 52w low (18% of range) — Mr. Market fearful | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.6x — deep value; Near 52w low (19% of range) — Mr. Market fearful | - |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
 ## Buffett Score: 6.2 / 10
