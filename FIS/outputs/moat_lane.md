@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FIS
-*Generated: 2026-11-04 12:00 | Price: $38.99 | Mkt Cap: $20B*
+*Generated: 2026-11-05 12:03 | Price: $29.76 | Mkt Cap: $15B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -11,7 +11,7 @@ Technology / Information Technology Services
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Information Technology Services | 25% | -35% | YES |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 6.0x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 5.0x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.1%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,10 +20,10 @@ Technology / Information Technology Services
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 3.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 74% from prior peak; 5y price drawdown: 70% (severe cyclicality); FCF/NI: 127% (strong); Gross margin: 36% (below Technology norm) | - |
+| Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 3.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 74% from prior peak; 5y price drawdown: 72% (severe cyclicality); FCF/NI: 127% (strong); Gross margin: 36% (below Technology norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
-| Moat | 4.5/10 | 25% | 1.1 | Gross margin 36% — below Technology moderate cutoff 40%; Operating margin 21%; Rev growth 29% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.9x — deep value; Near 52w low (19% of range) — Mr. Market fearful; Owner earnings yield: 13.2% (>5%) | - |
+| Moat | 4.5/10 | 25% | 1.1 | Gross margin 36% — below Technology moderate cutoff 40%; Operating margin 19%; Rev growth 27% — demand pull | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.5x — deep value; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 15.5% (>5%) | - |
 | **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
 ## Buffett Score: 4.6 / 10
@@ -36,7 +36,7 @@ Technology / Information Technology Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Information Technology Services
-- **Margin of Safety**: 317% — PRESENT (IV $163 vs $39 at 25x)
+- **Margin of Safety**: 462% — PRESENT (IV $167 vs $30 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

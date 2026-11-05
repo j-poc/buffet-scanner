@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NDSN
-*Generated: 2026-11-04 12:01 | Price: $331.06 | Mkt Cap: $18B*
+*Generated: 2026-11-05 12:04 | Price: $330.7 | Mkt Cap: $18B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery

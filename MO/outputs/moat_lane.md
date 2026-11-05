@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MO
-*Generated: 2026-11-04 11:58 | Price: $76.94 | Mkt Cap: $128B*
+*Generated: 2026-11-05 12:01 | Price: $78.01 | Mkt Cap: $130B*
 
 ## Sector Context
 Consumer Defensive / Tobacco
@@ -23,7 +23,7 @@ Consumer Defensive / Tobacco
 | Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 40.2% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 38% from prior peak; 5y price drawdown: 26% (stable); FCF/NI: 115% (strong); Gross margin: 72% (pricing power for Consumer Defensive) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 72% vs sector strong cutoff 45% — strong pricing power; Operating margin 61% — durable for Consumer Defensive | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.0x — deep value; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 5.5% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.2x — deep value; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 5.4% (>5%) | - |
 | **TOTAL** | **7.8/10** | **100%** | **7.8** | | |
 
 ## Buffett Score: 7.8 / 10
@@ -36,7 +36,7 @@ Consumer Defensive / Tobacco
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Tobacco
-- **Margin of Safety**: 7% — thin (IV $82 at 17x)
+- **Margin of Safety**: 6% — thin (IV $82 at 17x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Greedy — exercise caution

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TSLA
-*Generated: 2026-11-04 12:02 | Price: $398.5 | Mkt Cap: $1575B*
+*Generated: 2026-11-05 12:07 | Price: $385.19 | Mkt Cap: $1523B*
 
 ## Sector Context
 Consumer Cyclical / Auto Manufacturers
@@ -20,10 +20,10 @@ Consumer Cyclical / Auto Manufacturers
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 12.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 75% from prior peak; 5y price drawdown: 74% (severe cyclicality); FCF/NI: 76%; Gross margin: 19% (below Consumer Cyclical norm) | ROIC declining |
-| Management | 8.5/10 | 25% | 2.1 | Insider value: $280B (17.8%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 28.6% of shares (SBC concern) | - |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 12.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 75% from prior peak; 5y price drawdown: 73% (severe cyclicality); FCF/NI: 76%; Gross margin: 19% (below Consumer Cyclical norm) | ROIC declining |
+| Management | 8.5/10 | 25% | 2.1 | Insider value: $271B (17.8%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 28.6% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 19% — below Consumer Cyclical moderate cutoff 30%; Operating margin 5% — thin for Consumer Cyclical | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 184.6x — extreme premium; 52w range position: 50%; Owner earnings yield: 0.3%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 178.4x — extreme premium; 52w range position: 44%; Owner earnings yield: 0.3%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.3/10** | **100%** | **3.3** | | |
 
 ## Buffett Score: 3.3 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Auto Manufacturers
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Auto Manufacturers
-- **Margin of Safety**: -97% — ABSENT ($398 > IV $14 at 15x for -44% growth)
+- **Margin of Safety**: -96% — ABSENT ($385 > IV $14 at 15x for -44% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Aligned — 17.8% insider ownership
 - **Mr. Market**: Neutral
