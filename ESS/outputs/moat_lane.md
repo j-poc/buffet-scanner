@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ESS
-*Generated: 2026-11-05 12:03 | Price: $271.52 | Mkt Cap: $19B*
+*Generated: 2026-11-06 11:58 | Price: $271.34 | Mkt Cap: $19B*
 
 ## Sector Context
 Real Estate / REIT - Residential
@@ -36,7 +36,7 @@ Real Estate / REIT - Residential
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Residential
-- **Margin of Safety**: -70% — ABSENT ($272 > IV $81 at 15x for -40% growth)
+- **Margin of Safety**: -70% — ABSENT ($271 > IV $81 at 15x for -40% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Neutral

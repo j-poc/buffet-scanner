@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VYLR
-*Generated: 2026-11-05 12:08 | Price: $71.25 | Mkt Cap: $48B*
+*Generated: 2026-11-06 12:01 | Price: $68.53 | Mkt Cap: $46B*
 
 ## Sector Context
 Financial Services / Shell Companies
@@ -23,10 +23,10 @@ Financial Services / Shell Companies
 | Quality | 3.0/10 | 30% | 0.9 | ROE: 4.3% (financials — book-return proxy); Earnings: 1 down-year in 2 transitions; FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); No insider transaction data; Restricted stock: 0.2% (low) | - |
 | Moat | 5.5/10 | 25% | 1.4 | ROE 4% — weak (Financial Services); Operating margin 30% — durable for Financial Services | Weak pricing |
-| Valuation Fit | 6.5/10 | 20% | 1.3 | P/E 27.3x — growth premium; 52w range position: 50%; Owner earnings yield: 5.1% (>5%); Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
+| Valuation Fit | 8.0/10 | 20% | 1.6 | P/E 26.3x — growth premium; Near 52w low (28% of range) — Mr. Market fearful; Owner earnings yield: 5.3% (>5%); Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
-## Buffett Score: 4.6 / 10
+## Buffett Score: 4.9 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,13 +36,13 @@ Financial Services / Shell Companies
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Shell Companies
-- **Margin of Safety**: -85% — ABSENT ($71 > IV $10 at 15x for -10% growth)
-- **Lollapalooza Effect**: No (0 forces only: none)
+- **Margin of Safety**: -85% — ABSENT ($69 > IV $10 at 15x for -10% growth)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-No (0 forces only: none)
+No (1 forces only: attractive valuation)
 
 ---
 

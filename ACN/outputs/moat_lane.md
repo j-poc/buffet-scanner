@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ACN
-*Generated: 2026-11-05 12:01 | Price: $264.27 | Mkt Cap: $162B*
+*Generated: 2026-11-06 11:57 | Price: $265.16 | Mkt Cap: $162B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -23,10 +23,10 @@ Technology / Information Technology Services
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: nan% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 68% (severe cyclicality); FCF/NI: 133% (strong); Gross margin: 32% (below Technology norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 3.6% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 32% — below Technology moderate cutoff 40%; Operating margin 18% — thin for Technology | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 16.6x — fair price; 52w range position: 84%; Owner earnings yield: 6.6% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.7x — fair price; Near 52w high (85% of range) — Mr. Market greedy; Owner earnings yield: 6.6% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
-## Buffett Score: 4.7 / 10
+## Buffett Score: 4.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -39,7 +39,7 @@ Technology / Information Technology Services
 - **Margin of Safety**: 28% — thin (IV $339 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

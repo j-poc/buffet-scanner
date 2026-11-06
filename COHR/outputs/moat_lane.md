@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COHR
-*Generated: 2026-11-05 12:02 | Price: $195.09 | Mkt Cap: $38B*
+*Generated: 2026-11-06 11:58 | Price: $169.76 | Mkt Cap: $33B*
 
 ## Sector Context
 Technology / Scientific & Technical Instruments
@@ -11,7 +11,7 @@ Technology / Scientific & Technical Instruments
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Scientific & Technical Instruments | 25% | -35% | YES |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.5x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.6x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 4.4%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -20,10 +20,10 @@ Technology / Scientific & Technical Instruments
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 2.3% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 63% (severe cyclicality); FCF/NI: 15% (weak conversion); Gross margin: 37% (below Technology norm) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
-| Moat | 4.0/10 | 25% | 1.0 | Gross margin 37% — below Technology moderate cutoff 40%; Operating margin 12% — thin for Technology; Rev growth 34% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.0x — deep value; Near 52w low (21% of range) — Mr. Market fearful | - |
+| Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 2.3% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 63% (severe cyclicality); FCF/NI: 15% (weak conversion); Gross margin: 38% (below Technology norm) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
+| Moat | 4.0/10 | 25% | 1.0 | Gross margin 38% — below Technology moderate cutoff 40%; Operating margin 16% — thin for Technology; Rev growth 50% — demand pull | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.2x — deep value; Near 52w low (13% of range) — Mr. Market fearful | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10
@@ -36,7 +36,7 @@ Technology / Scientific & Technical Instruments
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Scientific & Technical Instruments
-- **Margin of Safety**: -38% — ABSENT ($195 > IV $121 at 25x for 25% growth)
+- **Margin of Safety**: -29% — ABSENT ($170 > IV $121 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 4.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

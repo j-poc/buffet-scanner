@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TPL
-*Generated: 2026-11-05 12:07 | Price: $287.65 | Mkt Cap: $20B*
+*Generated: 2026-11-06 12:01 | Price: $272.18 | Mkt Cap: $19B*
 
 ## Sector Context
 Energy / Oil & Gas E&P
@@ -20,10 +20,10 @@ Energy / Oil & Gas E&P
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.5/10 | 30% | 1.6 | ROIC declining trend; Avg ROIC: 41.2% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 53% (moderate cyclicality); FCF/NI: 52%; Gross margin: 93% (pricing power for Energy) | ROIC declining |
+| Quality | 5.5/10 | 30% | 1.6 | ROIC declining trend; Avg ROIC: 41.2% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 53% (moderate cyclicality); FCF/NI: 52%; Gross margin: 94% (pricing power for Energy) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 14.7% of shares (SBC concern) | - |
-| Moat | 9.5/10 | 25% | 2.4 | Gross margin 93% vs sector strong cutoff 30% — strong pricing power; Operating margin 78% — durable for Energy; Rev growth 31% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 3.9x — deep value; Near 52w low (7% of range) — Mr. Market fearful | - |
+| Moat | 9.5/10 | 25% | 2.4 | Gross margin 94% vs sector strong cutoff 30% — strong pricing power; Operating margin 76% — durable for Energy; Rev growth 35% — demand pull | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 3.7x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 0.4% | - |
 | **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
 
 ## Buffett Score: 6.9 / 10
@@ -36,7 +36,7 @@ Energy / Oil & Gas E&P
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas E&P
-- **Margin of Safety**: -26% — ABSENT ($288 > IV $213 at 25x for 25% growth)
+- **Margin of Safety**: -22% — ABSENT ($272 > IV $213 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
