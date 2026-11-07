@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MAR
-*Generated: 2026-11-06 11:59 | Price: $417.28 | Mkt Cap: $107B*
+*Generated: 2026-11-07 10:59 | Price: $416.47 | Mkt Cap: $107B*
 
 ## Sector Context
 Consumer Cyclical / Lodging
@@ -21,9 +21,9 @@ Consumer Cyclical / Lodging
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 26.8% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 31% (stable); FCF/NI: 90% (strong); Gross margin: 79% (pricing power for Consumer Cyclical) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 18.3% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 14.4% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 18.3% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 14.5% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 79% vs sector strong cutoff 45% — strong pricing power; Operating margin 66% — durable for Consumer Cyclical | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 31.2x — expensive; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 2.5%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 31.0x — expensive; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 2.5%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **7.6/10** | **100%** | **7.6** | | |
 
 ## Buffett Score: 7.6 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Lodging
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Lodging
-- **Margin of Safety**: -52% — ABSENT ($417 > IV $201 at 20x for 14% growth)
+- **Margin of Safety**: -52% — ABSENT ($416 > IV $201 at 20x for 14% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Aligned — 18.3% insider ownership
 - **Mr. Market**: Greedy — exercise caution

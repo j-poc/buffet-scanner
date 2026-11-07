@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AFL
-*Generated: 2026-11-06 11:57 | Price: $126.24 | Mkt Cap: $63B*
+*Generated: 2026-11-07 10:57 | Price: $124.06 | Mkt Cap: $61B*
 
 > ⚠ DATA: yfinance misclassified Japan Post Holdings Co., Ltd. (10.1% inst.) as insider
 
@@ -13,7 +13,7 @@ Financial Services / Insurance - Life
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.4x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.0x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -23,9 +23,9 @@ Financial Services / Insurance - Life
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.5/10 | 30% | 1.6 | ROE: 12.2% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 20% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 2.2% (low) | - |
-| Moat | 5.5/10 | 25% | 1.4 | ROE 12% — adequate (Financial Services); Operating margin 17% — thin for Financial Services | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 16.6x — fair price; 52w range position: 81%; Owner earnings yield: 9.8% (>5%); Earnings yield < 7% — tight vs index | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
+| Moat | 5.5/10 | 25% | 1.4 | ROE 12% — adequate (Financial Services); Operating margin 15% — thin for Financial Services | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 16.1x — fair price; 52w range position: 72%; Owner earnings yield: 10.1% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
 ## Buffett Score: 5.9 / 10
@@ -38,7 +38,7 @@ Financial Services / Insurance - Life
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Life
-- **Margin of Safety**: -19% — ABSENT ($126 > IV $103 at 15x for -80% growth)
+- **Margin of Safety**: -17% — ABSENT ($124 > IV $103 at 15x for -80% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

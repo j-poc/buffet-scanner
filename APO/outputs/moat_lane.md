@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APO
-*Generated: 2026-11-06 11:57 | Price: $117.27 | Mkt Cap: $69B*
+*Generated: 2026-11-07 10:57 | Price: $116.75 | Mkt Cap: $69B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -20,10 +20,10 @@ Financial Services / Asset Management
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.5/10 | 30% | 0.4 | ROE: 0.0% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 43% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Quality | 1.5/10 | 30% | 0.4 | ROE: 1.9% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 43% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 26.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 21.3% of shares (SBC concern) | - |
-| Moat | 4.0/10 | 25% | 1.0 | ROE 0% — weak (Financial Services); Operating margin -45% — thin for Financial Services | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.0x — deep value; 52w range position: 33% | - |
+| Moat | 4.0/10 | 25% | 1.0 | ROE 2% — weak (Financial Services); Operating margin -44% — thin for Financial Services | Weak pricing |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.0x — deep value; 52w range position: 32% | - |
 | **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
 ## Buffett Score: 5.6 / 10

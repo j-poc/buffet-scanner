@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EVRG
-*Generated: 2026-11-06 11:58 | Price: $87.41 | Mkt Cap: $20B*
+*Generated: 2026-11-07 10:58 | Price: $87.54 | Mkt Cap: $20B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric
@@ -11,7 +11,7 @@ Utilities / Utilities - Regulated Electric
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 5.8x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 5.4x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.2%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,8 +21,8 @@ Utilities / Utilities - Regulated Electric
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 4.6% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 30% (stable); FCF/NI: -56% (weak conversion); Gross margin: 53% (pricing power for Utilities) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 53% vs sector strong cutoff 40% — strong pricing power; Operating margin 25% — durable for Utilities | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -1.1% (low) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 53% vs sector strong cutoff 40% — strong pricing power; Operating margin 38% — durable for Utilities | - |
 | Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.2x — fair price; Near 52w high (88% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 

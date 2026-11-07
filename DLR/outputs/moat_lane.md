@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DLR
-*Generated: 2026-11-06 11:58 | Price: $174.67 | Mkt Cap: $66B*
+*Generated: 2026-11-07 10:58 | Price: $174.2 | Mkt Cap: $67B*
 
 ## Sector Context
 Real Estate / REIT - Specialty
@@ -21,12 +21,12 @@ Real Estate / REIT - Specialty
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 2.7% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 37% from prior peak; 5y price drawdown: 49% (moderate cyclicality); FCF/NI: 293% (strong); Gross margin: 57% (pricing power for Real Estate) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 3.3% (low) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.2% of shares (SBC concern) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 57% vs sector strong cutoff 55% — strong pricing power; Operating margin 17%; Rev growth 21% — demand pull | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 57.6x — extreme premium; 52w range position: 46%; Owner earnings yield: 6.0% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 57.4x — extreme premium; 52w range position: 45%; Owner earnings yield: 5.9% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
-## Buffett Score: 4.8 / 10
+## Buffett Score: 4.7 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Real Estate / REIT - Specialty
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Specialty
-- **Margin of Safety**: -66% — ABSENT ($175 > IV $59 at 25x for 25% growth)
+- **Margin of Safety**: -66% — ABSENT ($174 > IV $59 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

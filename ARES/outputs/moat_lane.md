@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ARES
-*Generated: 2026-11-06 11:57 | Price: $133.72 | Mkt Cap: $44B*
+*Generated: 2026-11-07 10:57 | Price: $133.98 | Mkt Cap: $44B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -23,7 +23,7 @@ Financial Services / Asset Management
 | Quality | 2.5/10 | 30% | 0.8 | ROE: 0.0% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 50% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 9.0/10 | 25% | 2.2 | Insider ownership: 11.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 1.9% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | ROE 0% — weak (Financial Services); Operating margin 3% — thin for Financial Services | Weak pricing |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.2x — fair price; 52w range position: 44%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.2x — fair price; 52w range position: 45%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
 ## Buffett Score: 5.7 / 10

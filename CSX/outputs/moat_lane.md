@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CSX
-*Generated: 2026-11-06 11:58 | Price: $50.83 | Mkt Cap: $94B*
+*Generated: 2026-11-07 10:58 | Price: $49.12 | Mkt Cap: $91B*
 
 ## Sector Context
 Industrials / Railroads
@@ -23,10 +23,10 @@ Industrials / Railroads
 | Quality | 2.1/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 13.8% (4y); Earnings: 3/3 down-years (unpredictable); 5y price drawdown: 29% (stable); FCF/NI: 77%; Gross margin: 48% (pricing power for Industrials) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 48% vs sector strong cutoff 35% — strong pricing power; Operating margin 39% — durable for Industrials | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 21.7x — growth premium; Near 52w high (86% of range) — Mr. Market greedy; Owner earnings yield: 2.6%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 21.0x — growth premium; 52w range position: 78%; Owner earnings yield: 2.7%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
-## Buffett Score: 4.9 / 10
+## Buffett Score: 5.1 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Industrials / Railroads
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Railroads
-- **Margin of Safety**: -6% — ABSENT ($51 > IV $48 at 25x for 25% growth)
+- **Margin of Safety**: -2% — ABSENT ($49 > IV $48 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: strong moat)

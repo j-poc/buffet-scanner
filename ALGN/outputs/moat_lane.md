@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALGN
-*Generated: 2026-11-06 11:57 | Price: $159.37 | Mkt Cap: $11B*
+*Generated: 2026-11-07 10:57 | Price: $166.0 | Mkt Cap: $12B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (6.2% inst.) as insider
 
@@ -23,9 +23,9 @@ Healthcare / Medical Instruments & Supplies
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.4/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 13.5% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 82% (severe cyclicality); FCF/NI: 120% (strong); Gross margin: 72% (pricing power for Healthcare) | ROIC declining |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.6% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.9% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 72% vs sector strong cutoff 55% — strong pricing power; Operating margin 20% — durable for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.9x — deep value; 52w range position: 42%; Owner earnings yield: 5.1% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.5x — deep value; 52w range position: 51%; Owner earnings yield: 4.9% | - |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10
@@ -38,7 +38,7 @@ Healthcare / Medical Instruments & Supplies
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Instruments & Supplies
-- **Margin of Safety**: 8% — thin (IV $172 at 25x)
+- **Margin of Safety**: 3% — thin (IV $172 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

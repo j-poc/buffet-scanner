@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STE
-*Generated: 2026-11-06 12:01 | Price: $254.12 | Mkt Cap: $25B*
+*Generated: 2026-11-07 11:03 | Price: $252.3 | Mkt Cap: $25B*
 
 ## Sector Context
 Healthcare / Medical Devices
@@ -11,7 +11,7 @@ Healthcare / Medical Devices
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.1x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.2x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.3%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,13 +20,13 @@ Healthcare / Medical Devices
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 7.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 36% (stable); FCF/NI: 195% (strong); Gross margin: 45% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
-| Moat | 7.5/10 | 25% | 1.9 | Gross margin 45% — moderate moat for Healthcare; Operating margin 20% — durable for Healthcare | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.6x — growth premium; 52w range position: 79%; Owner earnings yield: 3.5%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
+| Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 7.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 36% (stable); FCF/NI: 195% (strong); Gross margin: 44% | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 44% — moderate moat for Healthcare; Operating margin 19% | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.5x — growth premium; 52w range position: 77%; Owner earnings yield: 3.3%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
-## Buffett Score: 5.6 / 10
+## Buffett Score: 5.3 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Healthcare / Medical Devices
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Devices
-- **Margin of Safety**: -34% — ABSENT ($254 > IV $169 at 20x for 13% growth)
+- **Margin of Safety**: -33% — ABSENT ($252 > IV $169 at 20x for 13% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

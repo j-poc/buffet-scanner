@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NOW
-*Generated: 2026-11-06 12:00 | Price: $102.36 | Mkt Cap: $106B*
+*Generated: 2026-11-07 11:03 | Price: $101.97 | Mkt Cap: $106B*
 
 ## Sector Context
 Technology / Software - Application
@@ -23,7 +23,7 @@ Technology / Software - Application
 | Quality | 3.8/10 | 30% | 1.1 | Avg ROIC: 9.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 65% (severe cyclicality); FCF/NI: 330% (strong); Gross margin: 73% (pricing power for Technology) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 73% vs sector strong cutoff 60% — strong pricing power; Operating margin 17% — thin for Technology; Rev growth 20% — demand pull | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 21.3x — growth premium; Near 52w low (23% of range) — Mr. Market fearful; Owner earnings yield: 5.4% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 21.2x — growth premium; Near 52w low (22% of range) — Mr. Market fearful; Owner earnings yield: 5.4% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10

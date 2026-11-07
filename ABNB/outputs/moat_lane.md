@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ABNB
-*Generated: 2026-11-06 11:57 | Price: $170.13 | Mkt Cap: $102B*
+*Generated: 2026-11-07 10:57 | Price: $189.99 | Mkt Cap: $114B*
 
 ## Sector Context
 Consumer Cyclical / Travel Services
@@ -21,12 +21,12 @@ Consumer Cyclical / Travel Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.9/10 | 30% | 1.2 | Avg ROIC: 17.7% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 48% from prior peak; 5y price drawdown: 60% (severe cyclicality); FCF/NI: 154% (strong); Gross margin: 83% (pricing power for Consumer Cyclical) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.1% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.6% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 83% vs sector strong cutoff 45% — strong pricing power; Operating margin 42% — durable for Consumer Cyclical | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 27.4x — growth premium; 52w range position: 72%; Owner earnings yield: 3.1%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 30.3x — expensive; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 2.9%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
-## Buffett Score: 5.9 / 10
+## Buffett Score: 5.3 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Consumer Cyclical / Travel Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Travel Services
-- **Margin of Safety**: -35% — ABSENT ($170 > IV $110 at 25x for 25% growth)
+- **Margin of Safety**: -30% — ABSENT ($190 > IV $133 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 1.9% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (1 forces only: strong moat)

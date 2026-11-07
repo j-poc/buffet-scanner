@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MNST
-*Generated: 2026-11-06 12:00 | Price: $47.83 | Mkt Cap: $94B*
+*Generated: 2026-11-07 10:59 | Price: $45.72 | Mkt Cap: $90B*
 
 ## Sector Context
 Consumer Defensive / Beverages - Non-Alcoholic
@@ -23,11 +23,11 @@ Consumer Defensive / Beverages - Non-Alcoholic
 | Quality | 8.4/10 | 30% | 2.5 | Avg ROIC: 21.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 26% (stable); FCF/NI: 89% (strong); Gross margin: 55% (pricing power for Consumer Defensive) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 28.3% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 7.5% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 55% vs sector strong cutoff 45% — strong pricing power; Operating margin 28% — durable for Consumer Defensive | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 36.5x — expensive; Near 52w high (85% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 35.2x — expensive; 52w range position: 72%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **7.6/10** | **100%** | **7.6** | | |
 
-## Buffett Score: 7.4 / 10
-## Alpha Adjustment: +0.24
+## Buffett Score: 7.6 / 10
+## Alpha Adjustment: +0.26
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,10 +36,10 @@ Consumer Defensive / Beverages - Non-Alcoholic
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Beverages - Non-Alcoholic
-- **Margin of Safety**: -62% — ABSENT ($48 > IV $18 at 17x for 9% growth)
+- **Margin of Safety**: -59% — ABSENT ($46 > IV $19 at 17x for 9% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Aligned — 28.3% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (2 forces only: high quality, strong moat)
@@ -48,7 +48,7 @@ No (2 forces only: high quality, strong moat)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.24 applied to composite alpha score
+Buffett Premium: +0.26 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

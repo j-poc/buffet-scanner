@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MS
-*Generated: 2026-11-06 12:00 | Price: $182.44 | Mkt Cap: $286B*
+*Generated: 2026-11-07 10:59 | Price: $181.44 | Mkt Cap: $284B*
 
 > ⚠ DATA: yfinance misclassified Mitsubishi UFJ Financial Group Inc (23.9% inst.) as insider
 
@@ -22,16 +22,16 @@ Financial Services / Capital Markets
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.0/10 | 30% | 0.9 | ROE: 0.0% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 32% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 24.2% of shares (SBC concern) | - |
-| Moat | 5.5/10 | 25% | 1.4 | ROE 0% — weak (Financial Services); Operating margin 40% — durable for Financial Services | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.3x — deep value; 52w range position: 37% | - |
-| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
+| Quality | 7.0/10 | 30% | 2.1 | ROE: 18.0% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 32% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 24.3% of shares (SBC concern) | - |
+| Moat | 8.5/10 | 25% | 2.1 | ROE 18% — strong franchise (Financial Services); Operating margin 39% — durable for Financial Services | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.3x — deep value; 52w range position: 36% | - |
+| **TOTAL** | **7.1/10** | **100%** | **7.1** | | |
 
-## Buffett Score: 5.2 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 7.1 / 10
+## Alpha Adjustment: +0.21
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
@@ -39,18 +39,18 @@ Financial Services / Capital Markets
 
 - **Circle of Competence**: Financial Services / Capital Markets
 - **Margin of Safety**: 18% — thin (IV $214 at 17x)
-- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
+- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (1 forces only: attractive valuation)
+No (2 forces only: strong moat, attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
-Half-life adjustment: N/A
+Buffett Premium: +0.21 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

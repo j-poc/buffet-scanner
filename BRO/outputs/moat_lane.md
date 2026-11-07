@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BRO
-*Generated: 2026-11-06 11:57 | Price: $74.38 | Mkt Cap: $25B*
+*Generated: 2026-11-07 10:57 | Price: $72.12 | Mkt Cap: $24B*
 
 ## Sector Context
 Financial Services / Insurance Brokers
@@ -23,11 +23,11 @@ Financial Services / Insurance Brokers
 | Quality | 4.4/10 | 30% | 1.3 | ROE: 9.8% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 56% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 13.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 14.2% of shares (SBC concern) | - |
 | Moat | 4.5/10 | 25% | 1.1 | ROE 10% — weak (Financial Services); Operating margin 24% | Weak pricing |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.6x — fair price; 52w range position: 71%; Owner earnings yield: 4.9%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.2x — fair price; 52w range position: 64%; Owner earnings yield: 5.1% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
-## Buffett Score: 6.3 / 10
-## Alpha Adjustment: +0.13
+## Buffett Score: 6.5 / 10
+## Alpha Adjustment: +0.15
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Financial Services / Insurance Brokers
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance Brokers
-- **Margin of Safety**: -36% — ABSENT ($74 > IV $47 at 15x for -1% growth)
+- **Margin of Safety**: -34% — ABSENT ($72 > IV $47 at 15x for -1% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 13.4% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.13 applied to composite alpha score
+Buffett Premium: +0.15 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

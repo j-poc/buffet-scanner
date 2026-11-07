@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CRL
-*Generated: 2026-11-06 11:58 | Price: $313.02 | Mkt Cap: $15B*
+*Generated: 2026-11-07 10:58 | Price: $337.52 | Mkt Cap: $16B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research
@@ -23,20 +23,20 @@ Healthcare / Diagnostics & Research
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 5.4% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 130% from prior peak; 5y price drawdown: 75% (severe cyclicality); FCF/NI: 1162% (strong); Gross margin: 35% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 35% — moderate moat for Healthcare; Operating margin 23% — durable for Healthcare | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 24.6x — growth premium; 52w range position: 71%; Owner earnings yield: 3.0%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 26.3x — growth premium; 52w range position: 82%; Owner earnings yield: 2.7%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
-## Buffett Score: 4.1 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 4.0 / 10
+## Alpha Adjustment: -0.20
+## Conviction: AVOID
+## Verdict: Avoid
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Diagnostics & Research
-- **Margin of Safety**: -93% — ABSENT ($313 > IV $23 at 25x for 25% growth)
+- **Margin of Safety**: -93% — ABSENT ($338 > IV $23 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
+Buffett Premium: -0.20 applied to composite alpha score
+Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

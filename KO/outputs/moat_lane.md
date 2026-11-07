@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KO
-*Generated: 2026-11-06 11:58 | Price: $95.73 | Mkt Cap: $412B*
+*Generated: 2026-11-07 10:58 | Price: $95.67 | Mkt Cap: $412B*
 
 ## Sector Context
 Consumer Defensive / Beverages - Non-Alcoholic

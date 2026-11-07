@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MLM
-*Generated: 2026-11-06 11:59 | Price: $527.83 | Mkt Cap: $37B*
+*Generated: 2026-11-07 10:59 | Price: $518.15 | Mkt Cap: $37B*
 
 ## Sector Context
 Basic Materials / Building Materials
@@ -21,9 +21,9 @@ Basic Materials / Building Materials
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 9.5% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 43% from prior peak; 5y price drawdown: 33% (stable); FCF/NI: 63%; Gross margin: 27% | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 16.1% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 15.9% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 16.1% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 16.0% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 27% — moderate moat for Basic Materials; Operating margin 22% — durable for Basic Materials; Rev growth 28% — demand pull | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 24.9x — growth premium; Near 52w low (26% of range) — Mr. Market fearful; Owner earnings yield: 4.5%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 26.3x — growth premium; Near 52w low (22% of range) — Mr. Market fearful; Owner earnings yield: 4.5%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,7 +36,7 @@ Basic Materials / Building Materials
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Building Materials
-- **Margin of Safety**: -62% — ABSENT ($528 > IV $201 at 15x for -42% growth)
+- **Margin of Safety**: -61% — ABSENT ($518 > IV $201 at 15x for -42% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Aligned — 16.1% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

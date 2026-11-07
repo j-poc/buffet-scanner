@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FDXF
-*Generated: 2026-11-06 11:58 | Price: $124.41 | Mkt Cap: $19B*
+*Generated: 2026-11-07 10:58 | Price: $123.56 | Mkt Cap: $18B*
 
 ## Sector Context
 Industrials / Integrated Freight & Logistics
@@ -23,7 +23,7 @@ Industrials / Integrated Freight & Logistics
 | Quality | 1.5/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 51.2% (3y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 59% from prior peak; 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 48% (weak conversion); Gross margin: 29% | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 20.1% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 20.1% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 29% — moderate moat for Industrials; Operating margin 15% | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 24.2x — growth premium; Near 52w low (22% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 24.0x — growth premium; Near 52w low (21% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
 ## Buffett Score: 5.7 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TKO
-*Generated: 2026-11-06 12:01 | Price: $189.14 | Mkt Cap: $36B*
+*Generated: 2026-11-07 11:03 | Price: $191.0 | Mkt Cap: $36B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -21,9 +21,9 @@ Communication Services / Entertainment
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.5/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 6.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 98% from prior peak; 5y price drawdown: 35% (stable); FCF/NI: 1441% (strong); Gross margin: 60% (pricing power for Communication Services) | ROIC declining |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 18.5% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 19.1% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 18.5% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 18.3% of shares (SBC concern) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 60% vs sector strong cutoff 55% — strong pricing power; Operating margin 30% — durable for Communication Services; Rev growth 22% — demand pull | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 40.4x — expensive; 52w range position: 33%; Owner earnings yield: 2.3%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 38.4x — expensive; 52w range position: 37%; Owner earnings yield: 2.3%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
 ## Buffett Score: 5.4 / 10
@@ -36,7 +36,7 @@ Communication Services / Entertainment
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Entertainment
-- **Margin of Safety**: -51% — ABSENT ($189 > IV $93 at 25x for 25% growth)
+- **Margin of Safety**: -51% — ABSENT ($191 > IV $93 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Aligned — 18.5% insider ownership
 - **Mr. Market**: Neutral

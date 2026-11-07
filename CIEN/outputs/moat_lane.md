@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CIEN
-*Generated: 2026-11-06 11:58 | Price: $230.81 | Mkt Cap: $33B*
+*Generated: 2026-11-07 10:58 | Price: $243.39 | Mkt Cap: $35B*
 
 ## Sector Context
 Technology / Communication Equipment
@@ -23,10 +23,10 @@ Technology / Communication Equipment
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 5.2% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 67% from prior peak; 5y price drawdown: 63% (severe cyclicality); FCF/NI: 211% (strong); Gross margin: 44% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | Gross margin 44% — moderate moat for Technology; Operating margin 18%; Rev growth 37% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.5x — fair price; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 1.9%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 20.5x — growth premium; Near 52w low (16% of range) — Mr. Market fearful; Owner earnings yield: 1.8%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
-## Buffett Score: 5.3 / 10
+## Buffett Score: 4.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,13 +36,13 @@ Technology / Communication Equipment
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Communication Equipment
-- **Margin of Safety**: -52% — ABSENT ($231 > IV $112 at 25x for 25% growth)
-- **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
+- **Margin of Safety**: -54% — ABSENT ($243 > IV $112 at 25x for 25% growth)
+- **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-No (2 forces only: attractive valuation, secular growth)
+No (1 forces only: secular growth)
 
 ---
 

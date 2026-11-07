@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ROK
-*Generated: 2026-11-06 12:00 | Price: $381.05 | Mkt Cap: $42B*
+*Generated: 2026-11-07 11:03 | Price: $375.86 | Mkt Cap: $42B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
@@ -21,22 +21,22 @@ Industrials / Specialty Industrial Machinery
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.6/10 | 30% | 1.4 | Avg ROIC: 15.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 37% from prior peak; 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 96% (strong); Gross margin: 49% (pricing power for Industrials) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.9% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 49% vs sector strong cutoff 35% — strong pricing power; Operating margin 15% — durable for Industrials | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 22.9x — growth premium; Near 52w low (22% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Moat | 8.0/10 | 25% | 2.0 | Gross margin 49% vs sector strong cutoff 35% — strong pricing power; Operating margin 15% | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 22.4x — growth premium; Near 52w low (19% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
-## Buffett Score: 6.1 / 10
-## Alpha Adjustment: +0.11
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 5.9 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Industrial Machinery
-- **Margin of Safety**: -18% — ABSENT ($381 > IV $314 at 25x for 25% growth)
+- **Margin of Safety**: -17% — ABSENT ($376 > IV $314 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
@@ -48,7 +48,7 @@ No (1 forces only: strong moat)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.11 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
 ```

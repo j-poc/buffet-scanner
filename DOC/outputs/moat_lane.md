@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DOC
-*Generated: 2026-11-06 11:59 | Price: $20.12 | Mkt Cap: $14B*
+*Generated: 2026-11-07 10:59 | Price: $20.26 | Mkt Cap: $15B*
 
 ## Sector Context
 Real Estate / REIT - Healthcare Facilities
@@ -20,14 +20,14 @@ Real Estate / REIT - Healthcare Facilities
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.5/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 3.1% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 86% from prior peak; 5y price drawdown: 0% (stable); FCF/NI: 672% (strong); Gross margin: 56% (pricing power for Real Estate) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 3.1% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 86% from prior peak; 5y price drawdown: 54% (moderate cyclicality); FCF/NI: 672% (strong); Gross margin: 56% (pricing power for Real Estate) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 56% vs sector strong cutoff 55% — strong pricing power; Operating margin 13% — thin for Real Estate | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 143.7x — extreme premium; 52w range position: 61%; Owner earnings yield: 11.3% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.5/10** | **100%** | **3.5** | | |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 144.7x — extreme premium; 52w range position: 63%; Owner earnings yield: 11.0% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **3.4/10** | **100%** | **3.4** | | |
 
-## Buffett Score: 3.5 / 10
-## Alpha Adjustment: -0.24
+## Buffett Score: 3.4 / 10
+## Alpha Adjustment: -0.25
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -36,7 +36,7 @@ Real Estate / REIT - Healthcare Facilities
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Healthcare Facilities
-- **Margin of Safety**: -46% — ABSENT ($20 > IV $11 at 20x for 16% growth)
+- **Margin of Safety**: -47% — ABSENT ($20 > IV $11 at 20x for 16% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.24 applied to composite alpha score
+Buffett Premium: -0.25 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

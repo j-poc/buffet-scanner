@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CPT
-*Generated: 2026-11-06 11:57 | Price: $103.71 | Mkt Cap: $12B*
+*Generated: 2026-11-07 10:57 | Price: $99.44 | Mkt Cap: $12B*
 
 ## Sector Context
 Real Estate / REIT - Residential
@@ -21,13 +21,13 @@ Real Estate / REIT - Residential
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 5.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 75% from prior peak; 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 119% (strong); Gross margin: 62% (pricing power for Real Estate) | ROIC declining |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 13.4% of shares (SBC concern) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 13.6% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 62% vs sector strong cutoff 55% — strong pricing power; Operating margin 16% | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 138.3x — extreme premium; 52w range position: 34%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.5/10** | **100%** | **3.5** | | |
+| Valuation Fit | 3.0/10 | 20% | 0.6 | P/E 132.6x — extreme premium; Near 52w low (17% of range) — Mr. Market fearful; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 
-## Buffett Score: 3.5 / 10
-## Alpha Adjustment: -0.24
+## Buffett Score: 3.9 / 10
+## Alpha Adjustment: -0.21
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -36,10 +36,10 @@ Real Estate / REIT - Residential
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Residential
-- **Margin of Safety**: 158% — PRESENT (IV $268 vs $104 at 25x)
+- **Margin of Safety**: 169% — PRESENT (IV $268 vs $99 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 1.5% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (1 forces only: strong moat)
@@ -48,7 +48,7 @@ No (1 forces only: strong moat)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.24 applied to composite alpha score
+Buffett Premium: -0.21 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```
