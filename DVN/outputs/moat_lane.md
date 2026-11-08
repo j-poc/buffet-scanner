@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DVN
-*Generated: 2026-11-07 10:58 | Price: $42.21 | Mkt Cap: $46B*
+*Generated: 2026-11-08 11:11 | Price: $42.21 | Mkt Cap: $48B*
 
 ## Sector Context
 Energy / Oil & Gas E&P
@@ -21,9 +21,9 @@ Energy / Oil & Gas E&P
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.4/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 21.3% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 56% from prior peak; 5y price drawdown: 61% (severe cyclicality); FCF/NI: 51%; Gross margin: 53% (pricing power for Energy) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -3.0% (low) | - |
-| Moat | 9.5/10 | 25% | 2.4 | Gross margin 53% vs sector strong cutoff 30% — strong pricing power; Operating margin 20% — durable for Energy; Rev growth 82% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.9x — deep value; 52w range position: 48%; Owner earnings yield: 3.2% | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
+| Moat | 9.5/10 | 25% | 2.4 | Gross margin 53% vs sector strong cutoff 30% — strong pricing power; Operating margin 20% — durable for Energy; Rev growth 74% — demand pull | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.9x — deep value; 52w range position: 46%; Owner earnings yield: 2.8% | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10

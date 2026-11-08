@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TROW
-*Generated: 2026-11-07 11:03 | Price: $108.41 | Mkt Cap: $23B*
+*Generated: 2026-11-08 11:15 | Price: $108.41 | Mkt Cap: $23B*
 
 ## Sector Context
 Financial Services / Asset Management

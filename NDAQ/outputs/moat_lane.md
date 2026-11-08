@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NDAQ
-*Generated: 2026-11-07 10:59 | Price: $107.12 | Mkt Cap: $60B*
+*Generated: 2026-11-08 11:12 | Price: $107.12 | Mkt Cap: $60B*
 
 > ⚠ DATA: yfinance misclassified Investor AB (10.5% inst.) as insider
 

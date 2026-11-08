@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CL
-*Generated: 2026-11-07 10:58 | Price: $96.56 | Mkt Cap: $77B*
+*Generated: 2026-11-08 11:10 | Price: $96.56 | Mkt Cap: $77B*
 
 ## Sector Context
 Consumer Defensive / Household & Personal Products

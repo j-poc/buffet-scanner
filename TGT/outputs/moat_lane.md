@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TGT
-*Generated: 2026-11-07 11:03 | Price: $158.41 | Mkt Cap: $72B*
+*Generated: 2026-11-08 11:15 | Price: $158.41 | Mkt Cap: $72B*
 
 ## Sector Context
 Consumer Defensive / Discount Stores

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VZ
-*Generated: 2026-11-07 11:03 | Price: $45.69 | Mkt Cap: $189B*
+*Generated: 2026-11-08 11:16 | Price: $45.69 | Mkt Cap: $189B*
 
 ## Sector Context
 Communication Services / Telecom Services

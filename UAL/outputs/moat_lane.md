@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UAL
-*Generated: 2026-11-07 11:03 | Price: $112.74 | Mkt Cap: $37B*
+*Generated: 2026-11-08 11:16 | Price: $112.74 | Mkt Cap: $37B*
 
 ## Sector Context
 Industrials / Airlines

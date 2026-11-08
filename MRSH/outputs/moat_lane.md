@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MRSH
-*Generated: 2026-11-07 10:59 | Price: $204.82 | Mkt Cap: $97B*
+*Generated: 2026-11-08 11:12 | Price: $204.82 | Mkt Cap: $97B*
 
 ## Sector Context
 Financial Services / Insurance Brokers

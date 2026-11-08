@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AXON
-*Generated: 2026-11-07 10:57 | Price: $313.0 | Mkt Cap: $25B*
+*Generated: 2026-11-08 11:10 | Price: $313.0 | Mkt Cap: $25B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -11,7 +11,7 @@ Industrials / Aerospace & Defense
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 13.4x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 17.0x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 4.5%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -20,13 +20,13 @@ Industrials / Aerospace & Defense
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 5.7% (1y); Earnings: 1 down-year in 3 transitions; NI drawdown: 67% from prior peak; 5y price drawdown: 64% (severe cyclicality); FCF/NI: 86% (strong); Gross margin: 59% (pricing power for Industrials) | - |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 4.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 5.1% of shares (SBC concern) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 59% vs sector strong cutoff 35% — strong pricing power; Operating margin 5% — thin for Industrials; Rev growth 28% — demand pull | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 32.8x — expensive; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 0.4%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
+| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 5.7% (1y); Earnings: 1 down-year in 3 transitions; NI drawdown: 67% from prior peak; 5y price drawdown: 64% (severe cyclicality); FCF/NI: 86% (strong); Gross margin: 57% (pricing power for Industrials) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.8% (low) | - |
+| Moat | 8.0/10 | 25% | 2.0 | Gross margin 57% vs sector strong cutoff 35% — strong pricing power; Operating margin 5% — thin for Industrials; Rev growth 28% — demand pull | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 32.8x — expensive; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 0.3%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
-## Buffett Score: 5.2 / 10
+## Buffett Score: 5.3 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

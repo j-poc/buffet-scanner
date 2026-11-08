@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TECH
-*Generated: 2026-11-07 10:57 | Price: $72.78 | Mkt Cap: $11B*
+*Generated: 2026-11-08 11:10 | Price: $72.78 | Mkt Cap: $11B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -22,7 +22,7 @@ Healthcare / Biotechnology
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 7.7% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 74% from prior peak; 5y price drawdown: 66% (severe cyclicality); FCF/NI: 178% (strong); Gross margin: 66% (pricing power for Healthcare) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 66% vs sector strong cutoff 55% — strong pricing power; Operating margin 12% | - |
+| Moat | 8.0/10 | 25% | 2.0 | Gross margin 66% vs sector strong cutoff 55% — strong pricing power; Operating margin 13% | - |
 | Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 31.5x — expensive; Near 52w high (100% of range) — Mr. Market greedy; Owner earnings yield: 2.4%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.5/10** | **100%** | **3.5** | | |
 

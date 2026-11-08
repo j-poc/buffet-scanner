@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ROL
-*Generated: 2026-11-07 11:03 | Price: $37.95 | Mkt Cap: $18B*
+*Generated: 2026-11-08 11:15 | Price: $37.95 | Mkt Cap: $18B*
 
 ## Sector Context
 Consumer Cyclical / Personal Services

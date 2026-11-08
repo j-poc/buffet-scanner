@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TTWO
-*Generated: 2026-11-07 11:03 | Price: $214.87 | Mkt Cap: $40B*
+*Generated: 2026-11-08 11:15 | Price: $214.87 | Mkt Cap: $40B*
 
 ## Sector Context
 Communication Services / Electronic Gaming & Multimedia
