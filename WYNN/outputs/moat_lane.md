@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WYNN
-*Generated: 2026-11-08 11:16 | Price: $83.11 | Mkt Cap: $9B*
+*Generated: 2026-11-09 12:45 | Price: $83.11 | Mkt Cap: $9B*
 
 ## Sector Context
 Consumer Cyclical / Resorts & Casinos
@@ -23,7 +23,7 @@ Consumer Cyclical / Resorts & Casinos
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 6.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 55% from prior peak; 5y price drawdown: 47% (moderate cyclicality); FCF/NI: 153% (strong); Gross margin: 68% (pricing power for Consumer Cyclical) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 27.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 22.6% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 68% vs sector strong cutoff 45% — strong pricing power; Operating margin 12% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 18.5x — fair price; Near 52w low (19% of range) — Mr. Market fearful; Owner earnings yield: 4.4%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 18.8x — fair price; Near 52w low (19% of range) — Mr. Market fearful; Owner earnings yield: 4.4%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

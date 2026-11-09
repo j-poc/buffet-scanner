@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VRSN
-*Generated: 2026-11-08 11:16 | Price: $308.67 | Mkt Cap: $28B*
+*Generated: 2026-11-09 12:47 | Price: $308.67 | Mkt Cap: $28B*
 
 ## Sector Context
 Technology / Software - Infrastructure

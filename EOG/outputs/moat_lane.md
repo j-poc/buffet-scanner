@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EOG
-*Generated: 2026-11-08 11:11 | Price: $147.13 | Mkt Cap: $76B*
+*Generated: 2026-11-09 12:43 | Price: $147.13 | Mkt Cap: $76B*
 
 ## Sector Context
 Energy / Oil & Gas E&P

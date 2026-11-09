@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: REGN
-*Generated: 2026-11-08 11:13 | Price: $904.35 | Mkt Cap: $94B*
+*Generated: 2026-11-09 12:47 | Price: $904.35 | Mkt Cap: $94B*
 
 ## Sector Context
 Healthcare / Biotechnology

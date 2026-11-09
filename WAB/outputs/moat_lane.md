@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WAB
-*Generated: 2026-11-08 11:16 | Price: $283.59 | Mkt Cap: $48B*
+*Generated: 2026-11-09 12:47 | Price: $283.59 | Mkt Cap: $48B*
 
 ## Sector Context
 Industrials / Railroads

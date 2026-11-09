@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BEN
-*Generated: 2026-11-08 11:11 | Price: $33.73 | Mkt Cap: $17B*
+*Generated: 2026-11-09 12:43 | Price: $33.73 | Mkt Cap: $17B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -23,7 +23,7 @@ Financial Services / Asset Management
 | Quality | 3.6/10 | 30% | 1.1 | ROE: 10.5% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 45% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 48.7% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 42.9% of shares (SBC concern) | - |
 | Moat | 5.5/10 | 25% | 1.4 | ROE 11% — adequate (Financial Services); Operating margin 15% — thin for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.5x — deep value; 52w range position: 83% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.4x — deep value; 52w range position: 83% | - |
 | **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
 
 ## Buffett Score: 6.6 / 10

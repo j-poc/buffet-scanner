@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JBL
-*Generated: 2026-11-08 11:12 | Price: $239.09 | Mkt Cap: $25B*
+*Generated: 2026-11-09 12:43 | Price: $239.09 | Mkt Cap: $25B*
 
 ## Sector Context
 Technology / Electronic Components

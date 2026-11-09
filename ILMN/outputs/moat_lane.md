@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ILMN
-*Generated: 2026-11-08 11:11 | Price: $213.13 | Mkt Cap: $32B*
+*Generated: 2026-11-09 12:43 | Price: $213.13 | Mkt Cap: $32B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research

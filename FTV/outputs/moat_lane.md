@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FTV
-*Generated: 2026-11-08 11:11 | Price: $65.37 | Mkt Cap: $19B*
+*Generated: 2026-11-09 12:43 | Price: $65.37 | Mkt Cap: $19B*
 
 ## Sector Context
 Technology / Scientific & Technical Instruments

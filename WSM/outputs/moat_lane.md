@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WSM
-*Generated: 2026-11-08 11:16 | Price: $254.06 | Mkt Cap: $30B*
+*Generated: 2026-11-09 12:45 | Price: $254.06 | Mkt Cap: $30B*
 
 ## Sector Context
 Consumer Cyclical / Specialty Retail

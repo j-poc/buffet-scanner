@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BRK-B
-*Generated: 2026-11-08 11:10 | Price: $570.89 | Mkt Cap: $1222B*
+*Generated: 2026-11-09 12:42 | Price: $570.89 | Mkt Cap: $1222B*
 
 ## Sector Context
 Financial Services / Insurance - Diversified
@@ -11,7 +11,7 @@ Financial Services / Insurance - Diversified
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.0x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.1x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 14.0%; key-man / succession risk | 8% | -15% | No |
 
 ---
@@ -20,23 +20,23 @@ Financial Services / Insurance - Diversified
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.5/10 | 30% | 1.3 | ROE: 12.1% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 27% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Quality | 4.1/10 | 30% | 1.2 | ROE: 10.6% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 27% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider value: $171B (14.0%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 99.9% of shares (SBC concern) | - |
-| Moat | 7.0/10 | 25% | 1.8 | ROE 12% — adequate (Financial Services); Operating margin 33% — durable for Financial Services | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.5x — growth premium; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 5.9% (>5%); Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
+| Moat | 6.0/10 | 25% | 1.5 | ROE 11% — adequate (Financial Services); Operating margin 26% | - |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 25.5x — growth premium; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 4.7%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
-## Buffett Score: 6.3 / 10
-## Alpha Adjustment: +0.13
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 5.8 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Diversified
-- **Margin of Safety**: 74% — PRESENT (IV $994 vs $571 at 25x)
+- **Margin of Safety**: 39% — PRESENT (IV $795 vs $571 at 20x)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Aligned — 14.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.13 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
 ```

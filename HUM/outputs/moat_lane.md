@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HUM
-*Generated: 2026-11-08 11:11 | Price: $433.74 | Mkt Cap: $52B*
+*Generated: 2026-11-09 12:43 | Price: $433.74 | Mkt Cap: $52B*
 
 ## Sector Context
 Healthcare / Healthcare Plans
@@ -23,7 +23,7 @@ Healthcare / Healthcare Plans
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.8% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 58% from prior peak; 5y price drawdown: 70% (severe cyclicality); FCF/NI: 118% (strong); Gross margin: 13% (below Healthcare norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 13% — below Healthcare moderate cutoff 35%; Operating margin 0% — thin for Healthcare; Rev growth 26% — demand pull | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.4x — growth premium; Near 52w high (92% of range) — Mr. Market greedy; Owner earnings yield: 6.3% (>5%); Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.2x — growth premium; Near 52w high (92% of range) — Mr. Market greedy; Owner earnings yield: 6.3% (>5%); Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **3.1/10** | **100%** | **3.1** | | |
 
 ## Buffett Score: 3.1 / 10

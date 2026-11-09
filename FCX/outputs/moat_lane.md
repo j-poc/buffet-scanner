@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FCX
-*Generated: 2026-11-08 11:11 | Price: $59.42 | Mkt Cap: $85B*
+*Generated: 2026-11-09 12:43 | Price: $59.42 | Mkt Cap: $85B*
 
 ## Sector Context
 Basic Materials / Copper
@@ -23,7 +23,7 @@ Basic Materials / Copper
 | Quality | 6.3/10 | 30% | 1.9 | Avg ROIC: 20.5% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 47% from prior peak; 5y price drawdown: 51% (moderate cyclicality); FCF/NI: 62%; Gross margin: 39% (pricing power for Basic Materials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 39% vs sector strong cutoff 30% — strong pricing power; Operating margin 35% — durable for Basic Materials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.0x — deep value; 52w range position: 50%; Owner earnings yield: 2.2% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.9x — deep value; 52w range position: 50%; Owner earnings yield: 2.2% | - |
 | **TOTAL** | **7.1/10** | **100%** | **7.1** | | |
 
 ## Buffett Score: 7.1 / 10

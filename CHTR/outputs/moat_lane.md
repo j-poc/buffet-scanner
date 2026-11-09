@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CHTR
-*Generated: 2026-11-08 11:10 | Price: $118.07 | Mkt Cap: $15B*
+*Generated: 2026-11-09 12:42 | Price: $118.07 | Mkt Cap: $21B*
 
 ## Sector Context
 Communication Services / Telecom Services
@@ -23,7 +23,7 @@ Communication Services / Telecom Services
 | Quality | 1.7/10 | 30% | 0.5 | Avg ROIC: 8.8% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 85% (severe cyclicality); FCF/NI: 83% (strong); Gross margin: 55% (pricing power for Communication Services) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.4% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 55% vs sector strong cutoff 55% — strong pricing power; Operating margin 22% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 2.5x — deep value; Near 52w low (11% of range) — Mr. Market fearful; Owner earnings yield: 21.1% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 2.8x — deep value; Near 52w low (11% of range) — Mr. Market fearful; Owner earnings yield: 15.3% (>5%) | - |
 | **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
 ## Buffett Score: 5.9 / 10

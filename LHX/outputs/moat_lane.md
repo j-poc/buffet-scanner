@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LHX
-*Generated: 2026-11-08 11:12 | Price: $259.89 | Mkt Cap: $48B*
+*Generated: 2026-11-09 12:43 | Price: $259.89 | Mkt Cap: $48B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -23,7 +23,7 @@ Industrials / Aerospace & Defense
 | Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 5.3% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 38% (stable); FCF/NI: 156% (strong); Gross margin: 26% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 26% — moderate moat for Industrials; Operating margin 14% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.0x — fair price; Near 52w low (19% of range) — Mr. Market fearful; Owner earnings yield: 7.1% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.1x — fair price; Near 52w low (19% of range) — Mr. Market fearful; Owner earnings yield: 7.1% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
 
 ## Buffett Score: 6.1 / 10

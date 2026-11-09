@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ROK
-*Generated: 2026-11-08 11:13 | Price: $375.86 | Mkt Cap: $42B*
+*Generated: 2026-11-09 12:47 | Price: $375.86 | Mkt Cap: $42B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
@@ -20,13 +20,13 @@ Industrials / Specialty Industrial Machinery
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.1/10 | 30% | 1.5 | Avg ROIC: 15.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 37% from prior peak; FCF/NI: 96% (strong); Gross margin: 49% (pricing power for Industrials) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); No insider transaction data; Restricted stock: 0.3% (low) | - |
+| Quality | 4.6/10 | 30% | 1.4 | Avg ROIC: 15.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 37% from prior peak; 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 96% (strong); Gross margin: 49% (pricing power for Industrials) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 49% vs sector strong cutoff 35% — strong pricing power; Operating margin 15% | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 22.4x — growth premium; Near 52w low (19% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 22.5x — growth premium; Near 52w low (19% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
-## Buffett Score: 6.0 / 10
+## Buffett Score: 5.9 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AIZ
-*Generated: 2026-11-08 11:10 | Price: $307.0 | Mkt Cap: $15B*
+*Generated: 2026-11-09 12:42 | Price: $307.0 | Mkt Cap: $15B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty
@@ -23,7 +23,7 @@ Financial Services / Insurance - Property & Casualty
 | Quality | 7.5/10 | 30% | 2.2 | ROE: 18.3% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 45% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 18% — strong franchise (Financial Services); Operating margin 11% — thin for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.8x — deep value; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 16.8% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.6x — deep value; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 16.8% (>5%) | - |
 | **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
 
 ## Buffett Score: 7.0 / 10

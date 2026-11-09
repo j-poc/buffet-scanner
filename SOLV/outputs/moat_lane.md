@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SOLV
-*Generated: 2026-11-08 11:15 | Price: $90.38 | Mkt Cap: $15B*
+*Generated: 2026-11-09 12:47 | Price: $90.38 | Mkt Cap: $15B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies
@@ -23,7 +23,7 @@ Healthcare / Medical Instruments & Supplies
 | Quality | 4.7/10 | 30% | 1.4 | Avg ROIC: 11.5% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 64% from prior peak; 5y price drawdown: 40% (stable); FCF/NI: 99% (strong); Gross margin: 54% | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 15.3% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 15.5% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 54% — moderate moat for Healthcare; Operating margin 5% — thin for Healthcare | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 12.2x — deep value; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 1.2% | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 12.1x — deep value; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 1.2% | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
