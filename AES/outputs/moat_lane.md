@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AES
-*Generated: 2026-11-09 12:42 | Price: $14.87 | Mkt Cap: $11B*
+*Generated: 2026-11-10 12:22 | Price: $14.9 | Mkt Cap: $11B*
 
 ## Sector Context
 Utilities / Utilities - Diversified
@@ -23,7 +23,7 @@ Utilities / Utilities - Diversified
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: 4.0% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 46% from prior peak; 5y price drawdown: 63% (severe cyclicality); FCF/NI: -500% (weak conversion); Gross margin: 21% (below Utilities norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 5.0/10 | 25% | 1.2 | Gross margin 21% — below Utilities moderate cutoff 25%; Operating margin 24% — durable for Utilities | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.2x — deep value; 52w range position: 36% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.3x — deep value; 52w range position: 37% | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10

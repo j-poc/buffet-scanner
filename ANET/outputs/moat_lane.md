@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ANET
-*Generated: 2026-11-09 12:42 | Price: $170.8 | Mkt Cap: $216B*
+*Generated: 2026-11-10 12:22 | Price: $186.17 | Mkt Cap: $235B*
 
 ## Sector Context
 Technology / Computer Hardware
@@ -23,20 +23,20 @@ Technology / Computer Hardware
 | Quality | 9.4/10 | 30% | 2.8 | Avg ROIC: 24.3% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 95% (strong); Gross margin: 63% (pricing power for Technology) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 17.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 16.7% of shares (SBC concern) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 63% vs sector strong cutoff 60% — strong pricing power; Operating margin 45% — durable for Technology; Rev growth 58% — demand pull | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 28.5x — growth premium; 52w range position: 55%; Owner earnings yield: 1.4%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **8.4/10** | **100%** | **8.4** | | |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 30.9x — expensive; 52w range position: 70%; Owner earnings yield: 1.3%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **8.0/10** | **100%** | **8.0** | | |
 
-## Buffett Score: 8.4 / 10
-## Alpha Adjustment: +0.40
-## Conviction: HIGH
-## Verdict: Own Forever
+## Buffett Score: 8.0 / 10
+## Alpha Adjustment: +0.30
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Computer Hardware
-- **Margin of Safety**: -45% — ABSENT ($171 > IV $93 at 25x for 25% growth)
+- **Margin of Safety**: -50% — ABSENT ($186 > IV $93 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, secular growth
 - **Incentive-Caused Bias**: Aligned — 17.2% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ YES — 3 forces aligning: high quality, strong moat, secular growth
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.40 applied to composite alpha score
-Conviction Gate: HIGH — Proceed
-Half-life adjustment: None
+Buffett Premium: +0.30 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

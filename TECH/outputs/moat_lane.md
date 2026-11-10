@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TECH
-*Generated: 2026-11-09 12:42 | Price: $72.78 | Mkt Cap: $11B*
+*Generated: 2026-11-10 12:22 | Price: $72.83 | Mkt Cap: $11B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -36,7 +36,7 @@ Healthcare / Biotechnology
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Biotechnology
-- **Margin of Safety**: -76% — ABSENT ($73 > IV $17 at 15x for -25% growth)
+- **Margin of Safety**: -78% — ABSENT ($73 > IV $16 at 15x for -25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Greedy — exercise caution
