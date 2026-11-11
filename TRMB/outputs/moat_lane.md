@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TRMB
-*Generated: 2026-11-10 12:28 | Price: $54.68 | Mkt Cap: $13B*
+*Generated: 2026-11-11 11:51 | Price: $54.75 | Mkt Cap: $13B*
 
 ## Sector Context
 Technology / Scientific & Technical Instruments

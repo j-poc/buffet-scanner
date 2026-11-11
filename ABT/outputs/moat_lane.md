@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ABT
-*Generated: 2026-11-10 12:22 | Price: $110.51 | Mkt Cap: $191B*
+*Generated: 2026-11-11 11:45 | Price: $110.46 | Mkt Cap: $191B*
 
 ## Sector Context
 Healthcare / Medical Devices
@@ -36,7 +36,7 @@ Healthcare / Medical Devices
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Devices
-- **Margin of Safety**: -64% — ABSENT ($111 > IV $40 at 15x for -44% growth)
+- **Margin of Safety**: -64% — ABSENT ($110 > IV $40 at 15x for -44% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral

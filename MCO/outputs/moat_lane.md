@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MCO
-*Generated: 2026-11-10 12:25 | Price: $511.08 | Mkt Cap: $88B*
+*Generated: 2026-11-11 11:48 | Price: $510.71 | Mkt Cap: $88B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges
@@ -12,7 +12,7 @@ Financial Services / Financial Data & Stock Exchanges
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.9x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 14.4%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 14.5%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -21,7 +21,7 @@ Financial Services / Financial Data & Stock Exchanges
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 7.5/10 | 30% | 2.2 | ROE: 76.7% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 41% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 14.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 8.5% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 14.5% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 8.5% of shares (SBC concern) | - |
 | Moat | 8.5/10 | 25% | 2.1 | ROE 77% — strong franchise (Financial Services); Operating margin 46% — durable for Financial Services | - |
 | Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 27.4x — growth premium; 52w range position: 75%; Owner earnings yield: 2.9%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **7.6/10** | **100%** | **7.6** | | |
@@ -38,7 +38,7 @@ Financial Services / Financial Data & Stock Exchanges
 - **Circle of Competence**: Financial Services / Financial Data & Stock Exchanges
 - **Margin of Safety**: -36% — ABSENT ($511 > IV $328 at 20x for 18% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
-- **Incentive-Caused Bias**: Aligned — 14.4% insider ownership
+- **Incentive-Caused Bias**: Aligned — 14.5% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LUV
-*Generated: 2026-11-10 12:28 | Price: $46.3 | Mkt Cap: $23B*
+*Generated: 2026-11-11 11:49 | Price: $46.32 | Mkt Cap: $23B*
 
 ## Sector Context
 Industrials / Airlines
