@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BEN
-*Generated: 2026-11-11 11:47 | Price: $36.29 | Mkt Cap: $19B*
+*Generated: 2026-11-12 12:26 | Price: $36.3 | Mkt Cap: $19B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -11,7 +11,7 @@ Financial Services / Asset Management
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.3x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.0x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 48.4%; key-man / succession risk | 8% | -15% | No |
 
 ---
@@ -20,9 +20,9 @@ Financial Services / Asset Management
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.6/10 | 30% | 1.4 | ROE: 10.5% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 45% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 48.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 42.5% of shares (SBC concern) | - |
-| Moat | 5.5/10 | 25% | 1.4 | ROE 11% — adequate (Financial Services); Operating margin 15% — thin for Financial Services | - |
+| Quality | 4.6/10 | 30% | 1.4 | ROE: 10.4% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 45% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 48.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 42.7% of shares (SBC concern) | - |
+| Moat | 5.5/10 | 25% | 1.4 | ROE 10% — adequate (Financial Services); Operating margin 17% — thin for Financial Services | - |
 | Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 10.0x — deep value; Near 52w high (97% of range) — Mr. Market greedy | - |
 | **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
 

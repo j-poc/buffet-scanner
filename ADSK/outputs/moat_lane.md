@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ADSK
-*Generated: 2026-11-11 11:46 | Price: $260.11 | Mkt Cap: $54B*
+*Generated: 2026-11-12 12:25 | Price: $260.01 | Mkt Cap: $54B*
 
 ## Sector Context
 Technology / Software - Application
@@ -22,7 +22,7 @@ Technology / Software - Application
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 9.2/10 | 30% | 2.8 | Avg ROIC: 23.2% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 51% (moderate cyclicality); FCF/NI: 183% (strong); Gross margin: 93% (pricing power for Technology) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 93% vs sector strong cutoff 60% — strong pricing power; Operating margin 29% | - |
+| Moat | 8.0/10 | 25% | 2.0 | Gross margin 93% vs sector strong cutoff 60% — strong pricing power; Operating margin 28% | - |
 | Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 18.3x — fair price; 52w range position: 55%; Owner earnings yield: 5.8% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.7/10** | **100%** | **7.7** | | |
 

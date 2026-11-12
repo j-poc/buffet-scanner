@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VST
-*Generated: 2026-11-11 11:52 | Price: $131.18 | Mkt Cap: $45B*
+*Generated: 2026-11-12 12:31 | Price: $133.45 | Mkt Cap: $45B*
 
 ## Sector Context
 Utilities / Utilities - Independent Power Producers
@@ -22,8 +22,8 @@ Utilities / Utilities - Independent Power Producers
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 7.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 64% from prior peak; 5y price drawdown: 49% (moderate cyclicality); FCF/NI: 138% (strong); Gross margin: 42% (pricing power for Utilities) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.7% of shares (SBC concern) | - |
-| Moat | 9.5/10 | 25% | 2.4 | Gross margin 42% vs sector strong cutoff 40% — strong pricing power; Operating margin 31% — durable for Utilities; Rev growth 28% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.7x — deep value; Near 52w low (26% of range) — Mr. Market fearful; Owner earnings yield: 2.0% | - |
+| Moat | 9.5/10 | 25% | 2.4 | Gross margin 42% vs sector strong cutoff 40% — strong pricing power; Operating margin 23% — durable for Utilities; Rev growth 28% — demand pull | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.9x — deep value; Near 52w low (29% of range) — Mr. Market fearful; Owner earnings yield: 2.0% | - |
 | **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
 ## Buffett Score: 6.5 / 10
@@ -36,7 +36,7 @@ Utilities / Utilities - Independent Power Producers
 ## Mental Models Applied
 
 - **Circle of Competence**: Utilities / Utilities - Independent Power Producers
-- **Margin of Safety**: 41% — PRESENT (IV $185 vs $131 at 25x)
+- **Margin of Safety**: 39% — PRESENT (IV $185 vs $133 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

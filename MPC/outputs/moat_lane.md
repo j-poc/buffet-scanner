@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MPC
-*Generated: 2026-11-11 11:48 | Price: $389.55 | Mkt Cap: $106B*
+*Generated: 2026-11-12 12:27 | Price: $402.84 | Mkt Cap: $110B*
 
 ## Sector Context
 Energy / Oil & Gas Refining & Marketing
@@ -22,11 +22,11 @@ Energy / Oil & Gas Refining & Marketing
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.3/10 | 30% | 0.7 | ROIC declining trend; Avg ROIC: 20.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 76% from prior peak; 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 130% (strong); Gross margin: 16% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 16% — moderate moat for Energy; Operating margin 18% — durable for Energy; Rev growth 61% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.3x — deep value; 52w range position: 69%; Owner earnings yield: 15.3% (>5%) | - |
-| **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
+| Moat | 7.0/10 | 25% | 1.8 | Gross margin 16% — moderate moat for Energy; Operating margin 12%; Rev growth 61% — demand pull | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.6x — deep value; 52w range position: 73%; Owner earnings yield: 14.8% (>5%) | - |
+| **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
-## Buffett Score: 5.7 / 10
+## Buffett Score: 5.4 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,13 +36,13 @@ Energy / Oil & Gas Refining & Marketing
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Refining & Marketing
-- **Margin of Safety**: 224% — PRESENT (IV $1262 vs $390 at 25x)
-- **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
+- **Margin of Safety**: 213% — PRESENT (IV $1262 vs $403 at 25x)
+- **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-YES — 3 forces aligning: strong moat, attractive valuation, secular growth
+No (2 forces only: attractive valuation, secular growth)
 
 ---
 

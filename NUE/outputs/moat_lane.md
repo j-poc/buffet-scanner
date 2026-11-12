@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NUE
-*Generated: 2026-11-11 11:48 | Price: $256.47 | Mkt Cap: $58B*
+*Generated: 2026-11-12 12:27 | Price: $261.39 | Mkt Cap: $59B*
 
 ## Sector Context
 Basic Materials / Steel
@@ -21,12 +21,12 @@ Basic Materials / Steel
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.3/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 17.2% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 77% from prior peak; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 61%; Gross margin: 17% (below Basic Materials norm) | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.7% (low) | - |
-| Moat | 5.5/10 | 25% | 1.4 | Gross margin 17% — below Basic Materials moderate cutoff 18%; Operating margin 17% — durable for Basic Materials; Rev growth 32% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.6x — deep value; 52w range position: 78%; Owner earnings yield: 2.6% | - |
-| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.5% (low) | - |
+| Moat | 4.5/10 | 25% | 1.1 | Gross margin 17% — below Basic Materials moderate cutoff 18%; Operating margin 13%; Rev growth 32% — demand pull | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.9x — deep value; 52w range position: 82%; Owner earnings yield: 2.6% | - |
+| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
-## Buffett Score: 4.8 / 10
+## Buffett Score: 4.6 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Basic Materials / Steel
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Steel
-- **Margin of Safety**: 53% — PRESENT (IV $392 vs $256 at 25x)
+- **Margin of Safety**: 50% — PRESENT (IV $392 vs $261 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 1.2% insider ownership
 - **Mr. Market**: Neutral

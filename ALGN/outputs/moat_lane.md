@@ -1,7 +1,7 @@
 # Buffett/Munger Moat Lane: ALGN
-*Generated: 2026-11-11 11:45 | Price: $174.26 | Mkt Cap: $12B*
+*Generated: 2026-11-12 12:24 | Price: $172.08 | Mkt Cap: $12B*
 
-> ⚠ DATA: yfinance misclassified Blackrock Inc. (6.3% inst.) as insider
+> ⚠ DATA: yfinance misclassified FMR, LLC (7.8% inst.) as insider
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies
@@ -24,11 +24,11 @@ Healthcare / Medical Instruments & Supplies
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.4/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 13.5% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 82% (severe cyclicality); FCF/NI: 120% (strong); Gross margin: 72% (pricing power for Healthcare) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.0% of shares (SBC concern) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 72% vs sector strong cutoff 55% — strong pricing power; Operating margin 20% — durable for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.2x — deep value; 52w range position: 63%; Owner earnings yield: 4.7% | - |
-| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
+| Moat | 8.0/10 | 25% | 2.0 | Gross margin 72% vs sector strong cutoff 55% — strong pricing power; Operating margin 20% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.0x — deep value; 52w range position: 60%; Owner earnings yield: 4.7% | - |
+| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
-## Buffett Score: 5.5 / 10
+## Buffett Score: 5.3 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,7 +38,7 @@ Healthcare / Medical Instruments & Supplies
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Instruments & Supplies
-- **Margin of Safety**: -2% — ABSENT ($174 > IV $172 at 25x for 25% growth)
+- **Margin of Safety**: -0% — ABSENT ($172 > IV $172 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

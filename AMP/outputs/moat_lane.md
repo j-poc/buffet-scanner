@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMP
-*Generated: 2026-11-11 11:45 | Price: $519.96 | Mkt Cap: $45B*
+*Generated: 2026-11-12 12:25 | Price: $520.06 | Mkt Cap: $45B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -22,7 +22,7 @@ Financial Services / Asset Management
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 7.0/10 | 30% | 2.1 | ROE: 72.0% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 32% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
-| Moat | 8.5/10 | 25% | 2.1 | ROE 72% — strong franchise (Financial Services); Operating margin 36% — durable for Financial Services | - |
+| Moat | 8.5/10 | 25% | 2.1 | ROE 72% — strong franchise (Financial Services); Operating margin 35% — durable for Financial Services | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.1x — deep value; 52w range position: 65%; Owner earnings yield: 7.0% (>5%) | - |
 | **TOTAL** | **7.2/10** | **100%** | **7.2** | | |
 

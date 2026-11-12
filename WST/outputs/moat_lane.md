@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WST
-*Generated: 2026-11-11 11:52 | Price: $412.55 | Mkt Cap: $29B*
+*Generated: 2026-11-12 12:31 | Price: $412.86 | Mkt Cap: $29B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies
@@ -22,7 +22,7 @@ Healthcare / Medical Instruments & Supplies
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.3/10 | 30% | 0.7 | ROIC declining trend; Avg ROIC: 16.8% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 59% (severe cyclicality); FCF/NI: 74%; Gross margin: 38% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
-| Moat | 7.5/10 | 25% | 1.9 | Gross margin 38% — moderate moat for Healthcare; Operating margin 25% — durable for Healthcare | - |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 38% — moderate moat for Healthcare; Operating margin 23% — durable for Healthcare | - |
 | Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 39.7x — expensive; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 1.2%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
 

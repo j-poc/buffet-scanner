@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DASH
-*Generated: 2026-11-11 11:47 | Price: $178.25 | Mkt Cap: $78B*
+*Generated: 2026-11-12 12:26 | Price: $178.26 | Mkt Cap: $78B*
 
 ## Sector Context
 Consumer Cyclical / Internet Retail
@@ -22,7 +22,7 @@ Consumer Cyclical / Internet Retail
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: -3.7% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 82% (severe cyclicality); FCF/NI: 354% (strong); Gross margin: 53% (pricing power for Consumer Cyclical) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
-| Moat | 8.5/10 | 25% | 2.1 | Gross margin 53% vs sector strong cutoff 45% — strong pricing power; Operating margin 10%; Rev growth 34% — demand pull | - |
+| Moat | 8.5/10 | 25% | 2.1 | Gross margin 53% vs sector strong cutoff 45% — strong pricing power; Operating margin 6%; Rev growth 34% — demand pull | - |
 | Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 23.4x — growth premium; 52w range position: 37%; Owner earnings yield: 8.2% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 

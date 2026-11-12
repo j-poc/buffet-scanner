@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ETN
-*Generated: 2026-11-11 11:47 | Price: $354.22 | Mkt Cap: $138B*
+*Generated: 2026-11-12 12:26 | Price: $360.62 | Mkt Cap: $140B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
@@ -20,10 +20,10 @@ Industrials / Specialty Industrial Machinery
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 7.4/10 | 30% | 2.2 | Avg ROIC: 12.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 0% (stable); FCF/NI: 87% (strong); Gross margin: 35% (pricing power for Industrials) | - |
+| Quality | 7.4/10 | 30% | 2.2 | Avg ROIC: 12.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 34% (stable); FCF/NI: 87% (strong); Gross margin: 35% (pricing power for Industrials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 35% vs sector strong cutoff 35% — strong pricing power; Operating margin 18% — durable for Industrials; Rev growth 28% — demand pull | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 21.5x — growth premium; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 2.2%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 21.9x — growth premium; Near 52w low (29% of range) — Mr. Market fearful; Owner earnings yield: 2.2%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.1/10** | **100%** | **7.1** | | |
 
 ## Buffett Score: 7.1 / 10
@@ -36,7 +36,7 @@ Industrials / Specialty Industrial Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Industrial Machinery
-- **Margin of Safety**: -52% — ABSENT ($354 > IV $170 at 17x for 7% growth)
+- **Margin of Safety**: -53% — ABSENT ($361 > IV $170 at 17x for 7% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

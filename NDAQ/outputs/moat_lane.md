@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NDAQ
-*Generated: 2026-11-11 11:48 | Price: $110.02 | Mkt Cap: $61B*
+*Generated: 2026-11-12 12:27 | Price: $109.68 | Mkt Cap: $61B*
 
 > ⚠ DATA: yfinance misclassified Investor AB (10.5% inst.) as insider
 
@@ -24,8 +24,8 @@ Financial Services / Financial Data & Stock Exchanges
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.8/10 | 30% | 2.0 | ROE: 17.3% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 33% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 11.9% of shares (SBC concern) | - |
-| Moat | 8.5/10 | 25% | 2.1 | ROE 17% — strong franchise (Financial Services); Operating margin 51% — durable for Financial Services | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 23.2x — growth premium; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 3.3%; Earnings yield < 7% — tight vs index | - |
+| Moat | 8.5/10 | 25% | 2.1 | ROE 17% — strong franchise (Financial Services); Operating margin 49% — durable for Financial Services | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 23.1x — growth premium; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 3.3%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

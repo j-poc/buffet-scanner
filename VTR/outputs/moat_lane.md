@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VTR
-*Generated: 2026-11-11 11:52 | Price: $90.34 | Mkt Cap: $48B*
+*Generated: 2026-11-12 12:31 | Price: $90.42 | Mkt Cap: $48B*
 
 ## Sector Context
 Real Estate / REIT - Healthcare Facilities
@@ -22,12 +22,12 @@ Real Estate / REIT - Healthcare Facilities
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 2.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 42% (moderate cyclicality); FCF/NI: -319% (weak conversion); Gross margin: 39% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
-| Moat | 7.0/10 | 25% | 1.8 | Gross margin 39% — moderate moat for Real Estate; Operating margin 15%; Rev growth 22% — demand pull | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 130.0x — extreme premium; 52w range position: 59%; Owner earnings yield: 3.1%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 39% — moderate moat for Real Estate; Operating margin 15% — thin for Real Estate; Rev growth 22% — demand pull | - |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 130.1x — extreme premium; 52w range position: 60%; Owner earnings yield: 3.1%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
 
-## Buffett Score: 4.0 / 10
-## Alpha Adjustment: -0.20
+## Buffett Score: 3.8 / 10
+## Alpha Adjustment: -0.22
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -48,7 +48,7 @@ No (1 forces only: secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.20 applied to composite alpha score
+Buffett Premium: -0.22 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

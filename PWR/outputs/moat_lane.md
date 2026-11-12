@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PWR
-*Generated: 2026-11-11 11:49 | Price: $583.14 | Mkt Cap: $88B*
+*Generated: 2026-11-12 12:28 | Price: $607.94 | Mkt Cap: $92B*
 
 ## Sector Context
 Industrials / Engineering & Construction
@@ -22,11 +22,11 @@ Industrials / Engineering & Construction
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.7/10 | 30% | 1.4 | Avg ROIC: 8.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 35% (stable); FCF/NI: 154% (strong); Gross margin: 16% (below Industrials norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
-| Moat | 4.5/10 | 25% | 1.1 | Gross margin 16% — below Industrials moderate cutoff 22%; Operating margin 9%; Rev growth 57% — demand pull | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 26.9x — growth premium; 52w range position: 46%; Owner earnings yield: 3.5%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
+| Moat | 4.0/10 | 25% | 1.0 | Gross margin 16% — below Industrials moderate cutoff 22%; Operating margin 7% — thin for Industrials; Rev growth 57% — demand pull | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 28.0x — growth premium; 52w range position: 52%; Owner earnings yield: 3.4%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
-## Buffett Score: 4.6 / 10
+## Buffett Score: 4.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Industrials / Engineering & Construction
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Engineering & Construction
-- **Margin of Safety**: -53% — ABSENT ($583 > IV $276 at 25x for 25% growth)
+- **Margin of Safety**: -55% — ABSENT ($608 > IV $276 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Neutral

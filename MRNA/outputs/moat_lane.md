@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MRNA
-*Generated: 2026-11-11 11:48 | Price: $250.83 | Mkt Cap: $101B*
+*Generated: 2026-11-12 12:27 | Price: $248.69 | Mkt Cap: $101B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.6% inst.) as insider
 
@@ -24,11 +24,11 @@ Healthcare / Biotechnology
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -8.7% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 156% from prior peak; 5y price drawdown: 94% (severe cyclicality); FCF/NI: 81% (strong); Gross margin: -42% (below Healthcare norm) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.7% of shares (SBC concern) | - |
-| Moat | 4.5/10 | 25% | 1.1 | Gross margin -42% — below Healthcare moderate cutoff 35%; Operating margin 10%; Rev growth 29% — demand pull | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E -58.7x — deep value; Near 52w high (88% of range) — Mr. Market greedy | - |
-| **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
+| Moat | 4.0/10 | 25% | 1.0 | Gross margin -42% — below Healthcare moderate cutoff 35%; Operating margin -81% — thin for Healthcare; Rev growth 29% — demand pull | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E -59.3x — deep value; Near 52w high (88% of range) — Mr. Market greedy | - |
+| **TOTAL** | **3.7/10** | **100%** | **3.7** | | |
 
-## Buffett Score: 3.8 / 10
+## Buffett Score: 3.7 / 10
 ## Alpha Adjustment: -0.22
 ## Conviction: AVOID
 ## Verdict: Avoid

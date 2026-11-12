@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BE
-*Generated: 2026-11-11 11:46 | Price: $185.42 | Mkt Cap: $55B*
+*Generated: 2026-11-12 12:25 | Price: $209.47 | Mkt Cap: $62B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (6.2% inst.) as insider
 
@@ -24,12 +24,12 @@ Industrials / Electrical Equipment & Parts
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: -9.5% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 75% (severe cyclicality); FCF/NI: 19% (weak conversion); Gross margin: 32% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.7% (low) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 32% — moderate moat for Industrials; Operating margin 18% — durable for Industrials; Rev growth 138% — demand pull | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 34.8x — expensive; 52w range position: 40%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.7/10** | **100%** | **3.7** | | |
+| Moat | 7.0/10 | 25% | 1.8 | Gross margin 32% — moderate moat for Industrials; Operating margin 14%; Rev growth 138% — demand pull | - |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 39.3x — expensive; 52w range position: 49%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **3.5/10** | **100%** | **3.5** | | |
 
-## Buffett Score: 3.7 / 10
-## Alpha Adjustment: -0.22
+## Buffett Score: 3.5 / 10
+## Alpha Adjustment: -0.24
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -38,19 +38,19 @@ Industrials / Electrical Equipment & Parts
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Electrical Equipment & Parts
-- **Margin of Safety**: -78% — ABSENT ($185 > IV $41 at 25x for 25% growth)
-- **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
+- **Margin of Safety**: -80% — ABSENT ($209 > IV $41 at 25x for 25% growth)
+- **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (2 forces only: strong moat, secular growth)
+No (1 forces only: secular growth)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.22 applied to composite alpha score
+Buffett Premium: -0.24 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

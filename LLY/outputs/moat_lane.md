@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LLY
-*Generated: 2026-11-11 11:48 | Price: $1432.29 | Mkt Cap: $1276B*
+*Generated: 2026-11-12 12:27 | Price: $1437.29 | Mkt Cap: $1280B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General
@@ -22,8 +22,8 @@ Healthcare / Drug Manufacturers - General
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 7.5/10 | 30% | 2.2 | Avg ROIC: 26.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 34% (stable); FCF/NI: 12% (weak conversion); Gross margin: 84% (pricing power for Healthcare) | - |
 | Management | 7.5/10 | 25% | 1.9 | Insider value: $2.1B (0.2%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
-| Moat | 9.5/10 | 25% | 2.4 | Gross margin 84% vs sector strong cutoff 55% — strong pricing power; Operating margin 54% — durable for Healthcare; Rev growth 39% — demand pull | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 28.3x — growth premium; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 0.7%; Earnings yield < 4% — worse than bonds | Expensive |
+| Moat | 9.5/10 | 25% | 2.4 | Gross margin 84% vs sector strong cutoff 55% — strong pricing power; Operating margin 51% — durable for Healthcare; Rev growth 39% — demand pull | - |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 28.4x — growth premium; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 0.7%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
 
 ## Buffett Score: 7.4 / 10
@@ -36,7 +36,7 @@ Healthcare / Drug Manufacturers - General
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Drug Manufacturers - General
-- **Margin of Safety**: -57% — ABSENT ($1432 > IV $616 at 20x for 16% growth)
+- **Margin of Safety**: -57% — ABSENT ($1437 > IV $616 at 20x for 16% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution

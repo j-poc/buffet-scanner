@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AIG
-*Generated: 2026-11-11 11:45 | Price: $82.32 | Mkt Cap: $43B*
+*Generated: 2026-11-12 12:25 | Price: $82.85 | Mkt Cap: $43B*
 
 ## Sector Context
 Financial Services / Insurance - Diversified
@@ -22,11 +22,11 @@ Financial Services / Insurance - Diversified
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.6/10 | 30% | 1.1 | ROE: 8.2% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 26% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
-| Moat | 4.0/10 | 25% | 1.0 | ROE 8% — weak (Financial Services); Operating margin 17% — thin for Financial Services | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.4x — deep value; 52w range position: 69%; Owner earnings yield: 17.7% (>5%) | - |
-| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
+| Moat | 4.5/10 | 25% | 1.1 | ROE 8% — weak (Financial Services); Operating margin 18% | Weak pricing |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.5x — deep value; 52w range position: 72%; Owner earnings yield: 17.6% (>5%) | - |
+| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
-## Buffett Score: 5.1 / 10
+## Buffett Score: 5.2 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Financial Services / Insurance - Diversified
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Diversified
-- **Margin of Safety**: 86% — PRESENT (IV $153 vs $82 at 25x)
+- **Margin of Safety**: 85% — PRESENT (IV $153 vs $83 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COP
-*Generated: 2026-11-11 11:46 | Price: $135.59 | Mkt Cap: $160B*
+*Generated: 2026-11-12 12:25 | Price: $137.86 | Mkt Cap: $163B*
 
 ## Sector Context
 Energy / Oil & Gas E&P
@@ -22,8 +22,8 @@ Energy / Oil & Gas E&P
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.9/10 | 30% | 1.2 | ROIC declining trend; Avg ROIC: 20.7% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 57% from prior peak; 5y price drawdown: 36% (stable); FCF/NI: 89% (strong); Gross margin: 49% (pricing power for Energy) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
-| Moat | 9.5/10 | 25% | 2.4 | Gross margin 49% vs sector strong cutoff 30% — strong pricing power; Operating margin 30% — durable for Energy; Rev growth 29% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.0x — deep value; 52w range position: 73%; Owner earnings yield: 7.2% (>5%) | - |
+| Moat | 9.5/10 | 25% | 2.4 | Gross margin 49% vs sector strong cutoff 30% — strong pricing power; Operating margin 26% — durable for Energy; Rev growth 29% — demand pull | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.1x — deep value; 52w range position: 76%; Owner earnings yield: 7.0% (>5%) | - |
 | **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
 ## Buffett Score: 6.5 / 10
@@ -36,7 +36,7 @@ Energy / Oil & Gas E&P
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas E&P
-- **Margin of Safety**: 75% — PRESENT (IV $237 vs $136 at 25x)
+- **Margin of Safety**: 72% — PRESENT (IV $237 vs $138 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

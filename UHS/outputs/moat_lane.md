@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UHS
-*Generated: 2026-11-11 11:52 | Price: $195.41 | Mkt Cap: $11B*
+*Generated: 2026-11-12 12:31 | Price: $196.77 | Mkt Cap: $11B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Capital Management LLC (6.7% inst.) as insider
 
@@ -24,11 +24,11 @@ Healthcare / Medical Care Facilities
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.3/10 | 30% | 1.3 | Avg ROIC: 10.3% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 66%; Gross margin: 45% | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.9% of shares (SBC concern) | - |
-| Moat | 6.0/10 | 25% | 1.5 | Gross margin 45% — moderate moat for Healthcare; Operating margin 10% — thin for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.5x — deep value; 52w range position: 52%; Owner earnings yield: 6.6% (>5%) | - |
-| **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 45% — moderate moat for Healthcare; Operating margin 11% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.6x — deep value; 52w range position: 53%; Owner earnings yield: 6.6% (>5%) | - |
+| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
-## Buffett Score: 5.7 / 10
+## Buffett Score: 5.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,7 +38,7 @@ Healthcare / Medical Care Facilities
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Care Facilities
-- **Margin of Safety**: 83% — PRESENT (IV $358 vs $195 at 15x)
+- **Margin of Safety**: 82% — PRESENT (IV $358 vs $197 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

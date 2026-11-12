@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NVDA
-*Generated: 2026-11-11 11:48 | Price: $168.89 | Mkt Cap: $4078B*
+*Generated: 2026-11-12 12:27 | Price: $173.73 | Mkt Cap: $4195B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -21,9 +21,9 @@ Technology / Semiconductors
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 51.3% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 66% (severe cyclicality); FCF/NI: 85% (strong); Gross margin: 75% (pricing power for Technology) | - |
-| Management | 9.0/10 | 25% | 2.2 | Insider value: $163B (4.0%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 4.2% (low) | - |
-| Moat | 9.5/10 | 25% | 2.4 | Gross margin 75% vs sector strong cutoff 60% — strong pricing power; Operating margin 66% — durable for Technology; Rev growth 106% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.6x — deep value; Near 52w low (6% of range) — Mr. Market fearful; Owner earnings yield: 1.0% | - |
+| Management | 9.0/10 | 25% | 2.2 | Insider value: $168B (4.0%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 4.2% (low) | - |
+| Moat | 9.5/10 | 25% | 2.4 | Gross margin 75% vs sector strong cutoff 60% — strong pricing power; Operating margin 65% — durable for Technology; Rev growth 106% — demand pull | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.9x — deep value; Near 52w low (12% of range) — Mr. Market fearful; Owner earnings yield: 1.0% | - |
 | **TOTAL** | **9.2/10** | **100%** | **9.2** | | |
 
 ## Buffett Score: 9.2 / 10
@@ -36,7 +36,7 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: 17% — thin (IV $198 at 25x)
+- **Margin of Safety**: 14% — thin (IV $198 at 25x)
 - **Lollapalooza Effect**: YES — 4 forces aligning: high quality, strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 4.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

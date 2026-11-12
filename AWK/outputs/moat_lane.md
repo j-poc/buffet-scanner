@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AWK
-*Generated: 2026-11-11 11:45 | Price: $150.36 | Mkt Cap: $30B*
+*Generated: 2026-11-12 12:25 | Price: $149.66 | Mkt Cap: $30B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Water
@@ -22,8 +22,8 @@ Utilities / Utilities - Regulated Water
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 5.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 37% (stable); FCF/NI: -114% (weak conversion); Gross margin: 62% (pricing power for Utilities) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 62% vs sector strong cutoff 40% — strong pricing power; Operating margin 43% — durable for Utilities | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 22.8x — growth premium; Near 52w high (90% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 62% vs sector strong cutoff 40% — strong pricing power; Operating margin 38% — durable for Utilities | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 22.7x — growth premium; Near 52w high (88% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
 ## Buffett Score: 5.6 / 10
