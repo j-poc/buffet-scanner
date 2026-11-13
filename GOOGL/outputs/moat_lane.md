@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GOOGL
-*Generated: 2026-11-12 12:24 | Price: $293.45 | Mkt Cap: $3608B*
+*Generated: 2026-11-13 12:00 | Price: $298.7 | Mkt Cap: $3672B*
 
 ## Sector Context
 Communication Services / Internet Content & Information
@@ -21,9 +21,9 @@ Communication Services / Internet Content & Information
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 9.5/10 | 30% | 2.9 | Avg ROIC: 24.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 81% (strong); Gross margin: 61% (pricing power for Communication Services) | - |
-| Management | 9.0/10 | 25% | 2.2 | Insider value: $58B (1.6%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: -86.0% (low) | - |
+| Management | 9.0/10 | 25% | 2.2 | Insider value: $59B (1.6%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: -86.0% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 61% vs sector strong cutoff 55% — strong pricing power; Operating margin 33% — durable for Communication Services; Rev growth 25% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.0x — fair price; Near 52w low (16% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.4x — fair price; Near 52w low (20% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **9.5/10** | **100%** | **9.5** | | |
 
 ## Buffett Score: 9.5 / 10
@@ -36,7 +36,7 @@ Communication Services / Internet Content & Information
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Internet Content & Information
-- **Margin of Safety**: -2% — ABSENT ($293 > IV $287 at 15x for -25% growth)
+- **Margin of Safety**: -4% — ABSENT ($299 > IV $287 at 15x for -25% growth)
 - **Lollapalooza Effect**: YES — 4 forces aligning: high quality, strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 1.6% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

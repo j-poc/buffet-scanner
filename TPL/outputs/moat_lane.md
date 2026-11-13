@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TPL
-*Generated: 2026-11-12 12:31 | Price: $281.42 | Mkt Cap: $19B*
+*Generated: 2026-11-13 12:03 | Price: $281.18 | Mkt Cap: $19B*
 
 ## Sector Context
 Energy / Oil & Gas E&P

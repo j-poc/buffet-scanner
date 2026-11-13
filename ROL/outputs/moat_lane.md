@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ROL
-*Generated: 2026-11-12 12:28 | Price: $38.47 | Mkt Cap: $19B*
+*Generated: 2026-11-13 12:03 | Price: $37.91 | Mkt Cap: $18B*
 
 ## Sector Context
 Consumer Cyclical / Personal Services
@@ -21,9 +21,9 @@ Consumer Cyclical / Personal Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 9.5/10 | 30% | 2.9 | Avg ROIC: 29.5% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 54% (moderate cyclicality); FCF/NI: 120% (strong); Gross margin: 52% (pricing power for Consumer Cyclical) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 39.1% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 37.1% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 39.1% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 36.7% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 52% vs sector strong cutoff 45% — strong pricing power; Operating margin 18% — durable for Consumer Cyclical | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 31.2x — expensive; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 3.0%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 30.8x — expensive; Near 52w low (23% of range) — Mr. Market fearful; Owner earnings yield: 3.1%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **8.2/10** | **100%** | **8.2** | | |
 
 ## Buffett Score: 8.2 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OKTA
-*Generated: 2026-11-12 12:27 | Price: $182.25 | Mkt Cap: $32B*
+*Generated: 2026-11-13 12:02 | Price: $182.54 | Mkt Cap: $32B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -23,7 +23,7 @@ Technology / Software - Infrastructure
 | Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: -2.1% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 83% (severe cyclicality); FCF/NI: 707% (strong); Gross margin: 78% (pricing power for Technology) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 78% vs sector strong cutoff 60% — strong pricing power; Operating margin 8% — thin for Technology | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 41.6x — expensive; 52w range position: 69%; Owner earnings yield: 3.3%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 41.7x — expensive; 52w range position: 70%; Owner earnings yield: 3.3%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
 ## Buffett Score: 4.9 / 10
@@ -36,7 +36,7 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: -77% — ABSENT ($182 > IV $42 at 25x for 25% growth)
+- **Margin of Safety**: -77% — ABSENT ($183 > IV $42 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral

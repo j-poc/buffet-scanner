@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CIEN
-*Generated: 2026-11-12 12:25 | Price: $296.04 | Mkt Cap: $42B*
+*Generated: 2026-11-13 12:00 | Price: $293.99 | Mkt Cap: $42B*
 
 ## Sector Context
 Technology / Communication Equipment
@@ -23,7 +23,7 @@ Technology / Communication Equipment
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 5.2% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 67% from prior peak; 5y price drawdown: 63% (severe cyclicality); FCF/NI: 211% (strong); Gross margin: 44% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 44% — moderate moat for Technology; Operating margin 14% — thin for Technology; Rev growth 37% — demand pull | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 25.0x — growth premium; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 1.5%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 24.8x — growth premium; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 1.5%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
 ## Buffett Score: 4.7 / 10
@@ -36,7 +36,7 @@ Technology / Communication Equipment
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Communication Equipment
-- **Margin of Safety**: -62% — ABSENT ($296 > IV $112 at 25x for 25% growth)
+- **Margin of Safety**: -62% — ABSENT ($294 > IV $112 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
