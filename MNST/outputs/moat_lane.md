@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MNST
-*Generated: 2026-11-13 12:02 | Price: $45.57 | Mkt Cap: $89B*
+*Generated: 2026-11-14 11:21 | Price: $46.46 | Mkt Cap: $91B*
 
 ## Sector Context
 Consumer Defensive / Beverages - Non-Alcoholic
@@ -12,7 +12,7 @@ Consumer Defensive / Beverages - Non-Alcoholic
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 28.3%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 28.5%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -21,9 +21,9 @@ Consumer Defensive / Beverages - Non-Alcoholic
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 8.4/10 | 30% | 2.5 | Avg ROIC: 21.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 26% (stable); FCF/NI: 89% (strong); Gross margin: 55% (pricing power for Consumer Defensive) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 28.3% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 7.5% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 28.5% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 7.5% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 55% vs sector strong cutoff 45% — strong pricing power; Operating margin 30% — durable for Consumer Defensive | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 35.0x — expensive; 52w range position: 69%; Owner earnings yield: 1.6%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 35.7x — expensive; 52w range position: 75%; Owner earnings yield: 1.6%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **7.6/10** | **100%** | **7.6** | | |
 
 ## Buffett Score: 7.6 / 10
@@ -38,7 +38,7 @@ Consumer Defensive / Beverages - Non-Alcoholic
 - **Circle of Competence**: Consumer Defensive / Beverages - Non-Alcoholic
 - **Margin of Safety**: -59% — ABSENT ($46 > IV $19 at 17x for 8% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
-- **Incentive-Caused Bias**: Aligned — 28.3% insider ownership
+- **Incentive-Caused Bias**: Aligned — 28.5% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

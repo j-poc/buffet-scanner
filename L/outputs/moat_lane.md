@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: L
-*Generated: 2026-11-13 12:02 | Price: $111.83 | Mkt Cap: $23B*
+*Generated: 2026-11-14 11:21 | Price: $111.9 | Mkt Cap: $23B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty
@@ -12,7 +12,7 @@ Financial Services / Insurance - Property & Casualty
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.0x | 15% | -25% | No |
-| 3 | Management / Governance Failure | Insider ownership 20.3%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 20.6%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -21,7 +21,7 @@ Financial Services / Insurance - Property & Casualty
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.6/10 | 30% | 1.4 | ROE: 8.2% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 26% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 20.3% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 19.8% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 20.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 19.7% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | ROE 8% — weak (Financial Services); Operating margin 12% — thin for Financial Services | Weak pricing |
 | Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 38.6x — expensive; 52w range position: 54%; Owner earnings yield: 8.8% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
@@ -38,7 +38,7 @@ Financial Services / Insurance - Property & Casualty
 - **Circle of Competence**: Financial Services / Insurance - Property & Casualty
 - **Margin of Safety**: -3% — ABSENT ($112 > IV $108 at 15x for -38% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
-- **Incentive-Caused Bias**: Aligned — 20.3% insider ownership
+- **Incentive-Caused Bias**: Aligned — 20.6% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

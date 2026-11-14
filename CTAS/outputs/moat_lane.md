@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CTAS
-*Generated: 2026-11-13 12:00 | Price: $227.52 | Mkt Cap: $90B*
+*Generated: 2026-11-14 11:19 | Price: $226.24 | Mkt Cap: $90B*
 
 ## Sector Context
 Industrials / Specialty Business Services
@@ -12,7 +12,7 @@ Industrials / Specialty Business Services
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.9x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 14.5%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 14.8%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -20,10 +20,10 @@ Industrials / Specialty Business Services
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 10.0/10 | 30% | 3.0 | Avg ROIC: 25.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 0% (stable); FCF/NI: 97% (strong); Gross margin: 51% (pricing power for Industrials) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 14.5% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 14.6% of shares (SBC concern) | - |
+| Quality | 10.0/10 | 30% | 3.0 | Avg ROIC: 25.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 28% (stable); FCF/NI: 97% (strong); Gross margin: 51% (pricing power for Industrials) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 14.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 14.6% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 51% vs sector strong cutoff 35% — strong pricing power; Operating margin 24% — durable for Industrials | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 36.9x — expensive; Near 52w high (92% of range) — Mr. Market greedy; Owner earnings yield: 1.9%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 36.7x — expensive; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 1.9%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **7.9/10** | **100%** | **7.9** | | |
 
 ## Buffett Score: 7.9 / 10
@@ -36,9 +36,9 @@ Industrials / Specialty Business Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Business Services
-- **Margin of Safety**: -55% — ABSENT ($228 > IV $101 at 20x for 13% growth)
+- **Margin of Safety**: -55% — ABSENT ($226 > IV $101 at 20x for 13% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
-- **Incentive-Caused Bias**: Aligned — 14.5% insider ownership
+- **Incentive-Caused Bias**: Aligned — 14.8% insider ownership
 - **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
