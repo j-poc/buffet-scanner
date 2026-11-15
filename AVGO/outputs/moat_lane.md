@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AVGO
-*Generated: 2026-11-14 11:19 | Price: $347.01 | Mkt Cap: $1656B*
+*Generated: 2026-11-15 11:51 | Price: $347.01 | Mkt Cap: $1656B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -23,7 +23,7 @@ Technology / Semiconductors
 | Quality | 4.5/10 | 30% | 1.3 | ROIC declining trend; Avg ROIC: 15.3% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 58% from prior peak; 5y price drawdown: 41% (moderate cyclicality); FCF/NI: 178% (strong); Gross margin: 76% (pricing power for Technology) | ROIC declining |
 | Management | 9.0/10 | 25% | 2.2 | Insider value: $35B (2.1%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 76% vs sector strong cutoff 60% — strong pricing power; Operating margin 49% — durable for Technology; Rev growth 86% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 17.8x — fair price; Near 52w low (28% of range) — Mr. Market fearful; Owner earnings yield: 1.8%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 17.9x — fair price; Near 52w low (28% of range) — Mr. Market fearful; Owner earnings yield: 1.8%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **8.0/10** | **100%** | **8.0** | | |
 
 ## Buffett Score: 8.0 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RL
-*Generated: 2026-11-14 11:22 | Price: $386.3 | Mkt Cap: $23B*
+*Generated: 2026-11-15 11:54 | Price: $386.3 | Mkt Cap: $23B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Manufacturing
@@ -36,7 +36,7 @@ Consumer Cyclical / Apparel Manufacturing
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Apparel Manufacturing
-- **Margin of Safety**: 11% — thin (IV $430 at 25x)
+- **Margin of Safety**: 13% — thin (IV $436 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
 - **Incentive-Caused Bias**: Weak alignment — only 3.0% insider ownership
 - **Mr. Market**: Neutral

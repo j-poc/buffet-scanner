@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALLE
-*Generated: 2026-11-14 11:19 | Price: $191.98 | Mkt Cap: $16B*
+*Generated: 2026-11-15 11:51 | Price: $191.98 | Mkt Cap: $16B*
 
 ## Sector Context
 Industrials / Security & Protection Services
@@ -36,7 +36,7 @@ Industrials / Security & Protection Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Security & Protection Services
-- **Margin of Safety**: -15% — ABSENT ($192 > IV $162 at 20x for 19% growth)
+- **Margin of Safety**: -16% — ABSENT ($192 > IV $161 at 20x for 19% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Greedy — exercise caution

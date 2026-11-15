@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UHS
-*Generated: 2026-11-14 11:25 | Price: $194.07 | Mkt Cap: $11B*
+*Generated: 2026-11-15 11:57 | Price: $194.07 | Mkt Cap: $11B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Capital Management LLC (6.7% inst.) as insider
 

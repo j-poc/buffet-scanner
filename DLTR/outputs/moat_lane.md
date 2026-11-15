@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DLTR
-*Generated: 2026-11-14 11:20 | Price: $138.08 | Mkt Cap: $26B*
+*Generated: 2026-11-15 11:52 | Price: $138.08 | Mkt Cap: $26B*
 
 ## Sector Context
 Consumer Defensive / Discount Stores

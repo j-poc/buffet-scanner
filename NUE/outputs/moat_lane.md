@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NUE
-*Generated: 2026-11-14 11:21 | Price: $251.73 | Mkt Cap: $57B*
+*Generated: 2026-11-15 11:54 | Price: $251.73 | Mkt Cap: $57B*
 
 ## Sector Context
 Basic Materials / Steel
@@ -36,7 +36,7 @@ Basic Materials / Steel
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Steel
-- **Margin of Safety**: 51% — PRESENT (IV $379 vs $252 at 25x)
+- **Margin of Safety**: 56% — PRESENT (IV $392 vs $252 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 1.3% insider ownership
 - **Mr. Market**: Neutral

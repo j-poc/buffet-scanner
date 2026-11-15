@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TMO
-*Generated: 2026-11-14 11:25 | Price: $700.22 | Mkt Cap: $259B*
+*Generated: 2026-11-15 11:55 | Price: $700.22 | Mkt Cap: $259B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APP
-*Generated: 2026-11-14 11:19 | Price: $409.1 | Mkt Cap: $136B*
+*Generated: 2026-11-15 11:51 | Price: $409.1 | Mkt Cap: $136B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Capital Management LLC (5.9% inst.) as insider
 

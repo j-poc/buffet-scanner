@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AON
-*Generated: 2026-11-14 11:19 | Price: $338.31 | Mkt Cap: $72B*
+*Generated: 2026-11-15 11:51 | Price: $338.31 | Mkt Cap: $72B*
 
 ## Sector Context
 Financial Services / Insurance Brokers
@@ -36,7 +36,7 @@ Financial Services / Insurance Brokers
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance Brokers
-- **Margin of Safety**: -7% — ABSENT ($338 > IV $315 at 17x for 6% growth)
+- **Margin of Safety**: -8% — ABSENT ($338 > IV $311 at 17x for 6% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.4% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PANW
-*Generated: 2026-11-14 11:22 | Price: $322.24 | Mkt Cap: $264B*
+*Generated: 2026-11-15 11:54 | Price: $322.24 | Mkt Cap: $264B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -21,7 +21,7 @@ Technology / Software - Infrastructure
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.4/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 10.7% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 88% from prior peak; 5y price drawdown: 36% (stable); FCF/NI: 591% (strong); Gross margin: 70% (pricing power for Technology) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 70% vs sector strong cutoff 60% — strong pricing power; Operating margin 7% — thin for Technology; Rev growth 34% — demand pull | - |
 | Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 66.0x — extreme premium; 52w range position: 62%; Owner earnings yield: 1.6%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.7/10** | **100%** | **3.7** | | |

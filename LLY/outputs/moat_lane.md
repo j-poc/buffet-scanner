@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LLY
-*Generated: 2026-11-14 11:21 | Price: $1443.5 | Mkt Cap: $1286B*
+*Generated: 2026-11-15 11:53 | Price: $1443.5 | Mkt Cap: $1286B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General

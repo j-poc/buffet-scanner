@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PWR
-*Generated: 2026-11-14 11:22 | Price: $602.01 | Mkt Cap: $91B*
+*Generated: 2026-11-15 11:54 | Price: $602.01 | Mkt Cap: $91B*
 
 ## Sector Context
 Industrials / Engineering & Construction
@@ -11,7 +11,7 @@ Industrials / Engineering & Construction
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.1x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.0x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.8%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -23,7 +23,7 @@ Industrials / Engineering & Construction
 | Quality | 4.7/10 | 30% | 1.4 | Avg ROIC: 8.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 35% (stable); FCF/NI: 154% (strong); Gross margin: 16% (below Industrials norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 16% — below Industrials moderate cutoff 22%; Operating margin 7% — thin for Industrials; Rev growth 57% — demand pull | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 27.7x — growth premium; 52w range position: 51%; Owner earnings yield: 3.4%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 27.7x — growth premium; 52w range position: 51%; Owner earnings yield: 3.5%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
 ## Buffett Score: 4.5 / 10

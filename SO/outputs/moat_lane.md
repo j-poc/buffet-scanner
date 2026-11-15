@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SO
-*Generated: 2026-11-14 11:24 | Price: $93.59 | Mkt Cap: $109B*
+*Generated: 2026-11-15 11:55 | Price: $93.59 | Mkt Cap: $109B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric
@@ -36,7 +36,7 @@ Utilities / Utilities - Regulated Electric
 ## Mental Models Applied
 
 - **Circle of Competence**: Utilities / Utilities - Regulated Electric
-- **Margin of Safety**: -5% — ABSENT ($94 > IV $89 at 20x for 14% growth)
+- **Margin of Safety**: -6% — ABSENT ($94 > IV $88 at 20x for 14% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral

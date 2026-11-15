@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DTE
-*Generated: 2026-11-14 11:20 | Price: $139.72 | Mkt Cap: $29B*
+*Generated: 2026-11-15 11:52 | Price: $139.72 | Mkt Cap: $29B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric
@@ -36,7 +36,7 @@ Utilities / Utilities - Regulated Electric
 ## Mental Models Applied
 
 - **Circle of Competence**: Utilities / Utilities - Regulated Electric
-- **Margin of Safety**: -6% — ABSENT ($140 > IV $132 at 20x for 12% growth)
+- **Margin of Safety**: -6% — ABSENT ($140 > IV $131 at 20x for 12% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Neutral

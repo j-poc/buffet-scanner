@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FLEX
-*Generated: 2026-11-14 11:20 | Price: $74.98 | Mkt Cap: $28B*
+*Generated: 2026-11-15 11:53 | Price: $74.98 | Mkt Cap: $28B*
 
 ## Sector Context
 Technology / Electronic Components
@@ -23,7 +23,7 @@ Technology / Electronic Components
 | Quality | 2.7/10 | 30% | 0.8 | Avg ROIC: 10.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 59% (severe cyclicality); FCF/NI: 91% (strong); Gross margin: 10% (below Technology norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 10% — below Technology moderate cutoff 40%; Operating margin 5% — thin for Technology; Rev growth 25% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.8x — deep value; Near 52w low (19% of range) — Mr. Market fearful; Owner earnings yield: 2.2% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.6x — deep value; Near 52w low (19% of range) — Mr. Market fearful; Owner earnings yield: 2.2% | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10

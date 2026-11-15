@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TSLA
-*Generated: 2026-11-14 11:25 | Price: $390.22 | Mkt Cap: $1542B*
+*Generated: 2026-11-15 11:55 | Price: $390.22 | Mkt Cap: $1542B*
 
 ## Sector Context
 Consumer Cyclical / Auto Manufacturers
@@ -36,7 +36,7 @@ Consumer Cyclical / Auto Manufacturers
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Auto Manufacturers
-- **Margin of Safety**: -97% — ABSENT ($390 > IV $13 at 15x for -44% growth)
+- **Margin of Safety**: -97% — ABSENT ($390 > IV $14 at 15x for -44% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Aligned — 17.9% insider ownership
 - **Mr. Market**: Neutral

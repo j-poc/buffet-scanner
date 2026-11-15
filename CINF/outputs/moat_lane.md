@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CINF
-*Generated: 2026-11-14 11:19 | Price: $189.65 | Mkt Cap: $29B*
+*Generated: 2026-11-15 11:52 | Price: $189.65 | Mkt Cap: $29B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty
@@ -36,7 +36,7 @@ Financial Services / Insurance - Property & Casualty
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Property & Casualty
-- **Margin of Safety**: 34% — PRESENT (IV $255 vs $190 at 15x)
+- **Margin of Safety**: 35% — PRESENT (IV $256 vs $190 at 15x)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 2.3% insider ownership
 - **Mr. Market**: Greedy — exercise caution

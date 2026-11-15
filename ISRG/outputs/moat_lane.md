@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ISRG
-*Generated: 2026-11-14 11:21 | Price: $443.59 | Mkt Cap: $154B*
+*Generated: 2026-11-15 11:53 | Price: $443.59 | Mkt Cap: $154B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies
@@ -36,7 +36,7 @@ Healthcare / Medical Instruments & Supplies
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Instruments & Supplies
-- **Margin of Safety**: -72% — ABSENT ($444 > IV $125 at 15x for -24% growth)
+- **Margin of Safety**: -72% — ABSENT ($444 > IV $124 at 15x for -24% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
 - **Mr. Market**: Neutral

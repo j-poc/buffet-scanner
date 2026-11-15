@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NCLH
-*Generated: 2026-11-14 11:21 | Price: $17.96 | Mkt Cap: $8B*
+*Generated: 2026-11-15 11:54 | Price: $17.96 | Mkt Cap: $8B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Capital Management LLC (6.5% inst.) as insider
 

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LEN
-*Generated: 2026-11-14 11:21 | Price: $83.61 | Mkt Cap: $20B*
+*Generated: 2026-11-15 11:53 | Price: $83.61 | Mkt Cap: $20B*
 
 ## Sector Context
 Consumer Cyclical / Residential Construction
@@ -23,7 +23,7 @@ Consumer Cyclical / Residential Construction
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 12.8% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 55% from prior peak; 5y price drawdown: 59% (severe cyclicality); FCF/NI: 64%; Gross margin: 16% (below Consumer Cyclical norm) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 16.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 12.2% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 16% — below Consumer Cyclical moderate cutoff 30%; Operating margin 6% — thin for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.0x — fair price; Near 52w low (19% of range) — Mr. Market fearful; Owner earnings yield: 6.2% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.5x — fair price; Near 52w low (19% of range) — Mr. Market fearful; Owner earnings yield: 6.2% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10

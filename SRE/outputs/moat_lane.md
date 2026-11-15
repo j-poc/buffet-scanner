@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SRE
-*Generated: 2026-11-14 11:24 | Price: $79.54 | Mkt Cap: $52B*
+*Generated: 2026-11-15 11:55 | Price: $79.54 | Mkt Cap: $52B*
 
 ## Sector Context
 Utilities / Utilities - Diversified
@@ -36,7 +36,7 @@ Utilities / Utilities - Diversified
 ## Mental Models Applied
 
 - **Circle of Competence**: Utilities / Utilities - Diversified
-- **Margin of Safety**: 48% — PRESENT (IV $118 vs $80 at 25x)
+- **Margin of Safety**: 47% — PRESENT (IV $117 vs $80 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

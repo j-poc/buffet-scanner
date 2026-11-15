@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TGT
-*Generated: 2026-11-14 11:25 | Price: $161.45 | Mkt Cap: $73B*
+*Generated: 2026-11-15 11:55 | Price: $161.45 | Mkt Cap: $73B*
 
 ## Sector Context
 Consumer Defensive / Discount Stores
@@ -23,7 +23,7 @@ Consumer Defensive / Discount Stores
 | Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 13.5% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 64% (severe cyclicality); FCF/NI: 56%; Gross margin: 28% (thin by design for Discount Stores) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROA 6% / ROE 26% — scale moat (Discount Stores); Operating margin 5% — thin for Consumer Defensive | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 16.9x — fair price; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 4.7%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 16.8x — fair price; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 4.7%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10

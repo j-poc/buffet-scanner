@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HPE
-*Generated: 2026-11-14 11:20 | Price: $48.29 | Mkt Cap: $64B*
+*Generated: 2026-11-15 11:53 | Price: $48.29 | Mkt Cap: $64B*
 
 ## Sector Context
 Technology / Communication Equipment
@@ -36,7 +36,7 @@ Technology / Communication Equipment
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Communication Equipment
-- **Margin of Safety**: -3% — ABSENT ($48 > IV $47 at 25x for 25% growth)
+- **Margin of Safety**: 0% — thin (IV $48 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral

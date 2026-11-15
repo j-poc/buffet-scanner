@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: XEL
-*Generated: 2026-11-14 11:25 | Price: $81.61 | Mkt Cap: $52B*
+*Generated: 2026-11-15 11:57 | Price: $81.61 | Mkt Cap: $52B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric
@@ -36,7 +36,7 @@ Utilities / Utilities - Regulated Electric
 ## Mental Models Applied
 
 - **Circle of Competence**: Utilities / Utilities - Regulated Electric
-- **Margin of Safety**: 32% — PRESENT (IV $108 vs $82 at 25x)
+- **Margin of Safety**: 31% — PRESENT (IV $107 vs $82 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral

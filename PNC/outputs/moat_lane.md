@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PNC
-*Generated: 2026-11-14 11:22 | Price: $232.29 | Mkt Cap: $92B*
+*Generated: 2026-11-15 11:54 | Price: $232.29 | Mkt Cap: $92B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -36,7 +36,7 @@ Financial Services / Banks - Regional
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Regional
-- **Margin of Safety**: 63% — PRESENT (IV $378 vs $232 at 20x)
+- **Margin of Safety**: 62% — PRESENT (IV $376 vs $232 at 20x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral

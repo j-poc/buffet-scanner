@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LULU
-*Generated: 2026-11-14 11:21 | Price: $105.65 | Mkt Cap: $12B*
+*Generated: 2026-11-15 11:53 | Price: $105.65 | Mkt Cap: $12B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Capital Management LLC (6.5% inst.) as insider
 

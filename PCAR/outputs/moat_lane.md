@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PCAR
-*Generated: 2026-11-14 11:22 | Price: $106.66 | Mkt Cap: $56B*
+*Generated: 2026-11-15 11:54 | Price: $106.66 | Mkt Cap: $56B*
 
 ## Sector Context
 Industrials / Farm & Heavy Construction Machinery
@@ -21,7 +21,7 @@ Industrials / Farm & Heavy Construction Machinery
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 11.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 48% from prior peak; 5y price drawdown: 28% (stable); FCF/NI: 79%; Gross margin: 14% (below Industrials norm) | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.0% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.9% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 14% — below Industrials moderate cutoff 22%; Operating margin 11% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.6x — fair price; Near 52w low (28% of range) — Mr. Market fearful; Owner earnings yield: 3.1%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.4/10** | **100%** | **4.4** | | |

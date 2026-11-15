@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HONA
-*Generated: 2026-11-14 11:21 | Price: $165.01 | Mkt Cap: $52B*
+*Generated: 2026-11-15 11:53 | Price: $165.01 | Mkt Cap: $52B*
 
 ## Sector Context
 Industrials / Aerospace & Defense

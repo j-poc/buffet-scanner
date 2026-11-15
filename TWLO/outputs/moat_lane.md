@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TWLO
-*Generated: 2026-11-14 11:25 | Price: $211.21 | Mkt Cap: $33B*
+*Generated: 2026-11-15 11:57 | Price: $211.21 | Mkt Cap: $33B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -36,7 +36,7 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: -6% — ABSENT ($211 > IV $198 at 25x for 25% growth)
+- **Margin of Safety**: -6% — ABSENT ($211 > IV $199 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral

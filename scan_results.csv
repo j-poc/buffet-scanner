@@ -1,6 +1,6 @@
 ticker,buffett_score,alpha_adj,conviction,verdict,material_killers
-GOOGL,9.5,0.4,HIGH,Own Forever,0
 GOOG,9.5,0.4,HIGH,Own Forever,1
+GOOGL,9.5,0.4,HIGH,Own Forever,0
 NVDA,9.2,0.4,HIGH,Own Forever,1
 RJF,8.4,0.4,HIGH,Own Forever,0
 DECK,8.2,0.4,HIGH,Own Forever,0
@@ -153,6 +153,7 @@ SPGI,6.4,0.14,MODERATE,Watchlist,1
 GWW,6.4,0.14,MODERATE,Watchlist,1
 WAB,6.4,0.14,MODERATE,Watchlist,0
 APA,6.3,0.13,MODERATE,Watchlist,0
+AMAT,6.3,0.13,MODERATE,Watchlist,2
 ATO,6.3,0.13,MODERATE,Watchlist,1
 BSX,6.3,0.13,MODERATE,Watchlist,1
 DXCM,6.3,0.13,MODERATE,Watchlist,1
@@ -192,12 +193,12 @@ LNT,6.0,0.0,LOW,Pass,2
 AEE,6.0,0.0,LOW,Pass,2
 AEP,6.0,0.0,LOW,Pass,2
 AON,6.0,0.0,LOW,Pass,1
-AMAT,6.0,0.0,LOW,Pass,2
 BLK,6.0,0.0,LOW,Pass,0
 CDNS,6.0,0.0,LOW,Pass,2
 CCL,6.0,0.0,LOW,Pass,1
 CNP,6.0,0.0,LOW,Pass,2
 CHD,6.0,0.0,LOW,Pass,1
+CSCO,6.0,0.0,LOW,Pass,2
 CLX,6.0,0.0,LOW,Pass,1
 CMS,6.0,0.0,LOW,Pass,2
 COST,6.0,0.0,LOW,Pass,1
@@ -258,7 +259,6 @@ ABT,5.8,0.0,LOW,Pass,1
 ADP,5.8,0.0,LOW,Pass,2
 BRK-B,5.8,0.0,LOW,Pass,0
 BF-B,5.8,0.0,LOW,Pass,0
-CSCO,5.8,0.0,LOW,Pass,2
 ED,5.8,0.0,LOW,Pass,2
 CPRT,5.8,0.0,LOW,Pass,1
 DAL,5.8,0.0,LOW,Pass,0
