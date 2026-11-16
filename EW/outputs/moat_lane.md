@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EW
-*Generated: 2026-11-15 11:52 | Price: $107.15 | Mkt Cap: $62B*
+*Generated: 2026-11-16 12:34 | Price: $107.15 | Mkt Cap: $62B*
 
 ## Sector Context
 Healthcare / Medical Devices
@@ -36,7 +36,7 @@ Healthcare / Medical Devices
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Devices
-- **Margin of Safety**: -73% — ABSENT ($107 > IV $29 at 17x for 7% growth)
+- **Margin of Safety**: -72% — ABSENT ($107 > IV $30 at 17x for 7% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Greedy — exercise caution

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SWKS
-*Generated: 2026-11-15 11:55 | Price: $89.94 | Mkt Cap: $21B*
+*Generated: 2026-11-16 12:39 | Price: $89.94 | Mkt Cap: $21B*
 
 ## Sector Context
 Technology / Semiconductors

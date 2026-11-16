@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TFC
-*Generated: 2026-11-15 11:57 | Price: $49.97 | Mkt Cap: $60B*
+*Generated: 2026-11-16 12:39 | Price: $49.97 | Mkt Cap: $60B*
 
 ## Sector Context
 Financial Services / Banks - Regional

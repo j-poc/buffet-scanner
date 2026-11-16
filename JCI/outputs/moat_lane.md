@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JCI
-*Generated: 2026-11-15 11:53 | Price: $139.33 | Mkt Cap: $84B*
+*Generated: 2026-11-16 12:35 | Price: $139.33 | Mkt Cap: $84B*
 
 ## Sector Context
 Industrials / Building Products & Equipment

@@ -1,6 +1,6 @@
 ticker,buffett_score,alpha_adj,conviction,verdict,material_killers
-GOOG,9.5,0.4,HIGH,Own Forever,1
 GOOGL,9.5,0.4,HIGH,Own Forever,0
+GOOG,9.5,0.4,HIGH,Own Forever,1
 NVDA,9.2,0.4,HIGH,Own Forever,1
 RJF,8.4,0.4,HIGH,Own Forever,0
 DECK,8.2,0.4,HIGH,Own Forever,0
@@ -137,6 +137,7 @@ EG,6.5,0.15,MODERATE,Watchlist,0
 GDDY,6.5,0.15,MODERATE,Watchlist,1
 KMB,6.5,0.15,MODERATE,Watchlist,0
 PM,6.5,0.15,MODERATE,Watchlist,1
+PNC,6.5,0.15,MODERATE,Watchlist,1
 RDDT,6.5,0.15,MODERATE,Watchlist,0
 SHW,6.5,0.15,MODERATE,Watchlist,1
 SYK,6.5,0.15,MODERATE,Watchlist,1
@@ -160,7 +161,6 @@ DXCM,6.3,0.13,MODERATE,Watchlist,1
 DOV,6.3,0.13,MODERATE,Watchlist,0
 XOM,6.3,0.13,MODERATE,Watchlist,1
 PEP,6.3,0.13,MODERATE,Watchlist,1
-PNC,6.3,0.13,MODERATE,Watchlist,1
 ROK,6.3,0.13,MODERATE,Watchlist,0
 SLB,6.3,0.13,MODERATE,Watchlist,0
 SYY,6.3,0.13,MODERATE,Watchlist,1
@@ -271,8 +271,8 @@ NOW,5.8,0.0,LOW,Pass,2
 SJM,5.8,0.0,LOW,Pass,0
 UHS,5.8,0.0,LOW,Pass,1
 VEEV,5.8,0.0,LOW,Pass,1
-VZ,5.8,0.0,LOW,Pass,1
 VRTX,5.8,0.0,LOW,Pass,2
+VZ,5.8,0.0,LOW,Pass,1
 WEC,5.8,0.0,LOW,Pass,2
 WMB,5.8,0.0,LOW,Pass,2
 ABNB,5.7,0.0,LOW,Pass,0

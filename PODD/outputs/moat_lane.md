@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PODD
-*Generated: 2026-11-15 11:53 | Price: $152.48 | Mkt Cap: $11B*
+*Generated: 2026-11-16 12:35 | Price: $152.48 | Mkt Cap: $11B*
 
 ## Sector Context
 Healthcare / Medical Devices

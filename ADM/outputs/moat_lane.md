@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ADM
-*Generated: 2026-11-15 11:51 | Price: $72.9 | Mkt Cap: $35B*
+*Generated: 2026-11-16 12:33 | Price: $72.9 | Mkt Cap: $35B*
 
 ## Sector Context
 Consumer Defensive / Farm Products

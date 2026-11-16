@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KDP
-*Generated: 2026-11-15 11:53 | Price: $36.34 | Mkt Cap: $49B*
+*Generated: 2026-11-16 12:35 | Price: $36.34 | Mkt Cap: $49B*
 
 ## Sector Context
 Consumer Defensive / Beverages - Non-Alcoholic
@@ -23,7 +23,7 @@ Consumer Defensive / Beverages - Non-Alcoholic
 | Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 5.9% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 34% from prior peak; 5y price drawdown: 31% (stable); FCF/NI: 98% (strong); Gross margin: 50% (pricing power for Consumer Defensive) | - |
 | Management | 7.0/10 | 25% | 1.8 | Insider ownership: 5.5%; Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 50% vs sector strong cutoff 45% — strong pricing power; Operating margin 18% — durable for Consumer Defensive; Rev growth 71% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.4x — deep value; Near 52w high (85% of range) — Mr. Market greedy; Owner earnings yield: 9.1% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.3x — deep value; Near 52w high (85% of range) — Mr. Market greedy; Owner earnings yield: 9.1% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

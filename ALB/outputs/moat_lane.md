@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALB
-*Generated: 2026-11-15 11:51 | Price: $93.53 | Mkt Cap: $11B*
+*Generated: 2026-11-16 12:33 | Price: $93.53 | Mkt Cap: $11B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals

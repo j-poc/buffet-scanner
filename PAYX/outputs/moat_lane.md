@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PAYX
-*Generated: 2026-11-15 11:54 | Price: $115.68 | Mkt Cap: $41B*
+*Generated: 2026-11-16 12:36 | Price: $115.68 | Mkt Cap: $41B*
 
 ## Sector Context
 Technology / Software - Application

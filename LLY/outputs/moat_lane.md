@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LLY
-*Generated: 2026-11-15 11:53 | Price: $1443.5 | Mkt Cap: $1286B*
+*Generated: 2026-11-16 12:35 | Price: $1443.5 | Mkt Cap: $1286B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General
@@ -23,7 +23,7 @@ Healthcare / Drug Manufacturers - General
 | Quality | 7.5/10 | 30% | 2.2 | Avg ROIC: 26.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 34% (stable); FCF/NI: 12% (weak conversion); Gross margin: 84% (pricing power for Healthcare) | - |
 | Management | 7.5/10 | 25% | 1.9 | Insider value: $3.7B (0.3%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 84% vs sector strong cutoff 55% — strong pricing power; Operating margin 51% — durable for Healthcare; Rev growth 39% — demand pull | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 28.5x — growth premium; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 0.7%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 28.4x — growth premium; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 0.7%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
 
 ## Buffett Score: 7.4 / 10

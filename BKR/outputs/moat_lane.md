@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BKR
-*Generated: 2026-11-15 11:51 | Price: $49.44 | Mkt Cap: $49B*
+*Generated: 2026-11-16 12:34 | Price: $49.44 | Mkt Cap: $49B*
 
 ## Sector Context
 Energy / Oil & Gas Equipment & Services

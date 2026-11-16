@@ -1,7 +1,7 @@
 # Buffett/Munger Moat Lane: CARR
-*Generated: 2026-11-15 11:51 | Price: $54.2 | Mkt Cap: $44B*
+*Generated: 2026-11-16 12:34 | Price: $54.2 | Mkt Cap: $44B*
 
-> ⚠ DATA: yfinance misclassified Vanguard Capital Management LLC (6.3% inst.) as insider
+> ⚠ DATA: yfinance misclassified Vanguard Capital Management LLC (6.4% inst.) as insider
 
 ## Sector Context
 Industrials / Building Products & Equipment

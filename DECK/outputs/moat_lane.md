@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DECK
-*Generated: 2026-11-15 11:52 | Price: $86.82 | Mkt Cap: $12B*
+*Generated: 2026-11-16 12:34 | Price: $86.82 | Mkt Cap: $12B*
 
 ## Sector Context
 Consumer Cyclical / Footwear & Accessories
@@ -36,7 +36,7 @@ Consumer Cyclical / Footwear & Accessories
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Footwear & Accessories
-- **Margin of Safety**: 117% — PRESENT (IV $189 vs $87 at 25x)
+- **Margin of Safety**: 123% — PRESENT (IV $194 vs $87 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
 - **Incentive-Caused Bias**: Weak alignment — only 2.1% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
