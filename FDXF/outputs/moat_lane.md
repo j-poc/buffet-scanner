@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FDXF
-*Generated: 2026-11-16 12:35 | Price: $133.93 | Mkt Cap: $20B*
+*Generated: 2026-11-17 12:59 | Price: $132.91 | Mkt Cap: $20B*
 
 ## Sector Context
 Industrials / Integrated Freight & Logistics
@@ -12,7 +12,7 @@ Industrials / Integrated Freight & Logistics
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 6.3x | 30% | -40% | YES |
-| 3 | Management / Governance Failure | Insider ownership 20.5%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 20.1%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -21,9 +21,9 @@ Industrials / Integrated Freight & Logistics
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.5/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 51.2% (3y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 59% from prior peak; 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 48% (weak conversion); Gross margin: 29% | ROIC declining |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 20.5% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 20.1% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 20.1% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 20.1% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 29% — moderate moat for Industrials; Operating margin 6% — thin for Industrials | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 26.0x — growth premium; 52w range position: 32%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.8x — growth premium; 52w range position: 30%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
 ## Buffett Score: 5.2 / 10
@@ -36,9 +36,9 @@ Industrials / Integrated Freight & Logistics
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Integrated Freight & Logistics
-- **Margin of Safety**: -62% — ABSENT ($134 > IV $51 at 15x for -50% growth)
+- **Margin of Safety**: -62% — ABSENT ($133 > IV $51 at 15x for -50% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
-- **Incentive-Caused Bias**: Aligned — 20.5% insider ownership
+- **Incentive-Caused Bias**: Aligned — 20.1% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

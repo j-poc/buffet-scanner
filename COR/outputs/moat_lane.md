@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COR
-*Generated: 2026-11-16 12:34 | Price: $359.03 | Mkt Cap: $69B*
+*Generated: 2026-11-17 12:58 | Price: $356.94 | Mkt Cap: $68B*
 
 ## Sector Context
 Healthcare / Medical Distribution
@@ -12,7 +12,7 @@ Healthcare / Medical Distribution
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.0x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 4.9%; key-man / succession risk | 15% | -20% | No |
+| 3 | Management / Governance Failure | Insider ownership 4.4%; key-man / succession risk | 15% | -20% | No |
 
 ---
 
@@ -21,12 +21,12 @@ Healthcare / Medical Distribution
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.5/10 | 30% | 1.6 | ROIC declining trend; Avg ROIC: 32.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 32% (stable); FCF/NI: 183% (strong); Gross margin: 4% (below Healthcare norm) | ROIC declining |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 4.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: 5.6% of shares (SBC concern) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 4.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 5.6% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 4% — below Healthcare moderate cutoff 35%; Operating margin 1% — thin for Healthcare | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 16.5x — fair price; Near 52w high (86% of range) — Mr. Market greedy; Owner earnings yield: 2.6%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.5x — fair price; 52w range position: 84%; Owner earnings yield: 2.6%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
-## Buffett Score: 5.3 / 10
+## Buffett Score: 5.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,13 +36,13 @@ Healthcare / Medical Distribution
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Distribution
-- **Margin of Safety**: -15% — ABSENT ($359 > IV $305 at 17x for 6% growth)
-- **Lollapalooza Effect**: No (0 forces only: none)
-- **Incentive-Caused Bias**: Weak alignment — only 4.9% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Margin of Safety**: -15% — ABSENT ($357 > IV $305 at 17x for 6% growth)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
+- **Incentive-Caused Bias**: Weak alignment — only 4.4% insider ownership
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (0 forces only: none)
+No (1 forces only: attractive valuation)
 
 ---
 

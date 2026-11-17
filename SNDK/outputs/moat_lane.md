@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SNDK
-*Generated: 2026-11-16 12:39 | Price: $885.01 | Mkt Cap: $126B*
+*Generated: 2026-11-17 13:01 | Price: $809.11 | Mkt Cap: $115B*
 
 ## Sector Context
 Technology / Computer Hardware
@@ -12,7 +12,7 @@ Technology / Computer Hardware
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Computer Hardware | 25% | -35% | YES |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 1.7%; key-man / succession risk | 15% | -20% | No |
+| 3 | Management / Governance Failure | Insider ownership 1.1%; key-man / succession risk | 15% | -20% | No |
 
 ---
 
@@ -21,9 +21,9 @@ Technology / Computer Hardware
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.4/10 | 30% | 1.6 | Avg ROIC: 17.5% (3y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 65% (severe cyclicality); FCF/NI: 56%; Gross margin: 80% (pricing power for Technology) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.3% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.3% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 80% vs sector strong cutoff 60% — strong pricing power; Operating margin 73% — durable for Technology; Rev growth 378% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 3.1x — deep value; 52w range position: 32%; Owner earnings yield: 8.9% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 2.8x — deep value; Near 52w low (29% of range) — Mr. Market fearful; Owner earnings yield: 9.8% (>5%) | - |
 | **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
 
 ## Buffett Score: 7.4 / 10
@@ -36,10 +36,10 @@ Technology / Computer Hardware
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Computer Hardware
-- **Margin of Safety**: 253% — PRESENT (IV $3128 vs $885 at 25x)
+- **Margin of Safety**: 287% — PRESENT (IV $3128 vs $809 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
-- **Incentive-Caused Bias**: Weak alignment — only 1.7% insider ownership
-- **Mr. Market**: Neutral
+- **Incentive-Caused Bias**: Weak alignment — only 1.1% insider ownership
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 YES — 3 forces aligning: strong moat, attractive valuation, secular growth

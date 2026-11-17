@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VLO
-*Generated: 2026-11-16 12:39 | Price: $379.83 | Mkt Cap: $106B*
+*Generated: 2026-11-17 13:04 | Price: $369.73 | Mkt Cap: $103B*
 
 ## Sector Context
 Energy / Oil & Gas Refining & Marketing
@@ -12,7 +12,7 @@ Energy / Oil & Gas Refining & Marketing
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.5x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 0.7%; key-man / succession risk | 20% | -30% | YES |
+| 3 | Management / Governance Failure | Insider ownership 0.5%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -21,9 +21,9 @@ Energy / Oil & Gas Refining & Marketing
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.2/10 | 30% | 0.7 | ROIC declining trend; Avg ROIC: 19.8% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 80% from prior peak; 5y price drawdown: 41% (moderate cyclicality); FCF/NI: 153% (strong); Gross margin: 20% | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | Gross margin 20% — moderate moat for Energy; Operating margin 12%; Rev growth 46% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.2x — deep value; 52w range position: 73%; Owner earnings yield: 11.9% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.2x — deep value; 52w range position: 70%; Owner earnings yield: 12.2% (>5%) | - |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
 ## Buffett Score: 5.4 / 10
@@ -36,9 +36,9 @@ Energy / Oil & Gas Refining & Marketing
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Refining & Marketing
-- **Margin of Safety**: 189% — PRESENT (IV $1099 vs $380 at 25x)
+- **Margin of Safety**: 197% — PRESENT (IV $1099 vs $370 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
-- **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

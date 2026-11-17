@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MDT
-*Generated: 2026-11-16 12:35 | Price: $102.86 | Mkt Cap: $132B*
+*Generated: 2026-11-17 13:00 | Price: $102.88 | Mkt Cap: $132B*
 
 ## Sector Context
 Healthcare / Medical Devices
@@ -12,7 +12,7 @@ Healthcare / Medical Devices
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.7x | 15% | -25% | No |
-| 3 | Management / Governance Failure | Insider ownership 1.2%; key-man / succession risk | 15% | -20% | No |
+| 3 | Management / Governance Failure | Insider ownership 0.4%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -21,13 +21,13 @@ Healthcare / Medical Devices
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 6.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 37% (stable); FCF/NI: 122% (strong); Gross margin: 65% (pricing power for Healthcare) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 65% vs sector strong cutoff 55% — strong pricing power; Operating margin 20% — durable for Healthcare | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 16.1x — fair price; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 4.1%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 16.1x — fair price; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 4.1%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
-## Buffett Score: 6.6 / 10
-## Alpha Adjustment: +0.16
+## Buffett Score: 6.2 / 10
+## Alpha Adjustment: +0.12
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -38,7 +38,7 @@ Healthcare / Medical Devices
 - **Circle of Competence**: Healthcare / Medical Devices
 - **Margin of Safety**: -1% — ABSENT ($103 > IV $102 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
-- **Incentive-Caused Bias**: Weak alignment — only 1.2% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
@@ -48,7 +48,7 @@ No (1 forces only: strong moat)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.16 applied to composite alpha score
+Buffett Premium: +0.12 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

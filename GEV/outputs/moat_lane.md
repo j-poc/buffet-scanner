@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GEV
-*Generated: 2026-11-16 12:35 | Price: $803.13 | Mkt Cap: $213B*
+*Generated: 2026-11-17 12:59 | Price: $763.57 | Mkt Cap: $202B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
@@ -12,7 +12,7 @@ Industrials / Specialty Industrial Machinery
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.7x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 0.5%; key-man / succession risk | 20% | -30% | YES |
+| 3 | Management / Governance Failure | Insider ownership 0.1%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -21,24 +21,24 @@ Industrials / Specialty Industrial Machinery
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: -0.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 38% (stable); FCF/NI: 27% (weak conversion); Gross margin: 22% (below Industrials norm) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 4.5/10 | 25% | 1.1 | Gross margin 22% — below Industrials moderate cutoff 22%; Operating margin 8%; Rev growth 27% — demand pull | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 30.8x — expensive; 52w range position: 41%; Owner earnings yield: 10.4% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
+| Valuation Fit | 6.5/10 | 20% | 1.3 | P/E 29.3x — growth premium; 52w range position: 35%; Owner earnings yield: 10.9% (>5%); Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
 
-## Buffett Score: 3.9 / 10
-## Alpha Adjustment: -0.21
-## Conviction: AVOID
-## Verdict: Avoid
+## Buffett Score: 4.3 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Industrial Machinery
-- **Margin of Safety**: 19% — thin (IV $952 at 25x)
+- **Margin of Safety**: 25% — thin (IV $952 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
-- **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
@@ -48,7 +48,7 @@ No (1 forces only: secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.21 applied to composite alpha score
-Conviction Gate: AVOID — Do not initiate position
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
 Half-life adjustment: N/A
 ```

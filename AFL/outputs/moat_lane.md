@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AFL
-*Generated: 2026-11-16 12:33 | Price: $127.61 | Mkt Cap: $63B*
+*Generated: 2026-11-17 12:58 | Price: $128.08 | Mkt Cap: $63B*
 
 > ⚠ DATA: yfinance misclassified Japan Post Holdings Co., Ltd. (10.2% inst.) as insider
 
@@ -22,10 +22,10 @@ Financial Services / Insurance - Life
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.5/10 | 30% | 1.6 | ROE: 12.2% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 20% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Quality | 5.5/10 | 30% | 1.6 | ROE: 12.2% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 0% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | ROE 12% — adequate (Financial Services); Operating margin 27% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.5x — fair price; Near 52w high (86% of range) — Mr. Market greedy; Owner earnings yield: 6.0% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.5x — fair price; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 6.0% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
 ## Buffett Score: 5.9 / 10
@@ -38,7 +38,7 @@ Financial Services / Insurance - Life
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Life
-- **Margin of Safety**: -19% — ABSENT ($128 > IV $103 at 15x for -80% growth)
+- **Margin of Safety**: -20% — ABSENT ($128 > IV $103 at 15x for -80% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

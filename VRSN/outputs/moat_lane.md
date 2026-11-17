@@ -1,5 +1,7 @@
 # Buffett/Munger Moat Lane: VRSN
-*Generated: 2026-11-16 12:39 | Price: $313.02 | Mkt Cap: $28B*
+*Generated: 2026-11-17 13:04 | Price: $308.43 | Mkt Cap: $28B*
+
+> ⚠ DATA: yfinance misclassified Blackrock Inc. (9.6% inst.) as insider
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -12,7 +14,7 @@ Technology / Software - Infrastructure
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Software - Infrastructure | 25% | -35% | YES |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.5x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 11.0%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -21,13 +23,13 @@ Technology / Software - Infrastructure
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 365.8% (2y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 39% (stable); FCF/NI: 115% (strong); Gross margin: 89% (pricing power for Technology) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 11.0% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 6.0% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.0% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 89% vs sector strong cutoff 60% — strong pricing power; Operating margin 68% — durable for Technology | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 28.6x — growth premium; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 2.9%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **8.0/10** | **100%** | **8.0** | | |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 28.1x — growth premium; Near 52w high (86% of range) — Mr. Market greedy; Owner earnings yield: 2.9%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
 
-## Buffett Score: 8.0 / 10
-## Alpha Adjustment: +0.30
+## Buffett Score: 6.7 / 10
+## Alpha Adjustment: +0.17
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,9 +38,9 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: -55% — ABSENT ($313 > IV $139 at 15x for 4% growth)
+- **Margin of Safety**: -55% — ABSENT ($308 > IV $139 at 15x for 4% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
-- **Incentive-Caused Bias**: Aligned — 11.0% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
@@ -48,7 +50,7 @@ No (2 forces only: high quality, strong moat)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.30 applied to composite alpha score
+Buffett Premium: +0.17 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CSCO
-*Generated: 2026-11-16 12:34 | Price: $95.64 | Mkt Cap: $377B*
+*Generated: 2026-11-17 12:58 | Price: $94.52 | Mkt Cap: $372B*
 
 ## Sector Context
 Technology / Communication Equipment
@@ -12,7 +12,7 @@ Technology / Communication Equipment
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Communication Equipment | 25% | -35% | YES |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.4x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 0.3%; key-man / succession risk | 20% | -30% | YES |
+| 3 | Management / Governance Failure | Insider ownership 0.1%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -21,9 +21,9 @@ Technology / Communication Equipment
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.8/10 | 30% | 1.1 | ROIC declining trend; Avg ROIC: 17.0% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 37% (stable); FCF/NI: 119% (strong); Gross margin: 64% (pricing power for Technology) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.1% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.1% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 64% vs sector strong cutoff 60% — strong pricing power; Operating margin 27%; Rev growth 24% — demand pull | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.9x — fair price; 52w range position: 40%; Owner earnings yield: 2.9%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.6x — fair price; 52w range position: 38%; Owner earnings yield: 2.9%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,9 +36,9 @@ Technology / Communication Equipment
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Communication Equipment
-- **Margin of Safety**: -2% — ABSENT ($96 > IV $94 at 25x for 25% growth)
+- **Margin of Safety**: -1% — ABSENT ($95 > IV $94 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
-- **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

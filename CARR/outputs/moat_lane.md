@@ -1,7 +1,5 @@
 # Buffett/Munger Moat Lane: CARR
-*Generated: 2026-11-16 12:34 | Price: $54.2 | Mkt Cap: $44B*
-
-> ⚠ DATA: yfinance misclassified Vanguard Capital Management LLC (6.4% inst.) as insider
+*Generated: 2026-11-17 12:58 | Price: $51.67 | Mkt Cap: $42B*
 
 ## Sector Context
 Industrials / Building Products & Equipment
@@ -14,7 +12,7 @@ Industrials / Building Products & Equipment
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.7x | 15% | -25% | No |
-| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
+| 3 | Management / Governance Failure | Insider ownership 4.8%; key-man / succession risk | 15% | -20% | No |
 
 ---
 
@@ -23,12 +21,12 @@ Industrials / Building Products & Equipment
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 74% from prior peak; 5y price drawdown: 40% (stable); FCF/NI: 86% (strong); Gross margin: 24% | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 4.9% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.9% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 24% — moderate moat for Industrials; Operating margin 9% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 17.0x — fair price; Near 52w low (15% of range) — Mr. Market fearful; Owner earnings yield: 4.4%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.2x — fair price; Near 52w low (5% of range) — Mr. Market fearful; Owner earnings yield: 4.6%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
-## Buffett Score: 4.6 / 10
+## Buffett Score: 5.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -40,7 +38,7 @@ Industrials / Building Products & Equipment
 - **Circle of Competence**: Industrials / Building Products & Equipment
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
-- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 4.8% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check

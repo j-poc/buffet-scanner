@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AXP
-*Generated: 2026-11-16 12:33 | Price: $320.6 | Mkt Cap: $215B*
+*Generated: 2026-11-17 12:58 | Price: $319.05 | Mkt Cap: $214B*
 
 ## Sector Context
 Financial Services / Credit Services
@@ -12,7 +12,7 @@ Financial Services / Credit Services
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 23.0%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 22.8%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -21,12 +21,12 @@ Financial Services / Credit Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 8.0/10 | 30% | 2.4 | ROE: 35.9% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 32% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 23.0% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 22.8% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 22.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 22.8% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 36% — strong franchise (Financial Services); Operating margin 19% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.9x — fair price; 52w range position: 31%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **8.1/10** | **100%** | **8.1** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.8x — fair price; Near 52w low (29% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **8.4/10** | **100%** | **8.4** | | |
 
-## Buffett Score: 8.1 / 10
+## Buffett Score: 8.4 / 10
 ## Alpha Adjustment: +0.40
 ## Conviction: HIGH
 ## Verdict: Own Forever
@@ -36,10 +36,10 @@ Financial Services / Credit Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Credit Services
-- **Margin of Safety**: 38% — PRESENT (IV $444 vs $321 at 25x)
+- **Margin of Safety**: 39% — PRESENT (IV $444 vs $319 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: high quality, attractive valuation)
-- **Incentive-Caused Bias**: Aligned — 23.0% insider ownership
-- **Mr. Market**: Neutral
+- **Incentive-Caused Bias**: Aligned — 22.8% insider ownership
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (2 forces only: high quality, attractive valuation)

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PLTR
-*Generated: 2026-11-16 12:36 | Price: $167.99 | Mkt Cap: $405B*
+*Generated: 2026-11-17 13:01 | Price: $160.39 | Mkt Cap: $386B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -12,7 +12,7 @@ Technology / Software - Infrastructure
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Software - Infrastructure | 25% | -35% | YES |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.1x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 3.6%; key-man / succession risk | 15% | -20% | No |
+| 3 | Management / Governance Failure | Insider ownership 3.5%; key-man / succession risk | 15% | -20% | No |
 
 ---
 
@@ -20,10 +20,10 @@ Technology / Software - Infrastructure
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 4.4% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 74% (severe cyclicality); FCF/NI: 165% (strong); Gross margin: 85% (pricing power for Technology) | - |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 3.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 8.3% of shares (SBC concern) | - |
+| Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 4.4% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 73% (severe cyclicality); FCF/NI: 165% (strong); Gross margin: 85% (pricing power for Technology) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 3.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 8.3% of shares (SBC concern) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 85% vs sector strong cutoff 60% — strong pricing power; Operating margin 46% — durable for Technology; Rev growth 96% — demand pull | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 66.3x — extreme premium; 52w range position: 58%; Owner earnings yield: 0.7%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 63.2x — extreme premium; 52w range position: 51%; Owner earnings yield: 0.7%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
 ## Buffett Score: 5.3 / 10
@@ -36,9 +36,9 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: -79% — ABSENT ($168 > IV $36 at 25x for 25% growth)
+- **Margin of Safety**: -79% — ABSENT ($160 > IV $34 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
-- **Incentive-Caused Bias**: Weak alignment — only 3.6% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 3.5% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
