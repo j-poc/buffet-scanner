@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TSN
-*Generated: 2026-11-17 13:04 | Price: $63.95 | Mkt Cap: $22B*
+*Generated: 2026-11-18 12:57 | Price: $63.65 | Mkt Cap: $22B*
 
 ## Sector Context
 Consumer Defensive / Farm Products
@@ -12,7 +12,7 @@ Consumer Defensive / Farm Products
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.1x | 15% | -25% | No |
-| 3 | Management / Governance Failure | Insider ownership 2.6%; key-man / succession risk | 15% | -20% | No |
+| 3 | Management / Governance Failure | Insider ownership 2.7%; key-man / succession risk | 15% | -20% | No |
 
 ---
 
@@ -20,13 +20,13 @@ Consumer Defensive / Farm Products
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 4.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 120% from prior peak; 5y price drawdown: 52% (moderate cyclicality); FCF/NI: 121% (strong); Gross margin: 6% (below Consumer Defensive norm) | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.1% (low) | - |
+| Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: 2.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 43% from prior peak; 5y price drawdown: 52% (moderate cyclicality); FCF/NI: 207% (strong); Gross margin: 6% (below Consumer Defensive norm) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.1% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 6% — below Consumer Defensive moderate cutoff 30%; Operating margin 2% — thin for Consumer Defensive | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.2x — deep value; 52w range position: 72%; Owner earnings yield: 6.2% (>5%) | - |
-| **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.4x — deep value; 52w range position: 70%; Owner earnings yield: 6.2% (>5%) | - |
+| **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
-## Buffett Score: 4.2 / 10
+## Buffett Score: 4.4 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,7 +38,7 @@ Consumer Defensive / Farm Products
 - **Circle of Competence**: Consumer Defensive / Farm Products
 - **Margin of Safety**: -66% — ABSENT ($64 > IV $22 at 17x for 5% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
-- **Incentive-Caused Bias**: Weak alignment — only 2.6% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 2.7% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EG
-*Generated: 2026-11-17 12:59 | Price: $433.0 | Mkt Cap: $16B*
+*Generated: 2026-11-18 12:53 | Price: $424.47 | Mkt Cap: $16B*
 
 ## Sector Context
 Financial Services / Insurance - Reinsurance
@@ -23,7 +23,7 @@ Financial Services / Insurance - Reinsurance
 | Quality | 5.7/10 | 30% | 1.7 | ROE: 12.8% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 24% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.9% (low) | - |
 | Moat | 5.5/10 | 25% | 1.4 | ROE 13% — adequate (Financial Services); Operating margin 15% — thin for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.1x — deep value; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 10.1% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.0x — deep value; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 10.3% (>5%) | - |
 | **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
 
 ## Buffett Score: 6.1 / 10
@@ -36,7 +36,7 @@ Financial Services / Insurance - Reinsurance
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Reinsurance
-- **Margin of Safety**: 65% — PRESENT (IV $714 vs $433 at 15x)
+- **Margin of Safety**: 68% — PRESENT (IV $714 vs $424 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Greedy — exercise caution

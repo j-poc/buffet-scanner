@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: J
-*Generated: 2026-11-17 13:00 | Price: $159.82 | Mkt Cap: $19B*
+*Generated: 2026-11-18 12:54 | Price: $158.23 | Mkt Cap: $19B*
 
 ## Sector Context
 Industrials / Engineering & Construction
@@ -21,9 +21,9 @@ Industrials / Engineering & Construction
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 7.7% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 64% from prior peak; 5y price drawdown: 34% (stable); FCF/NI: 126% (strong); Gross margin: 22% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.5% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 22% — moderate moat for Industrials; Operating margin 6% — thin for Industrials; Rev growth 34% — demand pull | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.4x — fair price; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 3.5%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.2x — fair price; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 3.5%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
 ## Buffett Score: 5.2 / 10
@@ -36,7 +36,7 @@ Industrials / Engineering & Construction
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Engineering & Construction
-- **Margin of Safety**: -72% — ABSENT ($160 > IV $45 at 15x for -25% growth)
+- **Margin of Safety**: -71% — ABSENT ($158 > IV $45 at 15x for -25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Greedy — exercise caution

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RMD
-*Generated: 2026-11-17 13:01 | Price: $238.19 | Mkt Cap: $34B*
+*Generated: 2026-11-18 12:55 | Price: $237.85 | Mkt Cap: $33B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies

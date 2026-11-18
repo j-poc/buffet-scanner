@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OMC
-*Generated: 2026-11-17 13:01 | Price: $88.0 | Mkt Cap: $24B*
+*Generated: 2026-11-18 12:54 | Price: $87.6 | Mkt Cap: $24B*
 
 ## Sector Context
 Communication Services / Advertising Agencies
@@ -23,7 +23,7 @@ Communication Services / Advertising Agencies
 | Quality | 1.8/10 | 30% | 0.5 | ROIC declining trend; Avg ROIC: 14.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 104% from prior peak; 5y price drawdown: 33% (stable); FCF/NI: -1212% (weak conversion); Gross margin: 19% (below Communication Services norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 19% — below Communication Services moderate cutoff 40%; Operating margin 14% — thin for Communication Services; Rev growth 59% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.0x — deep value; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 19.1% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.8x — deep value; Near 52w high (92% of range) — Mr. Market greedy; Owner earnings yield: 19.2% (>5%) | - |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
 ## Buffett Score: 4.5 / 10

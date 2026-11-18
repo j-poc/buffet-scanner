@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PLTR
-*Generated: 2026-11-17 13:01 | Price: $160.39 | Mkt Cap: $386B*
+*Generated: 2026-11-18 12:54 | Price: $156.56 | Mkt Cap: $377B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -20,10 +20,10 @@ Technology / Software - Infrastructure
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 4.4% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 73% (severe cyclicality); FCF/NI: 165% (strong); Gross margin: 85% (pricing power for Technology) | - |
+| Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 4.4% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 72% (severe cyclicality); FCF/NI: 165% (strong); Gross margin: 85% (pricing power for Technology) | - |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 3.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 8.3% of shares (SBC concern) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 85% vs sector strong cutoff 60% — strong pricing power; Operating margin 46% — durable for Technology; Rev growth 96% — demand pull | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 63.2x — extreme premium; 52w range position: 51%; Owner earnings yield: 0.7%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 61.7x — extreme premium; 52w range position: 47%; Owner earnings yield: 0.7%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
 ## Buffett Score: 5.3 / 10
@@ -36,7 +36,7 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: -79% — ABSENT ($160 > IV $34 at 25x for 25% growth)
+- **Margin of Safety**: -77% — ABSENT ($157 > IV $36 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 3.5% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COIN
-*Generated: 2026-11-17 12:59 | Price: $119.84 | Mkt Cap: $32B*
+*Generated: 2026-11-18 12:52 | Price: $115.02 | Mkt Cap: $30B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges
@@ -20,10 +20,10 @@ Financial Services / Financial Data & Stock Exchanges
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.5/10 | 30% | 0.4 | ROE: -4.7% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 91% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Quality | 1.5/10 | 30% | 0.4 | ROE: -4.7% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 90% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.3% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | ROE -5% — weak (Financial Services); Operating margin 0% — thin for Financial Services | Weak pricing |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 48.8x — expensive; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 11.6% (>5%); Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 46.8x — expensive; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 12.1% (>5%); Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
 ## Buffett Score: 4.0 / 10

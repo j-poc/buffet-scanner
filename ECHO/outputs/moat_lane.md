@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ECHO
-*Generated: 2026-11-17 12:59 | Price: $99.47 | Mkt Cap: $29B*
+*Generated: 2026-11-18 12:53 | Price: $99.16 | Mkt Cap: $29B*
 
 ## Sector Context
 Communication Services / Telecom Services
@@ -36,7 +36,7 @@ Communication Services / Telecom Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Telecom Services
-- **Margin of Safety**: 316% — PRESENT (IV $414 vs $99 at 15x)
+- **Margin of Safety**: 317% — PRESENT (IV $414 vs $99 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 13.5% insider ownership
 - **Mr. Market**: Neutral
