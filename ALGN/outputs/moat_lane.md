@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALGN
-*Generated: 2026-11-18 12:51 | Price: $163.46 | Mkt Cap: $12B*
+*Generated: 2026-11-19 12:42 | Price: $163.96 | Mkt Cap: $12B*
 
 > ⚠ DATA: yfinance misclassified FMR, LLC (7.8% inst.) as insider
 

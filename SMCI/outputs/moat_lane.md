@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SMCI
-*Generated: 2026-11-18 12:57 | Price: $24.14 | Mkt Cap: $16B*
+*Generated: 2026-11-19 12:48 | Price: $24.37 | Mkt Cap: $16B*
 
 ## Sector Context
 Technology / Computer Hardware
@@ -36,7 +36,7 @@ Technology / Computer Hardware
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Computer Hardware
-- **Margin of Safety**: 391% — PRESENT (IV $118 vs $24 at 25x)
+- **Margin of Safety**: 386% — PRESENT (IV $118 vs $24 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Aligned — 12.6% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BALL
-*Generated: 2026-11-18 12:52 | Price: $64.89 | Mkt Cap: $17B*
+*Generated: 2026-11-19 12:43 | Price: $64.89 | Mkt Cap: $17B*
 
 ## Sector Context
 Consumer Cyclical / Packaging & Containers

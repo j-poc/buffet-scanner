@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SRE
-*Generated: 2026-11-18 12:55 | Price: $77.51 | Mkt Cap: $51B*
+*Generated: 2026-11-19 12:46 | Price: $77.52 | Mkt Cap: $51B*
 
 ## Sector Context
 Utilities / Utilities - Diversified

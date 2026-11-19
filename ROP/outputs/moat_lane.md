@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ROP
-*Generated: 2026-11-18 12:55 | Price: $471.92 | Mkt Cap: $47B*
+*Generated: 2026-11-19 12:46 | Price: $470.87 | Mkt Cap: $47B*
 
 ## Sector Context
 Technology / Software - Application
@@ -36,7 +36,7 @@ Technology / Software - Application
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Application
-- **Margin of Safety**: 34% — PRESENT (IV $632 vs $472 at 25x)
+- **Margin of Safety**: 34% — PRESENT (IV $632 vs $471 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

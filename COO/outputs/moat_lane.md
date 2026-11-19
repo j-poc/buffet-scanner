@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COO
-*Generated: 2026-11-18 12:52 | Price: $60.72 | Mkt Cap: $12B*
+*Generated: 2026-11-19 12:43 | Price: $60.75 | Mkt Cap: $12B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies

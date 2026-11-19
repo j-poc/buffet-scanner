@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MMM
-*Generated: 2026-11-18 12:51 | Price: $180.88 | Mkt Cap: $93B*
+*Generated: 2026-11-19 12:42 | Price: $181.05 | Mkt Cap: $94B*
 
 ## Sector Context
 Industrials / Conglomerates
@@ -20,13 +20,13 @@ Industrials / Conglomerates
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: 6.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 221% from prior peak; 5y price drawdown: 49% (moderate cyclicality); FCF/NI: 13% (weak conversion); Gross margin: 40% (pricing power for Industrials) | - |
+| Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: 6.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 221% from prior peak; 5y price drawdown: 0% (stable); FCF/NI: 13% (weak conversion); Gross margin: 40% (pricing power for Industrials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 40% vs sector strong cutoff 35% — strong pricing power; Operating margin 20% — durable for Industrials | - |
 | Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 18.2x — fair price; 52w range position: 72%; Owner earnings yield: 6.8% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
+| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
-## Buffett Score: 5.3 / 10
+## Buffett Score: 5.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

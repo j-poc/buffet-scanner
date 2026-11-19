@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TER
-*Generated: 2026-11-18 12:57 | Price: $234.18 | Mkt Cap: $37B*
+*Generated: 2026-11-19 12:48 | Price: $235.21 | Mkt Cap: $37B*
 
 ## Sector Context
 Technology / Semiconductor Equipment & Materials
@@ -36,7 +36,7 @@ Technology / Semiconductor Equipment & Materials
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductor Equipment & Materials
-- **Margin of Safety**: -7% — ABSENT ($234 > IV $217 at 25x for 25% growth)
+- **Margin of Safety**: -8% — ABSENT ($235 > IV $217 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
