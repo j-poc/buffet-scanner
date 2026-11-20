@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BRK-B
-*Generated: 2026-11-19 12:43 | Price: $574.62 | Mkt Cap: $1221B*
+*Generated: 2026-11-20 12:40 | Price: $572.04 | Mkt Cap: $1215B*
 
 ## Sector Context
 Financial Services / Insurance - Diversified
@@ -21,9 +21,9 @@ Financial Services / Insurance - Diversified
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.1/10 | 30% | 1.2 | ROE: 10.6% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 27% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider value: $171B (14.0%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 99.9% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider value: $170B (14.0%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 99.9% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | ROE 11% — adequate (Financial Services); Operating margin 27% | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.2x — growth premium; 52w range position: 83%; Owner earnings yield: 4.3%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.1x — growth premium; 52w range position: 81%; Owner earnings yield: 4.3%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,7 +36,7 @@ Financial Services / Insurance - Diversified
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Diversified
-- **Margin of Safety**: -7% — ABSENT ($575 > IV $536 at 15x for -28% growth)
+- **Margin of Safety**: -6% — ABSENT ($572 > IV $536 at 15x for -28% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Aligned — 14.0% insider ownership
 - **Mr. Market**: Neutral

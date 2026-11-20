@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VYLR
-*Generated: 2026-11-19 12:49 | Price: $69.82 | Mkt Cap: $47B*
+*Generated: 2026-11-20 12:46 | Price: $67.77 | Mkt Cap: $45B*
 
 ## Sector Context
 Financial Services / Shell Companies
@@ -23,23 +23,23 @@ Financial Services / Shell Companies
 | Quality | 3.0/10 | 30% | 0.9 | ROE: 3.5% (financials — book-return proxy); Earnings: 1 down-year in 2 transitions; FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); No insider transaction data; Restricted stock: 0.2% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | ROE 3% — weak (Financial Services); Operating margin 17% — thin for Financial Services | Weak pricing |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 26.7x — growth premium; 52w range position: 39%; Owner earnings yield: 4.5%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 25.9x — growth premium; Near 52w low (22% of range) — Mr. Market fearful; Owner earnings yield: 4.6%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
 
-## Buffett Score: 4.0 / 10
-## Alpha Adjustment: -0.20
-## Conviction: AVOID
-## Verdict: Avoid
+## Buffett Score: 4.3 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Shell Companies
-- **Margin of Safety**: -96% — ABSENT ($70 > IV $3 at 15x for -6% growth)
+- **Margin of Safety**: -96% — ABSENT ($68 > IV $3 at 15x for -6% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (0 forces only: none)
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.20 applied to composite alpha score
-Conviction Gate: AVOID — Do not initiate position
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
 Half-life adjustment: N/A
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KDP
-*Generated: 2026-11-19 12:45 | Price: $35.01 | Mkt Cap: $50B*
+*Generated: 2026-11-20 12:42 | Price: $34.41 | Mkt Cap: $49B*
 
 ## Sector Context
 Consumer Defensive / Beverages - Non-Alcoholic
@@ -21,9 +21,9 @@ Consumer Defensive / Beverages - Non-Alcoholic
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 5.9% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 34% from prior peak; 5y price drawdown: 31% (stable); FCF/NI: 98% (strong); Gross margin: 50% (pricing power for Consumer Defensive) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.5% (low) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 4.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 5.1% of shares (SBC concern) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 50% vs sector strong cutoff 45% — strong pricing power; Operating margin 18% — durable for Consumer Defensive; Rev growth 71% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.8x — deep value; 52w range position: 76%; Owner earnings yield: 9.1% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.6x — deep value; 52w range position: 71%; Owner earnings yield: 9.2% (>5%) | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,7 +36,7 @@ Consumer Defensive / Beverages - Non-Alcoholic
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Beverages - Non-Alcoholic
-- **Margin of Safety**: -21% — ABSENT ($35 > IV $28 at 25x for 21% growth)
+- **Margin of Safety**: -19% — ABSENT ($34 > IV $28 at 25x for 21% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 4.5% insider ownership
 - **Mr. Market**: Neutral

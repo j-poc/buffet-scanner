@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RDDT
-*Generated: 2026-11-19 12:46 | Price: $94.09 | Mkt Cap: $18B*
+*Generated: 2026-11-20 12:45 | Price: $89.88 | Mkt Cap: $17B*
 
 ## Sector Context
 Communication Services / Internet Content & Information
@@ -20,10 +20,10 @@ Communication Services / Internet Content & Information
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: -4.4% (2y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 66% (severe cyclicality); FCF/NI: 60%; Gross margin: 92% (pricing power for Communication Services) | - |
+| Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: -4.4% (2y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 67% (severe cyclicality); FCF/NI: 60%; Gross margin: 92% (pricing power for Communication Services) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 3.8% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 92% vs sector strong cutoff 55% — strong pricing power; Operating margin 29% — durable for Communication Services; Rev growth 53% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.3x — deep value; Near 52w low (3% of range) — Mr. Market fearful; Owner earnings yield: 4.5% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.9x — deep value; Near 52w low (0% of range) — Mr. Market fearful; Owner earnings yield: 4.7% | - |
 | **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
 
 ## Buffett Score: 6.1 / 10
@@ -36,7 +36,7 @@ Communication Services / Internet Content & Information
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Internet Content & Information
-- **Margin of Safety**: 30% — PRESENT (IV $123 vs $94 at 25x)
+- **Margin of Safety**: 36% — PRESENT (IV $123 vs $90 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NOC
-*Generated: 2026-11-19 12:45 | Price: $542.99 | Mkt Cap: $77B*
+*Generated: 2026-11-20 12:42 | Price: $542.31 | Mkt Cap: $77B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -36,7 +36,7 @@ Industrials / Aerospace & Defense
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Aerospace & Defense
-- **Margin of Safety**: -12% — ABSENT ($543 > IV $475 at 15x for 3% growth)
+- **Margin of Safety**: -12% — ABSENT ($542 > IV $475 at 15x for 3% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
