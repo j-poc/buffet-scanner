@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TSCO
-*Generated: 2026-11-20 12:46 | Price: $38.74 | Mkt Cap: $20B*
+*Generated: 2026-11-21 12:28 | Price: $38.44 | Mkt Cap: $20B*
 
 ## Sector Context
 Consumer Cyclical / Specialty Retail
@@ -20,13 +20,13 @@ Consumer Cyclical / Specialty Retail
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.0/10 | 30% | 0.9 | ROIC declining trend; Avg ROIC: 30.1% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 0% (stable); FCF/NI: 58%; Gross margin: 36% (thin by design for Specialty Retail) | ROIC declining |
+| Quality | 2.5/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 30.1% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 53% (moderate cyclicality); FCF/NI: 58%; Gross margin: 36% (thin by design for Specialty Retail) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | ROA 7% / ROE 37% — scale moat (Specialty Retail); Operating margin 9% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.8x — fair price; 52w range position: 37%; Owner earnings yield: 0.6%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.7x — fair price; 52w range position: 36%; Owner earnings yield: 0.6%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
-## Buffett Score: 5.6 / 10
+## Buffett Score: 5.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Consumer Cyclical / Specialty Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Specialty Retail
-- **Margin of Safety**: -28% — ABSENT ($39 > IV $28 at 15x for -12% growth)
+- **Margin of Safety**: -27% — ABSENT ($38 > IV $28 at 15x for -12% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JBL
-*Generated: 2026-11-20 12:42 | Price: $246.44 | Mkt Cap: $25B*
+*Generated: 2026-11-21 12:23 | Price: $225.77 | Mkt Cap: $23B*
 
 ## Sector Context
 Technology / Electronic Components
@@ -20,14 +20,14 @@ Technology / Electronic Components
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.9/10 | 30% | 2.1 | Avg ROIC: 24.2% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 53% from prior peak; 5y price drawdown: 39% (stable); FCF/NI: 116% (strong); Gross margin: 9% (below Technology norm) | - |
+| Quality | 6.4/10 | 30% | 1.9 | Avg ROIC: 24.2% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 53% from prior peak; 5y price drawdown: 41% (moderate cyclicality); FCF/NI: 116% (strong); Gross margin: 9% (below Technology norm) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.1% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 9% — below Technology moderate cutoff 40%; Operating margin 5% — thin for Technology; Rev growth 29% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.1x — deep value; Near 52w low (24% of range) — Mr. Market fearful; Owner earnings yield: 5.1% (>5%) | - |
-| **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.2x — deep value; Near 52w low (14% of range) — Mr. Market fearful; Owner earnings yield: 5.5% (>5%) | - |
+| **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
 
-## Buffett Score: 6.4 / 10
-## Alpha Adjustment: +0.14
+## Buffett Score: 6.3 / 10
+## Alpha Adjustment: +0.13
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Technology / Electronic Components
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Electronic Components
-- **Margin of Safety**: -1% — ABSENT ($246 > IV $244 at 25x for 25% growth)
+- **Margin of Safety**: 8% — thin (IV $244 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 1.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
@@ -48,7 +48,7 @@ No (2 forces only: attractive valuation, secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.14 applied to composite alpha score
+Buffett Premium: +0.13 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

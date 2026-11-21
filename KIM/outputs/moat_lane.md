@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KIM
-*Generated: 2026-11-20 12:42 | Price: $25.34 | Mkt Cap: $17B*
+*Generated: 2026-11-21 12:23 | Price: $25.37 | Mkt Cap: $17B*
 
 ## Sector Context
 Real Estate / REIT - Retail
@@ -36,7 +36,7 @@ Real Estate / REIT - Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Retail
-- **Margin of Safety**: 6% — thin (IV $27 at 25x)
+- **Margin of Safety**: 5% — thin (IV $27 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 2.2% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RSG
-*Generated: 2026-11-20 12:45 | Price: $246.49 | Mkt Cap: $75B*
+*Generated: 2026-11-21 12:27 | Price: $246.59 | Mkt Cap: $75B*
 
 ## Sector Context
 Industrials / Waste Management
@@ -36,7 +36,7 @@ Industrials / Waste Management
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Waste Management
-- **Margin of Safety**: -50% — ABSENT ($246 > IV $123 at 17x for 10% growth)
+- **Margin of Safety**: -50% — ABSENT ($247 > IV $123 at 17x for 10% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

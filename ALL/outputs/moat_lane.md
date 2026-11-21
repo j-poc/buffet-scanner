@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALL
-*Generated: 2026-11-20 12:40 | Price: $266.77 | Mkt Cap: $66B*
+*Generated: 2026-11-21 12:21 | Price: $267.0 | Mkt Cap: $66B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty

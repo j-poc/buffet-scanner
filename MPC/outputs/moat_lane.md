@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MPC
-*Generated: 2026-11-20 12:42 | Price: $367.93 | Mkt Cap: $100B*
+*Generated: 2026-11-21 12:23 | Price: $367.19 | Mkt Cap: $100B*
 
 ## Sector Context
 Energy / Oil & Gas Refining & Marketing
@@ -36,7 +36,7 @@ Energy / Oil & Gas Refining & Marketing
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Refining & Marketing
-- **Margin of Safety**: 243% — PRESENT (IV $1262 vs $368 at 25x)
+- **Margin of Safety**: 244% — PRESENT (IV $1262 vs $367 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VYLR
-*Generated: 2026-11-20 12:46 | Price: $67.77 | Mkt Cap: $45B*
+*Generated: 2026-11-21 12:29 | Price: $68.09 | Mkt Cap: $45B*
 
 ## Sector Context
 Financial Services / Shell Companies
@@ -23,7 +23,7 @@ Financial Services / Shell Companies
 | Quality | 3.0/10 | 30% | 0.9 | ROE: 3.5% (financials — book-return proxy); Earnings: 1 down-year in 2 transitions; FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); No insider transaction data; Restricted stock: 0.2% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | ROE 3% — weak (Financial Services); Operating margin 17% — thin for Financial Services | Weak pricing |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 25.9x — growth premium; Near 52w low (22% of range) — Mr. Market fearful; Owner earnings yield: 4.6%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 26.0x — growth premium; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 4.6%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
 
 ## Buffett Score: 4.3 / 10

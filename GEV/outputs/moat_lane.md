@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GEV
-*Generated: 2026-11-20 12:41 | Price: $756.28 | Mkt Cap: $200B*
+*Generated: 2026-11-21 12:22 | Price: $699.33 | Mkt Cap: $185B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
@@ -20,13 +20,13 @@ Industrials / Specialty Industrial Machinery
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: -0.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 38% (stable); FCF/NI: 27% (weak conversion); Gross margin: 22% (below Industrials norm) | - |
+| Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: -0.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 40% (moderate cyclicality); FCF/NI: 27% (weak conversion); Gross margin: 22% (below Industrials norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 4.5/10 | 25% | 1.1 | Gross margin 22% — below Industrials moderate cutoff 22%; Operating margin 8%; Rev growth 27% — demand pull | - |
-| Valuation Fit | 6.5/10 | 20% | 1.3 | P/E 29.2x — growth premium; 52w range position: 34%; Owner earnings yield: 11.0% (>5%); Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
+| Valuation Fit | 8.0/10 | 20% | 1.6 | P/E 27.0x — growth premium; Near 52w low (23% of range) — Mr. Market fearful; Owner earnings yield: 11.9% (>5%); Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
-## Buffett Score: 4.3 / 10
+## Buffett Score: 4.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,13 +36,13 @@ Industrials / Specialty Industrial Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Industrial Machinery
-- **Margin of Safety**: 26% — thin (IV $952 at 25x)
-- **Lollapalooza Effect**: No (1 forces only: secular growth)
+- **Margin of Safety**: 36% — PRESENT (IV $952 vs $699 at 25x)
+- **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-No (1 forces only: secular growth)
+No (2 forces only: attractive valuation, secular growth)
 
 ---
 
