@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WFC
-*Generated: 2026-11-21 12:29 | Price: $78.62 | Mkt Cap: $236B*
+*Generated: 2026-11-22 12:30 | Price: $78.62 | Mkt Cap: $236B*
 
 ## Sector Context
 Financial Services / Banks - Diversified

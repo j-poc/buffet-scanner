@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: XOM
-*Generated: 2026-11-21 12:22 | Price: $159.99 | Mkt Cap: $653B*
+*Generated: 2026-11-22 12:25 | Price: $159.99 | Mkt Cap: $653B*
 
 ## Sector Context
 Energy / Oil & Gas Integrated

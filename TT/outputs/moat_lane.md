@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TT
-*Generated: 2026-11-21 12:28 | Price: $386.29 | Mkt Cap: $85B*
+*Generated: 2026-11-22 12:29 | Price: $386.29 | Mkt Cap: $85B*
 
 ## Sector Context
 Industrials / Building Products & Equipment
@@ -21,7 +21,7 @@ Industrials / Building Products & Equipment
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 8.3/10 | 30% | 2.5 | Avg ROIC: 20.5% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 40% (stable); FCF/NI: 94% (strong); Gross margin: 35% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); No insider transaction data; Restricted stock: 0.3% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 35% — moderate moat for Industrials; Operating margin 18% — durable for Industrials | - |
 | Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 21.8x — growth premium; Near 52w low (24% of range) — Mr. Market fearful; Owner earnings yield: 4.1%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.9/10** | **100%** | **6.9** | | |

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: INTU
-*Generated: 2026-11-21 12:23 | Price: $270.44 | Mkt Cap: $72B*
+*Generated: 2026-11-22 12:25 | Price: $270.44 | Mkt Cap: $72B*
 
 ## Sector Context
 Technology / Software - Application
@@ -21,7 +21,7 @@ Technology / Software - Application
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.8/10 | 30% | 2.0 | Avg ROIC: 14.3% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 68% (severe cyclicality); FCF/NI: 176% (strong); Gross margin: 81% (pricing power for Technology) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.5% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.6% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 81% vs sector strong cutoff 60% — strong pricing power; Operating margin 30% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.0x — deep value; Near 52w low (4% of range) — Mr. Market fearful; Owner earnings yield: 9.6% (>5%) | - |
 | **TOTAL** | **7.4/10** | **100%** | **7.4** | | |

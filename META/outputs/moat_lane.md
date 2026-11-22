@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: META
-*Generated: 2026-11-21 12:23 | Price: $560.84 | Mkt Cap: $1434B*
+*Generated: 2026-11-22 12:26 | Price: $560.84 | Mkt Cap: $1434B*
 
 ## Sector Context
 Communication Services / Internet Content & Information

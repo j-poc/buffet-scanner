@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PAYX
-*Generated: 2026-11-21 12:23 | Price: $112.63 | Mkt Cap: $40B*
+*Generated: 2026-11-22 12:26 | Price: $112.63 | Mkt Cap: $40B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.9% inst.) as insider
 

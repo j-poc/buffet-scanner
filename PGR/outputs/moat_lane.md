@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PGR
-*Generated: 2026-11-20 12:43 | Price: $229.96 | Mkt Cap: $133B*
+*Generated: 2026-11-22 12:26 | Price: $231.39 | Mkt Cap: $134B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty
@@ -20,10 +20,10 @@ Financial Services / Insurance - Property & Casualty
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.0/10 | 30% | 2.4 | ROE: 33.2% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 30% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
+| Quality | 8.0/10 | 30% | 2.4 | ROE: 33.2% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); No insider transaction data; Restricted stock: 0.1% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 33% — strong franchise (Financial Services); Operating margin 16% — thin for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.3x — deep value; 52w range position: 79%; Owner earnings yield: 9.8% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.4x — deep value; 52w range position: 81%; Owner earnings yield: 9.7% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.2/10** | **100%** | **7.2** | | |
 
 ## Buffett Score: 7.2 / 10

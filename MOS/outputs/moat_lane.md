@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MOS
-*Generated: 2026-11-21 12:23 | Price: $18.66 | Mkt Cap: $6B*
+*Generated: 2026-11-22 12:26 | Price: $18.66 | Mkt Cap: $6B*
 
 ## Sector Context
 Basic Materials / Agricultural Inputs

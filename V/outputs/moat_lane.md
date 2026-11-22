@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: V
-*Generated: 2026-11-21 12:28 | Price: $401.87 | Mkt Cap: $750B*
+*Generated: 2026-11-22 12:30 | Price: $401.87 | Mkt Cap: $750B*
 
 ## Sector Context
 Financial Services / Credit Services

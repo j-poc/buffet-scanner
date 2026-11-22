@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BRK-B
-*Generated: 2026-11-21 12:21 | Price: $570.0 | Mkt Cap: $1211B*
+*Generated: 2026-11-22 12:24 | Price: $570.0 | Mkt Cap: $1211B*
 
 ## Sector Context
 Financial Services / Insurance - Diversified

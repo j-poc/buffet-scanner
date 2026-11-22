@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DOC
-*Generated: 2026-11-21 12:22 | Price: $19.24 | Mkt Cap: $14B*
+*Generated: 2026-11-22 12:25 | Price: $19.24 | Mkt Cap: $14B*
 
 ## Sector Context
 Real Estate / REIT - Healthcare Facilities

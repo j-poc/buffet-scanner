@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DASH
-*Generated: 2026-11-21 12:22 | Price: $152.6 | Mkt Cap: $67B*
+*Generated: 2026-11-22 12:25 | Price: $152.6 | Mkt Cap: $67B*
 
 ## Sector Context
 Consumer Cyclical / Internet Retail

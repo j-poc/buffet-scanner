@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SKYD
-*Generated: 2026-11-21 12:28 | Price: $6.2 | Mkt Cap: $31B*
+*Generated: 2026-11-22 12:29 | Price: $6.2 | Mkt Cap: $31B*
 
 ## Sector Context
 Communication Services / Entertainment
