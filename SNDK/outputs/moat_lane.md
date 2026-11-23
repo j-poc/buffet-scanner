@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SNDK
-*Generated: 2026-11-22 12:29 | Price: $79.24 | Mkt Cap: $90B*
+*Generated: 2026-11-23 14:21 | Price: $79.24 | Mkt Cap: $90B*
 
 ## Sector Context
 Technology / Computer Hardware

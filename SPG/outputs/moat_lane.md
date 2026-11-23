@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SPG
-*Generated: 2026-11-22 12:29 | Price: $224.35 | Mkt Cap: $85B*
+*Generated: 2026-11-23 14:21 | Price: $224.35 | Mkt Cap: $85B*
 
 ## Sector Context
 Real Estate / REIT - Retail

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MRVL
-*Generated: 2026-11-22 12:26 | Price: $122.28 | Mkt Cap: $110B*
+*Generated: 2026-11-23 14:19 | Price: $122.28 | Mkt Cap: $110B*
 
 ## Sector Context
 Technology / Semiconductors

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UNH
-*Generated: 2026-11-22 12:30 | Price: $339.85 | Mkt Cap: $305B*
+*Generated: 2026-11-23 14:22 | Price: $339.85 | Mkt Cap: $305B*
 
 ## Sector Context
 Healthcare / Healthcare Plans

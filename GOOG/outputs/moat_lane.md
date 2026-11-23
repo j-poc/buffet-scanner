@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GOOG
-*Generated: 2026-11-22 12:23 | Price: $264.0 | Mkt Cap: $3246B*
+*Generated: 2026-11-23 14:16 | Price: $264.0 | Mkt Cap: $3246B*
 
 ## Sector Context
 Communication Services / Internet Content & Information

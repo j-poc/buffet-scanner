@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WRB
-*Generated: 2026-11-22 12:30 | Price: $78.31 | Mkt Cap: $29B*
+*Generated: 2026-11-23 14:22 | Price: $78.31 | Mkt Cap: $29B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty

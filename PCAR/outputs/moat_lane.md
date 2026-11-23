@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PCAR
-*Generated: 2026-11-22 12:26 | Price: $102.2 | Mkt Cap: $54B*
+*Generated: 2026-11-23 14:20 | Price: $102.2 | Mkt Cap: $54B*
 
 ## Sector Context
 Industrials / Farm & Heavy Construction Machinery
