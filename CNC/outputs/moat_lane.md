@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CNC
-*Generated: 2026-11-23 14:17 | Price: $63.78 | Mkt Cap: $32B*
+*Generated: 2026-11-24 14:42 | Price: $63.62 | Mkt Cap: $31B*
 
 ## Sector Context
 Healthcare / Healthcare Plans
@@ -36,7 +36,7 @@ Healthcare / Healthcare Plans
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Healthcare Plans
-- **Margin of Safety**: -32% — ABSENT ($64 > IV $44 at 15x for 0% growth)
+- **Margin of Safety**: -31% — ABSENT ($64 > IV $44 at 15x for 0% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral

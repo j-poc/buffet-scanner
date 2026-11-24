@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BE
-*Generated: 2026-11-23 14:16 | Price: $142.39 | Mkt Cap: $42B*
+*Generated: 2026-11-24 14:42 | Price: $156.975 | Mkt Cap: $46B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Capital Management LLC (6.3% inst.) as insider
 
@@ -25,7 +25,7 @@ Industrials / Electrical Equipment & Parts
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: -9.5% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 72% (severe cyclicality); FCF/NI: 19% (weak conversion); Gross margin: 32% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.8% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | Gross margin 32% — moderate moat for Industrials; Operating margin 14%; Rev growth 138% — demand pull | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 26.7x — growth premium; Near 52w low (24% of range) — Mr. Market fearful; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 29.5x — growth premium; Near 52w low (29% of range) — Mr. Market fearful; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10
@@ -38,7 +38,7 @@ Industrials / Electrical Equipment & Parts
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Electrical Equipment & Parts
-- **Margin of Safety**: -71% — ABSENT ($142 > IV $41 at 25x for 25% growth)
+- **Margin of Safety**: -74% — ABSENT ($157 > IV $41 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

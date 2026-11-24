@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HAL
-*Generated: 2026-11-23 14:18 | Price: $30.53 | Mkt Cap: $25B*
+*Generated: 2026-11-24 14:43 | Price: $30.47 | Mkt Cap: $25B*
 
 ## Sector Context
 Energy / Oil & Gas Equipment & Services
@@ -36,7 +36,7 @@ Energy / Oil & Gas Equipment & Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Equipment & Services
-- **Margin of Safety**: 95% — PRESENT (IV $60 vs $31 at 25x)
+- **Margin of Safety**: 95% — PRESENT (IV $60 vs $30 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

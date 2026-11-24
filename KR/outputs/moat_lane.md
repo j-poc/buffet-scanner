@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KR
-*Generated: 2026-11-23 14:19 | Price: $68.44 | Mkt Cap: $40B*
+*Generated: 2026-11-24 14:44 | Price: $68.55 | Mkt Cap: $40B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Capital Management LLC (6.2% inst.) as insider
 
@@ -38,7 +38,7 @@ Consumer Defensive / Grocery Stores
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Grocery Stores
-- **Margin of Safety**: -47% — ABSENT ($68 > IV $36 at 20x for 15% growth)
+- **Margin of Safety**: -47% — ABSENT ($69 > IV $36 at 20x for 15% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral
