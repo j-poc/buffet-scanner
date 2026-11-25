@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SBUX
-*Generated: 2026-11-24 14:45 | Price: $106.54 | Mkt Cap: $121B*
+*Generated: 2026-11-25 14:07 | Price: $106.38 | Mkt Cap: $121B*
 
 ## Sector Context
 Consumer Cyclical / Restaurants
@@ -36,7 +36,7 @@ Consumer Cyclical / Restaurants
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Restaurants
-- **Margin of Safety**: -48% — ABSENT ($107 > IV $55 at 25x for 25% growth)
+- **Margin of Safety**: -48% — ABSENT ($106 > IV $55 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

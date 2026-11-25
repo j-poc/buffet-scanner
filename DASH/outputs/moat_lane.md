@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DASH
-*Generated: 2026-11-24 14:43 | Price: $162.24 | Mkt Cap: $71B*
+*Generated: 2026-11-25 14:04 | Price: $160.13 | Mkt Cap: $70B*
 
 ## Sector Context
 Consumer Cyclical / Internet Retail
@@ -23,7 +23,7 @@ Consumer Cyclical / Internet Retail
 | Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: -3.7% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 77% (severe cyclicality); FCF/NI: 354% (strong); Gross margin: 53% (pricing power for Consumer Cyclical) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 53% vs sector strong cutoff 45% — strong pricing power; Operating margin 6%; Rev growth 34% — demand pull | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 21.3x — growth premium; Near 52w low (20% of range) — Mr. Market fearful; Owner earnings yield: 9.0% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 21.0x — growth premium; Near 52w low (18% of range) — Mr. Market fearful; Owner earnings yield: 9.1% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
 ## Buffett Score: 6.2 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Internet Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Internet Retail
-- **Margin of Safety**: -63% — ABSENT ($162 > IV $60 at 25x for 25% growth)
+- **Margin of Safety**: -62% — ABSENT ($160 > IV $60 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

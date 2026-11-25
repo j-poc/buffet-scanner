@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SKYD
-*Generated: 2026-11-24 14:45 | Price: $6.535 | Mkt Cap: $33B*
+*Generated: 2026-11-25 14:07 | Price: $6.5 | Mkt Cap: $33B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -23,7 +23,7 @@ Communication Services / Entertainment
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -3.3% (3y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 236% from prior peak; 5y price drawdown: 82% (severe cyclicality); FCF/NI: -8% (weak conversion); Gross margin: 33% (below Communication Services norm) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 11.1% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 18.2% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 33% — below Communication Services moderate cutoff 40%; Operating margin 7% — thin for Communication Services | - |
-| Valuation Fit | 4.0/10 | 20% | 0.8 | P/E 103.7x — extreme premium; Near 52w low (4% of range) — Mr. Market fearful; Owner earnings yield: 49.3% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.0/10 | 20% | 0.8 | P/E 103.2x — extreme premium; Near 52w low (3% of range) — Mr. Market fearful; Owner earnings yield: 49.6% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
 
 ## Buffett Score: 3.8 / 10

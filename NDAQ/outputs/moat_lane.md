@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NDAQ
-*Generated: 2026-11-24 14:44 | Price: $106.6 | Mkt Cap: $59B*
+*Generated: 2026-11-25 14:06 | Price: $106.42 | Mkt Cap: $59B*
 
 > ⚠ DATA: yfinance misclassified Investor AB (10.5% inst.) as insider
 
@@ -38,7 +38,7 @@ Financial Services / Financial Data & Stock Exchanges
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Financial Data & Stock Exchanges
-- **Margin of Safety**: -14% — ABSENT ($107 > IV $92 at 25x for 25% growth)
+- **Margin of Safety**: -14% — ABSENT ($106 > IV $92 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

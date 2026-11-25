@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DECK
-*Generated: 2026-11-24 14:42 | Price: $84.19 | Mkt Cap: $11B*
+*Generated: 2026-11-25 14:04 | Price: $84.29 | Mkt Cap: $11B*
 
 ## Sector Context
 Consumer Cyclical / Footwear & Accessories

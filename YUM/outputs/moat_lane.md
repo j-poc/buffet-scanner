@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: YUM
-*Generated: 2026-11-24 14:48 | Price: $166.33 | Mkt Cap: $45B*
+*Generated: 2026-11-25 14:10 | Price: $166.33 | Mkt Cap: $45B*
 
 ## Sector Context
 Consumer Cyclical / Restaurants
@@ -20,7 +20,7 @@ Consumer Cyclical / Restaurants
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.0/10 | 30% | 1.8 | ROIC declining trend; Avg ROIC: 53.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 23% (stable); FCF/NI: 93% (strong); Gross margin: 45% | ROIC declining |
+| Quality | 6.0/10 | 30% | 1.8 | ROIC declining trend; Avg ROIC: 53.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 0% (stable); FCF/NI: 93% (strong); Gross margin: 45% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 45% — moderate moat for Consumer Cyclical; Operating margin 32% — durable for Consumer Cyclical | - |
 | Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 24.8x — growth premium; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 3.0%; Earnings yield < 7% — tight vs index | - |
