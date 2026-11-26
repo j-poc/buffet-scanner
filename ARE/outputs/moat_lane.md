@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ARE
-*Generated: 2026-11-25 14:03 | Price: $42.0 | Mkt Cap: $7B*
+*Generated: 2026-11-26 13:41 | Price: $43.09 | Mkt Cap: $8B*
 
 ## Sector Context
 Real Estate / REIT - Office
@@ -23,7 +23,7 @@ Real Estate / REIT - Office
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 0.5% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 374% from prior peak; 5y price drawdown: 78% (severe cyclicality); FCF/NI: 547% (strong); Gross margin: 68% (pricing power for Real Estate) | ROIC declining |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 11.1% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 68% vs sector strong cutoff 55% — strong pricing power; Operating margin 18% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -44.7x — deep value; Near 52w low (17% of range) — Mr. Market fearful; Owner earnings yield: 17.6% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -45.8x — deep value; Near 52w low (22% of range) — Mr. Market fearful; Owner earnings yield: 17.2% (>5%) | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
 ## Buffett Score: 5.2 / 10
