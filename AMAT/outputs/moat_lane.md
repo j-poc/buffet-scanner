@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMAT
-*Generated: 2026-11-26 13:41 | Price: $311.18 | Mkt Cap: $247B*
+*Generated: 2026-11-27 13:39 | Price: $311.18 | Mkt Cap: $247B*
 
 ## Sector Context
 Technology / Semiconductor Equipment & Materials
@@ -23,7 +23,7 @@ Technology / Semiconductor Equipment & Materials
 | Quality | 4.5/10 | 30% | 1.3 | ROIC declining trend; Avg ROIC: 29.5% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 58% (severe cyclicality); FCF/NI: 92% (strong); Gross margin: 50% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 50% — moderate moat for Technology; Operating margin 33% — durable for Technology; Rev growth 53% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.7x — deep value; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 1.0% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.6x — deep value; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 1.0% | - |
 | **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
 
 ## Buffett Score: 6.3 / 10

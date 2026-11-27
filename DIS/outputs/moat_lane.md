@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DIS
-*Generated: 2026-11-26 13:46 | Price: $125.6 | Mkt Cap: $215B*
+*Generated: 2026-11-27 13:45 | Price: $125.6 | Mkt Cap: $215B*
 
 ## Sector Context
 Communication Services / Entertainment

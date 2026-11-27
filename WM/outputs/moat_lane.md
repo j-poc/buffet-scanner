@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WM
-*Generated: 2026-11-26 13:46 | Price: $247.29 | Mkt Cap: $98B*
+*Generated: 2026-11-27 13:45 | Price: $247.29 | Mkt Cap: $98B*
 
 ## Sector Context
 Industrials / Waste Management

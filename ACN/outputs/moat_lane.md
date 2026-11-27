@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ACN
-*Generated: 2026-11-26 13:41 | Price: $240.49 | Mkt Cap: $142B*
+*Generated: 2026-11-27 13:39 | Price: $240.49 | Mkt Cap: $142B*
 
 ## Sector Context
 Technology / Information Technology Services

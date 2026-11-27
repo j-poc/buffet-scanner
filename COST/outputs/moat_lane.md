@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COST
-*Generated: 2026-11-26 13:42 | Price: $1086.81 | Mkt Cap: $482B*
+*Generated: 2026-11-27 13:40 | Price: $1086.81 | Mkt Cap: $482B*
 
 ## Sector Context
 Consumer Defensive / Discount Stores

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KR
-*Generated: 2026-11-26 13:43 | Price: $69.83 | Mkt Cap: $41B*
+*Generated: 2026-11-27 13:41 | Price: $69.83 | Mkt Cap: $41B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Capital Management LLC (6.2% inst.) as insider
 

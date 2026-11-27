@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IEX
-*Generated: 2026-11-26 13:43 | Price: $225.25 | Mkt Cap: $17B*
+*Generated: 2026-11-27 13:40 | Price: $225.25 | Mkt Cap: $17B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery

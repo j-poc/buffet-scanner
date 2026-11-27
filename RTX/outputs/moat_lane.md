@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RTX
-*Generated: 2026-11-26 13:46 | Price: $196.19 | Mkt Cap: $265B*
+*Generated: 2026-11-27 13:44 | Price: $196.19 | Mkt Cap: $265B*
 
 ## Sector Context
 Industrials / Aerospace & Defense

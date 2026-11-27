@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GE
-*Generated: 2026-11-26 13:42 | Price: $316.98 | Mkt Cap: $328B*
+*Generated: 2026-11-27 13:40 | Price: $316.98 | Mkt Cap: $328B*
 
 ## Sector Context
 Industrials / Aerospace & Defense

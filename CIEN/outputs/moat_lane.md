@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CIEN
-*Generated: 2026-11-26 13:42 | Price: $242.79 | Mkt Cap: $34B*
+*Generated: 2026-11-27 13:39 | Price: $242.79 | Mkt Cap: $34B*
 
 ## Sector Context
 Technology / Communication Equipment

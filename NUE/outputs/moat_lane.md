@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NUE
-*Generated: 2026-11-26 13:43 | Price: $248.34 | Mkt Cap: $56B*
+*Generated: 2026-11-27 13:41 | Price: $248.34 | Mkt Cap: $56B*
 
 ## Sector Context
 Basic Materials / Steel

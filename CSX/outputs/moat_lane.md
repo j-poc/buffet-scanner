@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CSX
-*Generated: 2026-11-26 13:42 | Price: $51.16 | Mkt Cap: $94B*
+*Generated: 2026-11-27 13:40 | Price: $51.16 | Mkt Cap: $94B*
 
 ## Sector Context
 Industrials / Railroads

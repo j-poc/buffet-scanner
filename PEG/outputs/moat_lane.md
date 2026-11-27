@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PEG
-*Generated: 2026-11-26 13:43 | Price: $75.19 | Mkt Cap: $37B*
+*Generated: 2026-11-27 13:44 | Price: $75.19 | Mkt Cap: $37B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APP
-*Generated: 2026-11-26 13:41 | Price: $378.95 | Mkt Cap: $126B*
+*Generated: 2026-11-27 13:39 | Price: $378.95 | Mkt Cap: $126B*
 
 ## Sector Context
 Communication Services / Advertising Agencies

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BE
-*Generated: 2026-11-26 13:41 | Price: $152.89 | Mkt Cap: $45B*
+*Generated: 2026-11-27 13:39 | Price: $152.89 | Mkt Cap: $45B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Capital Management LLC (6.3% inst.) as insider
 
@@ -25,7 +25,7 @@ Industrials / Electrical Equipment & Parts
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: -9.5% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 72% (severe cyclicality); FCF/NI: 19% (weak conversion); Gross margin: 32% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.8% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | Gross margin 32% — moderate moat for Industrials; Operating margin 14%; Rev growth 138% — demand pull | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 28.7x — growth premium; Near 52w low (28% of range) — Mr. Market fearful; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 28.6x — growth premium; Near 52w low (28% of range) — Mr. Market fearful; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10

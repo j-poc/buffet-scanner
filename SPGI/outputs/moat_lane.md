@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SPGI
-*Generated: 2026-11-26 13:46 | Price: $460.74 | Mkt Cap: $134B*
+*Generated: 2026-11-27 13:44 | Price: $460.74 | Mkt Cap: $134B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges

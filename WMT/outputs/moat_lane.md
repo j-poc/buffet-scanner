@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WMT
-*Generated: 2026-11-26 13:46 | Price: $131.94 | Mkt Cap: $1047B*
+*Generated: 2026-11-27 13:45 | Price: $131.94 | Mkt Cap: $1047B*
 
 ## Sector Context
 Consumer Defensive / Discount Stores

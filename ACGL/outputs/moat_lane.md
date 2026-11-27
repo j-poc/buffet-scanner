@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ACGL
-*Generated: 2026-11-26 13:41 | Price: $110.29 | Mkt Cap: $36B*
+*Generated: 2026-11-27 13:39 | Price: $110.29 | Mkt Cap: $36B*
 
 ## Sector Context
 Financial Services / Insurance - Diversified

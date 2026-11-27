@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VYLR
-*Generated: 2026-11-26 13:46 | Price: $69.47 | Mkt Cap: $46B*
+*Generated: 2026-11-27 13:45 | Price: $69.47 | Mkt Cap: $46B*
 
 ## Sector Context
 Financial Services / Shell Companies

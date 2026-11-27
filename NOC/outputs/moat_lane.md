@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NOC
-*Generated: 2026-11-26 13:43 | Price: $555.79 | Mkt Cap: $79B*
+*Generated: 2026-11-27 13:41 | Price: $555.79 | Mkt Cap: $79B*
 
 ## Sector Context
 Industrials / Aerospace & Defense

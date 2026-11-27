@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IBKR
-*Generated: 2026-11-26 13:43 | Price: $74.74 | Mkt Cap: $127B*
+*Generated: 2026-11-27 13:41 | Price: $74.74 | Mkt Cap: $127B*
 
 ## Sector Context
 Financial Services / Capital Markets

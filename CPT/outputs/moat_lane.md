@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CPT
-*Generated: 2026-11-26 13:42 | Price: $99.25 | Mkt Cap: $10B*
+*Generated: 2026-11-27 13:39 | Price: $99.25 | Mkt Cap: $10B*
 
 ## Sector Context
 Real Estate / REIT - Residential

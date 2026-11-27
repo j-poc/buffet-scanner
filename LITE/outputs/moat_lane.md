@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LITE
-*Generated: 2026-11-26 13:43 | Price: $476.58 | Mkt Cap: $43B*
+*Generated: 2026-11-27 13:41 | Price: $476.58 | Mkt Cap: $43B*
 
 ## Sector Context
 Technology / Communication Equipment

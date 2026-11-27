@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VRT
-*Generated: 2026-11-26 13:46 | Price: $173.37 | Mkt Cap: $67B*
+*Generated: 2026-11-27 13:45 | Price: $173.37 | Mkt Cap: $67B*
 
 ## Sector Context
 Industrials / Electrical Equipment & Parts

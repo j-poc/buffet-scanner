@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NEM
-*Generated: 2026-11-26 13:43 | Price: $101.44 | Mkt Cap: $105B*
+*Generated: 2026-11-27 13:41 | Price: $101.44 | Mkt Cap: $105B*
 
 ## Sector Context
 Basic Materials / Gold
@@ -23,7 +23,7 @@ Basic Materials / Gold
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 7.6% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 62% (severe cyclicality); FCF/NI: -17% (weak conversion); Gross margin: 68% (pricing power for Basic Materials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 68% vs sector strong cutoff 30% — strong pricing power; Operating margin 56% — durable for Basic Materials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.2x — deep value; Near 52w low (28% of range) — Mr. Market fearful; Owner earnings yield: 8.7% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.4x — deep value; Near 52w low (28% of range) — Mr. Market fearful; Owner earnings yield: 8.7% (>5%) | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10

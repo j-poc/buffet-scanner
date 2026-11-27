@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STX
-*Generated: 2026-11-26 13:46 | Price: $472.33 | Mkt Cap: $108B*
+*Generated: 2026-11-27 13:44 | Price: $472.33 | Mkt Cap: $108B*
 
 ## Sector Context
 Technology / Computer Hardware

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MCK
-*Generated: 2026-11-26 13:43 | Price: $1077.32 | Mkt Cap: $124B*
+*Generated: 2026-11-27 13:41 | Price: $1077.32 | Mkt Cap: $124B*
 
 ## Sector Context
 Healthcare / Medical Distribution
