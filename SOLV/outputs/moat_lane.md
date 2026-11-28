@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SOLV
-*Generated: 2026-11-27 13:44 | Price: $87.16 | Mkt Cap: $15B*
+*Generated: 2026-11-28 12:55 | Price: $87.3 | Mkt Cap: $15B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AZO
-*Generated: 2026-11-27 13:39 | Price: $3404.46 | Mkt Cap: $55B*
+*Generated: 2026-11-28 12:50 | Price: $3399.21 | Mkt Cap: $55B*
 
 ## Sector Context
 Consumer Cyclical / Auto Parts
@@ -36,7 +36,7 @@ Consumer Cyclical / Auto Parts
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Auto Parts
-- **Margin of Safety**: -10% — ABSENT ($3404 > IV $3051 at 20x for 15% growth)
+- **Margin of Safety**: -10% — ABSENT ($3399 > IV $3051 at 20x for 15% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral

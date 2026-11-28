@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LOW
-*Generated: 2026-11-27 13:41 | Price: $235.65 | Mkt Cap: $132B*
+*Generated: 2026-11-28 12:51 | Price: $236.46 | Mkt Cap: $133B*
 
 ## Sector Context
 Consumer Cyclical / Home Improvement Retail
@@ -23,7 +23,7 @@ Consumer Cyclical / Home Improvement Retail
 | Quality | 4.0/10 | 30% | 1.2 | ROIC declining trend; Avg ROIC: 37.9% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 37% (stable); FCF/NI: 103% (strong); Gross margin: 32% (thin by design for Home Improvement Retail) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | ROA 11% / ROE 0% — scale moat (Home Improvement Retail); Operating margin 11% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.5x — fair price; 52w range position: 50%; Owner earnings yield: 5.0%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.6x — fair price; 52w range position: 51%; Owner earnings yield: 5.0%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
 ## Buffett Score: 5.9 / 10

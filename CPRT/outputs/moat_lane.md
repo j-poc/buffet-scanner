@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CPRT
-*Generated: 2026-11-27 13:40 | Price: $33.165 | Mkt Cap: $31B*
+*Generated: 2026-11-28 12:50 | Price: $33.2 | Mkt Cap: $31B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.0% inst.) as insider
 
@@ -25,7 +25,7 @@ Industrials / Specialty Business Services
 | Quality | 3.2/10 | 30% | 1.0 | ROIC declining trend; Avg ROIC: 16.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 59% (severe cyclicality); FCF/NI: 76%; Gross margin: 45% (pricing power for Industrials) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 8.4% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 45% vs sector strong cutoff 35% — strong pricing power; Operating margin 35% — durable for Industrials | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.8x — fair price; 52w range position: 46%; Owner earnings yield: 2.9%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.8x — fair price; 52w range position: 47%; Owner earnings yield: 2.9%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10

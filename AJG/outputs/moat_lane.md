@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AJG
-*Generated: 2026-11-27 13:39 | Price: $292.39 | Mkt Cap: $75B*
+*Generated: 2026-11-28 12:50 | Price: $292.5 | Mkt Cap: $75B*
 
 ## Sector Context
 Financial Services / Insurance Brokers

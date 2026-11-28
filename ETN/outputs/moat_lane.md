@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ETN
-*Generated: 2026-11-27 13:40 | Price: $317.81 | Mkt Cap: $123B*
+*Generated: 2026-11-28 12:50 | Price: $325.92 | Mkt Cap: $127B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
@@ -21,9 +21,9 @@ Industrials / Specialty Industrial Machinery
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 7.4/10 | 30% | 2.2 | Avg ROIC: 12.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 34% (stable); FCF/NI: 87% (strong); Gross margin: 35% (pricing power for Industrials) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); No insider transaction data; Restricted stock: 0.2% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 35% vs sector strong cutoff 35% — strong pricing power; Operating margin 18% — durable for Industrials; Rev growth 28% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.3x — fair price; Near 52w low (9% of range) — Mr. Market fearful; Owner earnings yield: 2.5%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.8x — fair price; Near 52w low (14% of range) — Mr. Market fearful; Owner earnings yield: 2.4%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.6/10** | **100%** | **7.6** | | |
 
 ## Buffett Score: 7.6 / 10
@@ -36,7 +36,7 @@ Industrials / Specialty Industrial Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Industrial Machinery
-- **Margin of Safety**: -46% — ABSENT ($318 > IV $170 at 17x for 7% growth)
+- **Margin of Safety**: -46% — ABSENT ($326 > IV $175 at 17x for 7% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

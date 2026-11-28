@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MRSH
-*Generated: 2026-11-27 13:41 | Price: $216.66 | Mkt Cap: $103B*
+*Generated: 2026-11-28 12:52 | Price: $218.04 | Mkt Cap: $104B*
 
 ## Sector Context
 Financial Services / Insurance Brokers
@@ -21,9 +21,9 @@ Financial Services / Insurance Brokers
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 8.0/10 | 30% | 2.4 | ROE: 27.2% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 34% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); No insider transaction data; Restricted stock: 0.2% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 27% — strong franchise (Financial Services); Operating margin 24% | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 18.9x — fair price; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 4.2%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.0x — fair price; Near 52w high (98% of range) — Mr. Market greedy; Owner earnings yield: 4.2%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
 
 ## Buffett Score: 6.8 / 10
@@ -36,7 +36,7 @@ Financial Services / Insurance Brokers
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance Brokers
-- **Margin of Safety**: -23% — ABSENT ($217 > IV $167 at 20x for 12% growth)
+- **Margin of Safety**: -23% — ABSENT ($218 > IV $167 at 20x for 12% growth)
 - **Lollapalooza Effect**: No (1 forces only: high quality)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Greedy — exercise caution

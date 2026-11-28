@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ICE
-*Generated: 2026-11-27 13:41 | Price: $177.81 | Mkt Cap: $99B*
+*Generated: 2026-11-28 12:51 | Price: $178.49 | Mkt Cap: $100B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges
@@ -21,9 +21,9 @@ Financial Services / Financial Data & Stock Exchanges
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 7.1/10 | 30% | 2.1 | ROE: 14.4% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 34% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); No insider transaction data; Restricted stock: 0.7% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 14% — adequate (Financial Services); Operating margin 53% — durable for Financial Services | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.9x — fair price; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 0.3%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 20.0x — fair price; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 0.3%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
 ## Buffett Score: 6.4 / 10

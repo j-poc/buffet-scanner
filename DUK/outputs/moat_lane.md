@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DUK
-*Generated: 2026-11-27 13:40 | Price: $131.9 | Mkt Cap: $103B*
+*Generated: 2026-11-28 12:50 | Price: $131.91 | Mkt Cap: $103B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric
@@ -36,7 +36,7 @@ Utilities / Utilities - Regulated Electric
 ## Mental Models Applied
 
 - **Circle of Competence**: Utilities / Utilities - Regulated Electric
-- **Margin of Safety**: -11% — ABSENT ($132 > IV $117 at 17x for 10% growth)
+- **Margin of Safety**: -12% — ABSENT ($132 > IV $116 at 17x for 10% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Greedy — exercise caution

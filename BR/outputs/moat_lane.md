@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BR
-*Generated: 2026-11-27 13:39 | Price: $187.14 | Mkt Cap: $21B*
+*Generated: 2026-11-28 12:50 | Price: $186.79 | Mkt Cap: $21B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -23,7 +23,7 @@ Technology / Information Technology Services
 | Quality | 6.6/10 | 30% | 2.0 | Avg ROIC: 16.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 122% (strong); Gross margin: 32% (below Technology norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 32% — below Technology moderate cutoff 40%; Operating margin 17% — thin for Technology | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 16.2x — fair price; 52w range position: 54%; Owner earnings yield: 6.4% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 16.1x — fair price; 52w range position: 53%; Owner earnings yield: 6.4% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10

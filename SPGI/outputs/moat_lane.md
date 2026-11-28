@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SPGI
-*Generated: 2026-11-27 13:44 | Price: $460.74 | Mkt Cap: $134B*
+*Generated: 2026-11-28 12:55 | Price: $461.24 | Mkt Cap: $134B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges
@@ -23,7 +23,7 @@ Financial Services / Financial Data & Stock Exchanges
 | Quality | 7.0/10 | 30% | 2.1 | ROE: 17.9% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 40% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | ROE 18% — strong franchise (Financial Services); Operating margin 44% — durable for Financial Services | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.8x — growth premium; 52w range position: 62%; Owner earnings yield: 4.5%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.9x — growth premium; 52w range position: 62%; Owner earnings yield: 4.5%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
 ## Buffett Score: 6.4 / 10

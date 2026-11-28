@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SPG
-*Generated: 2026-11-27 13:44 | Price: $233.98 | Mkt Cap: $89B*
+*Generated: 2026-11-28 12:55 | Price: $235.27 | Mkt Cap: $89B*
 
 ## Sector Context
 Real Estate / REIT - Retail
@@ -11,7 +11,7 @@ Real Estate / REIT - Retail
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 5.6x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 5.5x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 1.8%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -23,7 +23,7 @@ Real Estate / REIT - Retail
 | Quality | 6.6/10 | 30% | 2.0 | Avg ROIC: 11.1% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 120% (strong); Gross margin: 81% (pricing power for Real Estate) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 81% vs sector strong cutoff 55% — strong pricing power; Operating margin 46% — durable for Real Estate | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 34.5x — expensive; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 3.2%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 34.7x — expensive; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 3.2%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,7 +36,7 @@ Real Estate / REIT - Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Retail
-- **Margin of Safety**: -11% — ABSENT ($234 > IV $208 at 15x for -17% growth)
+- **Margin of Safety**: -12% — ABSENT ($235 > IV $208 at 15x for -17% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 1.8% insider ownership
 - **Mr. Market**: Greedy — exercise caution

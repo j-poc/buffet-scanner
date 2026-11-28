@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AOS
-*Generated: 2026-11-27 13:39 | Price: $67.28 | Mkt Cap: $9B*
+*Generated: 2026-11-28 12:49 | Price: $67.4 | Mkt Cap: $9B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
@@ -23,7 +23,7 @@ Industrials / Specialty Industrial Machinery
 | Quality | 8.3/10 | 30% | 2.5 | Avg ROIC: 23.5% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 108% (strong); Gross margin: 39% (pricing power for Industrials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.6% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 39% vs sector strong cutoff 35% — strong pricing power; Operating margin 18% — durable for Industrials | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.8x — fair price; 52w range position: 47%; Owner earnings yield: 4.8%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.8x — fair price; 52w range position: 48%; Owner earnings yield: 4.8%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
 
 ## Buffett Score: 7.4 / 10

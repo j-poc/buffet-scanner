@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APO
-*Generated: 2026-11-27 13:39 | Price: $120.48 | Mkt Cap: $71B*
+*Generated: 2026-11-28 12:50 | Price: $122.97 | Mkt Cap: $73B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -23,7 +23,7 @@ Financial Services / Asset Management
 | Quality | 1.5/10 | 30% | 0.4 | ROE: 1.9% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 43% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 26.0% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 21.0% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | ROE 2% — weak (Financial Services); Operating margin 9% — thin for Financial Services | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.4x — deep value; 52w range position: 39% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.6x — deep value; 52w range position: 44% | - |
 | **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
 ## Buffett Score: 5.6 / 10

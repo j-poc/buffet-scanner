@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BSX
-*Generated: 2026-11-27 13:39 | Price: $45.12 | Mkt Cap: $65B*
+*Generated: 2026-11-28 12:50 | Price: $45.25 | Mkt Cap: $66B*
 
 ## Sector Context
 Healthcare / Medical Devices
@@ -23,7 +23,7 @@ Healthcare / Medical Devices
 | Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 6.4% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 62% (severe cyclicality); FCF/NI: 121% (strong); Gross margin: 68% (pricing power for Healthcare) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 68% vs sector strong cutoff 55% — strong pricing power; Operating margin 20% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.4x — deep value; Near 52w low (9% of range) — Mr. Market fearful; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.5x — deep value; Near 52w low (9% of range) — Mr. Market fearful; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
 
 ## Buffett Score: 6.3 / 10

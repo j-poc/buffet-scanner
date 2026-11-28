@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WSM
-*Generated: 2026-11-27 13:45 | Price: $212.39 | Mkt Cap: $25B*
+*Generated: 2026-11-28 12:56 | Price: $212.86 | Mkt Cap: $25B*
 
 ## Sector Context
 Consumer Cyclical / Specialty Retail
@@ -36,7 +36,7 @@ Consumer Cyclical / Specialty Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Specialty Retail
-- **Margin of Safety**: 20% — thin (IV $254 at 25x)
+- **Margin of Safety**: 20% — thin (IV $255 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 1.1% insider ownership
 - **Mr. Market**: Neutral

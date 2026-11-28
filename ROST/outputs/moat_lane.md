@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ROST
-*Generated: 2026-11-27 13:44 | Price: $223.26 | Mkt Cap: $71B*
+*Generated: 2026-11-28 12:55 | Price: $224.21 | Mkt Cap: $72B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Retail
@@ -21,9 +21,9 @@ Consumer Cyclical / Apparel Retail
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 27.5% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 38% (stable); FCF/NI: 86% (strong); Gross margin: 34% (thin by design for Apparel Retail) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.3% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.7% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | ROA 14% / ROE 43% — scale moat (Apparel Retail); Operating margin 14% — durable for Consumer Cyclical | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 24.8x — growth premium; 52w range position: 59%; Owner earnings yield: 2.6%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 24.9x — growth premium; 52w range position: 60%; Owner earnings yield: 2.6%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.5/10** | **100%** | **7.5** | | |
 
 ## Buffett Score: 7.5 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Apparel Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Apparel Retail
-- **Margin of Safety**: -4% — ABSENT ($223 > IV $215 at 25x for 21% growth)
+- **Margin of Safety**: -4% — ABSENT ($224 > IV $215 at 25x for 21% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 2.1% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DHI
-*Generated: 2026-11-27 13:40 | Price: $156.87 | Mkt Cap: $42B*
+*Generated: 2026-11-28 12:50 | Price: $156.8 | Mkt Cap: $42B*
 
 > ⚠ DATA: yfinance misclassified Capital World Investors (12.2% inst.) as insider
 
@@ -25,7 +25,7 @@ Consumer Cyclical / Residential Construction
 | Quality | 0.4/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 13.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 39% from prior peak; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 84% (strong); Gross margin: 21% (below Consumer Cyclical norm) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.9% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 21% — below Consumer Cyclical moderate cutoff 30%; Operating margin 12% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.5x — deep value; 52w range position: 66%; Owner earnings yield: 5.6% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.5x — deep value; 52w range position: 65%; Owner earnings yield: 5.6% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
 ## Buffett Score: 4.0 / 10

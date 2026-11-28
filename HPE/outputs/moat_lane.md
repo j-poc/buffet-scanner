@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HPE
-*Generated: 2026-11-27 13:40 | Price: $40.82 | Mkt Cap: $54B*
+*Generated: 2026-11-28 12:51 | Price: $42.76 | Mkt Cap: $56B*
 
 ## Sector Context
 Technology / Communication Equipment
@@ -23,7 +23,7 @@ Technology / Communication Equipment
 | Quality | 0.5/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 4.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 98% from prior peak; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 356% (strong); Gross margin: 38% (below Technology norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 38% — below Technology moderate cutoff 40%; Operating margin 11% — thin for Technology; Rev growth 50% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.8x — deep value; 52w range position: 39%; Owner earnings yield: 8.0% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.2x — deep value; 52w range position: 43%; Owner earnings yield: 7.6% (>5%) | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10
@@ -36,7 +36,7 @@ Technology / Communication Equipment
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Communication Equipment
-- **Margin of Safety**: 88% — PRESENT (IV $77 vs $41 at 25x)
+- **Margin of Safety**: 79% — PRESENT (IV $77 vs $43 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

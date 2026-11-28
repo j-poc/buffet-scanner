@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NCLH
-*Generated: 2026-11-27 13:41 | Price: $17.0 | Mkt Cap: $8B*
+*Generated: 2026-11-28 12:52 | Price: $16.97 | Mkt Cap: $8B*
 
 ## Sector Context
 Consumer Cyclical / Travel Services
@@ -36,7 +36,7 @@ Consumer Cyclical / Travel Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Travel Services
-- **Margin of Safety**: 166% — PRESENT (IV $45 vs $17 at 25x)
+- **Margin of Safety**: 167% — PRESENT (IV $45 vs $17 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
